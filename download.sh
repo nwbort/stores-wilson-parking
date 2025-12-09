@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 #
-# download - Simple downloader that always constructs the filename from the URL
+# download - Simple downloader for Wilson Parking API
 # Usage: ./download.sh URL
 
 set -e
@@ -26,13 +26,12 @@ get_file_extension() {
     application/gzip)         extension=".gz" ;;
     application/x-tar)        extension=".tar" ;;
     application/x-bzip2)      extension=".bz2" ;;
-    *)                        extension=".html" ;; # Default to HTML if unknown
+    *)                        extension=".html" ;;
   esac
   
   echo "$extension"
 }
 
-# Check if URL provided
 if [ $# -ne 1 ]; then
   echo "Usage: $0 URL"
   exit 1
@@ -40,46 +39,45 @@ fi
 
 URL="$1"
 
-# Validate URL format (must start with http:// or https://)
 if [[ ! "$URL" =~ ^https?:// ]]; then
   echo "Error: URL must start with http:// or https://"
   exit 1
 fi
 
-# Create temporary file
 TEMP_FILE=$(mktemp)
 
-# Download the file
-echo "Downloading $URL"
-curl -s -L "$URL" -o "$TEMP_FILE" || {
-  echo "Error: Failed to download $URL"
-  rm -f "$TEMP_FILE"
-  exit 1
-}
+# Query parameters
+PARAMS="latitude=-33.8688197&longitude=151.2092955&sort=undefined&distance=5000000"
 
-# Get file extension based on MIME type
+# Full URL with params
+FULL_URL="${URL}?${PARAMS}"
+
+echo "Downloading $FULL_URL"
+curl -s -L "$FULL_URL" -o "$TEMP_FILE" \
+  -H "authority: www.wilsonparking.com.au" \
+  -H "accept: */*" \
+  -H "accept-language: en-AU,en-NZ;q=0.9,en-GB;q=0.8,en-US;q=0.7,en;q=0.6" \
+  -H "referer: https://www.wilsonparking.com.au/" \
+  -H "user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" \
+  || {
+    echo "Error: Failed to download"
+    rm -f "$TEMP_FILE"
+    exit 1
+  }
+
 EXTENSION=$(get_file_extension "$TEMP_FILE")
-
-# Always construct filename from the URL, replacing slashes with hyphens
 FILENAME=$(echo "$URL" | sed -E 's|^https?://||' | sed -E 's|^www\.||' | sed 's|/$||' | sed 's|/|-|g')
-
-# Add extension to the filename
 FILENAME="${FILENAME}${EXTENSION}"
 
-# Make sure we don't end up with just an extension
 if [ "$FILENAME" = "${EXTENSION}" ]; then
   FILENAME="index${EXTENSION}"
 fi
 
-# Get the current directory to ensure we save to this location
 CURRENT_DIR="$(pwd)"
 FULL_PATH="${CURRENT_DIR}/${FILENAME}"
 
-# Pretty-print JSON if applicable
 if [ "$EXTENSION" = ".json" ]; then
-  # Create another temporary file for the pretty-printed version
   PRETTY_TEMP=$(mktemp)
-  # Try to pretty-print with jq, but don't fail if jq fails
   if command -v jq &> /dev/null; then
     if jq . "$TEMP_FILE" > "$PRETTY_TEMP" 2>/dev/null; then
       mv "$PRETTY_TEMP" "$TEMP_FILE"
@@ -91,5 +89,5 @@ if [ "$EXTENSION" = ".json" ]; then
   fi
 fi
 
-# Move to final destination
 mv "$TEMP_FILE" "$FULL_PATH"
+echo "Saved to $FULL_PATH"
