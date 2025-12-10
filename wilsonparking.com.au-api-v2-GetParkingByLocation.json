@@ -25294,7 +25294,7 @@
       "costCenter": 1002358,
       "direction": null,
       "heightRestriction": 0.0,
-      "information": "<p>Wilson Parking offer affordable &amp; secure parking 35 Hunter St Car Park which is located in the heart of Parramatta.</p>\n<p>35 Hunter St Car Park suits all your leisure and business parking needs. With Casual parking Mondy to Sunday.&nbsp;</p>",
+      "information": "<p><span style=\"color: #ff1e25;\">The 35 Hunter Street car park will be closed on Saturday 13th and Saturday 20th December for private usage. Please use another nearby location. Thanks for your understanding.&nbsp;</span></p>\n<p>Wilson Parking offer affordable &amp; secure parking 35 Hunter St Car Park which is located in the heart of Parramatta.</p>\n<p>35 Hunter St Car Park suits all your leisure and business parking needs. With Casual parking Mondy to Sunday.&nbsp;</p>",
       "isWilsonOne": false,
       "legacyID": 786,
       "monthlyParkingServiceIsAvailable": false,
@@ -25372,7 +25372,7 @@
         {
           "day_TimePeriod": "Saturday",
           "is24_7": false,
-          "closed": false,
+          "closed": true,
           "opening": "07:00",
           "closing": "19:00",
           "note": null
@@ -38219,20 +38219,10 @@
         },
         {
           "rateType": "Weekend",
-          "notes": "<p>Saturday, Sunday</p>",
+          "notes": "<p>Saturday, Sunday &amp; Public Holidays</p>",
           "rates": [
             {
               "timeSpan": "All Day",
-              "price": 3.0
-            }
-          ]
-        },
-        {
-          "rateType": "Daily",
-          "notes": "<p>Public Holiday</p>",
-          "rates": [
-            {
-              "timeSpan": "Daily",
               "price": 3.0
             }
           ]
@@ -66602,7 +66592,7 @@
       "costCenter": 1004357,
       "direction": "Entry via 40 McDougall St",
       "heightRestriction": 2.0,
-      "information": "<p><span style=\"color: #ff1e25;\">This car park offers online event parking only on the following Suncorp Stadium event days: 9 December, 14 December, 18&nbsp;December.</span><br /><span style=\"color: #ff1e25;\">Rate available from one hour prior to event start until one hour after the end of the event.</span></p>\n<p>Wilson Parking offers affordable &amp; secure parking at Kings Row Office Park&nbsp;car park, located at 40 McDougall Street&nbsp;in the heart of Milton. This undercover car park provides convenient access to nearby office spaces and Park Road dining precinct. Offering products casual hourly parking options, and permanent monthly parking for regular parkers, and the convenience of payment from your phone with the Wilson Parking App, the Kings Row Office Park&nbsp;car park&nbsp;will meet all your business and leisure parking needs.</p>",
+      "information": "<p><span style=\"color: #ff1e25;\">This car park offers online event parking only on the following Suncorp Stadium event days: 14 December, 18&nbsp;December, 9 January.</span><br /><span style=\"color: #ff1e25;\">Rate available from one hour prior to event start until one hour after the end of the event.</span></p>\n<p>Wilson Parking offers affordable &amp; secure parking at Kings Row Office Park&nbsp;car park, located at 40 McDougall Street&nbsp;in the heart of Milton. This undercover car park provides convenient access to nearby office spaces and Park Road dining precinct. Offering products casual hourly parking options, and permanent monthly parking for regular parkers, and the convenience of payment from your phone with the Wilson Parking App, the Kings Row Office Park&nbsp;car park&nbsp;will meet all your business and leisure parking needs.</p>",
       "isWilsonOne": false,
       "legacyID": 4357,
       "monthlyParkingServiceIsAvailable": false,
@@ -66978,7 +66968,7 @@
       "costCenter": 1004356,
       "direction": "Entry off Little Cribb Street",
       "heightRestriction": 2.2,
-      "information": "<p><span style=\"color: #ff1e25;\">Event Parking is available at this car park on the following dates: 9 December, 14 December, 18&nbsp;December.</span></p>\n<p>Wilson Parking offers affordable &amp; secure parking at Milton Green&nbsp;car park, located at 19 Little Cribb Street&nbsp;in the heart of Milton. Open 7 days, this undercover car park provides convenient access to nearby Suncorp Stadium and surrounding entertainment and retail precinct. Offering hourly, night and weekend parking options with discounts when you prepay online, permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the Milton Green&nbsp;car park will meet all your business and leisure parking needs.&nbsp;</p>",
+      "information": "<p><span style=\"color: #ff1e25;\">Event Parking is available at this car park on the following dates: 14 December, 18&nbsp;December, 9 January.</span></p>\n<p>Wilson Parking offers affordable &amp; secure parking at Milton Green&nbsp;car park, located at 19 Little Cribb Street&nbsp;in the heart of Milton. Open 7 days, this undercover car park provides convenient access to nearby Suncorp Stadium and surrounding entertainment and retail precinct. Offering hourly, night and weekend parking options with discounts when you prepay online, permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the Milton Green&nbsp;car park will meet all your business and leisure parking needs.&nbsp;</p>",
       "isWilsonOne": false,
       "legacyID": 1004356,
       "monthlyParkingServiceIsAvailable": true,
@@ -70318,7 +70308,7 @@
       "costCenter": 1004298,
       "direction": "Entry via Dowse Street",
       "heightRestriction": 2.3,
-      "information": "<p><span style=\"color: #ff1e25;\">Event Parking is available at this car park on the following dates:</span><span style=\"color: #ff1e25;\"> 9 December, 14 December, 18&nbsp;December.</span></p>\n<p>Wilson Parking offers affordable and secure parking at&nbsp;Darling &amp; Co car park, located in the heart of Paddington. Open 7 days, this undercover car park provides convenient access to Lang Park (Suncorp Stadium). Offering casual and night parking, and exclusive discounts when you pay via the Wilson Parking app, the&nbsp;Darling &amp; Co car park will meet all your business and leisure parking needs.</p>\n<p>Car park closes at 11pm on event nights.</p>",
+      "information": "<p><span style=\"color: #ff1e25;\">Event Parking is available at this car park on the following dates:</span><span style=\"color: #ff1e25;\"> 14 December, 18&nbsp;December, 9 January.</span></p>\n<p>Wilson Parking offers affordable and secure parking at&nbsp;Darling &amp; Co car park, located in the heart of Paddington. Open 7 days, this undercover car park provides convenient access to Lang Park (Suncorp Stadium). Offering casual and night parking, and exclusive discounts when you pay via the Wilson Parking app, the&nbsp;Darling &amp; Co car park will meet all your business and leisure parking needs.</p>\n<p>Car park closes at 11pm on event nights.</p>",
       "isWilsonOne": false,
       "legacyID": 4298,
       "monthlyParkingServiceIsAvailable": true,
@@ -78854,7 +78844,9 @@
         "Disabled Parking",
         "EV Charging",
         "Summer Sale",
-        "Adelaide Christmas Pageant"
+        "Adelaide Christmas Pageant",
+        "Elevate",
+        "LPR"
       ],
       "services": [
         "book a bay",
@@ -99858,7 +99850,7 @@
       "carParkPhoto": "/contentassets/8f04012157dd469da248efd34eb76be7/20230418_093819-002.jpg",
       "category": "",
       "costCenter": 1006158,
-      "direction": "Entry via Manning Street\n",
+      "direction": "Entry via Manning Street\n\n</br></br>Dear Customers</br>\n</br></br>Due to technical issues, the car park lift is out of service until further notice. </br>\n\n</br></br>We apologise for any inconvenience. </br>",
       "heightRestriction": 2.0,
       "information": "<p>Wilson Parking offer affordable parking at 1 Manning St Car Park which is located in Scarborough. With hourly, weekend and night parking the 1 Manning St Car Park will meet all of your parking needs.</p>",
       "isWilsonOne": false,
