@@ -5493,7 +5493,7 @@
       "costCenter": 1002303,
       "direction": "St Mary's Road, Sydney",
       "heightRestriction": 1.9,
-      "information": "<p><span style=\"color: #ff1e25;\">One of the two lifts at The Domain Car Park is operational.&nbsp;We apologise for the inconvenience this may cause.</span></p>\n<p>Wilson Parking offer affordable &amp; secure parking at The Domain Car Park which is located at St Mary&rsquo;s Rd in the heart of Sydney. The Domain is home of Music Festivals, Carols in the Domain, Concerts &amp; Marathon events. Offering Hourly, Night and Weekend parking as well as discount online parking options, and open 24 hours a day, The Domain Car Park suits all your leisure and business parking needs.</p>\n<p>Save when you prepay for your parking online or with the Wilson Parking App; enjoy unlimited 24/7 access when you subscribe to monthly parking; or pay as you go with the convenient queue-less, contact free Wilson Parking Card.</p>",
+      "information": "<p><span style=\"color: #ff1e25;\">Please note that one of the lifts at The Domain Car Park is currently out of order. We apologise for any inconvenience this may cause. For those with accessibility needs, please park on Ground level and access the car park via Sir John Young Crescent.</span></p>\n<p>Wilson Parking offer affordable &amp; secure parking at The Domain Car Park which is located at St Mary&rsquo;s Rd in the heart of Sydney. The Domain is home of Music Festivals, Carols in the Domain, Concerts &amp; Marathon events. Offering Hourly, Night and Weekend parking as well as discount online parking options, and open 24 hours a day, The Domain Car Park suits all your leisure and business parking needs.</p>\n<p>Save when you prepay for your parking online or with the Wilson Parking App; enjoy unlimited 24/7 access when you subscribe to monthly parking; or pay as you go with the convenient queue-less, contact free Wilson Parking Card.</p>",
       "isWilsonOne": true,
       "legacyID": 562,
       "monthlyParkingServiceIsAvailable": true,
@@ -67750,13 +67750,17 @@
     {
       "name": "60 Edward St",
       "bookText": null,
-      "canBookABay": false,
+      "canBookABay": true,
       "selectedFeatures": "",
       "carParkFeature": [
         "Night Parking",
-        "Weekend Parking"
+        "Weekend Parking",
+        "Book a Bay",
+        "Flexi Parking"
       ],
-      "services": [],
+      "services": [
+        "book a bay"
+      ],
       "carParkName": "60 Edward St",
       "carParkNumber": 4365,
       "carParkPhoto": null,
@@ -67764,7 +67768,7 @@
       "costCenter": 1004365,
       "direction": "60 Edward St Brisbane</br>\n\nThis Car Park will begin operating on Monday December 1, 2025",
       "heightRestriction": 1.9,
-      "information": "<p>Wilson Parking offer affordable, reliable parking at 60 Edward St Car Park, located in the heart of Brisbane. This undercover car park provides convenient access to the Brisbane Botanical Gardens, Riverstage, nearby businesses, hotels and restaurants. Open 7 days, until late, the 60 Edward St car park will&nbsp; offer flat rate parking rates as an introductory offer, before introducing casual hourly, night and weekend rates, and more flexibility and value when you prepay online. Also offering Permanent Monthly Subscription Parking for regular parkers with unlimited access, the 60 Edward St Car Park will suit all your parking needs.</p>",
+      "information": "<p>Wilson Parking offer affordable, reliable parking at 60 Edward St Car Park, located in the heart of Brisbane. This undercover car park provides convenient access to the Brisbane Botanical Gardens, Riverstage, nearby businesses, hotels and restaurants. Open 7 days, until late, the 60 Edward St car park will&nbsp; offer casual hourly, night and weekend rates, and more flexibility and value when you prepay online. Also offering Permanent Monthly Subscription Parking for regular parkers with unlimited access, the 60 Edward St Car Park will suit all your parking needs.</p>",
       "isWilsonOne": false,
       "legacyID": 1004365,
       "monthlyParkingServiceIsAvailable": false,
@@ -67788,7 +67792,7 @@
         }
       ],
       "fromText": "From",
-      "fromPrice": "35",
+      "fromPrice": "10",
       "location": {
         "longitude": 153.029356348807,
         "latitude": -27.4709714511238,
@@ -67869,7 +67873,7 @@
       ],
       "url": "/parking-locations/queensland/brisbane-cbd/60-edward-st/",
       "serviceConfiguration": {
-        "canBookABay": false,
+        "canBookABay": true,
         "bookABayIconLabel": "Prepay Online",
         "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
         "monthlyParkingServiceIsAvailable": false,
