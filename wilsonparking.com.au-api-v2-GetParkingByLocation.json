@@ -7316,7 +7316,7 @@
       "costCenter": 1002176,
       "direction": null,
       "heightRestriction": 2.0,
-      "information": "<p><span style=\"color: #ff1e25;\">Due to planned power testing on <strong>Sunday 16th November</strong>, there will be <strong>NO LIFT ACCESS</strong> <span style=\"text-decoration: underline;\">from 6.30am to 12.30pm</span>.</span></p>\n<p>Wilson Parking offer affordable &amp; secure parking at Quay West Car Park, located at 111 Harington St, Sydney in the heart of The Rocks&nbsp;Circular Quay. The car park is nearby the International Cruise Ship Terminal, Shopping, Restaurant &amp; Bar precints and is close to many hotels overlooking Sydney Harbour and the famous BridgeClimb tourist attaction. Offering&nbsp;Casual Hourly, Night and Weekend Parking, as well as online discount parking options, this car park will suit every parking need when visiting your favourite restaurant or tourist destination as well as commuter parking needs.</p>\n<p>Save when you prepay your parking online or with the Wilson Parking App; enjoy unlimited 24/7 access when you subscribr to monthly parking; or pay as you go with the convenient queue-less, contact free Wilson Parking Card.</p>",
+      "information": "<p>Wilson Parking offer affordable &amp; secure parking at Quay West Car Park, located at 111 Harington St, Sydney in the heart of The Rocks&nbsp;Circular Quay. The car park is nearby the International Cruise Ship Terminal, Shopping, Restaurant &amp; Bar precints and is close to many hotels overlooking Sydney Harbour and the famous BridgeClimb tourist attaction. Offering&nbsp;Casual Hourly, Night and Weekend Parking, as well as online discount parking options, this car park will suit every parking need when visiting your favourite restaurant or tourist destination as well as commuter parking needs.</p>\n<p>Save when you prepay your parking online or with the Wilson Parking App; enjoy unlimited 24/7 access when you subscribr to monthly parking; or pay as you go with the convenient queue-less, contact free Wilson Parking Card.</p>",
       "isWilsonOne": true,
       "legacyID": 162,
       "monthlyParkingServiceIsAvailable": true,
@@ -67781,12 +67781,44 @@
       "streetViewLocation": "https://www.google.com/maps/@?api=1&map_action=pano&pano=dUNv8xo6E_v4AUJSGatVbA&viewpoint=-27.470955672762315,153.0294869606487&heading=253.80709422158554&pitch=-11.608026436721985&zoom=1",
       "rates": [
         {
-          "rateType": "Daily",
-          "notes": "<p>Introductory flat rate - pay on entry</p>\n<p><span style=\"color: #ff1e25;\">Available from 1 December 2025</span></p>\n<p>Rate is payable per entry per day</p>",
+          "rateType": "Hourly",
+          "notes": null,
           "rates": [
             {
-              "timeSpan": "Flat Rate",
-              "price": 35.0
+              "timeSpan": "0.0 - 1.0 hrs",
+              "price": 20.0
+            },
+            {
+              "timeSpan": "1.0 - 2.0 hrs",
+              "price": 40.0
+            },
+            {
+              "timeSpan": "2.0 - 3.0 hrs",
+              "price": 60.0
+            },
+            {
+              "timeSpan": "3.0 + hrs",
+              "price": 80.0
+            }
+          ]
+        },
+        {
+          "rateType": "Night",
+          "notes": "<p>Drive up conditions - entry after 5pm, exit before 11pm</p>",
+          "rates": [
+            {
+              "timeSpan": "Night (Mon - Fri) from",
+              "price": 15.0
+            }
+          ]
+        },
+        {
+          "rateType": "Weekend",
+          "notes": null,
+          "rates": [
+            {
+              "timeSpan": "Weekend (Sat or Sun) from",
+              "price": 15.0
             }
           ]
         }
@@ -67912,6 +67944,7 @@
         "Wilson One",
         "Flexi Parking",
         "Entry height at least 2",
+        "Daily Pass Bundles",
         "Special Event Parking",
         "Dine BNE",
         "Elevate",
@@ -68122,9 +68155,12 @@
       "canBookABay": false,
       "selectedFeatures": "",
       "carParkFeature": [
+        "Monthly Parking",
         "Entry height at least 2"
       ],
-      "services": [],
+      "services": [
+        "monthly"
+      ],
       "carParkName": "10 Felix Street",
       "carParkNumber": 4295,
       "carParkPhoto": null,
@@ -68135,7 +68171,7 @@
       "information": "<p>Wilson Parking offers affordable &amp; secure monthly subscription parking at 10 Felix Street Car Park, located at 10 Felix Street Brisbane. Offering Monthly Subscription parking only, subscribe today to enjoy unlimited 24/7 access. With convenient access to nearby Waterfront Brisbane, and surrounding Brisbane businesses, the undercover 10 Felix St Car Park will&nbsp;meet all your parking needs.&nbsp;</p>\n<p>Enjoy unlimited 24/7 access when you subscribe to monthly parking.</p>",
       "isWilsonOne": false,
       "legacyID": 814,
-      "monthlyParkingServiceIsAvailable": false,
+      "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
       "phoneNumber": "1800 727 546",
@@ -68181,7 +68217,7 @@
         "canBookABay": false,
         "bookABayIconLabel": "Prepay Online",
         "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingServiceIsAvailable": true,
         "monthlyParkingIconLabel": "Monthly Subscription",
         "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
         "isWilsonOne": false,
