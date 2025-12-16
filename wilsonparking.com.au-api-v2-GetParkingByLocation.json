@@ -57069,15 +57069,17 @@
     {
       "name": "Penny Lane Car Park",
       "bookText": null,
-      "canBookABay": false,
+      "canBookABay": true,
       "selectedFeatures": "",
       "carParkFeature": [
         "Night Parking",
         "Weekend Parking",
+        "Book a Bay",
         "Entry height at least 2",
         "Disabled Parking"
       ],
       "services": [
+        "book a bay",
         "disabled parking"
       ],
       "carParkName": "Penny Lane Car Park",
@@ -57244,7 +57246,7 @@
       ],
       "url": "/parking-locations/victoria/north-melbourne/penny-lane-car-park/",
       "serviceConfiguration": {
-        "canBookABay": false,
+        "canBookABay": true,
         "bookABayIconLabel": "Prepay Online",
         "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
         "monthlyParkingServiceIsAvailable": false,
@@ -57771,7 +57773,7 @@
         }
       ],
       "fromText": "From",
-      "fromPrice": "12",
+      "fromPrice": "10",
       "location": {
         "longitude": 144.96054241964339,
         "latitude": -37.810317887951228,
@@ -84599,7 +84601,7 @@
       "carParkPhoto": "/contentassets/ca151af77ba848a8a7950e6de5610cf5/capture.jpg",
       "category": "",
       "costCenter": 1006212,
-      "direction": "<b>**Car Park only operational on selected event days**</b><br>\n\n</b><br>14th Dec - BBL Perth Scorchers V Sydney Sixers<b>\n</b><br>(Gate opens at 2:30pm and closes at 10:30pm sharp)<b>\n\n</b><br>26th Dec -  BBL Perth Scorchers V Hobart Hurricanes<b>\n</b><br>(Gate opens at 4:30pm and closes at 10:3   0pm sharp)<b>",
+      "direction": "<b>**Car Park only operational on selected event days**</b><br>\n\n</b><br>26th Dec -  BBL Perth Scorchers V Hobart Hurricanes<b>\n</b><br>(Gate opens at 4:30pm and closes at 10:30pm sharp)<b>",
       "heightRestriction": 0.0,
       "information": "<p>Wilson Parking offers affordable parking at Belmont Racecourse Car Park for Optus Stadium event parking only. Located a short walk from Optus Stadium, this car park is the perfect location for footy, cricket, concerts and other Optus Stadium events. Operational days are shown under the parking rates to the left.</p>\n<p>Parking must be prepaid in advance through the Wilson Parking App or website. No payments can be taken at the gate. Must present prepaid confirmation to access car park.</p>",
       "isWilsonOne": false,
@@ -87857,7 +87859,7 @@
       "carParkPhoto": "/contentassets/dcb9ae3640cc45e0a9451fe3e0b2c9ee/per057a.jpg",
       "category": "",
       "costCenter": 1006057,
-      "direction": "Entry off either Pier or Wellington Streets. \n</br><br> Please note Pier Street entry is only accessible southbound.</br>\n\n\n\n\n",
+      "direction": "Entry off either Pier or Wellington Streets. \n</br><br> Please note Pier Street entry is only accessible southbound.</br>\n\n</br><br>Dear Customers</br>\n</br><br>Please note the car park will undergo scheduled cleaning works from 15th to 20th December between 10pm and 5am.</br>\n\n</br><br>We apologise for any inconvenience.</br>\n\n\n\n\n",
       "heightRestriction": 2.0,
       "information": "<p>Wilson Parking offer affordable parking at our Citi East Car Park, located at 301 Wellington Street. Open 7 days, this undercover car park offers some of the best hourly rates in the Perth CBD, providing parking for visitors to nearby Perth businesses. Offering casual Hourly, online Flexi Saver and Weekend Parking, as well as exclusive discounts when you prepay online or with the Wilson Parking App, the Citi East car park will meet all your parking needs.</p>\n<p>The car park has entries from Pier and Wellington Sts. Please note Pier Street entry is only accessible southbound.&nbsp;&nbsp;</p>\n<p>Download the Wilson Parking App to prepay online and access exclusive discounts, or simply drive up and pay with your Credit Card, pay as you go with a Wilson Parking card, or enjoy unlimited access during the operational hours of the car park when you subscribe to Monthly Parking.</p>",
       "isWilsonOne": true,
