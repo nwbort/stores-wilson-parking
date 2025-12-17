@@ -1096,7 +1096,7 @@
           "rates": [
             {
               "timeSpan": "Sat - Sun",
-              "price": 25.0
+              "price": 29.0
             }
           ]
         }
@@ -3457,7 +3457,9 @@
         "Daily Pass Bundles",
         "Special Event Parking",
         "Super Saver",
-        "Summer Sale"
+        "Summer Sale",
+        "Elevate",
+        "LPR"
       ],
       "services": [
         "book a bay",
@@ -4982,6 +4984,201 @@
       },
       "state": "NSW",
       "imgUrl": "/siteassets/parking-location-images/nsw/syd021.jpg",
+      "price": "",
+      "status": "",
+      "cpmsCarparkCode": null,
+      "externalCarParkInfo": null,
+      "featuredIndex": 0
+    },
+    {
+      "name": "Cathedral Street Car Park",
+      "bookText": null,
+      "canBookABay": false,
+      "selectedFeatures": "",
+      "carParkFeature": [
+        "Night Parking",
+        "Weekend Parking",
+        "Entry height at least 2"
+      ],
+      "services": [],
+      "carParkName": "Cathedral Street Car Park",
+      "carParkNumber": 2422,
+      "carParkPhoto": null,
+      "category": "",
+      "costCenter": 1002422,
+      "direction": "Entry via 2 Cathedral Street",
+      "heightRestriction": 2.1,
+      "information": "<p>Wilson Parking offer affordable &amp; secure parking at Cathedral Street Car Park which is located at 2 Cathedral St (underneath St Mary's Cathedral) in the heart of Sydney. Open 7 days, this underground car park provides convenient access to The Domain, Mrs Macquarie&rsquo;s Chair, Hyde Park, Westfield Sydney, Cook &amp; Phillip Aquatic Centre as well as the Australian Museum.&nbsp;</p>\n<p>Offering Hourly, Night and Weekend parking options, and open till 10pm most days, Cathedral Street Car Park suits all your leisure and business parking needs.</p>",
+      "isWilsonOne": false,
+      "legacyID": 2422,
+      "monthlyParkingServiceIsAvailable": false,
+      "evChargerIsAvailable": false,
+      "disabledParkingIsAvailable": false,
+      "phoneNumber": null,
+      "products": [],
+      "staticMapPhoto": null,
+      "streetViewHeading": null,
+      "streetViewLocation": "https://www.google.com/maps/@?api=1&map_action=pano&pano=g7j4tpuxbSqQtF5b_icjXA&viewpoint=-33.8719924905975,151.2135472274005&heading=271.03555607598344&pitch=5.527642010921852&zoom=0.18126560554719995",
+      "rates": [
+        {
+          "rateType": "Hourly",
+          "notes": "<p>Monday - Friday</p>\n<p>Rates charge from 6am daily</p>",
+          "rates": [
+            {
+              "timeSpan": "0.0 - 1.0 hrs",
+              "price": 10.0
+            },
+            {
+              "timeSpan": "1.0 - 2.0 hrs",
+              "price": 20.0
+            },
+            {
+              "timeSpan": "2.0 - 3.0 hrs",
+              "price": 30.0
+            },
+            {
+              "timeSpan": "3.0 - 4.0 hrs",
+              "price": 40.0
+            },
+            {
+              "timeSpan": "4.0 + hrs",
+              "price": 50.0
+            }
+          ]
+        },
+        {
+          "rateType": "Night",
+          "notes": "<p>Monday - Friday</p>\n<p>Enter after 5pm, exit before 10pm</p>",
+          "rates": [
+            {
+              "timeSpan": "Mon - Fri",
+              "price": 15.0
+            }
+          ]
+        },
+        {
+          "rateType": "Weekend",
+          "notes": "<p>Saturday, Sunday and Public Holidays</p>\n<p>Closed Good Friday and Christmas Day</p>",
+          "rates": [
+            {
+              "timeSpan": "0.0 – 1.0 hr",
+              "price": 5.0
+            },
+            {
+              "timeSpan": "1.0 – 2.0 hrs",
+              "price": 10.0
+            },
+            {
+              "timeSpan": "2.0 – 3.0 hrs",
+              "price": 15.0
+            },
+            {
+              "timeSpan": "3.0 – 4.0 hrs",
+              "price": 20.0
+            },
+            {
+              "timeSpan": "4.0 + hrs",
+              "price": 25.0
+            }
+          ]
+        }
+      ],
+      "fromText": "From",
+      "fromPrice": "5",
+      "location": {
+        "longitude": 151.213630939915,
+        "latitude": -33.8720952621081,
+        "zoom": 13,
+        "address": "2 Cathedral Street, Sydney",
+        "region": null
+      },
+      "openingTimes": [
+        {
+          "day_TimePeriod": "Monday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "05:30",
+          "closing": "00:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Tuesday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "05:30",
+          "closing": "00:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Wednesday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "05:30",
+          "closing": "00:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Thursday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "05:30",
+          "closing": "00:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Friday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "05:30",
+          "closing": "00:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Saturday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "07:00",
+          "closing": "00:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Sunday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "07:00",
+          "closing": "00:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Public Holiday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "07:00",
+          "closing": "00:00",
+          "note": null
+        }
+      ],
+      "url": "/parking-locations/new-south-wales/sydney-cbd/cathedral-street-car-park/",
+      "serviceConfiguration": {
+        "canBookABay": false,
+        "bookABayIconLabel": "Prepay Online",
+        "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
+        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingIconLabel": "Monthly Subscription",
+        "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
+        "isWilsonOne": false,
+        "wilsonOneIconLabel": "Parking Card",
+        "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
+        "disabledParkingIsAvailable": false,
+        "disabledParkingIconLabel": "Disabled Parking",
+        "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
+        "evChargerIsAvailable": false,
+        "evChargerIconLabel": "EV Charging",
+        "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
+        "additionalServices": []
+      },
+      "state": null,
+      "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
       "price": "",
       "status": "",
       "cpmsCarparkCode": null,
@@ -57766,7 +57963,7 @@
           "notes": "<p>Enter after 6:00am exit before close.&nbsp;</p>\n<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the <strong>Prepay Now</strong> link below to get started.<br />Rates shown include transaction fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>",
           "rates": [
             {
-              "timeSpan": "Weekend varies from $12.00 - $17.00, depending on demand",
+              "timeSpan": "Weekend varies from $10.00 - $17.00, depending on demand",
               "price": 19.0
             }
           ]
@@ -63758,7 +63955,7 @@
         }
       ],
       "fromText": "From",
-      "fromPrice": "25",
+      "fromPrice": "22",
       "location": {
         "longitude": 144.94911924004555,
         "latitude": -37.819607355005637,
