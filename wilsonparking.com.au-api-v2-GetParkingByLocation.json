@@ -5008,7 +5008,7 @@
       "costCenter": 1002422,
       "direction": "Entry via 2 Cathedral Street",
       "heightRestriction": 2.1,
-      "information": "<p>Wilson Parking offer affordable &amp; secure parking at Cathedral Street Car Park which is located at 2 Cathedral St (underneath St Mary's Cathedral) in the heart of Sydney. Open 7 days, this underground car park provides convenient access to The Domain, Mrs Macquarie&rsquo;s Chair, Hyde Park, Westfield Sydney, Cook &amp; Phillip Aquatic Centre as well as the Australian Museum.&nbsp;</p>\n<p>Offering Hourly, Night and Weekend parking options, and open till 10pm most days, Cathedral Street Car Park suits all your leisure and business parking needs.</p>",
+      "information": "<p>Wilson Parking offer affordable &amp; secure parking at Cathedral Street Car Park which is located at 2 Cathedral St (underneath St Mary's Cathedral) in the heart of Sydney. Open 7 days, this underground car park provides convenient access to The Domain, Mrs Macquarie&rsquo;s Chair, Hyde Park, Westfield Sydney, Cook &amp; Phillip Aquatic Centre as well as the Australian Museum.&nbsp;</p>\n<p>Offering Hourly, Night and Weekend parking options, and open till midnight seven days, Cathedral Street Car Park suits all your leisure and business parking needs.</p>",
       "isWilsonOne": false,
       "legacyID": 2422,
       "monthlyParkingServiceIsAvailable": false,
@@ -51144,7 +51144,7 @@
       "streetViewLocation": "https://www.google.com/maps/@?api=1&map_action=pano&pano=nIXnil7Pb_h8u0W2kWY2eQ&viewpoint=-27.560397239866422,151.95564896800303&heading=93.49949782918668&pitch=-8.628805088761794&zoom=0.9999999999999997",
       "rates": [],
       "fromText": "From",
-      "fromPrice": "2",
+      "fromPrice": "3",
       "location": {
         "longitude": 151.955883138912,
         "latitude": -27.5602392535032,
@@ -51441,7 +51441,7 @@
       "streetViewLocation": "https://www.google.com/maps/@-27.5597329,151.9558294,3a,90y,96.61h,94.04t/data=!3m6!1e1!3m4!1sP_9tS-WppoQNUHL0TCKdRQ!2e0!7i16384!8i8192?entry=ttu",
       "rates": [],
       "fromText": "From",
-      "fromPrice": "2",
+      "fromPrice": "3",
       "location": {
         "longitude": 151.956045423252,
         "latitude": -27.5596309491087,
@@ -56448,7 +56448,7 @@
       "costCenter": 1003250,
       "direction": "Entry via Russell St (Extension) or off Batman Ave (at Tennis Centre)\nOn event dates and busy periods, please use the Batman Avenue Exit from Level 1 and allow additional time to exit. \nEvent Dates \nSeptember 2025 - 12th, 19th, 25th from 4:00 pm, 20th from 12:00 pm, 27th from 7:00 am.",
       "heightRestriction": 2.1,
-      "information": "<p><span style=\"color: #ff1e25;\"><strong><u>Event Dates December 2025</u></strong></span></p>\n<p><span style=\"color: #ff1e25;\">3rd, 4th, 10th, 12th, 18th and 20th from 4:00pm to 11:59pm.</span></p>\n<p><span style=\"color: #ff1e25;\">13<sup>th</sup>&nbsp;from 10am to 11:59pm.</span></p>\n<p><span style=\"color: #ff1e25;\">27<sup>th</sup>&nbsp;- 30th from 8am to 11:59pm</span></p>\n<p><span style=\"color: #ff1e25;\">Event rates will apply.</span><br /><span style=\"color: #ff1e25;\"><em>On event dates, please allow additional time to exit.</em></span></p>\n<p>Wilson Parking offers affordable &amp; secure parking at Federation Square Car Park, located on Russell St (Extension) in the Melbourne CBD. This car park is nearby to many popular attractions, including Federation Square, Flinders St Station, Birrarung Marr, Rod Laver Arena and Melbourne Park. Offering casual Early Bird, Hourly, Night and Weekend parking, with exclusive discounts when you prepay online, the Federation Square Car Park will meet all of your parking needs.</p>\n<p><span style=\"color: #000000;\"><strong>On event dates and busy periods, please use the Batman Avenue Exit from Level 1 and allow additional time to exit.</strong></span></p>\n<p>Download the Wilson Parking App to plan your journey and access exclusive discounts when you prepay online; pay as you go with one convenient monthly invoice when you use your Wilson Parking Card; enjoy 24/7 unlimited access when you subscribe to Monthly Parking; or just drive up to pay with a credit card at the car park.</p>",
+      "information": "<p><span style=\"color: #ff1e25;\"><strong><u>Event Dates December 2025</u></strong></span></p>\n<p><span style=\"color: #ff1e25;\">&nbsp; 27<sup>th</sup>&nbsp;- 30th from 8am to 11:59pm</span></p>\n<p><span style=\"color: #ff1e25;\"><strong><u>Event Dates January 2026</u></strong></span></p>\n<p><span style=\"color: #ff1e25;\">&nbsp; 4th, 8th, 13th, 14th, 15th, 16th from 4:00pm to 11:59pm</span></p>\n<p><span style=\"color: #ff1e25;\">&nbsp; 12th, 18<sup>th</sup>&nbsp;of Jan to 1<sup>st</sup>&nbsp;of Feb from 10:00am to 11:59pm</span></p>\n<p><span style=\"color: #ff1e25;\">&nbsp; 17<sup>th</sup>&nbsp;Jan from 6:00am to 11:59pm</span></p>\n<p><span style=\"color: #ff1e25;\">Event rates will apply.</span><br /><span style=\"color: #ff1e25;\"><em>On event dates, please allow additional time to exit.</em></span></p>\n<p>Wilson Parking offers affordable &amp; secure parking at Federation Square Car Park, located on Russell St (Extension) in the Melbourne CBD. This car park is nearby to many popular attractions, including Federation Square, Flinders St Station, Birrarung Marr, Rod Laver Arena and Melbourne Park. Offering casual Early Bird, Hourly, Night and Weekend parking, with exclusive discounts when you prepay online, the Federation Square Car Park will meet all of your parking needs.</p>\n<p><span style=\"color: #000000;\"><strong>On event dates and busy periods, please use the Batman Avenue Exit from Level 1 and allow additional time to exit.</strong></span></p>\n<p>Download the Wilson Parking App to plan your journey and access exclusive discounts when you prepay online; pay as you go with one convenient monthly invoice when you use your Wilson Parking Card; enjoy 24/7 unlimited access when you subscribe to Monthly Parking; or just drive up to pay with a credit card at the car park.</p>",
       "isWilsonOne": true,
       "legacyID": 94,
       "monthlyParkingServiceIsAvailable": true,
@@ -82769,19 +82769,19 @@
             },
             {
               "timeSpan": "0.5 - 1.0 hrs",
-              "price": 4.0
+              "price": 5.0
             },
             {
               "timeSpan": "1.0 - 2.0 hrs",
-              "price": 8.0
+              "price": 10.0
             },
             {
               "timeSpan": "2.0 - 3.0 hrs",
-              "price": 12.0
+              "price": 15.0
             },
             {
               "timeSpan": "3.0 + hrs (daily maximum)",
-              "price": 16.0
+              "price": 17.0
             }
           ]
         }
@@ -88495,154 +88495,6 @@
       },
       "state": "WA",
       "imgUrl": "/contentassets/ebe0e5edc3f94faa9ed99860074a70a2/per113c.jpg",
-      "price": "",
-      "status": "",
-      "cpmsCarparkCode": null,
-      "externalCarParkInfo": null,
-      "featuredIndex": 0
-    },
-    {
-      "name": "517 Hay Street (Kings Complex) Motorbikes only",
-      "bookText": null,
-      "canBookABay": false,
-      "selectedFeatures": "",
-      "carParkFeature": [
-        "Epark"
-      ],
-      "services": [],
-      "carParkName": "517 Hay Street (Kings Complex) Motorbikes only",
-      "carParkNumber": 6113,
-      "carParkPhoto": "/contentassets/9324ab3291044efbbd2e12849cb91a3c/per113c.jpg",
-      "category": "",
-      "costCenter": 1006113,
-      "direction": "Entry via Hay Street or Pier Street\n\n</br></br>Please note the car park lift is Out of Service until further advice. We apologise for the inconvenience. .</br>\n\n",
-      "heightRestriction": 2.0,
-      "information": "<p>Wilson Parking offer affordable motorcycle parking at Kings Complex Car Park, located at 517 Hay Street, Perth.&nbsp;The car park offers two convenient entries. Enter via Hay St or Pier Street, heading southbound, after the Hay Street intersection.</p>\n<p>Download the Wilson Parking App to pay for and manage your motorbike parking directly from your phone.</p>\n<p>Looking for car parking at 517 Hay St - check out our other parking options <a href=\"/link/3ef8101d1faa416f9c4c38f70f5c8d40.aspx\" target=\"_top\">here</a></p>",
-      "isWilsonOne": false,
-      "legacyID": 1006113,
-      "monthlyParkingServiceIsAvailable": false,
-      "evChargerIsAvailable": false,
-      "disabledParkingIsAvailable": false,
-      "phoneNumber": "1800 PARKING",
-      "products": [],
-      "staticMapPhoto": null,
-      "streetViewHeading": "147.00507537191612",
-      "streetViewLocation": "https://www.google.com/maps/@?api=1&map_action=pano&pano=WHeDv7mlfyzWMArnvfC-9w&viewpoint=-31.95545379958036,115.8628763534677&heading=147.00507537191612&pitch=-2.1169823388632096",
-      "rates": [],
-      "fromText": "From",
-      "fromPrice": "7",
-      "location": {
-        "longitude": 115.862671340676,
-        "latitude": -31.9555664814849,
-        "zoom": 13,
-        "address": "517 Hay Street, Perth",
-        "region": {
-          "name": "Perth CBD",
-          "longitude": 115.86034952911382,
-          "latitude": -31.954708170013102,
-          "status": "",
-          "state": {
-            "name": "Western Australia",
-            "abbreviation": "WA",
-            "country": "Australia",
-            "longitude": 123.41536223888397,
-            "latitude": -25.833723163507287,
-            "status": ""
-          }
-        }
-      },
-      "openingTimes": [
-        {
-          "day_TimePeriod": "Monday",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Tuesday",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Wednesday",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Thursday",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Friday",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Saturday",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Sunday",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Public Holiday",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        }
-      ],
-      "url": "/parking-locations/western-australia/perth-cbd/517-hay-street-kings-complex-motorbikes-only/",
-      "serviceConfiguration": {
-        "canBookABay": false,
-        "bookABayIconLabel": "Prepay Online",
-        "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": false,
-        "monthlyParkingIconLabel": "Monthly Subscription",
-        "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
-        "isWilsonOne": false,
-        "wilsonOneIconLabel": "Parking Card",
-        "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
-        "disabledParkingIsAvailable": false,
-        "disabledParkingIconLabel": "Disabled Parking",
-        "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
-        "evChargerIsAvailable": false,
-        "evChargerIconLabel": "EV Charging",
-        "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "additionalServices": [
-          {
-            "label": null,
-            "icon": null
-          }
-        ]
-      },
-      "state": "WA",
-      "imgUrl": "/contentassets/9324ab3291044efbbd2e12849cb91a3c/per113c.jpg",
       "price": "",
       "status": "",
       "cpmsCarparkCode": null,
