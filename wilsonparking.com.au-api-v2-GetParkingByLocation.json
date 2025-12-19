@@ -6047,7 +6047,7 @@
         {
           "day_TimePeriod": "Public Holiday",
           "is24_7": false,
-          "closed": false,
+          "closed": true,
           "opening": "10:00",
           "closing": "19:00",
           "note": null
@@ -68655,7 +68655,9 @@
         "Early Bird Parking",
         "Book a Bay",
         "Wilson One",
-        "Flexi Parking"
+        "Flexi Parking",
+        "Elevate",
+        "LPR"
       ],
       "services": [
         "book a bay",
