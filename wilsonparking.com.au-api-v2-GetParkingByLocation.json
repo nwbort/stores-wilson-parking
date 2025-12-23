@@ -834,16 +834,14 @@
     {
       "name": "55 Market St Car Park",
       "bookText": null,
-      "canBookABay": true,
+      "canBookABay": false,
       "selectedFeatures": "",
       "carParkFeature": [
         "Monthly Parking",
         "Night Parking",
-        "Weekend Parking",
-        "Book a Bay"
+        "Weekend Parking"
       ],
       "services": [
-        "book a bay",
         "monthly"
       ],
       "carParkName": "55 Market St Car Park",
@@ -853,7 +851,7 @@
       "costCenter": 1002374,
       "direction": "Entry via 55 Market St\n\nFor afterhours access to the lift lobby press the intercom button at the main entry and security will let you in",
       "heightRestriction": 2.0,
-      "information": "<p>Wilson Parking offers affordable and secure parking at 55 Market St Car Park, located at 55 Market St in the south of the Sydney CBD.&nbsp;</p>\n<p>Now open 24/7 and offering Hourly, Night and Weekend Parking when you prepay online or using the App, the&nbsp;55 Market St Car Park&nbsp;suits all your parking needs.</p>\n<p>For afterhours access to the lift lobby press the intercom button at the main entry and security will allow access.&nbsp;</p>",
+      "information": "<p>Wilson Parking offers affordable and reliable parking at 55 Market St Car Park, located at 55 Market St in the south of the Sydney CBD.&nbsp;</p>\n<p>Open 24/7 and offering Hourly, Night and Weekend Parking, the&nbsp;55 Market St Car Park&nbsp;suits all your parking needs.</p>\n<p>For afterhours access to the lift lobby press the intercom button at the main entry and security will allow access.&nbsp;</p>",
       "isWilsonOne": false,
       "legacyID": 2374,
       "monthlyParkingServiceIsAvailable": true,
@@ -998,7 +996,7 @@
       ],
       "url": "/parking-locations/new-south-wales/cbd-sydney-south/55-market-st-car-park/",
       "serviceConfiguration": {
-        "canBookABay": true,
+        "canBookABay": false,
         "bookABayIconLabel": "Prepay Online",
         "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
         "monthlyParkingServiceIsAvailable": true,
@@ -88302,7 +88300,7 @@
       "carParkPhoto": "/contentassets/ebe0e5edc3f94faa9ed99860074a70a2/per113c.jpg",
       "category": "",
       "costCenter": 1006113,
-      "direction": "Entry via Hay Street or Pier Street\n\nMotorbike parking must be paid for using the 517 Hay St (Kings Complex) - Motorcycle parking location\n\n</br></br>Please note the car park lift is Out of Service until further advice. We apologise for the inconvenience. .</br>\n\n\n\n\n",
+      "direction": "Entry via Hay Street or Pier Street\n\nMotorbike parking must be paid for using the 517 Hay St (Kings Complex) - Motorcycle parking location\n\n\n\n\n\n",
       "heightRestriction": 2.0,
       "information": "<p>Wilson Parking offer affordable parking at Kings Complex Car Park, located at 517 Hay Street, Perth. This undercover car park is open 24/7 close to Perth's legal distrtict, providing parking options for nearby restaurants and businesses, as well as the Magistrates Court of Western Australia and District Court of Western Australia. Offering casual Hourly, Online Early Bird Flexi, Night and Weekend Parking as well as exclusive discounts available when you prepay online or with the Wilson Parking App, the Central Park Car Park will meet all of your parking needs.</p>\n<p>The car park offers two convenient entries. Enter via Hay St or Pier Street, heading southbound, after the Hay Street intersection.</p>\n<p>Download the Wilson Parking App to prepay ahead and access exclusive savings, or simply drive up and pay with your Credit Card, pay as you go with a Wilson Parking card.</p>",
       "isWilsonOne": true,
