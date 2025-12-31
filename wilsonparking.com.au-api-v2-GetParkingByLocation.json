@@ -63592,7 +63592,7 @@
         }
       ],
       "fromText": "From",
-      "fromPrice": "13",
+      "fromPrice": "15",
       "location": {
         "longitude": 144.955425419059,
         "latitude": -37.8260062739427,
@@ -64385,7 +64385,7 @@
         }
       ],
       "fromText": "From",
-      "fromPrice": "14",
+      "fromPrice": "16",
       "location": {
         "longitude": 144.94887784123421,
         "latitude": -37.82440627690324,
@@ -64548,40 +64548,24 @@
           "notes": "<p>*DFO Discount: Collect validation ticket when making a purchase from any DFO store or food outlet and receive a 50% discount on your parking rate.</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 0.5 hrs",
-              "price": 14.0
-            },
-            {
-              "timeSpan": "0.5 - 1.0 hrs",
+              "timeSpan": "0.0 - 1.0 hrs",
               "price": 16.0
             },
             {
-              "timeSpan": "1.0 - 1.5 hrs",
-              "price": 28.0
-            },
-            {
-              "timeSpan": "1.5 - 2.0 hrs",
+              "timeSpan": "1.0 - 2.0 hrs",
               "price": 32.0
             },
             {
-              "timeSpan": "2.0 - 2.5 hrs",
-              "price": 42.0
-            },
-            {
-              "timeSpan": "2.5 - 3.0 hrs",
+              "timeSpan": "2.0 - 3.0 hrs",
               "price": 48.0
             },
             {
-              "timeSpan": "3.0 - 3.5 hrs",
-              "price": 56.0
-            },
-            {
-              "timeSpan": "3.5 - 4.0 hrs",
+              "timeSpan": "3.0 - 4.0 hrs",
               "price": 60.0
             },
             {
-              "timeSpan": "Daily Maximum",
-              "price": 60.0
+              "timeSpan": "4.0 + hrs",
+              "price": 66.0
             }
           ]
         },
@@ -64591,13 +64575,13 @@
           "rates": [
             {
               "timeSpan": "Mon - Sun",
-              "price": 16.0
+              "price": 20.0
             }
           ]
         }
       ],
       "fromText": "From",
-      "fromPrice": "14",
+      "fromPrice": "16",
       "location": {
         "longitude": 144.949488129972,
         "latitude": -37.8274774754471,
