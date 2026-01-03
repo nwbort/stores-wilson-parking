@@ -63647,6 +63647,418 @@
       "featuredIndex": 0
     },
     {
+      "name": "800 Bourke St Car Park",
+      "bookText": null,
+      "canBookABay": true,
+      "selectedFeatures": "",
+      "carParkFeature": [
+        "Night Parking",
+        "Weekend Parking",
+        "Early Bird Parking",
+        "Book a Bay",
+        "Wilson One",
+        "Overnight Parking",
+        "Flexi Parking"
+      ],
+      "services": [
+        "book a bay",
+        "wilson one"
+      ],
+      "carParkName": "800 Bourke St Car Park",
+      "carParkNumber": 3225,
+      "carParkPhoto": "/contentassets/f87d068c7b4e43b3a1e5d8b0d2cf57ec/800.jpg",
+      "category": "",
+      "costCenter": 1003225,
+      "direction": "Entry via Enterprize Way. Car park is on the right.",
+      "heightRestriction": 2.0,
+      "information": "<p><span style=\"color: #ff1e25;\"><strong><u>Event Dates</u></strong></span></p>\n<ul>\n<li><span style=\"color: #ff1e25;\">Friday 5 December from 2PM</span></li>\n<li><span style=\"color: #ff1e25;\">Saturday 6&nbsp;December from 2PM</span></li>\n<li><span style=\"color: #ff1e25;\">Thursday 11 December 1PM</span></li>\n<li><span style=\"color: #ff1e25;\">Saturday 13 December from 4PM</span></li>\n</ul>\n<p><span style=\"color: #ff1e25;\">Event rates will apply. Drive up only.</span><br /><span style=\"color: #ff1e25;\"><em>On event dates, please allow additional time to exit</em></span></p>\n<p>Wilson Parking offer affordable parking at 800 Bourke St Car Park, located at Enterprize Way, Docklands. This car park, located on the Yarra River,&nbsp; is nearby to Marvel Stadium, Docklands Park and other Docklands attractions. Offering Hourly, Weekend and night parking, as well as discount online parking options, the 800 Bourke St Car Park will meet all of your parking needs.</p>\n<p>Experience the convenience of&nbsp;pay as you go with a Wilson Parking card, or enjoy 24/7 unlimited access when you subscribe to Monthly Parking.&nbsp;</p>",
+      "isWilsonOne": true,
+      "legacyID": 41,
+      "monthlyParkingServiceIsAvailable": false,
+      "evChargerIsAvailable": false,
+      "disabledParkingIsAvailable": false,
+      "phoneNumber": "1800 PARKING",
+      "products": [],
+      "staticMapPhoto": null,
+      "streetViewHeading": "74.64838691207044",
+      "streetViewLocation": "https://www.google.com/maps/@?api=1&map_action=pano&pano=qM-BJPG3bGTaHfJdlb0hIg&viewpoint=-37.81914591904589,144.94433919810626&heading=74.64838691207044&pitch=-2.441119449189884",
+      "rates": [
+        {
+          "rateType": "Hourly",
+          "notes": "<p>Mon - Fri. <br /><span style=\"color: #ff1e25;\">**<strong>Event parking from 2pm to close.</strong></span></p>",
+          "rates": [
+            {
+              "timeSpan": "0.0 - 0.5 hrs",
+              "price": 13.0
+            },
+            {
+              "timeSpan": "0.5 - 1.0 hrs",
+              "price": 25.0
+            },
+            {
+              "timeSpan": "1.0 - 2.0 hrs",
+              "price": 52.0
+            },
+            {
+              "timeSpan": "2.0 - 3.0 hrs",
+              "price": 79.0
+            },
+            {
+              "timeSpan": "3.0 + hrs",
+              "price": 85.0
+            }
+          ]
+        },
+        {
+          "rateType": "Night",
+          "notes": "<p>Mon-Thu: Entry after 3pm &amp; exit before close.<br />Fri: Enter after 3pm &amp; Exit before close</p>\n<p><span style=\"color: #ff1e25;\"><strong>Event parking</strong></span></p>\n<p>Drive up rates will not be available from 3 hours prior to Marvel Stadium events.&nbsp;</p>",
+          "rates": [
+            {
+              "timeSpan": "Mon - Thurs from",
+              "price": 11.0
+            },
+            {
+              "timeSpan": "Friday from",
+              "price": 20.0
+            },
+            {
+              "timeSpan": "Event Rate",
+              "price": 30.0
+            }
+          ]
+        },
+        {
+          "rateType": "Weekend",
+          "notes": "<p>Flat rate per exit, per day. Enter after 6am &amp; Exit before close</p>\n<p><span style=\"color: #ff1e25;\"><strong>Event parking from 2pm to close.</strong></span></p>\n<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>",
+          "rates": [
+            {
+              "timeSpan": "Sat varies from $20.00 - $22.00, depedning on demand",
+              "price": 25.0
+            },
+            {
+              "timeSpan": "Sun & Public Holidays varies from $20.00 - $22.00, depending on demand",
+              "price": 25.0
+            },
+            {
+              "timeSpan": "Event Rate",
+              "price": 30.0
+            }
+          ]
+        }
+      ],
+      "fromText": "From",
+      "fromPrice": "10",
+      "location": {
+        "longitude": 144.94457960128784,
+        "latitude": -37.819255633667431,
+        "zoom": 13,
+        "address": "Enterprize Way, Docklands",
+        "region": {
+          "name": "Docklands",
+          "longitude": 144.94644641876221,
+          "latitude": -37.816869816976983,
+          "status": "",
+          "state": {
+            "name": "Victoria",
+            "abbreviation": "VIC",
+            "country": "Australia",
+            "longitude": 145.08864104747772,
+            "latitude": -36.438262107088946,
+            "status": ""
+          }
+        }
+      },
+      "openingTimes": [
+        {
+          "day_TimePeriod": "Monthly",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Monday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "06:00",
+          "closing": "21:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Tuesday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "06:00",
+          "closing": "21:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Wednesday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "06:00",
+          "closing": "21:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Thursday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "06:00",
+          "closing": "21:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Friday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "06:00",
+          "closing": "00:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Saturday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "08:00",
+          "closing": "00:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Sunday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "08:00",
+          "closing": "21:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Public Holiday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "08:00",
+          "closing": "21:00",
+          "note": null
+        }
+      ],
+      "url": "/parking-locations/victoria/docklands/800-bourke-st-car-park/",
+      "serviceConfiguration": {
+        "canBookABay": true,
+        "bookABayIconLabel": "Prepay Online",
+        "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
+        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingIconLabel": "Monthly Subscription",
+        "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
+        "isWilsonOne": true,
+        "wilsonOneIconLabel": "Parking Card",
+        "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
+        "disabledParkingIsAvailable": false,
+        "disabledParkingIconLabel": "Disabled Parking",
+        "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
+        "evChargerIsAvailable": false,
+        "evChargerIconLabel": "EV Charging",
+        "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
+        "additionalServices": []
+      },
+      "state": "VIC",
+      "imgUrl": "/contentassets/f87d068c7b4e43b3a1e5d8b0d2cf57ec/800.jpg",
+      "price": "",
+      "status": "",
+      "cpmsCarparkCode": null,
+      "externalCarParkInfo": null,
+      "featuredIndex": 0
+    },
+    {
+      "name": "818 Bourke St Car Park",
+      "bookText": null,
+      "canBookABay": true,
+      "selectedFeatures": "",
+      "carParkFeature": [
+        "Early Bird Parking",
+        "Book a Bay",
+        "Wilson One",
+        "Flexi Parking"
+      ],
+      "services": [
+        "book a bay",
+        "wilson one"
+      ],
+      "carParkName": "818 Bourke St Car Park",
+      "carParkNumber": 3255,
+      "carParkPhoto": "/contentassets/ac4575b20a9e46eb949b2c803e2f1cc3/818.jpg",
+      "category": "",
+      "costCenter": 1003255,
+      "direction": "Entry via Enterprize Way. Car Park is on the left.",
+      "heightRestriction": 2.0,
+      "information": "<p>Wilson Parking offer affordable &amp; secure parking at 818 Bourke St Car Park, located at Enterprize Way, Docklands. This car park, located on the Yarra River,&nbsp; is nearby to Marvel Stadium, Docklands Park and other Docklands attractions. Offering Hourly, Weekend and night parking, as well as discount online parking options, the 818 Bourke St Car Park will meet all of your parking needs.</p>\n<p>Experience the convenience of&nbsp;pay as you go with a Wilson Parking card, or enjoy 24/7 unlimited access when you subscribe to Monthly Parking.&nbsp;</p>",
+      "isWilsonOne": true,
+      "legacyID": 24,
+      "monthlyParkingServiceIsAvailable": false,
+      "evChargerIsAvailable": false,
+      "disabledParkingIsAvailable": false,
+      "phoneNumber": "1800 PARKING",
+      "products": [],
+      "staticMapPhoto": null,
+      "streetViewHeading": "268.47366199521224",
+      "streetViewLocation": "https://www.google.com/maps/@?api=1&map_action=pano&pano=76kYZQwvmmfzCQSqujlBxQ&viewpoint=-37.81922855440212,144.94437816563004&heading=268.47366199521224&pitch=0.0051036452176447256",
+      "rates": [
+        {
+          "rateType": "Hourly",
+          "notes": "<p>Rates apply Monday - Friday</p>",
+          "rates": [
+            {
+              "timeSpan": "0.0 - 0.5 hrs",
+              "price": 13.0
+            },
+            {
+              "timeSpan": "0.5 - 1.0 hrs",
+              "price": 25.0
+            },
+            {
+              "timeSpan": "1.0 - 2.0 hrs",
+              "price": 52.0
+            },
+            {
+              "timeSpan": "2.0 - 3.0 hrs",
+              "price": 79.0
+            },
+            {
+              "timeSpan": "3.0 + hrs",
+              "price": 85.0
+            }
+          ]
+        }
+      ],
+      "fromText": "From",
+      "fromPrice": "13",
+      "location": {
+        "longitude": 144.94426310062408,
+        "latitude": -37.819348861173324,
+        "zoom": 13,
+        "address": "818 Bourke St, Docklands",
+        "region": {
+          "name": "Docklands",
+          "longitude": 144.94644641876221,
+          "latitude": -37.816869816976983,
+          "status": "",
+          "state": {
+            "name": "Victoria",
+            "abbreviation": "VIC",
+            "country": "Australia",
+            "longitude": 145.08864104747772,
+            "latitude": -36.438262107088946,
+            "status": ""
+          }
+        }
+      },
+      "openingTimes": [
+        {
+          "day_TimePeriod": "Monthly",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Monday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "06:00",
+          "closing": "20:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Tuesday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "06:00",
+          "closing": "20:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Wednesday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "06:00",
+          "closing": "20:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Thursday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "06:00",
+          "closing": "20:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Friday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "06:00",
+          "closing": "20:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Saturday",
+          "is24_7": false,
+          "closed": true,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Sunday",
+          "is24_7": false,
+          "closed": true,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Public Holiday",
+          "is24_7": false,
+          "closed": true,
+          "opening": "",
+          "closing": "",
+          "note": null
+        }
+      ],
+      "url": "/parking-locations/victoria/docklands/818-bourke-st-car-park/",
+      "serviceConfiguration": {
+        "canBookABay": true,
+        "bookABayIconLabel": "Prepay Online",
+        "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
+        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingIconLabel": "Monthly Subscription",
+        "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
+        "isWilsonOne": true,
+        "wilsonOneIconLabel": "Parking Card",
+        "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
+        "disabledParkingIsAvailable": false,
+        "disabledParkingIconLabel": "Disabled Parking",
+        "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
+        "evChargerIsAvailable": false,
+        "evChargerIconLabel": "EV Charging",
+        "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
+        "additionalServices": [
+          {
+            "label": null,
+            "icon": null
+          }
+        ]
+      },
+      "state": "VIC",
+      "imgUrl": "/contentassets/ac4575b20a9e46eb949b2c803e2f1cc3/818.jpg",
+      "price": "",
+      "status": "",
+      "cpmsCarparkCode": null,
+      "externalCarParkInfo": null,
+      "featuredIndex": 0
+    },
+    {
       "name": "South Wharf Retail Car Park",
       "bookText": null,
       "canBookABay": true,
@@ -76929,6 +77341,215 @@
       "featuredIndex": 0
     },
     {
+      "name": "21 Bent St Car Park",
+      "bookText": null,
+      "canBookABay": true,
+      "selectedFeatures": "",
+      "carParkFeature": [
+        "Monthly Parking",
+        "Night Parking",
+        "Weekend Parking",
+        "Early Bird Parking",
+        "Book a Bay",
+        "Wilson One",
+        "Flexi Parking",
+        "Disabled Parking",
+        "Daily Pass Bundles",
+        "Special Event Parking",
+        "Illuminate",
+        "Adelaide Christmas Pageant"
+      ],
+      "services": [
+        "book a bay",
+        "wilson one",
+        "monthly",
+        "disabled parking"
+      ],
+      "carParkName": "21 Bent St Car Park",
+      "carParkNumber": 5004,
+      "carParkPhoto": "/siteassets/parking-location-images/sa/ade004-resized.jpg",
+      "category": "",
+      "costCenter": 1005004,
+      "direction": null,
+      "heightRestriction": 2.0,
+      "information": "<p>Wilson Parking offer affordable &amp; secure parking at 21 Bent St Car Park located at 21 Bent Street, Adelaide. This car park is positioned in the heart of Adelaide, close to shopping, restaurants and the Adelaide CBD. With Hourly, and discount online parking options the 21 Bent St Car Park will meet all of your parking needs.</p>\n<p>Enjoy the convenince of&nbsp;pay as you go with a Wilson Parking card, or enjoy 24/7 unlimited access when you subscribe to Monthly Parking.&nbsp;</p>",
+      "isWilsonOne": true,
+      "legacyID": 268,
+      "monthlyParkingServiceIsAvailable": true,
+      "evChargerIsAvailable": false,
+      "disabledParkingIsAvailable": true,
+      "phoneNumber": "1800 PARKING",
+      "products": [],
+      "staticMapPhoto": null,
+      "streetViewHeading": "240.8994570531329",
+      "streetViewLocation": "https://www.google.com/maps/@?api=1&map_action=pano&pano=IEwmtJ6FMqEnzdHxBDtVNQ&viewpoint=-34.92344257650741,138.60757062607934&heading=240.8994570531329&pitch=-0.4302391585529648",
+      "rates": [
+        {
+          "rateType": "Early Bird",
+          "notes": "<p>Enter between 6am &amp; 9:30am and exit between 3:30pm &amp; 7pm.</p>\n<div class=\"\" data-block=\"true\" data-editor=\"2ql24\" data-offset-key=\"8pskg444-0-0\">\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"8pskg444-0-0\">&nbsp;</div>\n</div>",
+          "rates": [
+            {
+              "timeSpan": "Mon - Fri",
+              "price": 17.0
+            }
+          ]
+        },
+        {
+          "rateType": "Hourly",
+          "notes": null,
+          "rates": [
+            {
+              "timeSpan": "0.0 - 0.5 hrs",
+              "price": 4.0
+            },
+            {
+              "timeSpan": "0.5 - 1.0 hrs",
+              "price": 10.0
+            },
+            {
+              "timeSpan": "1.0 - 2.0 hrs",
+              "price": 13.0
+            },
+            {
+              "timeSpan": "2.0 - 3.0 hrs",
+              "price": 19.0
+            },
+            {
+              "timeSpan": "3.0 - 4.0 hrs",
+              "price": 25.0
+            },
+            {
+              "timeSpan": "4.0 - 5.0 hrs",
+              "price": 31.0
+            },
+            {
+              "timeSpan": "5.0 + hrs",
+              "price": 34.0
+            }
+          ]
+        }
+      ],
+      "fromText": "From",
+      "fromPrice": "4",
+      "location": {
+        "longitude": 138.60752820968628,
+        "latitude": -34.92348409253708,
+        "zoom": 13,
+        "address": "21 Bent Street, Adelaide",
+        "region": {
+          "name": "Adelaide CBD",
+          "longitude": 138.6000394821167,
+          "latitude": -34.923941522692786,
+          "status": "",
+          "state": {
+            "name": "South Australia",
+            "abbreviation": "SA",
+            "country": "Australia",
+            "longitude": 138.600039482117,
+            "latitude": -34.9239415226928,
+            "status": ""
+          }
+        }
+      },
+      "openingTimes": [
+        {
+          "day_TimePeriod": "Monthly",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Monday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "06:00",
+          "closing": "00:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Tuesday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "06:00",
+          "closing": "00:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Wednesday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "06:00",
+          "closing": "00:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Thursday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "06:00",
+          "closing": "00:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Friday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "06:00",
+          "closing": "03:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Saturday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "08:00",
+          "closing": "03:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Sunday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "08:00",
+          "closing": "00:00",
+          "note": null
+        }
+      ],
+      "url": "/parking-locations/south-australia/adelaide-cbd/21-bent-st-car-park/",
+      "serviceConfiguration": {
+        "canBookABay": true,
+        "bookABayIconLabel": "Prepay Online",
+        "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
+        "monthlyParkingServiceIsAvailable": true,
+        "monthlyParkingIconLabel": "Monthly Subscription",
+        "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
+        "isWilsonOne": true,
+        "wilsonOneIconLabel": "Parking Card",
+        "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
+        "disabledParkingIsAvailable": true,
+        "disabledParkingIconLabel": "Disabled Parking",
+        "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
+        "evChargerIsAvailable": false,
+        "evChargerIconLabel": "EV Charging",
+        "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
+        "additionalServices": [
+          {
+            "label": null,
+            "icon": null
+          }
+        ]
+      },
+      "state": "SA",
+      "imgUrl": "/siteassets/parking-location-images/sa/ade004-resized.jpg",
+      "price": "",
+      "status": "",
+      "cpmsCarparkCode": null,
+      "externalCarParkInfo": null,
+      "featuredIndex": 0
+    },
+    {
       "name": "251 North Terrace Car Park",
       "bookText": null,
       "canBookABay": false,
@@ -77777,6 +78398,239 @@
       },
       "state": "SA",
       "imgUrl": "/contentassets/3c644d69f6bd49fb833b2a3fd158dd23/ade126-resized.jpg",
+      "price": "",
+      "status": "",
+      "cpmsCarparkCode": null,
+      "externalCarParkInfo": null,
+      "featuredIndex": 0
+    },
+    {
+      "name": "Adelaide Central Car Park",
+      "bookText": null,
+      "canBookABay": true,
+      "selectedFeatures": "",
+      "carParkFeature": [
+        "Monthly Parking",
+        "Night Parking",
+        "Weekend Parking",
+        "Early Bird Parking",
+        "Book a Bay",
+        "Wilson One",
+        "Flexi Parking",
+        "Entry height at least 2",
+        "Disabled Parking",
+        "Daily Pass Bundles",
+        "Footy Parking",
+        "Special Event Parking",
+        "Summer Sale",
+        "Illuminate",
+        "Elevate",
+        "LPR"
+      ],
+      "services": [
+        "book a bay",
+        "wilson one",
+        "monthly",
+        "disabled parking"
+      ],
+      "carParkName": "Adelaide Central Car Park",
+      "carParkNumber": 5039,
+      "carParkPhoto": "/siteassets/parking-location-images/sa/ade039-resized.jpg",
+      "category": "",
+      "costCenter": 1005039,
+      "direction": "Enter via North Terrace opposite the Art Gallery of SA",
+      "heightRestriction": 2.05,
+      "information": "<p>Wilson Parking offer affordable &amp; reliable parking at Adelaide Central Car Park, located at 225 North Terrace, Adelaide. The Car Park is located near The University of Adelaide, The Art Gallery of SA, Rundle Mall and just a short walk to Adelaide Oval. Offering All Day Flexi-Saver, Weekend and discount online parking options, the Adelaide Central Car Park will meet all of your parking needs.</p>\n<p>Experience the convenience of&nbsp;pay as you go with a Wilson Parking card, or enjoy 24/7 unlimited access when you subscribe to Monthly Parking.&nbsp;</p>",
+      "isWilsonOne": true,
+      "legacyID": 165,
+      "monthlyParkingServiceIsAvailable": true,
+      "evChargerIsAvailable": false,
+      "disabledParkingIsAvailable": true,
+      "phoneNumber": "1800 PARKING",
+      "products": [],
+      "staticMapPhoto": null,
+      "streetViewHeading": "148.33567703557836",
+      "streetViewLocation": "https://www.google.com/maps/@?api=1&map_action=pano&pano=WEpU6ynG3YziyMWdmy-zBw&viewpoint=-34.92141884507545,138.6037991791262&heading=148.33567703557836&pitch=5.814591263268298",
+      "rates": [
+        {
+          "rateType": "Hourly",
+          "notes": "<p>Rates apply all day Monday - Saturday</p>",
+          "rates": [
+            {
+              "timeSpan": "0.0 - 0.5 hrs",
+              "price": 5.0
+            },
+            {
+              "timeSpan": "0.5 - 1.0 hrs",
+              "price": 10.0
+            },
+            {
+              "timeSpan": "1.0 - 1.5 hrs",
+              "price": 15.0
+            },
+            {
+              "timeSpan": "1.5 -2.0 hrs",
+              "price": 20.0
+            },
+            {
+              "timeSpan": "2.0 - 2.5 hrs",
+              "price": 25.0
+            },
+            {
+              "timeSpan": "2.5 + hrs",
+              "price": 30.0
+            }
+          ]
+        },
+        {
+          "rateType": "Weekend",
+          "notes": "<p>Online rate applies Sunday only.</p>\n<div class=\"\" data-block=\"true\" data-editor=\"2ql24\" data-offset-key=\"1akcde78-0-0\">\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"1akcde78-0-0\">Select the&nbsp;<strong>Prepay now</strong>&nbsp;link below to get started.</div>\n</div>\n<p>Rates shown include transaction fee.</p>\n<div class=\"\" data-block=\"true\" data-editor=\"2ql24\" data-offset-key=\"8pskg444-0-0\">\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"8pskg444-0-0\">&nbsp;</div>\n</div>",
+          "rates": [
+            {
+              "timeSpan": "0.0 - 0.5 hrs",
+              "price": 5.0
+            },
+            {
+              "timeSpan": "0.5 - 1.0 hrs",
+              "price": 11.0
+            },
+            {
+              "timeSpan": "1.0 - 1.5 hrs",
+              "price": 16.0
+            },
+            {
+              "timeSpan": "1.5 + hrs",
+              "price": 21.0
+            },
+            {
+              "timeSpan": "Lost Ticket",
+              "price": 32.0
+            }
+          ]
+        }
+      ],
+      "fromText": "From",
+      "fromPrice": "5",
+      "location": {
+        "longitude": 138.60383749008179,
+        "latitude": -34.921561978342076,
+        "zoom": 13,
+        "address": "225 North Terrace, Adelaide",
+        "region": {
+          "name": "Adelaide CBD",
+          "longitude": 138.6000394821167,
+          "latitude": -34.923941522692786,
+          "status": "",
+          "state": {
+            "name": "South Australia",
+            "abbreviation": "SA",
+            "country": "Australia",
+            "longitude": 138.600039482117,
+            "latitude": -34.9239415226928,
+            "status": ""
+          }
+        }
+      },
+      "openingTimes": [
+        {
+          "day_TimePeriod": "Monthly",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Monday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "06:00",
+          "closing": "00:30",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Tuesday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "06:00",
+          "closing": "00:30",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Wednesday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "06:00",
+          "closing": "00:30",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Thursday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "06:00",
+          "closing": "00:30",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Friday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Saturday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Sunday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "06:00",
+          "closing": "00:30",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Public Holiday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "06:00",
+          "closing": "00:30",
+          "note": null
+        }
+      ],
+      "url": "/parking-locations/south-australia/adelaide-cbd/adelaide-central-car-park/",
+      "serviceConfiguration": {
+        "canBookABay": true,
+        "bookABayIconLabel": "Prepay Online",
+        "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
+        "monthlyParkingServiceIsAvailable": true,
+        "monthlyParkingIconLabel": "Monthly Subscription",
+        "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
+        "isWilsonOne": true,
+        "wilsonOneIconLabel": "Parking Card",
+        "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
+        "disabledParkingIsAvailable": true,
+        "disabledParkingIconLabel": "Disabled Parking",
+        "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
+        "evChargerIsAvailable": false,
+        "evChargerIconLabel": "EV Charging",
+        "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
+        "additionalServices": [
+          {
+            "label": null,
+            "icon": null
+          }
+        ]
+      },
+      "state": "SA",
+      "imgUrl": "/siteassets/parking-location-images/sa/ade039-resized.jpg",
       "price": "",
       "status": "",
       "cpmsCarparkCode": null,
@@ -87769,6 +88623,272 @@
       "featuredIndex": 0
     },
     {
+      "name": "The Quay Car Park",
+      "bookText": null,
+      "canBookABay": true,
+      "selectedFeatures": "",
+      "carParkFeature": [
+        "Monthly Parking",
+        "Night Parking",
+        "Weekend Parking",
+        "Book a Bay",
+        "Wilson One"
+      ],
+      "services": [
+        "book a bay",
+        "wilson one",
+        "monthly"
+      ],
+      "carParkName": "The Quay Car Park",
+      "carParkNumber": 6215,
+      "carParkPhoto": "/contentassets/ddf4bf3205d44eef81bcebe995e639d1/per215-car-park-photo.jpg",
+      "category": "",
+      "costCenter": 1006215,
+      "direction": "Entry is via the east-bound lanes of The Esplanade only. \n\n</br></br>If travelling from the east, please proceed onto St Georges Terrace west-bound, and then turn left down Howard St to reach The Esplanade.</br>\n\n\n\n\n\n\n\n",
+      "heightRestriction": 2.1,
+      "information": "<p>Wilson Parking offer affordable parking at The Quay Car Park, located at 18 The Esplanade, in the middle of the Perth CBD. Open 24/7, this undercover car park provides convenient parking access for Elizabeth Quay, Barrack Square &amp; the Bell Tower, with direct access to Allendale Square and St Georges Terrace from level 4 of the car park.&nbsp;Entry to the car park is via the east-bound lanes of The Esplanade only. If travelling from the east, please proceed onto St Georges Terrace west-bound, and then turn left down Howard St to reach The Esplanade.</p>\n<p>Offering casual Hourly, Night and Weekend Parking, as well as permanent monthly parking options, the Quay Car Park will meet all your Perth CBD Parking needs.&nbsp;</p>\n<p>Subscribe to monthly parking and enjoy the convenience of unlimited 24/7 car park access, or pay as you go with the Wilson Parking Card.</p>",
+      "isWilsonOne": true,
+      "legacyID": 503,
+      "monthlyParkingServiceIsAvailable": true,
+      "evChargerIsAvailable": false,
+      "disabledParkingIsAvailable": false,
+      "phoneNumber": "1800 PARKING",
+      "products": [],
+      "staticMapPhoto": null,
+      "streetViewHeading": "32.66152119174959",
+      "streetViewLocation": "https://www.google.com/maps/@?api=1&map_action=pano&pano=Bj1ITP-oQFOEwe96b0u5hA&viewpoint=-31.95642144418337,115.85737227294487&heading=29.124947362571923&pitch=-0.650567426206436",
+      "rates": [
+        {
+          "rateType": "Hourly",
+          "notes": "<p>Night Rates apply from 6pm Monday - Friday</p>",
+          "rates": [
+            {
+              "timeSpan": "0.0 - 0.5 hrs",
+              "price": 9.0
+            },
+            {
+              "timeSpan": "0.5 - 1.0 hrs",
+              "price": 14.0
+            },
+            {
+              "timeSpan": "1.0 - 1.5 hrs",
+              "price": 19.0
+            },
+            {
+              "timeSpan": "1.5 - 2.0 hrs",
+              "price": 24.0
+            },
+            {
+              "timeSpan": "2.0 - 3.0 hrs",
+              "price": 30.0
+            },
+            {
+              "timeSpan": "3.0 - 4.0 hrs",
+              "price": 36.0
+            },
+            {
+              "timeSpan": "4.0 - 5.0 hrs",
+              "price": 43.0
+            },
+            {
+              "timeSpan": "5.0 + hrs",
+              "price": 50.0
+            }
+          ]
+        },
+        {
+          "rateType": "Night",
+          "notes": "<p>From 6pm to 6am the following morning, Monday - Friday.</p>",
+          "rates": [
+            {
+              "timeSpan": "0.0 - 0.5 hrs",
+              "price": 3.0
+            },
+            {
+              "timeSpan": "0.5 - 1.0 hrs",
+              "price": 6.0
+            },
+            {
+              "timeSpan": "1.0 - 2.0 hrs",
+              "price": 9.0
+            },
+            {
+              "timeSpan": "2.0 - 3.0 hrs",
+              "price": 12.0
+            },
+            {
+              "timeSpan": "3.0 - 4.0 hrs",
+              "price": 15.0
+            },
+            {
+              "timeSpan": "4.0 - 5.0 hrs",
+              "price": 18.0
+            },
+            {
+              "timeSpan": "5.0 + hrs",
+              "price": 21.0
+            }
+          ]
+        },
+        {
+          "rateType": "Weekend",
+          "notes": "<p>Rates apply from 6am to 6am the following morning, per exit,per day.</p>\n<p>Available Saturday, Sunday &amp; Public Holidays.&nbsp;</p>",
+          "rates": [
+            {
+              "timeSpan": "0.0 - 0.5 hrs",
+              "price": 3.0
+            },
+            {
+              "timeSpan": "0.5 - 1.0 hrs",
+              "price": 6.0
+            },
+            {
+              "timeSpan": "1.0 - 2.0 hrs",
+              "price": 9.0
+            },
+            {
+              "timeSpan": "2.0 - 3.0 hrs",
+              "price": 12.0
+            },
+            {
+              "timeSpan": "3.0 - 4.0 hrs",
+              "price": 15.0
+            },
+            {
+              "timeSpan": "4.0 - 5.0 hrs",
+              "price": 18.0
+            },
+            {
+              "timeSpan": "5.0 + hrs",
+              "price": 21.0
+            }
+          ]
+        }
+      ],
+      "fromText": "From",
+      "fromPrice": "3",
+      "location": {
+        "longitude": 115.85757484139322,
+        "latitude": -31.956270607686172,
+        "zoom": 13,
+        "address": "18 The Esplanade, Perth, Elizabeth Quay",
+        "region": {
+          "name": "Perth CBD",
+          "longitude": 115.86034952911382,
+          "latitude": -31.954708170013102,
+          "status": "",
+          "state": {
+            "name": "Western Australia",
+            "abbreviation": "WA",
+            "country": "Australia",
+            "longitude": 123.41536223888397,
+            "latitude": -25.833723163507287,
+            "status": ""
+          }
+        }
+      },
+      "openingTimes": [
+        {
+          "day_TimePeriod": "Monthly",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Monday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Tuesday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Wednesday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Thursday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Friday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Saturday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Sunday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Public Holiday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        }
+      ],
+      "url": "/parking-locations/western-australia/perth-cbd/the-quay-car-park/",
+      "serviceConfiguration": {
+        "canBookABay": true,
+        "bookABayIconLabel": "Prepay Online",
+        "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
+        "monthlyParkingServiceIsAvailable": true,
+        "monthlyParkingIconLabel": "Monthly Subscription",
+        "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
+        "isWilsonOne": true,
+        "wilsonOneIconLabel": "Parking Card",
+        "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
+        "disabledParkingIsAvailable": false,
+        "disabledParkingIconLabel": "Disabled Parking",
+        "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
+        "evChargerIsAvailable": false,
+        "evChargerIconLabel": "EV Charging",
+        "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
+        "additionalServices": []
+      },
+      "state": "WA",
+      "imgUrl": "/contentassets/ddf4bf3205d44eef81bcebe995e639d1/per215-car-park-photo.jpg",
+      "price": "",
+      "status": "",
+      "cpmsCarparkCode": null,
+      "externalCarParkInfo": null,
+      "featuredIndex": 0
+    },
+    {
       "name": "Northbridge Central Car Park",
       "bookText": null,
       "canBookABay": false,
@@ -89655,6 +90775,236 @@
       "featuredIndex": 0
     },
     {
+      "name": "Westralia Square",
+      "bookText": null,
+      "canBookABay": true,
+      "selectedFeatures": "",
+      "carParkFeature": [
+        "Night Parking",
+        "Weekend Parking",
+        "Early Bird Parking",
+        "Book a Bay",
+        "Wilson One",
+        "Flexi Parking",
+        "Epark",
+        "Disabled Parking"
+      ],
+      "services": [
+        "book a bay",
+        "wilson one",
+        "disabled parking"
+      ],
+      "carParkName": "Westralia Square",
+      "carParkNumber": 6059,
+      "carParkPhoto": "/contentassets/4faae83752104baa985fa2f50b062667/20230419_151728.jpg",
+      "category": "",
+      "costCenter": 1006059,
+      "direction": "Entry via Mounts Bay Road\n\n\n\n\n",
+      "heightRestriction": 2.1,
+      "information": "<p>Wilson Parking offer affordable and convenient parking at Westralia Square, located at 24 Mounts Bay Rd, Perth. Open 7 days, and late on Friday and Saturday, this car park is ideal for visitors to Elizabeth Quay and other surrounding Perth businesses. Offering casual Hourly, Daily, Night and Weekend, as well as exclusive savings when you prepay online or with the Wilson Parking App,&nbsp;the Westralia Square Car Park will meet all of your parking needs.</p>\n<p>Download the Wilson Parking App to plan your journey, prepay ahead and access exclusive savings, or just drive up, pay with your credit card, pay as you go with the Wilson Parking Card.</p>",
+      "isWilsonOne": true,
+      "legacyID": 155,
+      "monthlyParkingServiceIsAvailable": false,
+      "evChargerIsAvailable": false,
+      "disabledParkingIsAvailable": true,
+      "phoneNumber": "1800 PARKING",
+      "products": [],
+      "staticMapPhoto": null,
+      "streetViewHeading": "18.003066034997595",
+      "streetViewLocation": "https://www.google.com/maps/@?api=1&map_action=pano&pano=9a-a38dDv7LZD7dcr2r5cQ&viewpoint=-31.95570442779067,115.8544995446258&heading=18.003066034997595&pitch=0.3823907788501799",
+      "rates": [
+        {
+          "rateType": "Hourly",
+          "notes": "<p>Rates available Monday - Friday, from 4.30am and exit before 5pm. Night rate applies after 5pm</p>",
+          "rates": [
+            {
+              "timeSpan": "0.0 - 0.5 hr",
+              "price": 7.0
+            },
+            {
+              "timeSpan": "0.5 - 1.0 hr",
+              "price": 11.0
+            },
+            {
+              "timeSpan": "1.0 - 1.5 hrs",
+              "price": 16.0
+            },
+            {
+              "timeSpan": "1.5 - 2.0 hrs",
+              "price": 21.0
+            },
+            {
+              "timeSpan": "2.0 - 3.0 hrs",
+              "price": 25.0
+            },
+            {
+              "timeSpan": "3.0 - 4.0 hrs",
+              "price": 30.0
+            },
+            {
+              "timeSpan": "4.0 - 5.0 hrs",
+              "price": 38.0
+            },
+            {
+              "timeSpan": "5.0 - 6.0 hrs",
+              "price": 42.0
+            },
+            {
+              "timeSpan": "6.0 hrs plus",
+              "price": 48.0
+            }
+          ]
+        },
+        {
+          "rateType": "Night",
+          "notes": "<p>Entry after 5pm, exit before 10pm, Monday - Friday.</p>\n<p>Select the&nbsp;<strong>Prepay now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>",
+          "rates": [
+            {
+              "timeSpan": "Mon - Fri",
+              "price": 10.0
+            }
+          ]
+        },
+        {
+          "rateType": "Weekend",
+          "notes": "<p>From 4.30am - close, per exit, per day, Saturday and Sunday.</p>\n<p>Select the&nbsp;<strong>Prepay now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>",
+          "rates": [
+            {
+              "timeSpan": "Sat - Sun",
+              "price": 10.0
+            }
+          ]
+        }
+      ],
+      "fromText": "From",
+      "fromPrice": "7",
+      "location": {
+        "longitude": 115.85444033145905,
+        "latitude": -31.955600950043326,
+        "zoom": 13,
+        "address": "Westralia Square, 141 St Georges Tce",
+        "region": {
+          "name": "Perth CBD",
+          "longitude": 115.86034952911382,
+          "latitude": -31.954708170013102,
+          "status": "",
+          "state": {
+            "name": "Western Australia",
+            "abbreviation": "WA",
+            "country": "Australia",
+            "longitude": 123.41536223888397,
+            "latitude": -25.833723163507287,
+            "status": ""
+          }
+        }
+      },
+      "openingTimes": [
+        {
+          "day_TimePeriod": "Monday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "04:30",
+          "closing": "22:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Tuesday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "04:30",
+          "closing": "22:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Wednesday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "04:30",
+          "closing": "22:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Thursday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "04:30",
+          "closing": "22:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Friday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "04:30",
+          "closing": "01:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Saturday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "04:30",
+          "closing": "01:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Sunday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "04:30",
+          "closing": "22:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Public Holiday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "04:30",
+          "closing": "22:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Monthly",
+          "is24_7": false,
+          "closed": false,
+          "opening": "04:30",
+          "closing": "22:00",
+          "note": null
+        }
+      ],
+      "url": "/parking-locations/western-australia/perth-cbd/westralia-square/",
+      "serviceConfiguration": {
+        "canBookABay": true,
+        "bookABayIconLabel": "Prepay Online",
+        "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
+        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingIconLabel": "Monthly Subscription",
+        "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
+        "isWilsonOne": true,
+        "wilsonOneIconLabel": "Parking Card",
+        "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
+        "disabledParkingIsAvailable": true,
+        "disabledParkingIconLabel": "Disabled Parking",
+        "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
+        "evChargerIsAvailable": false,
+        "evChargerIconLabel": "EV Charging",
+        "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
+        "additionalServices": [
+          {
+            "label": null,
+            "icon": null
+          }
+        ]
+      },
+      "state": "WA",
+      "imgUrl": "/contentassets/4faae83752104baa985fa2f50b062667/20230419_151728.jpg",
+      "price": "",
+      "status": "",
+      "cpmsCarparkCode": null,
+      "externalCarParkInfo": null,
+      "featuredIndex": 0
+    },
+    {
       "name": "The Atrium Car Park",
       "bookText": null,
       "canBookABay": false,
@@ -90930,6 +92280,434 @@
       },
       "state": "WA",
       "imgUrl": "/contentassets/476f2daef68f49e994184fcd7d960e53/per200.jpg",
+      "price": "",
+      "status": "",
+      "cpmsCarparkCode": null,
+      "externalCarParkInfo": null,
+      "featuredIndex": 0
+    },
+    {
+      "name": "St Georges Square Car Park",
+      "bookText": null,
+      "canBookABay": true,
+      "selectedFeatures": "",
+      "carParkFeature": [
+        "Night Parking",
+        "Weekend Parking",
+        "Early Bird Parking",
+        "Book a Bay",
+        "Wilson One",
+        "Flexi Parking",
+        "Summer Sale",
+        "Elevate",
+        "LPR"
+      ],
+      "services": [
+        "book a bay",
+        "wilson one"
+      ],
+      "carParkName": "St Georges Square Car Park",
+      "carParkNumber": 6055,
+      "carParkPhoto": "/siteassets/parking-location-images/wa/per055.gif",
+      "category": "",
+      "costCenter": 1006055,
+      "direction": "Entry off Spring Street.\n",
+      "heightRestriction": 2.0,
+      "information": "<p>Wilson Parking offer affordable &amp; convenient parking at our St Georges Square Car Park, located at 225 St Georges Tce, Perth, with the entry of Spring St. Open 7 days until late, this undercover car park is conveniently located in the Perth CBD, offering all day parking for visitors to nearby Perth businesses. Offering casual Hourly, Night and Weekend Parking and exclusive discounts when you prepay online or with the Wilson Parking App, the St Georges Square Car Park will meet all your Perth parking needs.&nbsp;</p>\n<p>Download the Wilson Parking App or prepay online to plan ahead and access exclusive discounts, or just drive up and pay with your credit card,&nbsp;pay as you go with a Wilson Parking card, or enjoy unlimited access within the operational hours of the car park when you subscribe to Monthly Parking. &nbsp;</p>",
+      "isWilsonOne": true,
+      "legacyID": 136,
+      "monthlyParkingServiceIsAvailable": false,
+      "evChargerIsAvailable": false,
+      "disabledParkingIsAvailable": false,
+      "phoneNumber": "1800 PARKING",
+      "products": [],
+      "staticMapPhoto": null,
+      "streetViewHeading": "70.93248028374822",
+      "streetViewLocation": "https://www.google.com/maps/@?api=1&map_action=pano&pano=3PCqAhQe8M25zz8iXEEH9w&viewpoint=-31.95427338554534,115.85057451914417&heading=70.93248028374822&pitch=-9.946471994076532",
+      "rates": [
+        {
+          "rateType": "Hourly",
+          "notes": "<p>Rates apply Monday - Friday, 5am to 5pm. Night rates apply from 5pm.</p>",
+          "rates": [
+            {
+              "timeSpan": "0.0 - 0.25 hrs",
+              "price": 0.0
+            },
+            {
+              "timeSpan": "0.25 - 0.5 hrs",
+              "price": 7.0
+            },
+            {
+              "timeSpan": "0.5 - 1.0 hrs",
+              "price": 13.0
+            },
+            {
+              "timeSpan": "1.0 - 1.5 hrs",
+              "price": 18.0
+            },
+            {
+              "timeSpan": "1.5 - 2.0 hrs",
+              "price": 23.0
+            },
+            {
+              "timeSpan": "2.0 - 3.0 hrs",
+              "price": 27.0
+            },
+            {
+              "timeSpan": "3.0 - 4.0 hrs",
+              "price": 33.0
+            },
+            {
+              "timeSpan": "4.0 - 5.0 hrs",
+              "price": 38.0
+            },
+            {
+              "timeSpan": "5.0 - 6.0 + hrs",
+              "price": 43.0
+            },
+            {
+              "timeSpan": "6.0 + hrs",
+              "price": 45.0
+            }
+          ]
+        },
+        {
+          "rateType": "Night",
+          "notes": "<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"1akcde78-0-0\">Credit card payment only at exit.</div>\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"1akcde78-0-0\">&nbsp;</div>\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"1akcde78-0-0\"><span data-offset-key=\"1akcde78-0-0\">Entry after 6pm, exit before 5am the following day.</span></div>\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"1akcde78-0-0\"><span data-offset-key=\"1akcde78-0-0\">If conditions not met, Hourly rates apply from time of entry.</span></div>\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"1akcde78-0-0\">Select the&nbsp;<strong>Prepay now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</div>\n<p>&nbsp;</p>",
+          "rates": [
+            {
+              "timeSpan": "Mon - Fri",
+              "price": 10.0
+            }
+          ]
+        },
+        {
+          "rateType": "Weekend",
+          "notes": "<p>Credit card payment only at exit.</p>\n<p>Flat Rate: per exit, per day</p>\n<p>Select the&nbsp;<strong>Prepay now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>",
+          "rates": [
+            {
+              "timeSpan": "Sat - Sun",
+              "price": 12.0
+            }
+          ]
+        }
+      ],
+      "fromText": "From",
+      "fromPrice": "0",
+      "location": {
+        "longitude": 115.85087835788727,
+        "latitude": -31.954397074114066,
+        "zoom": 13,
+        "address": "225 St Georges Terrace, Perth",
+        "region": {
+          "name": "Perth CBD",
+          "longitude": 115.86034952911382,
+          "latitude": -31.954708170013102,
+          "status": "",
+          "state": {
+            "name": "Western Australia",
+            "abbreviation": "WA",
+            "country": "Australia",
+            "longitude": 123.41536223888397,
+            "latitude": -25.833723163507287,
+            "status": ""
+          }
+        }
+      },
+      "openingTimes": [
+        {
+          "day_TimePeriod": "Monthly",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Monday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "05:00",
+          "closing": "22:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Tuesday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "05:00",
+          "closing": "22:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Wednesday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "05:00",
+          "closing": "22:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Thursday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "05:00",
+          "closing": "22:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Friday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "05:00",
+          "closing": "22:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Saturday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "08:00",
+          "closing": "21:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Sunday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "08:00",
+          "closing": "21:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Public Holiday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "08:00",
+          "closing": "21:00",
+          "note": null
+        }
+      ],
+      "url": "/parking-locations/western-australia/perth-cbd/st-georges-square-car-park/",
+      "serviceConfiguration": {
+        "canBookABay": true,
+        "bookABayIconLabel": "Prepay Online",
+        "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
+        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingIconLabel": "Monthly Subscription",
+        "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
+        "isWilsonOne": true,
+        "wilsonOneIconLabel": "Parking Card",
+        "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
+        "disabledParkingIsAvailable": false,
+        "disabledParkingIconLabel": "Disabled Parking",
+        "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
+        "evChargerIsAvailable": false,
+        "evChargerIconLabel": "EV Charging",
+        "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
+        "additionalServices": []
+      },
+      "state": "WA",
+      "imgUrl": "/siteassets/parking-location-images/wa/per055.gif",
+      "price": "",
+      "status": "",
+      "cpmsCarparkCode": null,
+      "externalCarParkInfo": null,
+      "featuredIndex": 0
+    },
+    {
+      "name": "Capital Square Car Park",
+      "bookText": null,
+      "canBookABay": true,
+      "selectedFeatures": "",
+      "carParkFeature": [
+        "Night Parking",
+        "Weekend Parking",
+        "Book a Bay",
+        "Wilson One",
+        "Entry height at least 2",
+        "Disabled Parking"
+      ],
+      "services": [
+        "book a bay",
+        "wilson one",
+        "disabled parking"
+      ],
+      "carParkName": "Capital Square Car Park",
+      "carParkNumber": 6400,
+      "carParkPhoto": "/contentassets/b48319796ac84008a4049d618228de23/per400-car-park-photo.jpg",
+      "category": "",
+      "costCenter": 1006400,
+      "direction": "Entry off Mounts Bay Road Eastbound and Spring Street.\n\n\n\n\n\n\n\n\n\n",
+      "heightRestriction": 2.0,
+      "information": "<p>Wilson Parking offer affordable parking at Capital Square&nbsp;Car Park, providing parking for visitors to the Capital Square Towers and nearby businesses in the Perth CBD. Offering Hourly, <span style=\"color: #000000;\">Weekend and Night</span> Parking options, and exclusive discounts when you prepay online or through the Wilson Parking App, the Capital Square&nbsp;Car Park will meet all your business parking needs.&nbsp;</p>\n<p>The car park offers two convenient entries. Enter via Mounts Bay Road heading Eastbound or Spring Street.</p>\n<p>Download the Wilson Parking App to prepay ahead and access exclusive savings, or simply drive up and pay with your Credit Card, pay as you go with a Wilson Parking card.</p>\n<p>&nbsp;</p>",
+      "isWilsonOne": true,
+      "legacyID": 6400,
+      "monthlyParkingServiceIsAvailable": false,
+      "evChargerIsAvailable": false,
+      "disabledParkingIsAvailable": true,
+      "phoneNumber": "1800 PARKING (1800 727 5464)",
+      "products": [],
+      "staticMapPhoto": null,
+      "streetViewHeading": "115.8495634",
+      "streetViewLocation": "https://www.google.com/maps/@-31.9550303,115.8495634,3a,60.1y,359.58h,82.2t/data=!3m6!1e1!3m4!1sP9bnHjj3wrrm-Cp-_YLA5g!2e0!7i16384!8i8192",
+      "rates": [
+        {
+          "rateType": "Hourly",
+          "notes": "<p>Rates apply Monday - Friday, 6am-6pm.&nbsp;</p>\n<p>Night rates apply from 6pm onwards.</p>\n<p>Price shown includes transaction fee.</p>",
+          "rates": [
+            {
+              "timeSpan": "0.0 - 0.5 hrs",
+              "price": 0.0
+            },
+            {
+              "timeSpan": "0.5 - 1.0 hrs",
+              "price": 5.0
+            },
+            {
+              "timeSpan": "1.0 - 1.5 hrs",
+              "price": 10.0
+            },
+            {
+              "timeSpan": "1.5 - 2.0 hrs",
+              "price": 15.0
+            },
+            {
+              "timeSpan": "6.0 hrs + until 6pm",
+              "price": 45.0
+            }
+          ]
+        },
+        {
+          "rateType": "Night",
+          "notes": "<p>Rates apply Monday - Friday, 6pm - 6am.&nbsp;</p>\n<p>Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>",
+          "rates": [
+            {
+              "timeSpan": "Mon - Fri",
+              "price": 10.0
+            }
+          ]
+        },
+        {
+          "rateType": "Weekend",
+          "notes": "<p>Rates apply Saturday - Sunday, per exit, per day</p>\n<p>Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>\n<p>&nbsp;</p>",
+          "rates": [
+            {
+              "timeSpan": "Sat - Sun",
+              "price": 15.0
+            }
+          ]
+        }
+      ],
+      "fromText": "From",
+      "fromPrice": "0",
+      "location": {
+        "longitude": 115.849470868565,
+        "latitude": -31.9548108687004,
+        "zoom": 13,
+        "address": "Entrance via Mounts Bay Road or Spring Street, Perth",
+        "region": {
+          "name": "Perth CBD",
+          "longitude": 115.86034952911382,
+          "latitude": -31.954708170013102,
+          "status": "",
+          "state": {
+            "name": "Western Australia",
+            "abbreviation": "WA",
+            "country": "Australia",
+            "longitude": 123.41536223888397,
+            "latitude": -25.833723163507287,
+            "status": ""
+          }
+        }
+      },
+      "openingTimes": [
+        {
+          "day_TimePeriod": "Monday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "06:00",
+          "closing": "21:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Tuesday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "06:00",
+          "closing": "21:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Wednesday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "06:00",
+          "closing": "21:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Thursday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "06:00",
+          "closing": "21:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Friday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "06:00",
+          "closing": "21:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Saturday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "08:00",
+          "closing": "21:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Sunday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "08:00",
+          "closing": "21:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Public Holiday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "08:00",
+          "closing": "21:00",
+          "note": null
+        }
+      ],
+      "url": "/parking-locations/western-australia/perth-cbd/capital-square-car-park/",
+      "serviceConfiguration": {
+        "canBookABay": true,
+        "bookABayIconLabel": "Prepay Online",
+        "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
+        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingIconLabel": "Monthly Subscription",
+        "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
+        "isWilsonOne": true,
+        "wilsonOneIconLabel": "Parking Card",
+        "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
+        "disabledParkingIsAvailable": true,
+        "disabledParkingIconLabel": "Disabled Parking",
+        "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
+        "evChargerIsAvailable": false,
+        "evChargerIconLabel": "EV Charging",
+        "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
+        "additionalServices": []
+      },
+      "state": "WA",
+      "imgUrl": "/contentassets/b48319796ac84008a4049d618228de23/per400-car-park-photo.jpg",
       "price": "",
       "status": "",
       "cpmsCarparkCode": null,
