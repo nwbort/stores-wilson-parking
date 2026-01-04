@@ -80172,61 +80172,45 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>*Excludes Event Days Event Day Rate $35</p>\n<p>Max day rate $32.00, new charges start 5am</p>\n<p>Scooter and motorbike parking at Adelaide Oval is $23 on event days.</p>",
+          "notes": "<p>*Excludes Event Days Event Day Rate $35</p>\n<p>New charges start 5am</p>\n<p>&nbsp;</p>",
           "rates": [
             {
               "timeSpan": "0.0 - 1.0 hrs",
-              "price": 9.5
+              "price": 12.0
             },
             {
               "timeSpan": "1.0 - 2.0 hrs",
-              "price": 14.5
-            },
-            {
-              "timeSpan": "2.0 - 3.0 hrs",
               "price": 18.0
             },
             {
+              "timeSpan": "2.0 - 3.0 hrs",
+              "price": 22.0
+            },
+            {
               "timeSpan": "3.0 - 4.0 hrs",
-              "price": 23.0
+              "price": 25.0
             },
             {
-              "timeSpan": "4.0 - 5.0 hrs",
-              "price": 24.5
-            },
-            {
-              "timeSpan": "5.0 - 6.0 hrs",
-              "price": 25.5
-            },
-            {
-              "timeSpan": "6.0 - 7.0 hrs",
-              "price": 26.0
-            },
-            {
-              "timeSpan": "7.0 - 9.0 hrs",
-              "price": 27.0
-            },
-            {
-              "timeSpan": "9.0 - 10.0 hrs",
+              "timeSpan": "4.0 - 7.0 hrs",
               "price": 28.0
             },
             {
-              "timeSpan": "10.0 -11.0 hrs",
-              "price": 29.0
-            },
-            {
-              "timeSpan": "11.0- 12.0 hrs",
-              "price": 30.0
-            },
-            {
-              "timeSpan": "12+ Max",
+              "timeSpan": "7.0 -10.0 hrs",
               "price": 32.0
+            },
+            {
+              "timeSpan": "10.0- 12.0 hrs",
+              "price": 36.0
+            },
+            {
+              "timeSpan": "12.0 + hrs",
+              "price": 40.0
             }
           ]
         }
       ],
       "fromText": "From",
-      "fromPrice": "9.5",
+      "fromPrice": "12",
       "location": {
         "longitude": 138.59619855880737,
         "latitude": -34.915566628178979,
@@ -80390,51 +80374,35 @@
           "rates": [
             {
               "timeSpan": "0.0 - 1.0 hrs",
-              "price": 9.5
+              "price": 12.0
             },
             {
               "timeSpan": "1.0 - 2.0 hrs",
-              "price": 14.5
-            },
-            {
-              "timeSpan": "2.0 - 3.0 hrs",
               "price": 18.0
             },
             {
+              "timeSpan": "2.0 - 3.0 hrs",
+              "price": 22.0
+            },
+            {
               "timeSpan": "3.0 - 4.0 hrs",
-              "price": 23.0
+              "price": 25.0
             },
             {
-              "timeSpan": "4.0 - 5.0 hrs",
-              "price": 24.5
-            },
-            {
-              "timeSpan": "5.0 - 6.0 hrs",
-              "price": 25.5
-            },
-            {
-              "timeSpan": "6.0 - 7.0 hrs",
-              "price": 26.0
-            },
-            {
-              "timeSpan": "7.0 - 9.0 hrs",
-              "price": 27.0
-            },
-            {
-              "timeSpan": "9.0 - 10.0 hrs",
+              "timeSpan": "4.0 - 7.0 hrs",
               "price": 28.0
             },
             {
-              "timeSpan": "10.0 - 11.0 hrs",
-              "price": 29.0
-            },
-            {
-              "timeSpan": "11.0 - 12.0 hrs",
-              "price": 30.0
-            },
-            {
-              "timeSpan": "12.0 + Max",
+              "timeSpan": "7.0 - 10.0 hrs",
               "price": 32.0
+            },
+            {
+              "timeSpan": "10.0 - 12.0 hrs",
+              "price": 36.0
+            },
+            {
+              "timeSpan": "12.0 + hrs",
+              "price": 40.0
             }
           ]
         },
