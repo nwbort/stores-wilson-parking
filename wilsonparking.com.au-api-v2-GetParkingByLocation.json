@@ -5701,16 +5701,6 @@
       "streetViewLocation": "https://www.google.com/maps/@?api=1&map_action=pano&pano=YmBoDLKi9_fPfuJedPj0aQ&viewpoint=-33.87157848877151,151.21477037039153&heading=53.04432901727946&pitch=-23.6374450791469",
       "rates": [
         {
-          "rateType": "Prepay Online",
-          "notes": "<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Flexi Saver Rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The flexi saver price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the <strong>Prepay Now</strong> link below to get started.<br />Rates shown include transaction fee.</p>\n<p>*Cruise Prepay Parking Rates are per Calendar Day.&nbsp;</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>\n<p><em>Before you prepay online, please note that the car park lifts are currently out of order</em></p>\n<p>&nbsp;</p>",
-          "rates": [
-            {
-              "timeSpan": "New Years Eve (31st December 2025)",
-              "price": 45.0
-            }
-          ]
-        },
-        {
           "rateType": "Hourly",
           "notes": "<p>Houlry rates apply Monday to Friday.&nbsp;Rates are charged from 6am daily.<br /><br /></p>\n<p>&nbsp;</p>",
           "rates": [
@@ -28156,29 +28146,29 @@
           "rates": [
             {
               "timeSpan": "0 - 0.5hrs",
-              "price": 4.05
+              "price": 4.15
             },
             {
               "timeSpan": "0.5 - 1 hrs",
-              "price": 8.1
+              "price": 8.3
             },
             {
               "timeSpan": "1 .0 - 2.0 hrs",
-              "price": 11.15
+              "price": 11.5
             },
             {
               "timeSpan": "2.0 - 3.0 hrs",
-              "price": 15.2
+              "price": 16.0
             },
             {
               "timeSpan": "3.0 + hrs",
-              "price": 20.25
+              "price": 22.0
             }
           ]
         }
       ],
       "fromText": "From",
-      "fromPrice": "4.05",
+      "fromPrice": "4.15",
       "location": {
         "longitude": 150.953111566528,
         "latitude": -33.7442886115356,
@@ -61084,7 +61074,7 @@
           "rates": [
             {
               "timeSpan": "Mon - Fri",
-              "price": 26.0
+              "price": 27.0
             }
           ]
         }
@@ -65754,6 +65744,20 @@
             },
             {
               "timeSpan": "7.0 + hrs (daily maximum)",
+              "price": 49.0
+            }
+          ]
+        },
+        {
+          "rateType": "Event Rate",
+          "notes": "<p>Rate applies when displayed on rate board at car park entries.</p>",
+          "rates": [
+            {
+              "timeSpan": "0 - 2 hrs",
+              "price": 0.0
+            },
+            {
+              "timeSpan": "2 + hrs (daily maximum)",
               "price": 49.0
             }
           ]
@@ -90472,7 +90476,7 @@
       "carParkPhoto": "/contentassets/811a0e785cd7426680280998c5e8b5db/per097c.jpg",
       "category": "",
       "costCenter": 1006097,
-      "direction": "Entry from St Georges Terrace (Eastbound), just before William Street, below Central Park Offices.\n\n\n\n\n\n",
+      "direction": "Entry from St Georges Terrace (Eastbound), just before William Street, below Central Park Offices.\n</br></br>Dear Customers</br>\n</br></br>The car park will not be accessible due to AusCycling Road Closure on below dates:</br>\n</br></br>10th January Saturday - 5:00AM to 5:30PM</br>\n</br></br>11th January Sunday - 5:00AM - 7:30PM</br>\n\n\n\n\n",
       "heightRestriction": 1.95,
       "information": "<p>Wilson Parking offer affordable parking at Central Park Car Park, located at 152-158 St Georges Terrace, Perth. Open 7 days until late, this car park is ideally located for visitors to the Central Park Offices, and surrounding Perth businesses. Offering casual Hourly, Online Early Bird Flexi, Night and Weekend Parking as well as exclusive discounts available when you prepay online or with the Wilson Parking App, the Central Park Car Park will meet all of your parking needs.</p>\n<p>Entry to the car park is on St Georges Terrace, travelling Eastbound, just before William St, below Central Park Offices.</p>\n<p>Download the Wilson Parking App to prepay your parking in advance and access exclusive discounts, or simply drive up and pay with your credit card, pay as you go with a Wilson Parking card, or enjoy unlimited access during the operational hours of the car park when you subscribe to Monthly Parking.</p>",
       "isWilsonOne": true,
@@ -90910,7 +90914,7 @@
       "carParkPhoto": "/contentassets/417ff33164ff44ecb8fe4160973f9f5d/20230421_090610_resized.jpg",
       "category": "",
       "costCenter": 1006060,
-      "direction": "Entry via King Street\n\n\n\t\t\t\t\n\n\n\n\n",
+      "direction": "Entry via King Street\n</br></br>Dear Customers</br>\n</br></br>The car park will not be accessible due to AusCycling Road Closure on below dates:</br>\n</br></br>10th January Saturday - 5:00AM to 5:30PM</br>\n</br></br>11th January Sunday - 5:00AM - 7:30PM</br>\n\t\t\t\t\n\n\n\n\n",
       "heightRestriction": 1.95,
       "information": "<p>Wilson Parking offer affordable parking at The Atrium Car Park, located at 168 St Georges Terrace, Perth (entry via King Street). Open 7 days until late, this car park is ideally located for visitors to The Atrium, and surrounding Perth businesses. Offering casual Hourly, Night and Weekend Parking, the Atrium Car Park will meet all of your parking needs. This car park is credit card only.</p>\n<p>&nbsp;</p>",
       "isWilsonOne": false,
@@ -93054,7 +93058,7 @@
       "carParkPhoto": "/contentassets/692c778ce69244f7a0bcd2f1610d04f2/per120.jpg",
       "category": "",
       "costCenter": 1006120,
-      "direction": "</br></br>Dear Customers </br>\n",
+      "direction": "</br></br>Dear Customers </br>\n</br></br>The car park will not be accessible due to AusCycling Road Closure on below dates:</br>\n</br></br>10th January Saturday - 5:00AM to 5:30PM</br>\n</br></br>11th January Sunday - 5:00AM - 7:30PM</br>",
       "heightRestriction": 2.2,
       "information": "<p>Wilson Parking offer affordable parking at Old Swan Brewery Car Park, located at 173 Mounts Bay Road, Kings Park. Open 24/7, this undercover car park is nearby to Kings Park and Botanic Gardens on the Swan River. Offering casual Hourly, Early Bird, Weekend and Night Parking, the Old Swan Brewery Car Park will meet all of your Kings Park parking needs.</p>\n<p>Pay as you go when you use your Wilson Parking Card for contact free, queue-less access to the car park.</p>",
       "isWilsonOne": true,
