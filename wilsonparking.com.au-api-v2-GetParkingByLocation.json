@@ -41677,20 +41677,12 @@
           "notes": null,
           "rates": [
             {
-              "timeSpan": "0.0 - 1.0 hrs",
+              "timeSpan": "0.0 - 2.0 hrs",
               "price": 2.0
             },
             {
-              "timeSpan": "1.0 - 2.0 hrs",
-              "price": 4.0
-            },
-            {
-              "timeSpan": "2.0 - 3.0 hrs",
+              "timeSpan": "2.0 - 12.0 hrs",
               "price": 6.0
-            },
-            {
-              "timeSpan": "3.0 - 12.0 hrs",
-              "price": 8.0
             },
             {
               "timeSpan": "12.0 - 24.0 hrs",
