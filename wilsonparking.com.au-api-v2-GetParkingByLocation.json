@@ -13788,6 +13788,224 @@
       "featuredIndex": 0
     },
     {
+      "name": "Royal Prince Alfred Medical Centre Car Park",
+      "bookText": null,
+      "canBookABay": true,
+      "selectedFeatures": "",
+      "carParkFeature": [
+        "Monthly Parking",
+        "Night Parking",
+        "Weekend Parking",
+        "Early Bird Parking",
+        "Book a Bay",
+        "Wilson One",
+        "Flexi Parking",
+        "Footy Parking"
+      ],
+      "services": [
+        "book a bay",
+        "wilson one",
+        "monthly"
+      ],
+      "carParkName": "Royal Prince Alfred Medical Centre Car Park",
+      "carParkNumber": 2348,
+      "carParkPhoto": null,
+      "category": "",
+      "costCenter": 1002348,
+      "direction": "Entry via Elizabeth Street",
+      "heightRestriction": 1.8,
+      "information": "<p>Wilson Parking offer affordable parking at Royal Prince Alfred Medical Centre Car Park which is located at the corner Carillon Road and Missenden Road - entry via Elizabeth St in the heart of in Camperdown / Newtown</p>\n<p>Nearby to RPA Hospital and Newtown Restaurant &amp; Bar Precint</p>\n<p>With hourly, night and weekend parking options available via Drive up or Prepay online.</p>",
+      "isWilsonOne": true,
+      "legacyID": 769,
+      "monthlyParkingServiceIsAvailable": true,
+      "evChargerIsAvailable": false,
+      "disabledParkingIsAvailable": false,
+      "phoneNumber": "1800 PARKING",
+      "products": [],
+      "staticMapPhoto": null,
+      "streetViewHeading": "202.3110409639593",
+      "streetViewLocation": "https://www.google.com/maps/@?api=1&map_action=pano&pano=mWlM2iGOYqvNlr6c1KFc2Q&viewpoint=-33.89147472536748,151.1838942187958&heading=202.3110409639593&pitch=-14.976130046526208",
+      "rates": [
+        {
+          "rateType": "Hourly",
+          "notes": "<p>Rates apply Monday to Friday<br />Rates charged from 6am daily</p>\n<p>&nbsp;</p>",
+          "rates": [
+            {
+              "timeSpan": "0.0 - 0.5 hrs",
+              "price": 9.0
+            },
+            {
+              "timeSpan": "0.5 - 1.0 hrs",
+              "price": 19.0
+            },
+            {
+              "timeSpan": "1.0 - 1.5 hrs",
+              "price": 29.0
+            },
+            {
+              "timeSpan": "1.5 - 2.0 hrs",
+              "price": 39.0
+            },
+            {
+              "timeSpan": "2.0 - 3.0 hrs",
+              "price": 44.0
+            },
+            {
+              "timeSpan": "3.0 + hrs",
+              "price": 49.0
+            }
+          ]
+        },
+        {
+          "rateType": "Night",
+          "notes": "<p><u>Night Rate:</u> Entry after 6pm, exit before 6am. Casual rates apply if entry and exit conditions not met<br />Online rate shown includes transaction fee. Click the Prepay now link below to get started.</p>",
+          "rates": [
+            {
+              "timeSpan": "Mon - Fri",
+              "price": 9.0
+            }
+          ]
+        },
+        {
+          "rateType": "Weekend",
+          "notes": "Flat Rate: per exit, per day",
+          "rates": [
+            {
+              "timeSpan": "Sat - Sun",
+              "price": 9.0
+            }
+          ]
+        }
+      ],
+      "fromText": "From",
+      "fromPrice": "6",
+      "location": {
+        "longitude": 151.18386583988112,
+        "latitude": -33.891551033782648,
+        "zoom": 13,
+        "address": "Corner of Carillon Rd and Missenden Rd, Camperdown",
+        "region": {
+          "name": "Inner West",
+          "longitude": 151.14801406860352,
+          "latitude": -33.886519974419969,
+          "status": "",
+          "state": {
+            "name": "New South Wales",
+            "abbreviation": "NSW",
+            "country": "Australia",
+            "longitude": 151.207430362701,
+            "latitude": -33.8662642500823,
+            "status": ""
+          }
+        }
+      },
+      "openingTimes": [
+        {
+          "day_TimePeriod": "Monthly",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Monday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Tuesday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Wednesday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Thursday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Friday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Saturday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Sunday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Public Holiday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        }
+      ],
+      "url": "/parking-locations/new-south-wales/inner-west/royal-prince-alfred-medical-centre-car-park/",
+      "serviceConfiguration": {
+        "canBookABay": true,
+        "bookABayIconLabel": "Prepay Online",
+        "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
+        "monthlyParkingServiceIsAvailable": true,
+        "monthlyParkingIconLabel": "Monthly Subscription",
+        "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
+        "isWilsonOne": true,
+        "wilsonOneIconLabel": "Parking Card",
+        "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
+        "disabledParkingIsAvailable": false,
+        "disabledParkingIconLabel": "Disabled Parking",
+        "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
+        "evChargerIsAvailable": false,
+        "evChargerIconLabel": "EV Charging",
+        "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
+        "additionalServices": [
+          {
+            "label": null,
+            "icon": null
+          }
+        ]
+      },
+      "state": "NSW",
+      "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
+      "price": "",
+      "status": "",
+      "cpmsCarparkCode": null,
+      "externalCarParkInfo": null,
+      "featuredIndex": 0
+    },
+    {
       "name": "Northpoint Car Park",
       "bookText": null,
       "canBookABay": false,
@@ -87748,6 +87966,154 @@
       "featuredIndex": 0
     },
     {
+      "name": "517 Hay Street (Kings Complex) Motorbikes only",
+      "bookText": null,
+      "canBookABay": false,
+      "selectedFeatures": "",
+      "carParkFeature": [
+        "Epark"
+      ],
+      "services": [],
+      "carParkName": "517 Hay Street (Kings Complex) Motorbikes only",
+      "carParkNumber": 6113,
+      "carParkPhoto": "/contentassets/9324ab3291044efbbd2e12849cb91a3c/per113c.jpg",
+      "category": "",
+      "costCenter": 1006113,
+      "direction": "Entry via Hay Street or Pier Street\n\n</br></br>Please note the car park lift is Out of Service until further advice. We apologise for the inconvenience. .</br>\n\n",
+      "heightRestriction": 2.0,
+      "information": "<p>Wilson Parking offer affordable motorcycle parking at Kings Complex Car Park, located at 517 Hay Street, Perth.&nbsp;The car park offers two convenient entries. Enter via Hay St or Pier Street, heading southbound, after the Hay Street intersection.</p>\n<p>Download the Wilson Parking App to pay for and manage your motorbike parking directly from your phone.</p>\n<p>Looking for car parking at 517 Hay St - check out our other parking options <a href=\"/link/3ef8101d1faa416f9c4c38f70f5c8d40.aspx\" target=\"_top\">here</a></p>",
+      "isWilsonOne": false,
+      "legacyID": 1006113,
+      "monthlyParkingServiceIsAvailable": false,
+      "evChargerIsAvailable": false,
+      "disabledParkingIsAvailable": false,
+      "phoneNumber": "1800 PARKING",
+      "products": [],
+      "staticMapPhoto": null,
+      "streetViewHeading": "147.00507537191612",
+      "streetViewLocation": "https://www.google.com/maps/@?api=1&map_action=pano&pano=WHeDv7mlfyzWMArnvfC-9w&viewpoint=-31.95545379958036,115.8628763534677&heading=147.00507537191612&pitch=-2.1169823388632096",
+      "rates": [],
+      "fromText": "From",
+      "fromPrice": "7",
+      "location": {
+        "longitude": 115.862671340676,
+        "latitude": -31.9555664814849,
+        "zoom": 13,
+        "address": "517 Hay Street, Perth",
+        "region": {
+          "name": "Perth CBD",
+          "longitude": 115.86034952911382,
+          "latitude": -31.954708170013102,
+          "status": "",
+          "state": {
+            "name": "Western Australia",
+            "abbreviation": "WA",
+            "country": "Australia",
+            "longitude": 123.41536223888397,
+            "latitude": -25.833723163507287,
+            "status": ""
+          }
+        }
+      },
+      "openingTimes": [
+        {
+          "day_TimePeriod": "Monday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Tuesday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Wednesday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Thursday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Friday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Saturday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Sunday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Public Holiday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        }
+      ],
+      "url": "/parking-locations/western-australia/perth-cbd/517-hay-street-kings-complex-motorbikes-only/",
+      "serviceConfiguration": {
+        "canBookABay": false,
+        "bookABayIconLabel": "Prepay Online",
+        "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
+        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingIconLabel": "Monthly Subscription",
+        "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
+        "isWilsonOne": false,
+        "wilsonOneIconLabel": "Parking Card",
+        "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
+        "disabledParkingIsAvailable": false,
+        "disabledParkingIconLabel": "Disabled Parking",
+        "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
+        "evChargerIsAvailable": false,
+        "evChargerIconLabel": "EV Charging",
+        "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
+        "additionalServices": [
+          {
+            "label": null,
+            "icon": null
+          }
+        ]
+      },
+      "state": "WA",
+      "imgUrl": "/contentassets/9324ab3291044efbbd2e12849cb91a3c/per113c.jpg",
+      "price": "",
+      "status": "",
+      "cpmsCarparkCode": null,
+      "externalCarParkInfo": null,
+      "featuredIndex": 0
+    },
+    {
       "name": "22 Stirling St Car Park",
       "bookText": null,
       "canBookABay": false,
@@ -90468,7 +90834,7 @@
       "carParkPhoto": "/contentassets/811a0e785cd7426680280998c5e8b5db/per097c.jpg",
       "category": "",
       "costCenter": 1006097,
-      "direction": "Entry from St Georges Terrace (Eastbound), just before William Street, below Central Park Offices.\n</br></br>Dear Customers</br>\n</br></br>The car park will not be accessible due to AusCycling Road Closure on below dates:</br>\n</br></br>10th January Saturday - 5:00AM to 5:30PM</br>\n</br></br>11th January Sunday - 5:00AM - 7:30PM</br>\n\n\n\n\n",
+      "direction": "Entry from St Georges Terrace (Eastbound), just before William Street, below Central Park Offices.\n</br></br>The car park will not be accessible due to AusCycling Road Closure on below dates:\n</br></br>10th January Saturday - 5:00AM to 5:30PM</br>\n</br></br>11th January Sunday - 5:00AM - 7:30PM</br>\n\n\n\n\n",
       "heightRestriction": 1.95,
       "information": "<p>Wilson Parking offer affordable parking at Central Park Car Park, located at 152-158 St Georges Terrace, Perth. Open 7 days until late, this car park is ideally located for visitors to the Central Park Offices, and surrounding Perth businesses. Offering casual Hourly, Online Early Bird Flexi, Night and Weekend Parking as well as exclusive discounts available when you prepay online or with the Wilson Parking App, the Central Park Car Park will meet all of your parking needs.</p>\n<p>Entry to the car park is on St Georges Terrace, travelling Eastbound, just before William St, below Central Park Offices.</p>\n<p>Download the Wilson Parking App to prepay your parking in advance and access exclusive discounts, or simply drive up and pay with your credit card, pay as you go with a Wilson Parking card, or enjoy unlimited access during the operational hours of the car park when you subscribe to Monthly Parking.</p>",
       "isWilsonOne": true,
