@@ -39210,12 +39210,8 @@
       "bookText": null,
       "canBookABay": false,
       "selectedFeatures": "",
-      "carParkFeature": [
-        "Monthly Parking"
-      ],
-      "services": [
-        "monthly"
-      ],
+      "carParkFeature": [],
+      "services": [],
       "carParkName": "4 Marcus Clarke Street Car Park",
       "carParkNumber": 1061,
       "carParkPhoto": null,
@@ -39226,7 +39222,7 @@
       "information": "<p>Wilson Parking offer affordable &amp; secure parking at 4 Marcus Clarke Street, Canberra. Nearby to City Hill, and close to many Canberra businesses, this monthly parking only car park will meet all your Canberra parking needs.</p>\n<p>This is a monthly only car park. Apply for monthly parking for convenient, unlimited 24 hour access to the car park.</p>",
       "isWilsonOne": false,
       "legacyID": 566,
-      "monthlyParkingServiceIsAvailable": true,
+      "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
       "phoneNumber": "1800 PARKING",
@@ -39272,7 +39268,7 @@
         "canBookABay": false,
         "bookABayIconLabel": "Prepay Online",
         "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": true,
+        "monthlyParkingServiceIsAvailable": false,
         "monthlyParkingIconLabel": "Monthly Subscription",
         "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
         "isWilsonOne": false,
@@ -67049,7 +67045,7 @@
       "costCenter": 1004356,
       "direction": "Entry off Little Cribb Street",
       "heightRestriction": 2.2,
-      "information": "<p><span style=\"color: #ff1e25;\">Event Parking is available at this car park on the following dates: 9 January, 24 January.</span></p>\n<p>Wilson Parking offers affordable &amp; secure parking at Milton Green&nbsp;car park, located at 19 Little Cribb Street&nbsp;in the heart of Milton. Open 7 days, this undercover car park provides convenient access to nearby Suncorp Stadium and surrounding entertainment and retail precinct. Offering hourly, night and weekend parking options with discounts when you prepay online, permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the Milton Green&nbsp;car park will meet all your business and leisure parking needs.&nbsp;</p>",
+      "information": "<p><span style=\"color: #ff1e25;\">Event Parking is available at this car park on the following dates: 24 January.</span></p>\n<p>Wilson Parking offers affordable &amp; secure parking at Milton Green&nbsp;car park, located at 19 Little Cribb Street&nbsp;in the heart of Milton. Open 7 days, this undercover car park provides convenient access to nearby Suncorp Stadium and surrounding entertainment and retail precinct. Offering hourly, night and weekend parking options with discounts when you prepay online, permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the Milton Green&nbsp;car park will meet all your business and leisure parking needs.&nbsp;</p>",
       "isWilsonOne": false,
       "legacyID": 1004356,
       "monthlyParkingServiceIsAvailable": true,
@@ -70431,7 +70427,7 @@
       "costCenter": 1004298,
       "direction": "Entry via Dowse Street",
       "heightRestriction": 2.3,
-      "information": "<p><span style=\"color: #ff1e25;\">Event Parking is available at this car park on the following dates:</span><span style=\"color: #ff1e25;\"> 9 January, 24 January.</span></p>\n<p>Wilson Parking offers affordable and secure parking at&nbsp;Darling &amp; Co car park, located in the heart of Paddington. Open 7 days, this undercover car park provides convenient access to Lang Park (Suncorp Stadium). Offering casual and night parking, and exclusive discounts when you pay via the Wilson Parking app, the&nbsp;Darling &amp; Co car park will meet all your business and leisure parking needs.</p>\n<p>Car park closes at 11pm on event nights.</p>",
+      "information": "<p><span style=\"color: #ff1e25;\">Event Parking is available at this car park on the following dates:</span><span style=\"color: #ff1e25;\">&nbsp;24 January.</span></p>\n<p>Wilson Parking offers affordable and secure parking at&nbsp;Darling &amp; Co car park, located in the heart of Paddington. Open 7 days, this undercover car park provides convenient access to Lang Park (Suncorp Stadium). Offering casual and night parking, and exclusive discounts when you pay via the Wilson Parking app, the&nbsp;Darling &amp; Co car park will meet all your business and leisure parking needs.</p>\n<p>Car park closes at 11pm on event nights.</p>",
       "isWilsonOne": false,
       "legacyID": 4298,
       "monthlyParkingServiceIsAvailable": true,
@@ -72258,19 +72254,23 @@
           "rates": [
             {
               "timeSpan": "0.0 - 0.5 hrs",
-              "price": 2.0
+              "price": 5.0
             },
             {
               "timeSpan": "0.5 - 1.0 hrs",
-              "price": 9.0
+              "price": 10.0
             },
             {
               "timeSpan": "1.0 - 1.5 hrs",
               "price": 15.0
             },
             {
-              "timeSpan": "1.5 + hrs (daily maximum)",
-              "price": 19.0
+              "timeSpan": "1.5 - 2.0 hrs",
+              "price": 20.0
+            },
+            {
+              "timeSpan": "2.0 + hrs",
+              "price": 25.0
             }
           ]
         },
@@ -72286,7 +72286,7 @@
         }
       ],
       "fromText": "From",
-      "fromPrice": "2",
+      "fromPrice": "5",
       "location": {
         "longitude": 153.02652460509,
         "latitude": -27.4464177539068,
