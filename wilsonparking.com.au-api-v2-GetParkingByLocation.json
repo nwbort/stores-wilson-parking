@@ -16983,6 +16983,217 @@
       "featuredIndex": 0
     },
     {
+      "name": "North Shore Health Hub Car Park",
+      "bookText": null,
+      "canBookABay": true,
+      "selectedFeatures": "",
+      "carParkFeature": [
+        "Monthly Parking",
+        "Weekend Parking",
+        "Early Bird Parking",
+        "Book a Bay",
+        "Wilson One",
+        "Overnight Parking",
+        "Flexi Parking",
+        "Daily Pass Bundles",
+        "Footy Parking",
+        "EV Charging"
+      ],
+      "services": [
+        "book a bay",
+        "wilson one",
+        "monthly",
+        "ev charging"
+      ],
+      "carParkName": "North Shore Health Hub Car Park",
+      "carParkNumber": 2350,
+      "carParkPhoto": null,
+      "category": "",
+      "costCenter": 1002350,
+      "direction": "Entry via 7 Westbourne St",
+      "heightRestriction": 1.9,
+      "information": "<p>Wilson Parking offers affordable parking at North Shore Health Hub Car Park which is located at the Corner of Westbourne Street and Reserve Road, St Leonards. With prepay online, monthly, early bird and weekend parking the North Shore Health Hub Car Park will meet all of your parking needs.&nbsp;</p>",
+      "isWilsonOne": true,
+      "legacyID": 790,
+      "monthlyParkingServiceIsAvailable": true,
+      "evChargerIsAvailable": true,
+      "disabledParkingIsAvailable": false,
+      "phoneNumber": "1800 PARKING",
+      "products": [],
+      "staticMapPhoto": null,
+      "streetViewHeading": "351.8880155102409",
+      "streetViewLocation": "https://www.google.com/maps/@?api=1&map_action=pano&pano=-UIYKTJX0h3I-8DRUjVi4w&viewpoint=-33.8206138095457,151.1903684180858&heading=351.8880155102409&pitch=-16.22578018251565",
+      "rates": [
+        {
+          "rateType": "Hourly",
+          "notes": "<p>Rates charged from 5am daily</p>\n<p>&nbsp;</p>",
+          "rates": [
+            {
+              "timeSpan": "0.0 - 0.5 hrs",
+              "price": 6.0
+            },
+            {
+              "timeSpan": "0.5 - 1.0 hrs",
+              "price": 12.0
+            },
+            {
+              "timeSpan": "1.0 - 2.0 hrs",
+              "price": 18.0
+            },
+            {
+              "timeSpan": "2.0 - 3.0 hrs",
+              "price": 24.0
+            },
+            {
+              "timeSpan": "3.0 - 4.0 hrs",
+              "price": 30.0
+            },
+            {
+              "timeSpan": "4.0 + hrs",
+              "price": 36.0
+            }
+          ]
+        },
+        {
+          "rateType": "Weekend",
+          "notes": "<p>Flat Rate: per exit, per day</p>\n<p>Online rate shown includes transaction fee. Click the Prepay now link below to get started.</p>",
+          "rates": [
+            {
+              "timeSpan": "Sat - Sun",
+              "price": 5.0
+            }
+          ]
+        }
+      ],
+      "fromText": "From",
+      "fromPrice": "4",
+      "location": {
+        "longitude": 151.19090261104509,
+        "latitude": -33.820429610963146,
+        "zoom": 13,
+        "address": "Corner Westbourne St and Reserve Rd, St Leonards",
+        "region": {
+          "name": "St Leonards",
+          "longitude": 151.19715213775635,
+          "latitude": -33.825007527899594,
+          "status": "",
+          "state": {
+            "name": "New South Wales",
+            "abbreviation": "NSW",
+            "country": "Australia",
+            "longitude": 151.207430362701,
+            "latitude": -33.8662642500823,
+            "status": ""
+          }
+        }
+      },
+      "openingTimes": [
+        {
+          "day_TimePeriod": "Monthly",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Monday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "05:00",
+          "closing": "22:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Tuesday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "05:00",
+          "closing": "22:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Wednesday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "05:00",
+          "closing": "22:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Thursday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "05:00",
+          "closing": "22:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Friday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "05:00",
+          "closing": "22:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Saturday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "05:00",
+          "closing": "22:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Sunday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "05:00",
+          "closing": "22:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Public Holiday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "05:00",
+          "closing": "22:00",
+          "note": null
+        }
+      ],
+      "url": "/parking-locations/new-south-wales/st-leonards/north-shore-health-hub-car-park/",
+      "serviceConfiguration": {
+        "canBookABay": true,
+        "bookABayIconLabel": "Prepay Online",
+        "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
+        "monthlyParkingServiceIsAvailable": true,
+        "monthlyParkingIconLabel": "Monthly Subscription",
+        "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
+        "isWilsonOne": true,
+        "wilsonOneIconLabel": "Parking Card",
+        "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
+        "disabledParkingIsAvailable": false,
+        "disabledParkingIconLabel": "Disabled Parking",
+        "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
+        "evChargerIsAvailable": true,
+        "evChargerIconLabel": "EV Charging",
+        "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
+        "additionalServices": [
+          {
+            "label": null,
+            "icon": null
+          }
+        ]
+      },
+      "state": "NSW",
+      "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
+      "price": "",
+      "status": "",
+      "cpmsCarparkCode": null,
+      "externalCarParkInfo": null,
+      "featuredIndex": 0
+    },
+    {
       "name": "520 Old South Head Rd Car Park",
       "bookText": null,
       "canBookABay": false,
@@ -38407,9 +38618,7 @@
       "bookText": null,
       "canBookABay": false,
       "selectedFeatures": "",
-      "carParkFeature": [
-        "Epark"
-      ],
+      "carParkFeature": [],
       "services": [],
       "carParkName": "Barry Drive",
       "carParkNumber": 1159,
@@ -38418,7 +38627,7 @@
       "costCenter": 1012159,
       "direction": null,
       "heightRestriction": 0.0,
-      "information": "<p>Wilson Parking offer affordable parking at Barry Drive Car Park, located at 7-11 Barry Drive, Turner. Nearby to Turner Parkland, ANU North Oval, Canberra Community Law and other popular Canberra businesses and venues, this car park is open 6am - 7pm. Offering casual Hourly parking, and the ease of payments with the Wilson Parking App, the Barry Drive Car Park will meet all of your parking needs.</p>\n<p>Download the Wilson Parking App to quickly and easily pay for your parking from your phone.</p>\n<p>&nbsp;</p>",
+      "information": "<h4>Car park is currently Temporarily Closed</h4>\n<p>Wilson Parking offer affordable parking at Barry Drive Car Park, located at 7-11 Barry Drive, Turner. Nearby to Turner Parkland, ANU North Oval, Canberra Community Law and other popular Canberra businesses and venues, this car park is open 6am - 7pm. Offering casual Hourly parking, and the ease of payments with the Wilson Parking App, the Barry Drive Car Park will meet all of your parking needs.</p>\n<p>Download the Wilson Parking App to quickly and easily pay for your parking from your phone.</p>\n<p>&nbsp;</p>",
       "isWilsonOne": false,
       "legacyID": 1159,
       "monthlyParkingServiceIsAvailable": false,
