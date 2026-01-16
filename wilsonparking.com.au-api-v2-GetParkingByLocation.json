@@ -57248,6 +57248,16 @@
               "price": 9.0
             }
           ]
+        },
+        {
+          "rateType": "Night",
+          "notes": "<p>Entry after 5pm, exit before 6am next day.&nbsp;</p>",
+          "rates": [
+            {
+              "timeSpan": "Night from",
+              "price": 8.0
+            }
+          ]
         }
       ],
       "fromText": "From",
@@ -77274,7 +77284,7 @@
       "costCenter": 1005048,
       "direction": null,
       "heightRestriction": 2.0,
-      "information": "<p>Wilson Parking offer affordable &amp; secure parking at 8 Union St Car Park, located at 8 Union Street, Adelaide. This car park is centrally located in the East End restaurant precinct, and accessible 24 hours a day. Offering discount online parking options, the 8 Union St Car Park will meet all of your parking needs.</p>\n<p>Enjoy the convenience of pay as you go with a Wilson Parking card, or enjoy 24/7 unlimited access when you subscribe to Monthly Parking.&nbsp;</p>",
+      "information": "<p><span style=\"color: #ff1e25;\">This car park will closed from 11.59pm Friday 23 January until 1pm Sunday 25 January for the&nbsp;TDU Car Park Climb. Alternative parking is available at&nbsp;21 Bent St Car Park.</span></p>\n<p>Wilson Parking offer affordable &amp; secure parking at 8 Union St Car Park, located at 8 Union Street, Adelaide. This car park is centrally located in the East End restaurant precinct, and accessible 24 hours a day. Offering discount online parking options, the 8 Union St Car Park will meet all of your parking needs.</p>\n<p>Enjoy the convenience of pay as you go with a Wilson Parking card, or enjoy 24/7 unlimited access when you subscribe to Monthly Parking.&nbsp;</p>",
       "isWilsonOne": true,
       "legacyID": 272,
       "monthlyParkingServiceIsAvailable": true,
