@@ -226,7 +226,9 @@
       "selectedFeatures": "",
       "carParkFeature": [
         "Wilson One",
-        "Entry height at least 2"
+        "Entry height at least 2",
+        "Elevate",
+        "LPR"
       ],
       "services": [
         "wilson one"
@@ -55992,7 +55994,7 @@
           "rates": [
             {
               "timeSpan": "Mon - Fri",
-              "price": 26.0
+              "price": 20.0
             }
           ]
         }
@@ -56345,7 +56347,7 @@
       "costCenter": 1003250,
       "direction": "Entry via Russell St (Extension) or off Batman Ave (at Tennis Centre)\nOn event dates and busy periods, please use the Batman Avenue Exit from Level 1 and allow additional time to exit. \nEvent Dates \nSeptember 2025 - 12th, 19th, 25th from 4:00 pm, 20th from 12:00 pm, 27th from 7:00 am.",
       "heightRestriction": 2.1,
-      "information": "<p><span style=\"color: #ff1e25;\"><strong><u>Event Dates December 2025</u></strong></span></p>\n<p><span style=\"color: #ff1e25;\">&nbsp; 27<sup>th</sup>&nbsp;- 30th from 8am to 11:59pm</span></p>\n<p><span style=\"color: #ff1e25;\"><strong><u>Event Dates January 2026</u></strong></span></p>\n<p><span style=\"color: #ff1e25;\">&nbsp; 4th, 8th, 13th, 14th, 15th, 16th from 4:00pm to 11:59pm</span></p>\n<p><span style=\"color: #ff1e25;\">&nbsp; 18<sup>th</sup>&nbsp;of Jan to 1<sup>st</sup>&nbsp;of Feb from 10:00am to 11:59pm</span></p>\n<p><span style=\"color: #ff1e25;\">&nbsp; 17<sup>th</sup>&nbsp;Jan from 6:00am to 11:59pm</span></p>\n<p><span style=\"color: #ff1e25;\">Event rates will apply.</span><br /><span style=\"color: #ff1e25;\"><em>On event dates, please allow additional time to exit.</em></span></p>\n<p>Wilson Parking offers affordable &amp; secure parking at Federation Square Car Park, located on Russell St (Extension) in the Melbourne CBD. This car park is nearby to many popular attractions, including Federation Square, Flinders St Station, Birrarung Marr, Rod Laver Arena and Melbourne Park. Offering casual Early Bird, Hourly, Night and Weekend parking, with exclusive discounts when you prepay online, the Federation Square Car Park will meet all of your parking needs.</p>\n<p><span style=\"color: #000000;\"><strong>On event dates and busy periods, please use the Batman Avenue Exit from Level 1 and allow additional time to exit.</strong></span></p>\n<p>Download the Wilson Parking App to plan your journey and access exclusive discounts when you prepay online; pay as you go with one convenient monthly invoice when you use your Wilson Parking Card; enjoy 24/7 unlimited access when you subscribe to Monthly Parking; or just drive up to pay with a credit card at the car park.</p>",
+      "information": "<p><span style=\"color: #ff1e25;\"><strong><u>Event Dates January 2026</u></strong></span></p>\n<p><span style=\"color: #ff1e25;\">4th, 8th, 13th, 14th, 15th, 16th from 4:00pm to 11:59pm</span></p>\n<p><span style=\"color: #ff1e25;\">17th&nbsp;to 31st from 6:00am to 11:59pm</span></p>\n<p><span style=\"color: #ff1e25;\"><strong><u>Event Dates February 2026</u></strong></span></p>\n<p><span style=\"color: #ff1e25;\">1st from 6:00am to 11:59pm</span></p>\n<p><span style=\"color: #ff1e25;\">Event rates will apply.</span><br /><span style=\"color: #ff1e25;\"><em>On event dates, please allow additional time to exit.</em></span></p>\n<p>&nbsp;</p>\n<p>Wilson Parking offers affordable &amp; secure parking at Federation Square Car Park, located on Russell St (Extension) in the Melbourne CBD. This car park is nearby to many popular attractions, including Federation Square, Flinders St Station, Birrarung Marr, Rod Laver Arena and Melbourne Park. Offering casual Early Bird, Hourly, Night and Weekend parking, with exclusive discounts when you prepay online, the Federation Square Car Park will meet all of your parking needs.</p>\n<p><span style=\"color: #000000;\"><strong>On event dates and busy periods, please use the Batman Avenue Exit from Level 1 and allow additional time to exit.</strong></span></p>\n<p>Download the Wilson Parking App to plan your journey and access exclusive discounts when you prepay online; pay as you go with one convenient monthly invoice when you use your Wilson Parking Card; enjoy 24/7 unlimited access when you subscribe to Monthly Parking; or just drive up to pay with a credit card at the car park.</p>",
       "isWilsonOne": true,
       "legacyID": 94,
       "monthlyParkingServiceIsAvailable": true,
@@ -56739,7 +56741,7 @@
       "costCenter": 1003106,
       "direction": "Entry & Exit via Russell Street",
       "heightRestriction": 2.0,
-      "information": "<p>Wilson Parking offers affordable and convenient parking at the T&amp;G Building located at 161 Collins Street, Melbourne. Enter&nbsp;at 37-39 Russell St (between Flinders Lane &amp; Collins St).</p>\n<p>The T&amp;G Building, 161 Collins St Car Park offers discounted parking when you prepay online for Early Bird, Weekend and Night products, as well as competitive drive-in rates. You can pay as you go with the Wilson Parking Card, or enjoy convenient unlimited 24/7 access when you subscribe to Monthly Parking.</p>\n<p>The T&amp;G Building, 161 Collins St Car Park is sure to meet all of your Melbourne CBD parking needs.</p>\n<p><strong>This car park accepts Credit Card payments only</strong>.</p>\n<p>&nbsp;</p>",
+      "information": "<p><span style=\"color: #ff1e25;\">Due to planned building works, the T&amp;G Building - 161 Collins St Car Park will be closed from 6pm Friday, 23 January until 6.30am Saturday, 24 January.</span></p>\n<p>Wilson Parking offers affordable and convenient parking at the T&amp;G Building located at 161 Collins Street, Melbourne. Enter&nbsp;at 37-39 Russell St (between Flinders Lane &amp; Collins St).</p>\n<p>The T&amp;G Building, 161 Collins St Car Park offers discounted parking when you prepay online for Early Bird, Weekend and Night products, as well as competitive drive-in rates. You can pay as you go with the Wilson Parking Card, or enjoy convenient unlimited 24/7 access when you subscribe to Monthly Parking.</p>\n<p>The T&amp;G Building, 161 Collins St Car Park is sure to meet all of your Melbourne CBD parking needs.</p>\n<p><strong>This car park accepts Credit Card payments only</strong>.</p>\n<p>&nbsp;</p>",
       "isWilsonOne": true,
       "legacyID": 98,
       "monthlyParkingServiceIsAvailable": true,
@@ -56971,7 +56973,7 @@
       "costCenter": 1003169,
       "direction": "Entry via Flinders St or 195 Flinders Lane",
       "heightRestriction": 2.0,
-      "information": "<p><span style=\"color: #ff1e25;\"><em>On event dates, please allow additional time to exit</em></span></p>\n<p>Wilson Parking offers affordable &amp; convenient parking at Flinders Gate Car Park, located at 172-192 Flinders Street, Melbourne. This car park is nearby to many Melbourne attractions including St Paul's Cathedral, The Ian Potter Centre and Flinders St Station.</p>\n<p>Offering online discounts for Flexi Saver, Night, Overnight and Weekend parking as well as competitive drive up rates, the Flinders Gate car park will meet all of your parking needs when visiting the Melbourne CBD.</p>\n<p><strong>This car park accepts Credit Card payments only.</strong></p>\n<p>Pay as you go with a Wilson Parking Card, or enjoy unlimited 24/7 access when you subscribe to a Monthly parking account.</p>\n<p><em>Site can be affected by road closures. Please refer to the <a title=\"https://www.melbourne.vic.gov.au/parking-and-transport/roads/Pages/road-closures.aspx\" href=\"https://www.melbourne.vic.gov.au/parking-and-transport/roads/Pages/road-closures.aspx\" target=\"_blank\" rel=\"noopener\">City of Melbourne website</a> for more information.</em></p>",
+      "information": "<p><span style=\"color: #ff1e25;\"><em>On event dates, please allow additional time to exit.</em></span></p>\n<p>Wilson Parking offers affordable &amp; convenient parking at Flinders Gate Car Park, located at 172-192 Flinders Street, Melbourne. This car park is nearby to many Melbourne attractions including St Paul's Cathedral, The Ian Potter Centre and Flinders St Station.</p>\n<p>Offering online discounts for Flexi Saver, Night, Overnight and Weekend parking as well as competitive drive up rates, the Flinders Gate car park will meet all of your parking needs when visiting the Melbourne CBD.</p>\n<p><strong>This car park accepts Credit Card payments only.</strong></p>\n<p>Pay as you go with a Wilson Parking Card, or enjoy unlimited 24/7 access when you subscribe to a Monthly parking account.</p>\n<p><em>Site can be affected by road closures. Please refer to the <a title=\"https://www.melbourne.vic.gov.au/parking-and-transport/roads/Pages/road-closures.aspx\" href=\"https://www.melbourne.vic.gov.au/parking-and-transport/roads/Pages/road-closures.aspx\" target=\"_blank\" rel=\"noopener\">City of Melbourne website</a> for more information.</em></p>",
       "isWilsonOne": true,
       "legacyID": 253,
       "monthlyParkingServiceIsAvailable": true,
