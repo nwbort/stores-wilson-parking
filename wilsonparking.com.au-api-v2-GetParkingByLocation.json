@@ -8995,7 +8995,7 @@
           "rates": [
             {
               "timeSpan": "Early Bird - Monday to Friday",
-              "price": 18.0
+              "price": 20.0
             }
           ]
         },
@@ -37897,30 +37897,26 @@
           "notes": "<p>Rates apply, Monday-Sunday<br />Public Holidays: Casual Rates Apply</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 0.5 hrs",
-              "price": 4.5
-            },
-            {
-              "timeSpan": "0.5 - 1.0 hrs",
-              "price": 5.5
+              "timeSpan": "0.0 - 1.0 hrs",
+              "price": 5.0
             },
             {
               "timeSpan": "1.0 - 2.0 hrs",
-              "price": 8.5
+              "price": 10.0
             },
             {
               "timeSpan": "2.0 - 3.0 hrs",
-              "price": 10.5
+              "price": 15.0
             },
             {
               "timeSpan": "3.0 - 4.0 hrs",
-              "price": 16.5
+              "price": 17.0
             }
           ]
         }
       ],
       "fromText": "From",
-      "fromPrice": "4.5",
+      "fromPrice": "5",
       "location": {
         "longitude": 149.13171172142029,
         "latitude": -35.2735697125008,
@@ -56520,7 +56516,7 @@
       "costCenter": 1003250,
       "direction": "Entry via Russell St (Extension) or off Batman Ave (at Tennis Centre)\nOn event dates and busy periods, please use the Batman Avenue Exit from Level 1 and allow additional time to exit. \nEvent Dates \nSeptember 2025 - 12th, 19th, 25th from 4:00 pm, 20th from 12:00 pm, 27th from 7:00 am.",
       "heightRestriction": 2.1,
-      "information": "<p><span style=\"color: #ff1e25;\"><strong><u>Event Dates January 2026</u></strong></span></p>\n<p><span style=\"color: #ff1e25;\">4th, 8th, 13th, 14th, 15th, 16th from 4:00pm to 11:59pm</span></p>\n<p><span style=\"color: #ff1e25;\">17th&nbsp;to 31st from 6:00am to 11:59pm</span></p>\n<p><span style=\"color: #ff1e25;\"><strong><u>Event Dates February 2026</u></strong></span></p>\n<p><span style=\"color: #ff1e25;\">1st from 6:00am to 11:59pm</span></p>\n<p><span style=\"color: #ff1e25;\">Event rates will apply.</span><br /><span style=\"color: #ff1e25;\"><em>On event dates, please allow additional time to exit.</em></span></p>\n<p>&nbsp;</p>\n<p>Wilson Parking offers affordable &amp; secure parking at Federation Square Car Park, located on Russell St (Extension) in the Melbourne CBD. This car park is nearby to many popular attractions, including Federation Square, Flinders St Station, Birrarung Marr, Rod Laver Arena and Melbourne Park. Offering casual Early Bird, Hourly, Night and Weekend parking, with exclusive discounts when you prepay online, the Federation Square Car Park will meet all of your parking needs.</p>\n<p><span style=\"color: #000000;\"><strong>On event dates and busy periods, please use the Batman Avenue Exit from Level 1 and allow additional time to exit.</strong></span></p>\n<p>Download the Wilson Parking App to plan your journey and access exclusive discounts when you prepay online; pay as you go with one convenient monthly invoice when you use your Wilson Parking Card; enjoy 24/7 unlimited access when you subscribe to Monthly Parking; or just drive up to pay with a credit card at the car park.</p>",
+      "information": "<p><span style=\"color: #ff1e25;\"><strong><u>Event Dates January 2026</u></strong></span></p>\n<p><span style=\"color: #ff1e25;\">21st to 31st from 10:00am to 11:59pm</span></p>\n<p><span style=\"color: #ff1e25;\"><strong><u>Event Dates February 2026</u></strong></span></p>\n<p><span style=\"color: #ff1e25;\">1st from 10:00am to 11:59pm</span></p>\n<p><span style=\"color: #ff1e25;\">Event rates will apply.</span><br /><span style=\"color: #ff1e25;\"><em>On event dates, please allow additional time to exit.</em></span></p>\n<p>&nbsp;</p>\n<p>Wilson Parking offers affordable &amp; secure parking at Federation Square Car Park, located on Russell St (Extension) in the Melbourne CBD. This car park is nearby to many popular attractions, including Federation Square, Flinders St Station, Birrarung Marr, Rod Laver Arena and Melbourne Park. Offering casual Early Bird, Hourly, Night and Weekend parking, with exclusive discounts when you prepay online, the Federation Square Car Park will meet all of your parking needs.</p>\n<p><span style=\"color: #000000;\"><strong>On event dates and busy periods, please use the Batman Avenue Exit from Level 1 and allow additional time to exit.</strong></span></p>\n<p>Download the Wilson Parking App to plan your journey and access exclusive discounts when you prepay online; pay as you go with one convenient monthly invoice when you use your Wilson Parking Card; enjoy 24/7 unlimited access when you subscribe to Monthly Parking; or just drive up to pay with a credit card at the car park.</p>",
       "isWilsonOne": true,
       "legacyID": 94,
       "monthlyParkingServiceIsAvailable": true,
@@ -92234,7 +92230,7 @@
       "carParkPhoto": "/contentassets/3e4597e5de024514b600ba1cb461e067/per042a.jpg",
       "category": "",
       "costCenter": 1006042,
-      "direction": "Entry from St Georges Terrace (Eastbound) just before Mill Street.\n<br><br>Overheight vehicle parking available on upper level by using the ramp to Hay Street.\n\n\n",
+      "direction": "Entry from St Georges Terrace (Eastbound) just before Mill Street.\n<br><br>Overheight vehicle parking available on upper level by using the ramp to Hay Street.\n\n<br><br>Car Park Entry</br>\n<br><br>As part of car park refurbishment please use Hay Street to enter the car park from 24th Jan till 27th Jan. St Georges Terrace entry will not be accessible. </br>\n\n<br><br>We apologise for this inconvenience. </br>\n",
       "heightRestriction": 2.0,
       "information": "<p>Wilson Parking offer affordable parking at London House Car Park, located at 216 St Georges Terrace, Perth. Open 7 days, this undercover car park, provides parking options for His Majesty's Theatre, nearby stores and Perth businesses. Entry to the car park is from St Georges Terrace (Eastbound) just before Mill Street. Over height vehicle parking available on upper level by using the ramp to Hay Street.</p>\n<p>Offering casual Hourly, Night and Weekend Parking, and the convenience of payments with the Wilson Parking App, the London House Car Park will meet all of your parking needs.</p>\n<p>&nbsp;</p>",
       "isWilsonOne": false,
