@@ -6039,7 +6039,7 @@
           "is24_7": false,
           "closed": true,
           "opening": "10:00",
-          "closing": "19:00",
+          "closing": "22:00",
           "note": null
         }
       ],
@@ -17777,16 +17777,6 @@
             {
               "timeSpan": "6.0 + hrs",
               "price": 66.0
-            }
-          ]
-        },
-        {
-          "rateType": "Night",
-          "notes": "Entry after 5pm, exit before 12:00am<br />\r\nCasual rates apply if conditions are not met",
-          "rates": [
-            {
-              "timeSpan": "All Days",
-              "price": 10.0
             }
           ]
         }
@@ -37909,7 +37899,7 @@
               "price": 15.0
             },
             {
-              "timeSpan": "3.0 - 4.0 hrs",
+              "timeSpan": "3.0 + hrs",
               "price": 17.0
             }
           ]
@@ -41008,17 +40998,17 @@
           "rates": [
             {
               "timeSpan": "0.0 - 1.0 hrs",
-              "price": 2.0
+              "price": 3.0
             },
             {
               "timeSpan": "1.0 - 24hrs",
-              "price": 5.0
+              "price": 6.0
             }
           ]
         }
       ],
       "fromText": "From",
-      "fromPrice": "2",
+      "fromPrice": "3",
       "location": {
         "longitude": 149.07220959663391,
         "latitude": -35.241308032908307,
@@ -41642,17 +41632,17 @@
         {
           "day_TimePeriod": "Saturday",
           "is24_7": false,
-          "closed": true,
-          "opening": "",
-          "closing": "",
+          "closed": false,
+          "opening": "08:30",
+          "closing": "17:30",
           "note": null
         },
         {
           "day_TimePeriod": "Sunday",
           "is24_7": false,
-          "closed": true,
-          "opening": "",
-          "closing": "",
+          "closed": false,
+          "opening": "08:30",
+          "closing": "17:30",
           "note": null
         },
         {
@@ -54968,7 +54958,7 @@
       "costCenter": 1003300,
       "direction": null,
       "heightRestriction": 2.05,
-      "information": "<p><span style=\"color: #ff1e25;\"><strong><u>Event Dates</u></strong></span></p>\n<ul>\n<li><span style=\"color: #ff1e25;\">Thursday 19 February from 4PM</span></li>\n</ul>\n<p><span style=\"color: #ff1e25;\">Event rates will apply.&nbsp;</span><br /><span style=\"color: #ff1e25;\"><em>On event dates, please allow additional time to exit</em></span></p>\n<p>Wilson Parking offers affordable &amp; secure parking at 11 Exhibition St&nbsp;Car Park, located at 11 Exhibition St in the heart of East End. Open 7 days, this undercover car park provides convenient access to nearby the MCG, Federation Square, Birrarung Marr, Melbourne Park and many other popular attractions. This car park offers flat rate parking at the times you need when you prepay online a Flexi Saver rate online. Casual Hourly, Weekend and Night Parking options are also available, with permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the 11 Exhibition St Car Park will meet all your business and leisure parking needs.&nbsp;</p>\n<p>This car park accepts Credit Card payments only.&nbsp;Download the Wilson Parking App to plan your journey and access the best parking value when you prepay online; enjoy unlimited 24/7 access when you subscribe to monthly parking; pay as you go on one convenient monthly invoice when you use your Wilson Parking Card to access the car park.</p>",
+      "information": "<p><span style=\"color: #ff1e25;\"><strong><u>Event Dates<br /></u></strong></span><span style=\"color: #ff1e25;\">Thursday 19 February from 4PM</span></p>\n<p><span style=\"color: #ff1e25;\">Event rates will apply.&nbsp;</span><br /><span style=\"color: #ff1e25;\"><em>On event dates, please allow additional time to exit</em></span></p>\n<p>Wilson Parking offers affordable &amp; secure parking at 11 Exhibition St&nbsp;Car Park, located at 11 Exhibition St in the heart of East End. Open 7 days, this undercover car park provides convenient access to nearby the MCG, Federation Square, Birrarung Marr, Melbourne Park and many other popular attractions. This car park offers flat rate parking at the times you need when you prepay online a Flexi Saver rate online. Casual Hourly, Weekend and Night Parking options are also available, with permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the 11 Exhibition St Car Park will meet all your business and leisure parking needs.&nbsp;</p>\n<p>This car park accepts Credit Card payments only.&nbsp;Download the Wilson Parking App to plan your journey and access the best parking value when you prepay online; enjoy unlimited 24/7 access when you subscribe to monthly parking; pay as you go on one convenient monthly invoice when you use your Wilson Parking Card to access the car park.</p>",
       "isWilsonOne": true,
       "legacyID": 497,
       "monthlyParkingServiceIsAvailable": true,
@@ -63786,7 +63776,7 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Rates apply Monday - Friday&nbsp;</p>",
+          "notes": "<p>Rates apply Monday - Friday &amp; Public Holidays</p>",
           "rates": [
             {
               "timeSpan": "0 - 0.5 hrs",
@@ -63852,10 +63842,10 @@
         },
         {
           "rateType": "Weekend",
-          "notes": "<p>Saturday or Sunday &amp; Public Holidays. Flat rate per exit, per day.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>",
+          "notes": "<p>Saturday &amp; Sunday. Flat rate per exit, per day.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>",
           "rates": [
             {
-              "timeSpan": "Sat - Sun & Public Holiday",
+              "timeSpan": "Sat - Sun",
               "price": 26.0
             }
           ]
@@ -70817,7 +70807,7 @@
       "costCenter": 1004298,
       "direction": "Entry via Dowse Street",
       "heightRestriction": 2.3,
-      "information": "<p><span style=\"color: #ff1e25;\">Event Parking is available at this car park on the following dates:</span><span style=\"color: #ff1e25;\">&nbsp;24 January.</span></p>\n<p>Wilson Parking offers affordable and secure parking at&nbsp;Darling &amp; Co car park, located in the heart of Paddington. Open 7 days, this undercover car park provides convenient access to Lang Park (Suncorp Stadium). Offering casual and night parking, and exclusive discounts when you pay via the Wilson Parking app, the&nbsp;Darling &amp; Co car park will meet all your business and leisure parking needs.</p>\n<p>Car park closes at 11pm on event nights.</p>",
+      "information": "<p><span style=\"color: #ff1e25;\">Event Parking is available at this car park on the following dates:</span><span style=\"color: #ff1e25;\">&nbsp;24 January,<br />12, 13, 14, 15, 20, 21 &amp; 22 February.</span></p>\n<p>Wilson Parking offers affordable and secure parking at&nbsp;Darling &amp; Co car park, located in the heart of Paddington. Open 7 days, this undercover car park provides convenient access to Lang Park (Suncorp Stadium). Offering casual and night parking, and exclusive discounts when you pay via the Wilson Parking app, the&nbsp;Darling &amp; Co car park will meet all your business and leisure parking needs.</p>\n<p>Car park closes at 11pm on event nights.</p>",
       "isWilsonOne": false,
       "legacyID": 4298,
       "monthlyParkingServiceIsAvailable": true,
@@ -72425,6 +72415,179 @@
         ]
       },
       "state": "QLD",
+      "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
+      "price": "",
+      "status": "",
+      "cpmsCarparkCode": null,
+      "externalCarParkInfo": null,
+      "featuredIndex": 0
+    },
+    {
+      "name": "Herston Road",
+      "bookText": null,
+      "canBookABay": false,
+      "selectedFeatures": "",
+      "carParkFeature": [
+        "Night Parking",
+        "Weekend Parking",
+        "Entry height at least 2"
+      ],
+      "services": [],
+      "carParkName": "Herston Road",
+      "carParkNumber": 4084,
+      "carParkPhoto": null,
+      "category": "",
+      "costCenter": 1004084,
+      "direction": "Entry via 365 Herston Road",
+      "heightRestriction": 2.1,
+      "information": "<p>Wilson Parking offers affordable and secure parking at the Herston Road Car Park, conveniently located at 365 Herston Road, Herston, directly opposite the Royal Brisbane and Women&rsquo;s Hospital (RBWH) and within easy reach of nearby health, research and education precincts.</p>\n<p>Open 7 days, this multi-storey car park provides seamless access for hospital visitors, staff, patients and those travelling to surrounding facilities. Offering Hourly, Weekend and Night parking options, the Herston Road Car Park will meet all your business and leisure parking needs.&nbsp;</p>",
+      "isWilsonOne": false,
+      "legacyID": 4084,
+      "monthlyParkingServiceIsAvailable": false,
+      "evChargerIsAvailable": false,
+      "disabledParkingIsAvailable": false,
+      "phoneNumber": null,
+      "products": [],
+      "staticMapPhoto": null,
+      "streetViewHeading": null,
+      "streetViewLocation": "https://www.google.com/maps/@?api=1&map_action=pano&pano=i3HNoUIoSHloHqRQc05VDA&viewpoint=-27.44966525272997,153.02885680342138&heading=47.196790329729915&pitch=-8.29221526653916&zoom=1",
+      "rates": [
+        {
+          "rateType": "Hourly",
+          "notes": "<p>Hourly rates charged Monday to Friday</p>\n<p>Rates charged from 6am daily</p>",
+          "rates": [
+            {
+              "timeSpan": "0.0 - 0.5 Hrs",
+              "price": 8.0
+            },
+            {
+              "timeSpan": "0.5 - 1.0 Hrs",
+              "price": 16.0
+            },
+            {
+              "timeSpan": "1.0 - 1.5 Hrs",
+              "price": 22.0
+            },
+            {
+              "timeSpan": "1.5 - 2.0 Hrs",
+              "price": 30.0
+            },
+            {
+              "timeSpan": "2.0 - 3.0 Hrs",
+              "price": 38.0
+            },
+            {
+              "timeSpan": "3.0 + Hrs",
+              "price": 45.0
+            }
+          ]
+        },
+        {
+          "rateType": "Weekend",
+          "notes": "<p>Weekend rates charged Saturday, Sunday and Public Holidays</p>\n<p>Rates charged from 6am daily</p>",
+          "rates": [
+            {
+              "timeSpan": "Sat - Sun",
+              "price": 17.5
+            }
+          ]
+        }
+      ],
+      "fromText": "From",
+      "fromPrice": "8",
+      "location": {
+        "longitude": 153.027731903005,
+        "latitude": -27.4498794636843,
+        "zoom": 13,
+        "address": "325 Herston Road, Herston",
+        "region": null
+      },
+      "openingTimes": [
+        {
+          "day_TimePeriod": "Monday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Tuesday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Wednesday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Thursday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Friday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Saturday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Sunday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Public Holiday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        }
+      ],
+      "url": "/parking-locations/queensland/herston/herston-road/",
+      "serviceConfiguration": {
+        "canBookABay": false,
+        "bookABayIconLabel": "Prepay Online",
+        "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
+        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingIconLabel": "Monthly Subscription",
+        "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
+        "isWilsonOne": false,
+        "wilsonOneIconLabel": "Parking Card",
+        "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
+        "disabledParkingIsAvailable": false,
+        "disabledParkingIconLabel": "Disabled Parking",
+        "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
+        "evChargerIsAvailable": false,
+        "evChargerIconLabel": "EV Charging",
+        "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
+        "additionalServices": []
+      },
+      "state": null,
       "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
       "price": "",
       "status": "",
@@ -86332,7 +86495,7 @@
       "carParkPhoto": null,
       "category": "",
       "costCenter": 1006021,
-      "direction": "Entry just before Victoria Ave on left\n\n\n",
+      "direction": "Entry just before Victoria Ave on left",
       "heightRestriction": 0.0,
       "information": "<p>Wilson Parking offer affordable parking at 391-393 Hay St Car Park, located at 391-393 Hay St in Perth CBD. Open 24/7, this open air car park provides all day parking for visitors to nearby businesses and venues including Perth Concert Hall and St Mary's Cathedral. Offering casual Hourly, Early Bird and Weekend Parking options, and permanent monthly parking for regular parkers, the 391-393 Hay St Car Park will meet all of your parking needs.</p>\n<p>Download the Wilson Parking App to easily pay for your parking directly from your phone and access exclusive parking discounts or enjoy unlimited 24/7 access to the car park when you subscribe to monthly parking.&nbsp;</p>",
       "isWilsonOne": false,
@@ -86951,7 +87114,7 @@
       "carParkPhoto": "/contentassets/302fad1d448f4daeae3ef10b4b85bbf8/per247.jpg",
       "category": "",
       "costCenter": 1006247,
-      "direction": "Entry from Hay Street (Westbound) or Murray Street (Eastbound).\n",
+      "direction": "Entry from Hay Street (Westbound) or Murray Street (Eastbound).",
       "heightRestriction": 2.2,
       "information": "<p>Wilson Parking offer affordable parking at Hibernian Place Car Park, located at 17 Murray St, Perth. With convenient entries at 17 Murray St and 480 Hay St, and open 7 days, this car park is located under The Westin Hotel, Perth's newest five-star hotel in the CBD and is central to Perth's Entertainment Centres and shopping outlets.</p>\n<p>Offering casual Hourly, Early Bird, Night and Weekend Parking and exclusive discounts when you prepay online or with the Wilson Parking App, the Hibernian Place Car Park will meet all your Perth Parking needs.&nbsp;</p>\n<p>Download the Wilson Parking App to plan your journey, and access exclusive discounts when you prepay ahead, or simply drive up and pay with your credit card, or avoid the queues and pay as you go with the Wilson Parking Card.&nbsp;</p>",
       "isWilsonOne": true,
@@ -88154,7 +88317,7 @@
       "carParkPhoto": "/contentassets/ebe0e5edc3f94faa9ed99860074a70a2/per113c.jpg",
       "category": "",
       "costCenter": 1006113,
-      "direction": "Entry via Hay Street or Pier Street\n\nMotorbike parking must be paid for using the 517 Hay St (Kings Complex) - Motorcycle parking location\n\n\n\n\n\n",
+      "direction": "Entry via Hay Street or Pier Street\n\nMotorbike parking must be paid for using the 517 Hay St (Kings Complex) - Motorcycle parking location",
       "heightRestriction": 2.0,
       "information": "<p>Wilson Parking offer affordable parking at Kings Complex Car Park, located at 517 Hay Street, Perth. This undercover car park is open 24/7 close to Perth's legal distrtict, providing parking options for nearby restaurants and businesses, as well as the Magistrates Court of Western Australia and District Court of Western Australia. Offering casual Hourly, Online Early Bird Flexi, Night and Weekend Parking as well as exclusive discounts available when you prepay online or with the Wilson Parking App, the Central Park Car Park will meet all of your parking needs.</p>\n<p>The car park offers two convenient entries. Enter via Hay St or Pier Street, heading southbound, after the Hay Street intersection.</p>\n<p>Download the Wilson Parking App to prepay ahead and access exclusive savings, or simply drive up and pay with your Credit Card, pay as you go with a Wilson Parking card.</p>",
       "isWilsonOne": true,
@@ -88369,7 +88532,7 @@
       "carParkPhoto": "/contentassets/9324ab3291044efbbd2e12849cb91a3c/per113c.jpg",
       "category": "",
       "costCenter": 1006113,
-      "direction": "Entry via Hay Street or Pier Street\n\n</br></br>Please note the car park lift is Out of Service until further advice. We apologise for the inconvenience. .</br>\n\n",
+      "direction": "Entry via Hay Street or Pier Street\n\n</br></br>Please note the car park lift is Out of Service until further advice. We apologise for the inconvenience.",
       "heightRestriction": 2.0,
       "information": "<p>Wilson Parking offer affordable motorcycle parking at Kings Complex Car Park, located at 517 Hay Street, Perth.&nbsp;The car park offers two convenient entries. Enter via Hay St or Pier Street, heading southbound, after the Hay Street intersection.</p>\n<p>Download the Wilson Parking App to pay for and manage your motorbike parking directly from your phone.</p>\n<p>Looking for car parking at 517 Hay St - check out our other parking options <a href=\"/link/3ef8101d1faa416f9c4c38f70f5c8d40.aspx\" target=\"_top\">here</a></p>",
       "isWilsonOne": false,
@@ -89287,7 +89450,7 @@
       "carParkPhoto": "/contentassets/ddf4bf3205d44eef81bcebe995e639d1/per215-car-park-photo.jpg",
       "category": "",
       "costCenter": 1006215,
-      "direction": "Entry is via the east-bound lanes of The Esplanade only. \n\n</br></br>If travelling from the east, please proceed onto St Georges Terrace west-bound, and then turn left down Howard St to reach The Esplanade.</br>\n\n\n\n\n\n\n\n",
+      "direction": "Entry is via the east-bound lanes of The Esplanade only. \n\n</br></br>If travelling from the east, please proceed onto St Georges Terrace west-bound, and then turn left down Howard St to reach The Esplanade.",
       "heightRestriction": 2.1,
       "information": "<p>Wilson Parking offer affordable parking at The Quay Car Park, located at 18 The Esplanade, in the middle of the Perth CBD. Open 24/7, this undercover car park provides convenient parking access for Elizabeth Quay, Barrack Square &amp; the Bell Tower, with direct access to Allendale Square and St Georges Terrace from level 4 of the car park.&nbsp;Entry to the car park is via the east-bound lanes of The Esplanade only. If travelling from the east, please proceed onto St Georges Terrace west-bound, and then turn left down Howard St to reach The Esplanade.</p>\n<p>Offering casual Hourly, Night and Weekend Parking, as well as permanent monthly parking options, the Quay Car Park will meet all your Perth CBD Parking needs.&nbsp;</p>\n<p>Subscribe to monthly parking and enjoy the convenience of unlimited 24/7 car park access, or pay as you go with the Wilson Parking Card.</p>",
       "isWilsonOne": true,
@@ -89753,7 +89916,7 @@
       "carParkPhoto": "/contentassets/68b15f3654ce44d7a76f8ad67f645ea7/per226a.jpg",
       "category": "",
       "costCenter": 1006226,
-      "direction": "Entry off The Esplanade\n\n",
+      "direction": "Entry off The Esplanade",
       "heightRestriction": 1.95,
       "information": "<p>Wilson Parking offer affordable parking at 40 The Esplanade Car Park, located at 40 The Esplanade Perth. Open Monday - Friday, this undercover car park provides convenient parking for Elizabeth Quay, Barrack Square &amp; The Bell Tower. Offering casual Hourly Parking options, and the convenience of pay as you go when you use the Wilson Parking card to access the car park, the 40 The Esplanade Car Park will meet all your parking needs.&nbsp;</p>\n<p>&nbsp;</p>",
       "isWilsonOne": true,
@@ -90366,7 +90529,7 @@
       "carParkPhoto": "/contentassets/8c420045b3fa4f2980dcb9f026d034fe/resized.jpg",
       "category": "",
       "costCenter": 1006161,
-      "direction": "Entry off Wellington Street, heading Westbound towards the Perth Arena\nParking for Motorcycles only. Check the other Raine Square car park for other parking options\n",
+      "direction": "Entry off Wellington Street, heading Westbound towards the Perth Arena\nParking for Motorcycles only. Check the other Raine Square car park for other parking options",
       "heightRestriction": 2.2,
       "information": "<p>Wilson Parking offer affordable motorcycle parking at the Raine Square Car Park, located at 551 Wellington St, Perth.&nbsp;</p>\n<p>Download the Wilson Parking App to pay and manage your motorcycle parking directly from your phone.&nbsp;</p>\n<p>Looking for car parking at Raine Square car park - check out other parking options <a href=\"/link/13d4ed7af5bf4c7bbdd1728e0bb40e58.aspx\">here</a></p>",
       "isWilsonOne": false,
@@ -90788,7 +90951,7 @@
       "carParkPhoto": "/contentassets/5a47d081969e4fc9a70c33b1399db02c/per082.jpg",
       "category": "",
       "costCenter": 1006082,
-      "direction": "Entry via Mounts Bay Rd.\n\n\n",
+      "direction": "Entry via Mounts Bay Rd.",
       "heightRestriction": 2.1,
       "information": "<p>Wilson Parking offer affordable parking at The Quadrant Car Park, located at 1 William Street, Perth, with entry from Mounts Bay Rd. Open Monday - Friday, this undercover car park provides all day or hourly parking options for visitors to The Quadrant, Perth and is ideally located for those visiting the nearby Elizabeth Quay. Offering casual Hourly and Early Bird parking, with the added convenience of payment through the Wilson Parking App, The Quadrant Car Park will meet all of your Perth parking needs.</p>\n<p>Download the Wilson Parking App to easily pay for your parking from your phone.&nbsp;</p>",
       "isWilsonOne": false,
@@ -90991,7 +91154,7 @@
       "carParkPhoto": "/contentassets/9a5141f3b44a485ab0e62e75f8296298/per114.jpg",
       "category": "",
       "costCenter": 1006114,
-      "direction": "Entry via Queen Street (one way)\nPedestrian access 24hrs.<br>\nMotorbike parking must be paid for using the Queen St - Motorcycle parking location\n\n\n\n\n\n\n",
+      "direction": "Entry via Queen Street (one way)\nPedestrian access 24hrs.<br>\nMotorbike parking must be paid for using the Queen St - Motorcycle parking location\n",
       "heightRestriction": 2.0,
       "information": "<p>Wilson Parking offer affordable parking at Queen Street Car Park, located at the Corner of Wellington Street and Queen Street, Perth. Open 7 days until late, this undercover car park is ideally located for local restaurants and businesses, as well as His Majesty's Theatre. Offering casual Hourly, Online Flexi Saver, Night and Weekend Parking as well as exclusive discounts when you prepay online or with the Wilson Parking App, the Queen Street Car Park will meet all of your Perth parking needs.&nbsp;</p>\n<p>Download the Wilson Parking App or prepay online to plan your journey and access exclusive discounts or simply drive up and pay with your Credit Card,&nbsp;pay as you go with a Wilson Parking card, or enjoy unlimited access during the operational hours of the car park when you subscribe to Monthly Parking.</p>",
       "isWilsonOne": true,
@@ -91210,7 +91373,7 @@
       "carParkPhoto": "/contentassets/fc7fddc9ed754dde9d866f08e225e0ae/per114.jpg",
       "category": "",
       "costCenter": 1006114,
-      "direction": "Entry via Queen Street (one way)\nPedestrian access 24hrs.\nParking for Motorcycles only. Check the other Queen St car park for other parking options\n\n\n\n\n\n\n",
+      "direction": "Entry via Queen Street (one way)\nPedestrian access 24hrs.\nParking for Motorcycles only. Check the other Queen St car park for other parking options",
       "heightRestriction": 2.0,
       "information": "<p>Wilson Parking offer affordable motrocycle parking at Queen Street Car Park, located at the Corner of Wellington Street and Queen Street, Perth.&nbsp;</p>\n<p>Download the Wilson Parking App to pay and manage your motorbike parking directly from your phone.</p>\n<p>Looking for car parking at Queen St - check out our other parking options <a href=\"/link/558f2c33e18a40d79b88ffe9e45bfd87.aspx\">here</a></p>",
       "isWilsonOne": false,
@@ -91375,7 +91538,7 @@
       "carParkPhoto": "/contentassets/811a0e785cd7426680280998c5e8b5db/per097c.jpg",
       "category": "",
       "costCenter": 1006097,
-      "direction": "Entry from St Georges Terrace (Eastbound), just before William Street, below Central Park Offices.\n\n\n\n\n\n",
+      "direction": "Entry from St Georges Terrace (Eastbound), just before William Street, below Central Park Offices.",
       "heightRestriction": 1.95,
       "information": "<p>Wilson Parking offer affordable parking at Central Park Car Park, located at 152-158 St Georges Terrace, Perth. Open 7 days until late, this car park is ideally located for visitors to the Central Park Offices, and surrounding Perth businesses. Offering casual Hourly, Online Early Bird Flexi, Night and Weekend Parking as well as exclusive discounts available when you prepay online or with the Wilson Parking App, the Central Park Car Park will meet all of your parking needs.</p>\n<p>Entry to the car park is on St Georges Terrace, travelling Eastbound, just before William St, below Central Park Offices.</p>\n<p>Download the Wilson Parking App to prepay your parking in advance and access exclusive discounts, or simply drive up and pay with your credit card, pay as you go with a Wilson Parking card, or enjoy unlimited access during the operational hours of the car park when you subscribe to Monthly Parking.</p>",
       "isWilsonOne": true,
@@ -91593,7 +91756,7 @@
       "carParkPhoto": "/contentassets/4faae83752104baa985fa2f50b062667/20230419_151728.jpg",
       "category": "",
       "costCenter": 1006059,
-      "direction": "Entry via Mounts Bay Road\n\n\n\n\n",
+      "direction": "Entry via Mounts Bay Road",
       "heightRestriction": 2.1,
       "information": "<p>Wilson Parking offer affordable and convenient parking at Westralia Square, located at 24 Mounts Bay Rd, Perth. Open 7 days, and late on Friday and Saturday, this car park is ideal for visitors to Elizabeth Quay and other surrounding Perth businesses. Offering casual Hourly, Daily, Night and Weekend, as well as exclusive savings when you prepay online or with the Wilson Parking App,&nbsp;the Westralia Square Car Park will meet all of your parking needs.</p>\n<p>Download the Wilson Parking App to plan your journey, prepay ahead and access exclusive savings, or just drive up, pay with your credit card, pay as you go with the Wilson Parking Card.</p>",
       "isWilsonOne": true,
@@ -91813,7 +91976,7 @@
       "carParkPhoto": "/contentassets/417ff33164ff44ecb8fe4160973f9f5d/20230421_090610_resized.jpg",
       "category": "",
       "costCenter": 1006060,
-      "direction": "Entry via King Street\n\n\t\t\t\t\n\n\n\n\n",
+      "direction": "Entry via King Street",
       "heightRestriction": 1.95,
       "information": "<p>Wilson Parking offer affordable parking at The Atrium Car Park, located at 168 St Georges Terrace, Perth (entry via King Street). Open 7 days until late, this car park is ideally located for visitors to The Atrium, and surrounding Perth businesses. Offering casual Hourly, Night and Weekend Parking, the Atrium Car Park will meet all of your parking needs. This car park is credit card only.</p>\n<p>&nbsp;</p>",
       "isWilsonOne": false,
@@ -92230,7 +92393,7 @@
       "carParkPhoto": "/contentassets/3e4597e5de024514b600ba1cb461e067/per042a.jpg",
       "category": "",
       "costCenter": 1006042,
-      "direction": "Entry from St Georges Terrace (Eastbound) just before Mill Street.\n<br><br>Overheight vehicle parking available on upper level by using the ramp to Hay Street.\n\n<br><br>Car Park Entry</br>\n<br><br>As part of car park refurbishment please use Hay Street to enter the car park from 24th Jan till 27th Jan. St Georges Terrace entry will not be accessible. </br>\n\n<br><br>We apologise for this inconvenience. </br>\n",
+      "direction": "Entry from St Georges Terrace (Eastbound) just before Mill Street.\n<br><br>Overheight vehicle parking available on upper level by using the ramp to Hay Street.\n\n<br><br>As part of car park refurbishment there will be no public access to the car park from 24th Jan till 27th Jan. <br>\n",
       "heightRestriction": 2.0,
       "information": "<p>Wilson Parking offer affordable parking at London House Car Park, located at 216 St Georges Terrace, Perth. Open 7 days, this undercover car park, provides parking options for His Majesty's Theatre, nearby stores and Perth businesses. Entry to the car park is from St Georges Terrace (Eastbound) just before Mill Street. Over height vehicle parking available on upper level by using the ramp to Hay Street.</p>\n<p>Offering casual Hourly, Night and Weekend Parking, and the convenience of payments with the Wilson Parking App, the London House Car Park will meet all of your parking needs.</p>\n<p>&nbsp;</p>",
       "isWilsonOne": false,
@@ -92457,7 +92620,7 @@
       "carParkPhoto": "/contentassets/22318f08920649f0838ed611f22a070e/per031a.jpg",
       "category": "",
       "costCenter": 1006031,
-      "direction": "Entry off Murray Street next to Tiger Lil's.\n\n\n\n                                                         ",
+      "direction": "Entry off Murray Street next to Tiger Lil's.",
       "heightRestriction": 2.08,
       "information": "<p>Wilson Parking offer affordable parking at Citipark Perth Car Park, located at 427-437 Murray Street, Perth. Open 24/7, this undercover car park provides parking for nearby venues including His Majestys Theatre, RAC Arena and Comedy Theatre, as well as visitors to nearby businesses in the Perth CBD. Offering casual Hourly, Early Bird, Night and Weekend Parking, with exclusive discounts when you prepay online, and Monthly Parking for regular users, the Citipark Perth Car Park will meet all of your parking needs.</p>\n<p>Download the Wilson Parking App to plan your journey and access exclusive discounts when you prepay ahead; enjoy unlimited access within the operational hours of the car park when you subscribe to Monthly Parking; or pay as you go when you access the car park with your Wilson Parking Card.&nbsp;</p>",
       "isWilsonOne": true,
@@ -92880,7 +93043,7 @@
       "carParkPhoto": "/contentassets/476f2daef68f49e994184fcd7d960e53/per200.jpg",
       "category": "",
       "costCenter": 1006200,
-      "direction": "Entry off Milligan Street, Southbound\n\n",
+      "direction": "Entry off Milligan Street, Southbound",
       "heightRestriction": 2.1,
       "information": "<p>Wilson Parking offers affordable parking at 240 St Georges Terrace Car Park, located at 240 St Georges Terrace, Perth, with convenient entry from Milligan St. Open Monday - Sunday, this undercover car park is ideally located to offer all day parking to visitors to nearby Perth CBD businesses. Offering casual Hourly and Early Bird Parking with exclusive discounts when you prepay online, as well as permanent Monthly Parking for regular parkers, the 240 St Georges Terrace Car Park will meet all your Perth CBD parking needs.&nbsp;</p>\n<p>Download the Wilson Parking App to plan your journey and access exclusive discounts when you prepay ahead, subscribe to monthly parking to enjoy unlimited access during the operational hours of the car park, or pay as you go when you use the contact-free Wilson Parking Card to access the car park.</p>",
       "isWilsonOne": true,
@@ -93105,7 +93268,7 @@
       "carParkPhoto": "/siteassets/parking-location-images/wa/per055.gif",
       "category": "",
       "costCenter": 1006055,
-      "direction": "Entry off Spring Street.\n",
+      "direction": "Entry off Spring Street.",
       "heightRestriction": 2.0,
       "information": "<p>Wilson Parking offer affordable &amp; convenient parking at our St Georges Square Car Park, located at 225 St Georges Tce, Perth, with the entry of Spring St. Open 7 days until late, this undercover car park is conveniently located in the Perth CBD, offering all day parking for visitors to nearby Perth businesses. Offering casual Hourly, Night and Weekend Parking and exclusive discounts when you prepay online or with the Wilson Parking App, the St Georges Square Car Park will meet all your Perth parking needs.&nbsp;</p>\n<p>Download the Wilson Parking App or prepay online to plan ahead and access exclusive discounts, or just drive up and pay with your credit card,&nbsp;pay as you go with a Wilson Parking card, or enjoy unlimited access within the operational hours of the car park when you subscribe to Monthly Parking. &nbsp;</p>",
       "isWilsonOne": true,
@@ -93332,7 +93495,7 @@
       "carParkPhoto": "/contentassets/b48319796ac84008a4049d618228de23/per400-car-park-photo.jpg",
       "category": "",
       "costCenter": 1006400,
-      "direction": "Entry off Mounts Bay Road Eastbound and Spring Street.\n\n\n\n\n\n\n\n\n\n",
+      "direction": "Entry off Mounts Bay Road Eastbound and Spring Street.",
       "heightRestriction": 2.0,
       "information": "<p>Wilson Parking offer affordable parking at Capital Square&nbsp;Car Park, providing parking for visitors to the Capital Square Towers and nearby businesses in the Perth CBD. Offering Hourly, <span style=\"color: #000000;\">Weekend and Night</span> Parking options, and exclusive discounts when you prepay online or through the Wilson Parking App, the Capital Square&nbsp;Car Park will meet all your business parking needs.&nbsp;</p>\n<p>The car park offers two convenient entries. Enter via Mounts Bay Road heading Eastbound or Spring Street.</p>\n<p>Download the Wilson Parking App to prepay ahead and access exclusive savings, or simply drive up and pay with your Credit Card, pay as you go with a Wilson Parking card.</p>\n<p>&nbsp;</p>",
       "isWilsonOne": true,
@@ -93532,7 +93695,7 @@
       "carParkPhoto": "/contentassets/1592543cba2c4b818f7b11ee2a5f31b4/20230418_105604.jpg",
       "category": "",
       "costCenter": 1006063,
-      "direction": "Entry via St Georges Terrace or Hay Street\n",
+      "direction": "Entry via St Georges Terrace or Hay Street",
       "heightRestriction": 2.1,
       "information": "<p>Wilson Parking offer affordable parking at 256 St Georges Tce (Barrack Arch) Car Park, located at 256 St Georges Terrace, Perth. With entrances from both St Georges Terrace and Hay St, this undercover car park is open 7 days until midnight, providing parking for visitors to QV1 plaza, Barracks Arch and nearby businesses in the Perth CBD. Offering casual Hourly, Online Flexi saver, Night and Weekend Parking with exclusive discounts when you prepay online, and permanent monthly parking for regular parkers, the 256 St Georges Tce (Barrack Arch) Car Park will meet all of your parking needs.</p>\n<p>Download the Wilson Parking App to plan your journey and access exclusive discounts when you prepay ahead; enjoy 24/7 access when you subscribe to monthly parking; or pay as you go when you access the car park using your Wilson Parking card.&nbsp;</p>",
       "isWilsonOne": true,
@@ -94211,7 +94374,7 @@
       "carParkPhoto": "/siteassets/parking-location-images/wa/per058_sml.jpg",
       "category": "",
       "costCenter": 1006058,
-      "direction": "Entry on Mayfair Street rear of Westcentre\n\n",
+      "direction": "Entry on Mayfair Street rear of Westcentre",
       "heightRestriction": 2.2,
       "information": "<p>Wilson Parking offer affordable parking at Westcentre Car Park, located at 1260 Hay Street, West Perth. Open 24/7, this undercover car park provides parking options for visitors to WestCentre, local restaurants and West Perth businesses. Offering casual Hourly, Early Bird, Night and Weekend Parking options, as well as the convenience of prepaying, the Westcentre Car Park will meet all of your parking needs.</p>\n<p>Prepay online or drive up to pay with your Credit Card, pay as you go with a Wilson Parking card.</p>\n<p>&nbsp;</p>",
       "isWilsonOne": true,
@@ -98826,7 +98989,7 @@
       "carParkPhoto": "/contentassets/d863c5209e0642b18d3d21b6780517f3/per139.jpg",
       "category": "",
       "costCenter": 1006139,
-      "direction": "Entry to car park via Adelaide Street.\n\n\n",
+      "direction": "Entry to car park via Adelaide Street.",
       "heightRestriction": 2.1,
       "information": "<p>Wilson Parking offer affordable parking at 39 Adelaide Street Car Park, located at 39 Adelaide St, Fremantle. Conveniently nearby to Fremantle Shopping Centre, and open 7 days a week, the undercover car park provides parking options for workers and visitors to the centre and other surrounding businesses and venues, including Saint Patrick's Basilica and Princess May Park. Offering casual Hourly and Early Bird parking, and exclusive discounts when you pay with the Wilson Parking App, the 39 Adelaide St Car Park will meet all your parking needs.</p>\n<p>Download the Wilson Parking App to easily pay for your parking directly from your phone, and access exclusive parking discounts.&nbsp;</p>",
       "isWilsonOne": false,
