@@ -57435,23 +57435,23 @@
           "rates": [
             {
               "timeSpan": "0.0 - 1.0 hrs",
-              "price": 16.0
+              "price": 18.0
             },
             {
               "timeSpan": "1.0 - 2.0 hrs",
-              "price": 32.0
+              "price": 36.0
             },
             {
               "timeSpan": "2.0 - 3.0 hrs",
-              "price": 48.0
+              "price": 54.0
             },
             {
               "timeSpan": "3.0 - 4.0 hrs",
-              "price": 64.0
+              "price": 70.0
             },
             {
               "timeSpan": "4.0 + hrs",
-              "price": 70.0
+              "price": 75.0
             }
           ]
         },
@@ -57461,7 +57461,7 @@
           "rates": [
             {
               "timeSpan": "Mon - Sun",
-              "price": 16.0
+              "price": 18.0
             }
           ]
         },
@@ -61503,16 +61503,6 @@
             {
               "timeSpan": "2.5 + hrs  (Daily Max)",
               "price": 90.0
-            }
-          ]
-        },
-        {
-          "rateType": "Early Bird",
-          "notes": "<p>Entry between 6:00am &amp; 10:00am, exit between 2:00pm &amp; 8:00pm.</p>\n<p>If conditions not met, Hourly rates apply from time of entry</p>",
-          "rates": [
-            {
-              "timeSpan": "Mon - Fri",
-              "price": 27.0
             }
           ]
         }
@@ -70479,7 +70469,7 @@
       "costCenter": 1004359,
       "direction": "Entry via 14 Eagle Lane",
       "heightRestriction": 2.0,
-      "information": "<p>Wilson Parking offers affordable &amp; secure parking at Central Plaza 1&nbsp;car park, located at car park address in the heart of Brisbane's financial district. Open 7 days, this undercover car park provides convenient access to nearby dining precinct and Queen Street Mall. Offering casual, flexi saver, night, and weekend parking options with exclusive discounts when you prepay online, permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the Central Plaza 1 car park will meet all your business and leisure parking needs.</p>",
+      "information": "<p>Wilson Parking offers affordable and reliable parking at Central Plaza 1 Car Park, located at 345 Queen St in the heart of Brisbane's financial district, on the Brisbane River. Open 7 days until late, this undercover car park provides convenient access to nearby Brisbane River dining precincts and Queen Street Mall.</p>\n<p>Offering casual, flexi saver, night, and weekend parking options with exclusive discounts when you prepay online, permanent monthly parking for regular parkers and the convenience of ticketless access when you opt in to Spott in the Wilson Parking App, the Central Plaza 1 Car Park will meet all your parking needs.</p>",
       "isWilsonOne": true,
       "legacyID": 4359,
       "monthlyParkingServiceIsAvailable": false,
@@ -77481,7 +77471,7 @@
       "costCenter": 1005048,
       "direction": null,
       "heightRestriction": 2.0,
-      "information": "<p><span style=\"color: #ff1e25;\">This car park will closed from 11.59pm Friday 23 January until 1pm Sunday 25 January for the&nbsp;TDU Car Park Climb. Alternative parking is available at&nbsp;21 Bent St Car Park.</span></p>\n<p>Wilson Parking offer affordable &amp; secure parking at 8 Union St Car Park, located at 8 Union Street, Adelaide. This car park is centrally located in the East End restaurant precinct, and accessible 24 hours a day. Offering discount online parking options, the 8 Union St Car Park will meet all of your parking needs.</p>\n<p>Enjoy the convenience of pay as you go with a Wilson Parking card, or enjoy 24/7 unlimited access when you subscribe to Monthly Parking.&nbsp;</p>",
+      "information": "<p>Wilson Parking offer affordable &amp; secure parking at 8 Union St Car Park, located at 8 Union Street, Adelaide. This car park is centrally located in the East End restaurant precinct, and accessible 24 hours a day. Offering discount online parking options, the 8 Union St Car Park will meet all of your parking needs.</p>\n<p>Enjoy the convenience of pay as you go with a Wilson Parking card, or enjoy 24/7 unlimited access when you subscribe to Monthly Parking.&nbsp;</p>",
       "isWilsonOne": true,
       "legacyID": 272,
       "monthlyParkingServiceIsAvailable": true,
