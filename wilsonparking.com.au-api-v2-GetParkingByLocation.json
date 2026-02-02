@@ -5690,7 +5690,7 @@
       "costCenter": 1002303,
       "direction": "St Mary's Road, Sydney",
       "heightRestriction": 1.9,
-      "information": "<p style=\"text-align: left;\"><span style=\"color: #ff1e25;\"><strong>The lifts at The Domain Car Park are currently out of order.</strong>&nbsp;We apologise for any inconvenience this may cause. For those with accessibility needs, please park on Ground level and access the car park via Sir John Young Crescent.</span></p>\n<p>Wilson Parking offer affordable &amp; secure parking at The Domain Car Park which is located at St Mary&rsquo;s Rd in the heart of Sydney. The Domain is home of Music Festivals, Carols in the Domain, Concerts &amp; Marathon events. Offering Hourly, Night and Weekend parking as well as discount online parking options, and open 24 hours a day, The Domain Car Park suits all your leisure and business parking needs.</p>\n<p>Save when you prepay for your parking online or with the Wilson Parking App; enjoy unlimited 24/7 access when you subscribe to monthly parking; or pay as you go with the convenient queue-less, contact free Wilson Parking Card.</p>",
+      "information": "<p style=\"text-align: left;\"><span style=\"color: #ff1e25;\">Please note that one of the lifts at The Domain Car Park is currently out of order. We apologise for any inconvenience this may cause. For those with accessibility needs, please park on Ground level and access the car park via Sir John Young Crescent.</span></p>\n<p>Wilson Parking offer affordable &amp; secure parking at The Domain Car Park which is located at St Mary&rsquo;s Rd in the heart of Sydney. The Domain is home of Music Festivals, Carols in the Domain, Concerts &amp; Marathon events. Offering Hourly, Night and Weekend parking as well as discount online parking options, and open 24 hours a day, The Domain Car Park suits all your leisure and business parking needs.</p>\n<p>Save when you prepay for your parking online or with the Wilson Parking App; enjoy unlimited 24/7 access when you subscribe to monthly parking; or pay as you go with the convenient queue-less, contact free Wilson Parking Card.</p>",
       "isWilsonOne": true,
       "legacyID": 562,
       "monthlyParkingServiceIsAvailable": true,
@@ -64831,11 +64831,11 @@
             },
             {
               "timeSpan": "2.0 - 3.0",
-              "price": 5.0
+              "price": 6.0
             },
             {
               "timeSpan": "3.0 + hrs",
-              "price": 6.0
+              "price": 8.0
             }
           ]
         },
@@ -64869,7 +64869,7 @@
           "rates": [
             {
               "timeSpan": "Saturday & Sunday",
-              "price": 4.0
+              "price": 5.0
             },
             {
               "timeSpan": "Event Rate",
@@ -67281,7 +67281,7 @@
       "costCenter": 1004356,
       "direction": "Entry off Little Cribb Street",
       "heightRestriction": 2.2,
-      "information": "<p><span style=\"color: #ff1e25;\">Event Parking is available at this car park on the following dates: 12, 13, 14, 15, 20, 21, 22 &amp; 27 February.</span></p>\n<p>Wilson Parking offers affordable &amp; secure parking at Milton Green&nbsp;car park, located at 19 Little Cribb Street&nbsp;in the heart of Milton. Open 7 days, this undercover car park provides convenient access to nearby Suncorp Stadium and surrounding entertainment and retail precinct. Offering hourly, night and weekend parking options with discounts when you prepay online, permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the Milton Green&nbsp;car park will meet all your business and leisure parking needs.&nbsp;</p>",
+      "information": "<p><span style=\"color: #ff1e25;\">Event Parking is available at this car park on the following dates: 12, 13, 14, 15, 20, 21, 22, 27 &amp; 28 February.</span></p>\n<p>Wilson Parking offers affordable &amp; secure parking at Milton Green&nbsp;car park, located at 19 Little Cribb Street&nbsp;in the heart of Milton. Open 7 days, this undercover car park provides convenient access to nearby Suncorp Stadium and surrounding entertainment and retail precinct. Offering hourly, night and weekend parking options with discounts when you prepay online, permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the Milton Green&nbsp;car park will meet all your business and leisure parking needs.&nbsp;</p>",
       "isWilsonOne": false,
       "legacyID": 1004356,
       "monthlyParkingServiceIsAvailable": true,
@@ -70660,7 +70660,7 @@
       "costCenter": 1004298,
       "direction": "Entry via Dowse Street",
       "heightRestriction": 2.3,
-      "information": "<p><span style=\"color: #ff1e25;\">Event Parking is available at this car park on the following dates:</span><span style=\"color: #ff1e25;\">&nbsp;12, 13, 14, 15, 20, 21, 22 &amp; 27 February.</span></p>\n<p>Wilson Parking offers affordable and secure parking at&nbsp;Darling &amp; Co car park, located in the heart of Paddington. Open 7 days, this undercover car park provides convenient access to Lang Park (Suncorp Stadium). Offering casual and night parking, and exclusive discounts when you pay via the Wilson Parking app, the&nbsp;Darling &amp; Co car park will meet all your business and leisure parking needs.</p>\n<p>Car park closes at 11pm on event nights.</p>",
+      "information": "<p><span style=\"color: #ff1e25;\">Event Parking is available at this car park on the following dates:</span><span style=\"color: #ff1e25;\"> 12, 13, 14, 15, 20, 21, 22, 27 &amp; 28 February.</span></p>\n<p>Wilson Parking offers affordable and secure parking at&nbsp;Darling &amp; Co car park, located in the heart of Paddington. Open 7 days, this undercover car park provides convenient access to Lang Park (Suncorp Stadium). Offering casual and night parking, and exclusive discounts when you pay via the Wilson Parking app, the&nbsp;Darling &amp; Co car park will meet all your business and leisure parking needs.</p>\n<p>Car park closes at 11pm on event nights.</p>",
       "isWilsonOne": false,
       "legacyID": 4298,
       "monthlyParkingServiceIsAvailable": true,
