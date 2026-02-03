@@ -56360,7 +56360,7 @@
       "costCenter": 1003250,
       "direction": "Entry via Russell St (Extension) or off Batman Ave (at Tennis Centre)\nOn event dates and busy periods, please use the Batman Avenue Exit from Level 1 and allow additional time to exit. \nEvent Dates \nSeptember 2025 - 12th, 19th, 25th from 4:00 pm, 20th from 12:00 pm, 27th from 7:00 am.",
       "heightRestriction": 2.1,
-      "information": "<p>&nbsp;</p>\n<p><span style=\"color: #ff1e25;\"><strong><u>Event Dates Februrary:<br /></u></strong></span></p>\n<ul>\n<li><span style=\"color: #ff1e25;\">1st from 10:00am to 11:59pm</span></li>\n<li><span style=\"color: #ff1e25;\">10th,11th, 12th, 14th, 19th-22nd and 25th-28th from 4:00pm to 11:59pm</span></li>\n<li><span style=\"color: #ff1e25;\">28<sup>th</sup>&nbsp;from 8:00am to 11:59pm</span></li>\n</ul>\n<p><span style=\"color: #ff1e25;\">Event rates will apply.</span><br /><span style=\"color: #ff1e25;\"><em>On event dates, please allow additional time to exit.</em></span></p>\n<p>&nbsp;</p>\n<p>Wilson Parking offers affordable &amp; secure parking at Federation Square Car Park, located on Russell St (Extension) in the Melbourne CBD. This car park is nearby to many popular attractions, including Federation Square, Flinders St Station, Birrarung Marr, Rod Laver Arena and Melbourne Park. Offering casual Early Bird, Hourly, Night and Weekend parking, with exclusive discounts when you prepay online, the Federation Square Car Park will meet all of your parking needs.</p>\n<p><span style=\"color: #000000;\"><strong>On event dates and busy periods, please use the Batman Avenue Exit from Level 1 and allow additional time to exit.</strong></span></p>\n<p>Download the Wilson Parking App to plan your journey and access exclusive discounts when you prepay online; pay as you go with one convenient monthly invoice when you use your Wilson Parking Card; enjoy 24/7 unlimited access when you subscribe to Monthly Parking; or just drive up to pay with a credit card at the car park.</p>",
+      "information": "<p><span style=\"color: #ff1e25;\"><strong><u>Event Dates Februrary:<br /></u></strong></span></p>\n<ul>\n<li><span style=\"color: #ff1e25;\">1st from 10:00am to 11:59pm</span></li>\n<li><span style=\"color: #ff1e25;\">10th,11th, 12th, 14th, 19th-22nd and 25th-28th from 4:00pm to 11:59pm</span></li>\n<li><span style=\"color: #ff1e25;\">28<sup>th</sup>&nbsp;from 8:00am to 11:59pm</span></li>\n</ul>\n<p><span style=\"color: #ff1e25;\">Event rates will apply.</span><br /><span style=\"color: #ff1e25;\"><em>On event dates, please allow additional time to exit.</em></span></p>\n<p>Wilson Parking offers affordable &amp; secure parking at Federation Square Car Park, located on Russell St (Extension) in the Melbourne CBD. This car park is nearby to many popular attractions, including Federation Square, Flinders St Station, Birrarung Marr, Rod Laver Arena and Melbourne Park. Offering casual Early Bird, Hourly, Night and Weekend parking, with exclusive discounts when you prepay online, the Federation Square Car Park will meet all of your parking needs.</p>\n<p><span style=\"color: #000000;\"><strong>On event dates and busy periods, please use the Batman Avenue Exit from Level 1 and allow additional time to exit.</strong></span></p>\n<p>Download the Wilson Parking App to plan your journey and access exclusive discounts when you prepay online; pay as you go with one convenient monthly invoice when you use your Wilson Parking Card; enjoy 24/7 unlimited access when you subscribe to Monthly Parking; or just drive up to pay with a credit card at the car park.</p>",
       "isWilsonOne": true,
       "legacyID": 94,
       "monthlyParkingServiceIsAvailable": true,
@@ -57014,15 +57014,15 @@
           "rates": [
             {
               "timeSpan": "Mon - Thurs",
-              "price": 30.0
+              "price": 32.0
             },
             {
               "timeSpan": "Fri",
-              "price": 30.0
+              "price": 32.0
             },
             {
               "timeSpan": "Event Rate",
-              "price": 30.0
+              "price": 32.0
             }
           ]
         },
@@ -57042,7 +57042,7 @@
           "rates": [
             {
               "timeSpan": "24 hr Stay from",
-              "price": 30.0
+              "price": 32.0
             }
           ]
         }
@@ -61464,7 +61464,7 @@
       "costCenter": 1003099,
       "direction": "Entry via  450 Flinders Lane, Melbourne ",
       "heightRestriction": 2.1,
-      "information": "<p>Wilson Parking offers affordable &amp; convenient parking at Olderfleet Car Park, located at 450 Flinders Lane, Melbourne. This car park is nearby to many Melbourne attractions including St Paul's Cathedral, The Ian Potter Centre and Flinders St Station.</p>\n<p>Offering Daily parking, the Olderfleet car park will meet all of your parking needs when visiting the Melbourne CBD.</p>\n<p>Pay as you go with a Wilson Parking Card, or enjoy unlimited 24/7 access when you subscribe to a Monthly parking account.</p>\n<p><span style=\"color: #ff1e25;\">As of 1 February 2026, Monthly Subscription pricing will automatically increase by $117.33 per month in accordance with the Victorian State Congestion Levy.</span></p>",
+      "information": "<p>Wilson Parking offers affordable &amp; convenient parking at Olderfleet Car Park, located at 450 Flinders Lane, Melbourne. This car park is nearby to many Melbourne attractions including St Paul's Cathedral, The Ian Potter Centre and Flinders St Station.</p>\n<p>Offering Daily parking, the Olderfleet car park will meet all of your parking needs when visiting the Melbourne CBD.</p>\n<p>Pay as you go with a Wilson Parking Card, or enjoy unlimited 24/7 access when you subscribe to a Monthly parking account.</p>",
       "isWilsonOne": false,
       "legacyID": 3099,
       "monthlyParkingServiceIsAvailable": true,
@@ -68629,7 +68629,7 @@
           "rates": [
             {
               "timeSpan": "Flat (per exit)",
-              "price": 18.0
+              "price": 10.0
             }
           ]
         }
@@ -77471,7 +77471,7 @@
       "costCenter": 1005048,
       "direction": null,
       "heightRestriction": 2.0,
-      "information": "<p>Wilson Parking offer affordable &amp; secure parking at 8 Union St Car Park, located at 8 Union Street, Adelaide. This car park is centrally located in the East End restaurant precinct, and accessible 24 hours a day. Offering discount online parking options, the 8 Union St Car Park will meet all of your parking needs.</p>\n<p>Enjoy the convenience of pay as you go with a Wilson Parking card, or enjoy 24/7 unlimited access when you subscribe to Monthly Parking.&nbsp;</p>",
+      "information": "<p><span style=\"color: #ff1e25;\">Due&nbsp;to ongoing city works, access to the car park from Union Street may be impacted. When Union Street is closed, please access the car park from Frome Street.</span></p>\n<p>Wilson Parking offer affordable &amp; secure parking at 8 Union St Car Park, located at 8 Union Street, Adelaide. This car park is centrally located in the East End restaurant precinct, and accessible 24 hours a day. Offering discount online parking options, the 8 Union St Car Park will meet all of your parking needs.</p>\n<p>Enjoy the convenience of pay as you go with a Wilson Parking card, or enjoy 24/7 unlimited access when you subscribe to Monthly Parking.&nbsp;</p>",
       "isWilsonOne": true,
       "legacyID": 272,
       "monthlyParkingServiceIsAvailable": true,
