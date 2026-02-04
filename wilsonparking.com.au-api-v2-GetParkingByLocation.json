@@ -35900,7 +35900,8 @@
       "carParkFeature": [
         "Monthly Parking",
         "Weekend Parking",
-        "Early Bird Parking"
+        "Early Bird Parking",
+        "Epark"
       ],
       "services": [
         "monthly"
@@ -56360,7 +56361,7 @@
       "costCenter": 1003250,
       "direction": "Entry via Russell St (Extension) or off Batman Ave (at Tennis Centre)\nOn event dates and busy periods, please use the Batman Avenue Exit from Level 1 and allow additional time to exit. \nEvent Dates \nSeptember 2025 - 12th, 19th, 25th from 4:00 pm, 20th from 12:00 pm, 27th from 7:00 am.",
       "heightRestriction": 2.1,
-      "information": "<p><span style=\"color: #ff1e25;\"><strong><u>Event Dates Februrary:<br /></u></strong></span></p>\n<ul>\n<li><span style=\"color: #ff1e25;\">1st from 10:00am to 11:59pm</span></li>\n<li><span style=\"color: #ff1e25;\">10th,11th, 12th, 14th, 19th-22nd and 25th-28th from 4:00pm to 11:59pm</span></li>\n<li><span style=\"color: #ff1e25;\">28<sup>th</sup>&nbsp;from 8:00am to 11:59pm</span></li>\n</ul>\n<p><span style=\"color: #ff1e25;\">Event rates will apply.</span><br /><span style=\"color: #ff1e25;\"><em>On event dates, please allow additional time to exit.</em></span></p>\n<p>Wilson Parking offers affordable &amp; secure parking at Federation Square Car Park, located on Russell St (Extension) in the Melbourne CBD. This car park is nearby to many popular attractions, including Federation Square, Flinders St Station, Birrarung Marr, Rod Laver Arena and Melbourne Park. Offering casual Early Bird, Hourly, Night and Weekend parking, with exclusive discounts when you prepay online, the Federation Square Car Park will meet all of your parking needs.</p>\n<p><span style=\"color: #000000;\"><strong>On event dates and busy periods, please use the Batman Avenue Exit from Level 1 and allow additional time to exit.</strong></span></p>\n<p>Download the Wilson Parking App to plan your journey and access exclusive discounts when you prepay online; pay as you go with one convenient monthly invoice when you use your Wilson Parking Card; enjoy 24/7 unlimited access when you subscribe to Monthly Parking; or just drive up to pay with a credit card at the car park.</p>",
+      "information": "<p><span style=\"color: #ff1e25;\"><strong><u>Event Dates Februrary:<br /></u></strong></span></p>\n<ul>\n<li><span style=\"color: #ff1e25;\">1st from 10:00am to 11:59pm</span></li>\n<li><span style=\"color: #ff1e25;\">10th,11th, 12th, 14th, 19th, 22nd and 25th-28th from 4:00pm to 11:59pm</span></li>\n<li><span style=\"color: #ff1e25;\">21st and 28<sup>th</sup>&nbsp;from 8:00am to 11:59pm</span></li>\n</ul>\n<p><span style=\"color: #ff1e25;\">Event rates will apply.</span><br /><span style=\"color: #ff1e25;\"><em>On event dates, please allow additional time to exit.</em></span></p>\n<p>Wilson Parking offers affordable &amp; secure parking at Federation Square Car Park, located on Russell St (Extension) in the Melbourne CBD. This car park is nearby to many popular attractions, including Federation Square, Flinders St Station, Birrarung Marr, Rod Laver Arena and Melbourne Park. Offering casual Early Bird, Hourly, Night and Weekend parking, with exclusive discounts when you prepay online, the Federation Square Car Park will meet all of your parking needs.</p>\n<p><span style=\"color: #000000;\"><strong>On event dates and busy periods, please use the Batman Avenue Exit from Level 1 and allow additional time to exit.</strong></span></p>\n<p>Download the Wilson Parking App to plan your journey and access exclusive discounts when you prepay online; pay as you go with one convenient monthly invoice when you use your Wilson Parking Card; enjoy 24/7 unlimited access when you subscribe to Monthly Parking; or just drive up to pay with a credit card at the car park.</p>",
       "isWilsonOne": true,
       "legacyID": 94,
       "monthlyParkingServiceIsAvailable": true,
@@ -74318,11 +74319,13 @@
         "Book a Bay",
         "Overnight Parking",
         "Entry height at least 2",
-        "Disabled Parking"
+        "Disabled Parking",
+        "EV Charging"
       ],
       "services": [
         "book a bay",
-        "disabled parking"
+        "disabled parking",
+        "ev charging"
       ],
       "carParkName": "Brisbane International Cruise Terminal P1 - Premium",
       "carParkNumber": 4251,
@@ -74335,7 +74338,7 @@
       "isWilsonOne": false,
       "legacyID": 4251,
       "monthlyParkingServiceIsAvailable": false,
-      "evChargerIsAvailable": false,
+      "evChargerIsAvailable": true,
       "disabledParkingIsAvailable": true,
       "phoneNumber": "1800 PARKING (1800 727 5464)",
       "products": [],
@@ -74437,7 +74440,7 @@
         "disabledParkingIsAvailable": true,
         "disabledParkingIconLabel": "Disabled Parking",
         "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
-        "evChargerIsAvailable": false,
+        "evChargerIsAvailable": true,
         "evChargerIconLabel": "EV Charging",
         "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
         "additionalServices": [
@@ -93814,7 +93817,7 @@
           "is24_7": false,
           "closed": false,
           "opening": "05:00",
-          "closing": "00:00",
+          "closing": "09:00",
           "note": null
         },
         {
@@ -93822,7 +93825,7 @@
           "is24_7": false,
           "closed": false,
           "opening": "05:00",
-          "closing": "00:00",
+          "closing": "09:00",
           "note": null
         },
         {
@@ -93830,7 +93833,7 @@
           "is24_7": false,
           "closed": false,
           "opening": "05:00",
-          "closing": "00:00",
+          "closing": "09:00",
           "note": null
         },
         {
@@ -93838,7 +93841,7 @@
           "is24_7": false,
           "closed": false,
           "opening": "05:00",
-          "closing": "00:00",
+          "closing": "09:00",
           "note": null
         },
         {
@@ -93846,7 +93849,7 @@
           "is24_7": false,
           "closed": false,
           "opening": "05:00",
-          "closing": "00:00",
+          "closing": "09:00",
           "note": null
         },
         {
@@ -93854,7 +93857,7 @@
           "is24_7": false,
           "closed": false,
           "opening": "05:00",
-          "closing": "00:00",
+          "closing": "09:00",
           "note": null
         },
         {
@@ -93862,7 +93865,7 @@
           "is24_7": false,
           "closed": false,
           "opening": "05:00",
-          "closing": "00:00",
+          "closing": "09:00",
           "note": null
         },
         {
@@ -93870,7 +93873,7 @@
           "is24_7": false,
           "closed": false,
           "opening": "05:00",
-          "closing": "00:00",
+          "closing": "09:00",
           "note": null
         }
       ],
