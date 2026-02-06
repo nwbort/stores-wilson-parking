@@ -4998,7 +4998,9 @@
       "carParkFeature": [
         "Night Parking",
         "Weekend Parking",
-        "Entry height at least 2"
+        "Entry height at least 2",
+        "Elevate",
+        "LPR"
       ],
       "services": [],
       "carParkName": "Cathedral Street Car Park",
@@ -6080,8 +6082,7 @@
         "Night Parking",
         "Weekend Parking",
         "Book a Bay",
-        "Wilson One",
-        "Flexi Parking"
+        "Wilson One"
       ],
       "services": [
         "book a bay",
@@ -12252,8 +12253,7 @@
         "Book a Bay",
         "Wilson One",
         "Flexi Parking",
-        "Disabled Parking",
-        "Daily Pass Bundles"
+        "Disabled Parking"
       ],
       "services": [
         "book a bay",
@@ -24469,7 +24469,7 @@
           "rates": [
             {
               "timeSpan": "Mon - Fri",
-              "price": 10.0
+              "price": 12.0
             }
           ]
         },
@@ -24479,7 +24479,7 @@
           "rates": [
             {
               "timeSpan": "Sat - Sun",
-              "price": 12.0
+              "price": 14.0
             }
           ]
         },
@@ -24495,7 +24495,7 @@
         }
       ],
       "fromText": "From",
-      "fromPrice": "7",
+      "fromPrice": "9",
       "location": {
         "longitude": 151.009250406041,
         "latitude": -33.8143502694063,
@@ -81437,6 +81437,7 @@
         "Disabled Parking",
         "Daily Pass Bundles",
         "Footy Parking",
+        "Special Event Parking",
         "EV Charging",
         "Summer Sale",
         "Elevate",
