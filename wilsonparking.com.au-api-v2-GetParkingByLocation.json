@@ -2089,7 +2089,6 @@
         "Overnight Parking",
         "Flexi Parking",
         "Entry height at least 2",
-        "Daily Pass Bundles",
         "Elevate",
         "LPR"
       ],
@@ -61465,7 +61464,7 @@
       "costCenter": 1003099,
       "direction": "Entry via  450 Flinders Lane, Melbourne ",
       "heightRestriction": 2.1,
-      "information": "<p>Wilson Parking offers affordable &amp; convenient parking at Olderfleet Car Park, located at 450 Flinders Lane, Melbourne. This car park is nearby to many Melbourne attractions including St Paul's Cathedral, The Ian Potter Centre and Flinders St Station.</p>\n<p>Offering Daily parking, the Olderfleet car park will meet all of your parking needs when visiting the Melbourne CBD.</p>\n<p>Pay as you go with a Wilson Parking Card, or enjoy unlimited 24/7 access when you subscribe to a Monthly parking account.</p>",
+      "information": "<p>Wilson Parking offers affordable &amp; convenient parking at Olderfleet Car Park, located at 450 Flinders Lane, Melbourne. This car park is nearby to many Melbourne attractions including St Paul's Cathedral, The Ian Potter Centre and Flinders St Station.</p>\n<p>Offering Daily parking, the Olderfleet car park will meet all of your parking needs when visiting the Melbourne CBD.</p>\n<p>Pay as you go with a Wilson Parking Card, or enjoy unlimited 24/7 access when you subscribe to a Monthly parking account.</p>\n<p><span style=\"color: #ff1e25;\">As of 1 February 2026, Monthly Subscription pricing will automatically increase by $117.33 per month in accordance with the Victorian State Congestion Levy.</span></p>",
       "isWilsonOne": false,
       "legacyID": 3099,
       "monthlyParkingServiceIsAvailable": true,
