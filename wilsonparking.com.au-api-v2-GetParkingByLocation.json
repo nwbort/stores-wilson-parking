@@ -1060,23 +1060,19 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Parking from $25, per Hour - Maximum daily rate is $85</p>\n<p>Monday to Friday - Rates charged from 6am daily</p>",
+          "notes": "<p>Parking from $30, per Hour - Maximum daily rate is $90</p>\n<p>Monday to Friday - Rates charged from 6am daily</p>",
           "rates": [
             {
               "timeSpan": "0.0 - 1.0 Hr",
-              "price": 25.0
+              "price": 30.0
             },
             {
               "timeSpan": "1.0 - 2.0 Hrs",
-              "price": 50.0
+              "price": 60.0
             },
             {
-              "timeSpan": "2.0 - 3.0 Hrs",
-              "price": 75.0
-            },
-            {
-              "timeSpan": "3.0 + Hrs",
-              "price": 85.0
+              "timeSpan": "2.0 + Hrs",
+              "price": 90.0
             }
           ]
         },
@@ -8991,7 +8987,7 @@
         },
         {
           "rateType": "Early Bird",
-          "notes": "<p>Early Bird - Monday to Friday</p>\n<p>Entry between 5am and 9:30am, exit between 3pm and 7pm. Validate ticket in machine on Level 2 in morning, proceed to Level 1 or 2 for parking<br /><br />Casual rates apply if conditions are not met</p>\n<p>Online rate shown includes transaction fee. Click the Prepay now link below to get started.</p>",
+          "notes": "<p>Drive Up Early Bird - Monday to Friday</p>\n<p>Entry between 5am and 9:30am, exit between 3pm and 7pm. Validate ticket in machine on Level 2 in morning, proceed to Level 1 or 2 for parking<br /><br />Casual rates apply if conditions are not met</p>\n<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Flexi Saver Rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The flexi saver price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>",
           "rates": [
             {
               "timeSpan": "Early Bird - Monday to Friday",
@@ -65179,7 +65175,7 @@
       "category": "",
       "costCenter": 1003393,
       "direction": "176 Furlong Rd, St Albans",
-      "heightRestriction": 0.0,
+      "heightRestriction": 2.1,
       "information": "<p>Wilson Parking offer affordable &amp; reliable parking at Sunshine Hospital Car Park, located at 176 Furlong Rd, St Albans. Open 24 hours, 7 days, this car park provides convenient access for staff, patients and visitors to the Sunshine Hospital. Offering Hourly, Weekend and special concession rates (on validation at the hospital), the Sunshine Hospital will meet all your parking needs.&nbsp;</p>",
       "isWilsonOne": false,
       "legacyID": 1003393,
