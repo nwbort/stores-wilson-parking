@@ -11668,7 +11668,7 @@
           "notes": "<p>Rates apply all days - Monday to Sunday<br />Entry after 5pm, exit before 6am the following day</p>\n<p><em>Online rate includes transaction fee<br />Click the </em><strong><em>Prepay now</em></strong><em> link below to get started</em></p>",
           "rates": [
             {
-              "timeSpan": "Mon - Fri",
+              "timeSpan": "All Days",
               "price": 28.0
             }
           ]
@@ -24438,19 +24438,19 @@
           "rates": [
             {
               "timeSpan": "0.0 - 1.0 hrs",
-              "price": 9.0
+              "price": 10.0
             },
             {
               "timeSpan": "1.0 - 2.0 hrs",
-              "price": 18.0
+              "price": 20.0
             },
             {
               "timeSpan": "2.0 - 3.0 hrs",
-              "price": 27.0
+              "price": 30.0
             },
             {
               "timeSpan": "3.0 - 4.0 hrs",
-              "price": 36.0
+              "price": 40.0
             },
             {
               "timeSpan": "4.0 + hrs",
@@ -24490,7 +24490,7 @@
         }
       ],
       "fromText": "From",
-      "fromPrice": "9",
+      "fromPrice": "10",
       "location": {
         "longitude": 151.009250406041,
         "latitude": -33.8143502694063,
@@ -65190,7 +65190,7 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Available Monday - Friday</p>",
+          "notes": "<p>Available Monday - Friday</p>\n<p><strong>*Concession / Pensioner Rate:</strong> must validate via kiosk at main reception or Joan Kerner Centre reception. For valid cardholders only.</p>",
           "rates": [
             {
               "timeSpan": "0.0 - 0.5hrs",
@@ -65211,12 +65211,16 @@
             {
               "timeSpan": "3.0+ hrs",
               "price": 20.8
+            },
+            {
+              "timeSpan": "Concession / Pensioner*",
+              "price": 7.2
             }
           ]
         },
         {
           "rateType": "Weekend",
-          "notes": "<p>Available Sat and Sun.&nbsp;</p>\n<p>Rates are per entry per day and reset at 6am</p>",
+          "notes": "<p>Available Sat and Sun.&nbsp;Rates are per entry per day and reset at 6am</p>\n<p><strong>*Concession / Pensioner Rate:</strong> must validate via kiosk at main reception or Joan Kerner Centre reception. For valid cardholders only.</p>",
           "rates": [
             {
               "timeSpan": "0.0 - 0.5hr",
@@ -65229,6 +65233,10 @@
             {
               "timeSpan": "1.0+ hrs",
               "price": 12.4
+            },
+            {
+              "timeSpan": "Concession / Pensioner*",
+              "price": 7.2
             }
           ]
         }
