@@ -16069,7 +16069,7 @@
         }
       ],
       "fromText": "From",
-      "fromPrice": "14",
+      "fromPrice": "15",
       "location": {
         "longitude": 151.19628310203552,
         "latitude": -33.825105569636662,
@@ -37880,7 +37880,7 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Rates apply, Monday-Sunday<br />Public Holidays: Casual Rates Apply</p>",
+          "notes": "<p>Rates apply Monday-Sunday<br />Public Holidays: Casual Rates Apply</p>",
           "rates": [
             {
               "timeSpan": "0.0 - 1.0 hrs",
@@ -37895,7 +37895,7 @@
               "price": 15.0
             },
             {
-              "timeSpan": "3.0 + hrs",
+              "timeSpan": "3.0 - 24.0 hrs",
               "price": 17.0
             }
           ]
@@ -55858,7 +55858,7 @@
           "is24_7": false,
           "closed": false,
           "opening": "06:00",
-          "closing": "22:00",
+          "closing": "00:00",
           "note": null
         },
         {
@@ -55866,7 +55866,7 @@
           "is24_7": false,
           "closed": false,
           "opening": "06:00",
-          "closing": "22:00",
+          "closing": "00:00",
           "note": null
         },
         {
@@ -55906,7 +55906,7 @@
           "is24_7": false,
           "closed": false,
           "opening": "06:00",
-          "closing": "22:00",
+          "closing": "00:00",
           "note": null
         },
         {
@@ -55914,7 +55914,7 @@
           "is24_7": false,
           "closed": false,
           "opening": "06:00",
-          "closing": "22:00",
+          "closing": "00:00",
           "note": null
         }
       ],
@@ -62654,7 +62654,7 @@
         },
         {
           "rateType": "Night",
-          "notes": "<p>Available Monday - Friday</p>\n<p>Enter after 5pm, Exit before 5 am the next day</p>",
+          "notes": "<p>Available Monday - Friday</p>\n<p>Enter after 4pm, Exit before 6am the next day</p>",
           "rates": [
             {
               "timeSpan": "Monday - Friday",
@@ -69639,7 +69639,7 @@
       "costCenter": 1004121,
       "direction": "Entry via 145 Ann Street",
       "heightRestriction": 2.3,
-      "information": "<ul>\n<li><span style=\"color: #ff1e25;\"><strong>Important Information:</strong></span></li>\n<li><span style=\"color: #ff1e25;\"><u>Car park will be closed from&nbsp;<br /><strong>Wednesday 24th Dec&nbsp;</strong>until&nbsp;<strong>Sunday 4th January 2025</strong></u></span></li>\n</ul>\n<p><br />Wilson Parking offers affordable and secure parking at King George Central Car Park, located at 145 Ann Street, Brisbane. Located in the Brisbane CBD, near King George Square and open Monday - Friday, this car park us perfect for commuter parking. Offering hourly and monthly parking, this car park will meet all your parking needs.</p>\n<p>Save when you prepay online or enjoy the convenience of unlimited 24/7 access when you subscribe to Monthly Parking.&nbsp;</p>",
+      "information": "<p>Wilson Parking offers affordable and secure parking at King George Central Car Park, located at 145 Ann Street, Brisbane. Located in the Brisbane CBD, near King George Square and open Monday - Friday, this car park us perfect for commuter parking. Offering hourly and monthly parking, this car park will meet all your parking needs.</p>\n<p>Save when you prepay online or enjoy the convenience of unlimited 24/7 access when you subscribe to Monthly Parking.&nbsp;</p>",
       "isWilsonOne": false,
       "legacyID": 286,
       "monthlyParkingServiceIsAvailable": false,
@@ -75039,7 +75039,7 @@
       "featuredIndex": 0
     },
     {
-      "name": "The Carlton 21 Malop St Car Park",
+      "name": "The Carlton 13-19 Malop St Car Park",
       "bookText": null,
       "canBookABay": true,
       "selectedFeatures": "",
@@ -75055,14 +75055,14 @@
         "wilson one",
         "monthly"
       ],
-      "carParkName": "The Carlton 21 Malop St Car Park",
-      "carParkNumber": 3336,
+      "carParkName": "The Carlton 13-19 Malop St Car Park",
+      "carParkNumber": 9243,
       "carParkPhoto": null,
       "category": "",
-      "costCenter": 1003336,
+      "costCenter": 1009243,
       "direction": "Enter via Corio Street",
       "heightRestriction": 2.2,
-      "information": "<p>Wilson Parking offers affordable &amp; secure parking at 21 Malop St Car Park, located in Geelong. Offering the convenience of unlimited 24/7 access Monthly Parking, as well as Early Bird and Hourly parking, the 21 Malop St Geelong Car Park will meet all of your parking needs.</p>\n<p>Save time, download the Wilson Parking App to pay for your parking with your phone, or use your Wilson Parking Card to pay as you go.</p>",
+      "information": "<p>The 13-19 Malop St Car Park, offers convenient and reliable parking in Geelong. This undercover car park offers the convenience of unlimited 24/7 access when you subscribe to Monthly Parking, as well as exclusive parking rates when you use the Wilson Parking App to prepay online.</p>\n<p>Also offering drive up hourly and Early bird parking rates, the 13-19 Malop St Geelong Car Park will meet all of your parking needs.</p>\n<p>Download the Wilson Parking App to easily find your way to the car park, prepay for parking and take advantage of exclusive perks.&nbsp;</p>",
       "isWilsonOne": true,
       "legacyID": 647,
       "monthlyParkingServiceIsAvailable": true,
@@ -75080,7 +75080,7 @@
           "rates": [
             {
               "timeSpan": "0.0 - 1.0 Hours",
-              "price": 5.0
+              "price": 4.0
             },
             {
               "timeSpan": "1.0 - 2.0 Hours",
@@ -75088,36 +75088,26 @@
             },
             {
               "timeSpan": "2.0 - 3.0 Hours",
-              "price": 15.0
+              "price": 12.0
             },
             {
               "timeSpan": "3.0 - 4.0 Hours",
-              "price": 25.0
+              "price": 19.0
             },
             {
               "timeSpan": "4.0 + Hours",
-              "price": 40.0
-            }
-          ]
-        },
-        {
-          "rateType": "Early Bird",
-          "notes": "<p>Drive up Conditons : Enter between 6am - 10am Exit between 2pm &amp; close.</p>\n<p>Online Early Bird parking is no longer available at The Calton - 21 Malop St car park.</p>\n<p>Enjoy greater flexibility, prepay online your Flexi Saver Parking, to enter and exit at the time you need with one flat rate.</p>\n<p>The Flexi Saver Parking Product is only available online and includes transaction fees.</p>\n<p><span class=\"ui-provider a b c d e f g h i j k l m n o p q r s t u v w x y z ab ac ae af ag ah ai aj ak\" dir=\"ltr\"><em>*A one hour grace period applies before your selected entry time and following your selected exit time. Prepaid parking is for one entry and one exit only.</em></span></p>",
-          "rates": [
-            {
-              "timeSpan": "Drive Early bird",
               "price": 25.0
             }
           ]
         }
       ],
       "fromText": "From",
-      "fromPrice": "5",
+      "fromPrice": "4",
       "location": {
         "longitude": 144.35940973988113,
         "latitude": -38.146679501564236,
         "zoom": 13,
-        "address": "21 Malop Street",
+        "address": "13-19 Malop Street",
         "region": {
           "name": "Geelong",
           "longitude": 144.36249107619631,
@@ -75199,7 +75189,7 @@
           "note": null
         }
       ],
-      "url": "/parking-locations/victoria/geelong/the-carlton-21-malop-st-car-park/",
+      "url": "/parking-locations/victoria/geelong/13-19-malop-st-car-park/",
       "serviceConfiguration": {
         "canBookABay": true,
         "bookABayIconLabel": "Prepay Online",
@@ -75223,7 +75213,13 @@
       "price": "",
       "status": "",
       "cpmsCarparkCode": null,
-      "externalCarParkInfo": null,
+      "externalCarParkInfo": {
+        "name": "InterPark",
+        "pinUrl": "/globalassets/icons/interpark-icons/pin-blue.png",
+        "logoUrl": "/siteassets/parking-stock-images/interpark-icons/interpark_logo.jpg",
+        "pageUrl": "",
+        "content": "<p>This is an Interpark carpark with LOGO</p>"
+      },
       "featuredIndex": 0
     },
     {
@@ -85002,7 +84998,7 @@
       "carParkPhoto": "/contentassets/ca151af77ba848a8a7950e6de5610cf5/capture.jpg",
       "category": "",
       "costCenter": 1006212,
-      "direction": "<b>**Car Park only operational on selected event days**</b><br>\n\n</b><br>31st Jan -  Ed Sheeran<b>\n</b><br>(Gate opens at 3:30pm and closes at 11:30pm sharp)<b>\n\n</b><br>1st Feb -  Ed Sheeran<b>\n</b><br>(Gate opens at 3:30pm and closes at 11:30pm sharp)<b>\n\n</b><br>14th Feb -  AFL 2026 Origin<b>\n</b><br>(Gate opens at 3:30pm and closes at 9:00pm sharp)<b>\n\n</b><br>21st March -  AFL Fremantle Dockers Vs Melbourne<b>\n</b><br>(Gate opens at 3:30pm and closes at 9:00pm sharp)<b>",
+      "direction": "<b>**Car Park only operational on selected event days**</b><br>\n\n</b><br>14th Feb -  AFL 2026 Origin<b>\n</b><br>(Gate opens at 3:30pm and closes at 9:00pm sharp)<b>\n\n</b><br>21st March -  AFL Fremantle Dockers Vs Melbourne<b>\n</b><br>(Gate opens at 3:30pm and closes at 9:00pm sharp)<b>",
       "heightRestriction": 0.0,
       "information": "<p>Wilson Parking offers affordable parking at Belmont Racecourse Car Park for Optus Stadium event parking only. Located a short walk from Optus Stadium, this car park is the perfect location for footy, cricket, concerts and other Optus Stadium events. Operational days are shown under the parking rates to the left.</p>\n<p>Parking must be prepaid in advance through the Wilson Parking App or website. No payments can be taken at the gate. Must present prepaid confirmation to access car park.</p>",
       "isWilsonOne": false,
@@ -92368,7 +92364,7 @@
       "carParkPhoto": "/contentassets/3e4597e5de024514b600ba1cb461e067/per042a.jpg",
       "category": "",
       "costCenter": 1006042,
-      "direction": "Entry from St Georges Terrace (Eastbound) just before Mill Street.\n<br><br>Overheight vehicle parking available on upper level by using the ramp to Hay Street.\n\n\n",
+      "direction": "Entry from St Georges Terrace (Eastbound) just before Mill Street.\n<br><br>Overheight vehicle parking available on upper level by using the ramp to Hay Street.\n\n<br><br>As part of car park refurbishment there will be no public access to the car park from 13th to 16th Feb</br>\n\n<br><br>We apologise for this inconvenience. </br>\n",
       "heightRestriction": 2.0,
       "information": "<p>Wilson Parking offer affordable parking at London House Car Park, located at 216 St Georges Terrace, Perth. Open 7 days, this undercover car park, provides parking options for His Majesty's Theatre, nearby stores and Perth businesses. Entry to the car park is from St Georges Terrace (Eastbound) just before Mill Street. Over height vehicle parking available on upper level by using the ramp to Hay Street.</p>\n<p>Offering casual Hourly, Night and Weekend Parking, and the convenience of payments with the Wilson Parking App, the London House Car Park will meet all of your parking needs.</p>\n<p>&nbsp;</p>",
       "isWilsonOne": false,
