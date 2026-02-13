@@ -1046,7 +1046,7 @@
       "costCenter": 1002417,
       "direction": "Entry via 24 York Street, Sydney",
       "heightRestriction": 1.9,
-      "information": "<p>Wilson Parking offer affordable &amp; secure parking at George Place Car Park, located via 24 York Street, in the heart of Sydney CBD. Conveniently nearby to City Recital Hall, Martin Place, Pitt St Mall shopping, Hotels and Restaurant Precincts, this car park is open daily till 10pm. Offering Hourly and Weekend parking, the George Place Car Park&nbsp;suits all your leisure and business parking needs.</p>\n<p>Save when you prepay your parking online or with the Wilson Parking App; enjoy unlimited 24/7 access when you subscribe to Monthly Parking; or pay as you go with the convenient queue-less, contact free Wilson Parking Card.&nbsp;</p>\n<div><span style=\"color: #ff1e25;\">Please note:&nbsp;Once the car park closes, and <strong>there is no vehicle or pedestrian access afterhours</strong>.</span></div>\n<div><br /><span style=\"color: #ff1e25;\"><strong>Mobility access is unavailable once the building closes at 6:00pm&nbsp;(Monday to Friday), Weekends and Public Holidays</strong>, so we encourage customers requiring accessible entry to plan their visit accordingly.</span></div>",
+      "information": "<p>Wilson Parking offer affordable &amp; secure parking at George Place Car Park, located via 24 York Street, in the heart of Sydney CBD. Conveniently nearby to City Recital Hall, Martin Place, Pitt St Mall shopping, Hotels and Restaurant Precincts, this car park is open daily till 10pm. Offering Hourly and Weekend parking, the George Place Car Park&nbsp;suits all your leisure and business parking needs.</p>\n<p>Save when you prepay your parking online or with the Wilson Parking App; enjoy unlimited 24/7 access when you subscribe to Monthly Parking; or pay as you go with the convenient queue-less, contact free Wilson Parking Card.&nbsp;</p>\n<div><span style=\"color: #ff1e25;\">Please note:&nbsp;Once the car park closes, <strong>there is no vehicle or pedestrian access afterhours</strong>.</span></div>\n<div><br /><span style=\"color: #ff1e25;\"><strong>Mobility access is unavailable once the building closes at 6:00pm&nbsp;(Monday to Friday), Weekends and Public Holidays</strong>, so we encourage customers requiring accessible entry to plan their visit accordingly.</span></div>",
       "isWilsonOne": false,
       "legacyID": 2417,
       "monthlyParkingServiceIsAvailable": false,
@@ -1248,7 +1248,7 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Rates apply Monday to Friday<br />Large vehicle surcharge of $20 applies if vehicle cannot park on level B2<br />Public Holidays: Weekend Rates Apply</p>",
+          "notes": "<p>Rates apply Monday to Friday<br />Public Holidays: Weekend Rates Apply</p>",
           "rates": [
             {
               "timeSpan": "0.0 - 1.0  hrs   ",
@@ -1264,7 +1264,7 @@
             },
             {
               "timeSpan": "3.0 + hrs",
-              "price": 85.0
+              "price": 90.0
             }
           ]
         },
@@ -3468,7 +3468,7 @@
       "costCenter": 1002235,
       "direction": "Entry via 383 Kent or 170 Sussex Streets (opposite Hyatt Regency Sydney) ",
       "heightRestriction": 2.1,
-      "information": "<p>Wilson Parking offer affordable &amp; secure parking at 383 Kent Street Car Park which is located at 383 Kent St or 170 Sussex St, Sydney in the heart of the Sydney CBD, King St Wharf, Barangaroo, Crown Casino, Restaurant and Hotel Precint.&nbsp;</p>\n<p>The 383 Kent St Car Park suits all your leisure and business parking needs. With Monthly &amp; Online parking options,&nbsp;drive up Casual parking, or use your Wilson Parking Card and pay as you go</p>",
+      "information": "<p>Wilson Parking offer affordable &amp; secure parking at 383 Kent Street Car Park which is located at 383 Kent St or 170 Sussex St, Sydney in the heart of the Sydney CBD, King St Wharf, Barangaroo, Crown Casino, Restaurant and Hotel Precinct.&nbsp;</p>\n<p>The 383 Kent St Car Park suits all your leisure and business parking needs. With Monthly &amp; Online parking options,&nbsp;drive up Casual parking, or use your Wilson Parking Card and pay as you go</p>",
       "isWilsonOne": true,
       "legacyID": 235,
       "monthlyParkingServiceIsAvailable": true,
@@ -6091,7 +6091,7 @@
       "costCenter": 1002159,
       "direction": "Entry via Lang Street",
       "heightRestriction": 2.02,
-      "information": "<p>Wilson Parking offer affordable &amp; secure parking at 259 George St Car Park which is located at 9 Lang St Sydney in the heart of Sydney CBD. Nearby to Circular Quay, Hotels and Restaurant and Sydney shopping destinations. Offering&nbsp; Hourly, Night and Weekend parking, as well as online discount parking options including FLexi Saver, the 259 George St&nbsp;Car Park will suit all your leisure and business parking needs.</p>\n<p>Save when you prepay your parking online or with the Wilson Parking App; enjoy unlimited 24/7 access when you subscribe to monthly parking; or pay as you go with the convenient queue-less, contact free Wilson Parking Card.</p>",
+      "information": "<p>Wilson Parking offer affordable &amp; secure parking at 259 George St Car Park which is located at 9 Lang St Sydney in the heart of Sydney CBD. Nearby to Circular Quay, Hotels and Restaurant and Sydney shopping destinations. Offering&nbsp; Hourly, Night and Weekend parking, as well as online discount parking options including Flexi Saver, the 259 George St&nbsp;Car Park will suit all your leisure and business parking needs.</p>\n<p>Save when you prepay your parking online or with the Wilson Parking App; enjoy unlimited 24/7 access when you subscribe to monthly parking; or pay as you go with the convenient queue-less, contact free Wilson Parking Card.</p>",
       "isWilsonOne": true,
       "legacyID": 2,
       "monthlyParkingServiceIsAvailable": true,
@@ -10425,7 +10425,7 @@
       "costCenter": 1002128,
       "direction": null,
       "heightRestriction": 2.15,
-      "information": "<p>Wilson Parking offer affordable &amp; secure parking at Jones Bay Wharf Car Park at&nbsp;17-23 Pirrama Road, Pyrmont.&nbsp;</p>\n<p>Nearby Star City Casino, Restaurant &amp; Bars, Shopping &amp; Hotel Precints.&nbsp;</p>\n<p>Jones Bay Wharf Car Park suits all your leisure and business parking needs. With Monthly, Drive up or Prepay Online options.</p>",
+      "information": "<p>Wilson Parking offer affordable &amp; secure parking at Jones Bay Wharf Car Park at&nbsp;17-23 Pirrama Road, Pyrmont.&nbsp;</p>\n<p>Nearby Star City Casino, Restaurant &amp; Bars, Shopping &amp; Hotel Precincts.&nbsp;</p>\n<p>Jones Bay Wharf Car Park suits all your leisure and business parking needs. With Monthly, Drive up or Prepay Online options.</p>",
       "isWilsonOne": true,
       "legacyID": 122,
       "monthlyParkingServiceIsAvailable": false,
@@ -13146,7 +13146,8 @@
         "Weekend Parking",
         "Book a Bay",
         "Flexi Parking",
-        "Entry height at least 2"
+        "Entry height at least 2",
+        "Daily Pass Bundles"
       ],
       "services": [
         "book a bay",
@@ -13696,7 +13697,7 @@
         "longitude": 151.208592093937,
         "latitude": -33.8378816857684,
         "zoom": 13,
-        "address": "110 Walker S, North Sydney",
+        "address": "110 Walker St, North Sydney",
         "region": null
       },
       "openingTimes": [
@@ -13810,7 +13811,7 @@
       "category": "",
       "costCenter": 1002348,
       "direction": "Entry via Elizabeth Street",
-      "heightRestriction": 1.8,
+      "heightRestriction": 1.9,
       "information": "<p>Wilson Parking offer affordable parking at Royal Prince Alfred Medical Centre Car Park which is located at the corner Carillon Road and Missenden Road - entry via Elizabeth St in the heart of in Camperdown / Newtown</p>\n<p>Nearby to RPA Hospital and Newtown Restaurant &amp; Bar Precint</p>\n<p>With hourly, night and weekend parking options available via Drive up or Prepay online.</p>",
       "isWilsonOne": true,
       "legacyID": 769,
@@ -14023,7 +14024,7 @@
       "costCenter": 1002072,
       "direction": "100 Miller St, North Sydney",
       "heightRestriction": 1.9,
-      "information": "<h5><span style=\"text-decoration: underline;\"><span style=\"color: #ff1e25; text-decoration: underline;\">Sydney Marathon Road Closures</span></span></h5>\n<p><span style=\"color: #ff1e25;\">Due to the Sydney Marathon on Sunday 31st August, there will be no entry or exit to this car park during the hours of 3:00am and 11:00am.</span></p>\n<p><span style=\"color: #ff1e25;\">We appreciate your patience during this time.</span></p>\n<p>Wilson Parking offer affordable &amp; secure parking at Northpoint Car Park, located at 100 Miller Street in North Sydney.&nbsp;Open until 10:00pm 7 days a week, this undercover car park provides convenient access to nearby stores, restaurants and other North Sydney businesses.&nbsp;Offering casual Hourly, Weekend and Night Parking and permanent monthly parking for regular parkers,&nbsp;the Northpoint Car Park will meet all your business and leisure parking needs.&nbsp;</p>\n<p>Enjoy unlimited 24/7 access when you subscribe to monthly parking.</p>",
+      "information": "<p>Wilson Parking offer affordable &amp; secure parking at Northpoint Car Park, located at 100 Miller Street in North Sydney.&nbsp;Open until 10:00pm 7 days a week, this undercover car park provides convenient access to nearby stores, restaurants and other North Sydney businesses.&nbsp;Offering casual Hourly, Weekend and Night Parking and permanent monthly parking for regular parkers,&nbsp;the Northpoint Car Park will meet all your business and leisure parking needs.&nbsp;</p>\n<p>Enjoy unlimited 24/7 access when you subscribe to monthly parking.</p>",
       "isWilsonOne": false,
       "legacyID": 1002072,
       "monthlyParkingServiceIsAvailable": true,
@@ -14439,7 +14440,7 @@
       "category": "",
       "costCenter": 1002035,
       "direction": null,
-      "heightRestriction": 1.95,
+      "heightRestriction": 2.1,
       "information": "<p>Wilson Parking offer affordable &amp; secure parking at 76 Berry Car Park which is located at 136-142 Walker St in the heart of North Sydney. Open 7 days a week, and nearby to many North Sydney businesses, bars and restaurants, this car park is conveniently&nbsp;located.&nbsp;</p>\n<p>Offering Hourly, Night and Weekend Parking, with exclusive discounts if you prepay online, and the convenience&nbsp;of unlimited 24/7 access for regular parkers&nbsp;who subscribe to Monthly Parking, the 76 Berry St car park will meet all your parking&nbsp;needs.&nbsp;</p>",
       "isWilsonOne": true,
       "legacyID": 229,
@@ -15048,7 +15049,7 @@
       "category": "",
       "costCenter": 1002327,
       "direction": null,
-      "heightRestriction": 1.9,
+      "heightRestriction": 1.95,
       "information": "<p>Wilson Parking offer affordable &amp; secure parking at 213 Miller Car Park which is located at 213 Miller St in the heart of North Sydney.</p>\n<p>213 Miller St Car Park suits all your leisure and business parking needs. With Monthly, Night and Weekend Parking options available via Prepay online,&nbsp;drive up, or use your Wilson Parking Card and pay as you go.</p>",
       "isWilsonOne": true,
       "legacyID": 608,
@@ -15847,7 +15848,7 @@
       "category": "",
       "costCenter": 1002188,
       "direction": null,
-      "heightRestriction": 1.95,
+      "heightRestriction": 2.1,
       "information": "<p>Wilson Parking offer affordable &amp; secure parking at 40 Oxley St Car Park, located at 53 Nicholson St in the heart of St Leonards.</p>\n<p>40 Oxley St Car Park suits all your leisure and business parking needs. With Monthly, Weekend Parking options available or use your Wilson Parking Card and pay as you go.</p>",
       "isWilsonOne": true,
       "legacyID": 38,
@@ -16059,7 +16060,7 @@
           "rates": [
             {
               "timeSpan": "Flat Rate",
-              "price": 19.0
+              "price": 20.0
             },
             {
               "timeSpan": "Overnight, add an addtional",
@@ -16591,7 +16592,7 @@
       "category": "",
       "costCenter": 5002116,
       "direction": "Entry from Atchinson St",
-      "heightRestriction": 2.0,
+      "heightRestriction": 2.2,
       "information": "<p>The Albany Crows Nest Car Park offers affordable parking at 101 -110 Willoughy Rd, Crows Nest in Sydney's Lower North Shore. Open until midnight, 7 days a week, this car park provides parking for Coles Crows Nest and other surrounding businesses.&nbsp;</p>\n<p>Offering discounted Early Bird parking, and casual Hourly rates 7 days a week, with your first 2 hours free, The Albany Crows Nest Car Park will meet all your parking needs.&nbsp;</p>",
       "isWilsonOne": false,
       "legacyID": 5002116,
@@ -22224,7 +22225,7 @@
         "longitude": 151.087733360817,
         "latitude": -33.8052691377751,
         "zoom": 13,
-        "address": "14 Anthony Rd, Wesdt Ryde",
+        "address": "14 Anthony Rd, West Ryde",
         "region": {
           "name": "Parramatta",
           "longitude": 151.00512742996216,
@@ -22559,15 +22560,7 @@
               "price": 15.0
             },
             {
-              "timeSpan": "5.0 - 6.0 hrs",
-              "price": 20.0
-            },
-            {
-              "timeSpan": "6.0 - 7.0 hrs",
-              "price": 25.0
-            },
-            {
-              "timeSpan": "7.0 + hrs",
+              "timeSpan": "5.0 + hrs",
               "price": 30.0
             }
           ]
@@ -22720,7 +22713,7 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p><strong>*Parking validation available with a minimum spend of $15 at a participating retailer ONLY</strong></p>",
+          "notes": "<p><strong>*Parking validation available with a minimum spend of $10 at a participating retailer ONLY</strong></p>",
           "rates": [
             {
               "timeSpan": "0.0-1.0 hrs (no validation)",
@@ -24819,7 +24812,7 @@
       "category": "Book a Bay",
       "costCenter": 1002279,
       "direction": "Entry via 70 Phillip Street, Parramatta",
-      "heightRestriction": 2.0,
+      "heightRestriction": 2.1,
       "information": "<p>Wilson Parking offer affordable &amp; secure parking at The Octagon Car Park, located via 70 Phillip Street in the heart of Parramatta CBD.</p>\n<p>The Octagon Car Park suits all your leisure and business parking needs. With Casual and Weekend Parking options available, prepay Online or use your Wilson Parking Card and pay as you go!</p>",
       "isWilsonOne": true,
       "legacyID": 2279,
@@ -24871,7 +24864,7 @@
         "longitude": 151.007801235587,
         "latitude": -33.8134135816341,
         "zoom": 13,
-        "address": "110 George Street, Parrmatta",
+        "address": "110 George Street, Parramatta",
         "region": {
           "name": "Parramatta",
           "longitude": 151.00512742996216,
@@ -27077,7 +27070,7 @@
       "category": "",
       "costCenter": 5002136,
       "direction": "13-17 Waratah St Mona Vale",
-      "heightRestriction": 2.0,
+      "heightRestriction": 2.1,
       "information": "<p>The 13 - 17 Waratah St Car Park located at 13-17 Waratah St in Mona Vale offers affordable parking for visitors to Mona Vale. Closely loctaed to the Mona Vale Skate Club, Mona Vale Bowling Club, Mona Vale Golf Club, Penisula Plaza and other popular retailers, this car park is open 8am-6pm 7 days a week.&nbsp; &nbsp;</p>\n<p>Offering Casual Hourly rates 7 days a week, with your first 2 hours free, the 13 - 17 Waratah St Car Park will meet all your parking needs.&nbsp;</p>",
       "isWilsonOne": false,
       "legacyID": 5002136,
@@ -27263,7 +27256,7 @@
       "category": "",
       "costCenter": 5002832,
       "direction": "822-826 Old Princes Hwy, Sutherland",
-      "heightRestriction": 0.0,
+      "heightRestriction": 2.2,
       "information": "<p>The Coles Sutherland Car Park is located at 822 - 826 Old Princes Hwy, Sutherland. Open from 7am - 10pm, 7 days a week, this car park offers affordable parking for visitors to Coles Sutherland and other surrounding locations such as Sutherland train station, Sutherland Memorial School of Arts, Cafe and restaurants and other popular retail stores.&nbsp;</p>\n<p>Offering an affordable all flat rate 7 days a week, with your first hour and a half free when parking on B1, the Coles Sutherland Car Park in Sutherland will meet all your parking needs.&nbsp;</p>",
       "isWilsonOne": false,
       "legacyID": 5002832,
@@ -34851,7 +34844,7 @@
       "costCenter": 1002171,
       "direction": null,
       "heightRestriction": 0.0,
-      "information": "<p>Wilson Parking offer affordable &amp; secure parking at Centenary Rd Car Park, located at Centenary Rd in the heart of Newcastle CBD, Honeysuckle and Newcastle Waterfront restaurant Precints.&nbsp;</p>\n<p>Centenary Car Park suits all your leisure and business parking needs.</p>\n<p>Payment only available&nbsp;through the Wilson Parking App.</p>",
+      "information": "<p>Wilson Parking offer affordable &amp; secure parking at Centenary Rd Car Park, located at Centenary Rd in the heart of Newcastle CBD, Honeysuckle and Newcastle Waterfront restaurant Precincts.&nbsp;</p>\n<p>Centenary Car Park suits all your leisure and business parking needs.</p>\n<p>Payment only available&nbsp;through the Wilson Parking App.</p>",
       "isWilsonOne": false,
       "legacyID": 95,
       "monthlyParkingServiceIsAvailable": false,
@@ -38977,7 +38970,7 @@
         },
         {
           "rateType": "Early Bird",
-          "notes": "<p>Entry before 9am, Exit afer 5pm</p>",
+          "notes": "<p>Entry before 9am, Exit after 5pm</p>",
           "rates": [
             {
               "timeSpan": "Mon - Fri",
@@ -39807,7 +39800,7 @@
           "note": null
         },
         {
-          "day_TimePeriod": "Sauturday",
+          "day_TimePeriod": "Saturday",
           "is24_7": false,
           "closed": false,
           "opening": "06:00",
@@ -41707,7 +41700,7 @@
       "costCenter": 1012043,
       "direction": "Entry via Chandler St",
       "heightRestriction": 0.0,
-      "information": "<p>Wilson Parking offer affordable parking at ABS House Car Park which is located at Chandler St, Belconnen. Open 7 days, this open air car park is located nearby to many Belconnen businesses, including Australian Bureau of Statistics. Offering casual Hourly and Early Bird parking and Monthly Permanant Parking, the ABS House Car Park will meet all of your Belconnen parking needs.</p>\n<p>Enjoy the convenience of 24/7 unlimited access when you subscribe to monthly parking.&nbsp;</p>",
+      "information": "<p>Wilson Parking offer affordable parking at ABS House Car Park which is located at Chandler St, Belconnen. Open 7 days, this open air car park is located nearby to many Belconnen businesses, including Australian Bureau of Statistics. Offering casual Hourly and Early Bird parking and Monthly Permanent Parking, the ABS House Car Park will meet all of your Belconnen parking needs.</p>\n<p>Enjoy the convenience of 24/7 unlimited access when you subscribe to monthly parking.&nbsp;</p>",
       "isWilsonOne": false,
       "legacyID": 517,
       "monthlyParkingServiceIsAvailable": true,
@@ -52482,7 +52475,7 @@
           "note": null
         },
         {
-          "day_TimePeriod": "Sauturday",
+          "day_TimePeriod": "Saturday",
           "is24_7": true,
           "closed": false,
           "opening": "",
@@ -56356,7 +56349,7 @@
       "costCenter": 1003250,
       "direction": "Entry via Russell St (Extension) or off Batman Ave (at Tennis Centre)\nOn event dates and busy periods, please use the Batman Avenue Exit from Level 1 and allow additional time to exit. \nEvent Dates \nSeptember 2025 - 12th, 19th, 25th from 4:00 pm, 20th from 12:00 pm, 27th from 7:00 am.",
       "heightRestriction": 2.1,
-      "information": "<p><span style=\"color: #ff1e25;\"><strong><u>Event Dates Februrary:<br /></u></strong></span></p>\n<ul>\n<li><span style=\"color: #ff1e25;\">1st from 10:00am to 11:59pm</span></li>\n<li><span style=\"color: #ff1e25;\">10th,11th, 12th, 14th, 19th, 22nd and 25th-28th from 4:00pm to 11:59pm</span></li>\n<li><span style=\"color: #ff1e25;\">21st and 28<sup>th</sup>&nbsp;from 8:00am to 11:59pm</span></li>\n</ul>\n<p><span style=\"color: #ff1e25;\">Event rates will apply.</span><br /><span style=\"color: #ff1e25;\"><em>On event dates, please allow additional time to exit.</em></span></p>\n<p>Wilson Parking offers affordable &amp; secure parking at Federation Square Car Park, located on Russell St (Extension) in the Melbourne CBD. This car park is nearby to many popular attractions, including Federation Square, Flinders St Station, Birrarung Marr, Rod Laver Arena and Melbourne Park. Offering casual Early Bird, Hourly, Night and Weekend parking, with exclusive discounts when you prepay online, the Federation Square Car Park will meet all of your parking needs.</p>\n<p><span style=\"color: #000000;\"><strong>On event dates and busy periods, please use the Batman Avenue Exit from Level 1 and allow additional time to exit.</strong></span></p>\n<p>Download the Wilson Parking App to plan your journey and access exclusive discounts when you prepay online; pay as you go with one convenient monthly invoice when you use your Wilson Parking Card; enjoy 24/7 unlimited access when you subscribe to Monthly Parking; or just drive up to pay with a credit card at the car park.</p>",
+      "information": "<p><span style=\"color: #ff1e25;\"><strong><u>Event Dates February:<br /></u></strong></span></p>\n<ul>\n<li><span style=\"color: #ff1e25;\">1st from 10:00am to 11:59pm</span></li>\n<li><span style=\"color: #ff1e25;\">10th,11th, 12th, 14th, 19th, 22nd and 25th-28th from 4:00pm to 11:59pm</span></li>\n<li><span style=\"color: #ff1e25;\">21st and 28<sup>th</sup>&nbsp;from 8:00am to 11:59pm</span></li>\n</ul>\n<p><span style=\"color: #ff1e25;\">Event rates will apply.</span><br /><span style=\"color: #ff1e25;\"><em>On event dates, please allow additional time to exit.</em></span></p>\n<p>Wilson Parking offers affordable &amp; secure parking at Federation Square Car Park, located on Russell St (Extension) in the Melbourne CBD. This car park is nearby to many popular attractions, including Federation Square, Flinders St Station, Birrarung Marr, Rod Laver Arena and Melbourne Park. Offering casual Early Bird, Hourly, Night and Weekend parking, with exclusive discounts when you prepay online, the Federation Square Car Park will meet all of your parking needs.</p>\n<p><span style=\"color: #000000;\"><strong>On event dates and busy periods, please use the Batman Avenue Exit from Level 1 and allow additional time to exit.</strong></span></p>\n<p>Download the Wilson Parking App to plan your journey and access exclusive discounts when you prepay online; pay as you go with one convenient monthly invoice when you use your Wilson Parking Card; enjoy 24/7 unlimited access when you subscribe to Monthly Parking; or just drive up to pay with a credit card at the car park.</p>",
       "isWilsonOne": true,
       "legacyID": 94,
       "monthlyParkingServiceIsAvailable": true,
@@ -57413,7 +57406,7 @@
       "costCenter": 1003210,
       "direction": "Entry via Lonsdale or 211 La Trobe Street",
       "heightRestriction": 2.0,
-      "information": "<p align=\"center\">&nbsp;</p>\n<p>Wilson Parking offer affordable &amp; secure parking at Melbourne Central Car Park, located at 300 Lonsdale Street, Melbourne. This car park is centrally located in the Melbourne CBD, nearby to many attrctions including Melbourne Central and the State Library of Victoria. Offering 24/7 unlimited access through Monthly, as well as Early Bird, Weekend and Night parking, the Melbourne Central Car Park will meet all of your parking needs.&nbsp;</p>",
+      "information": "<p align=\"center\">&nbsp;</p>\n<p>Wilson Parking offer affordable &amp; secure parking at Melbourne Central Car Park, located at 300 Lonsdale Street, Melbourne. This car park is centrally located in the Melbourne CBD, nearby to many attractions including Melbourne Central and the State Library of Victoria. Offering 24/7 unlimited access through Monthly, as well as Early Bird, Weekend and Night parking, the Melbourne Central Car Park will meet all of your parking needs.&nbsp;</p>",
       "isWilsonOne": false,
       "legacyID": 107,
       "monthlyParkingServiceIsAvailable": true,
@@ -58775,7 +58768,7 @@
       "costCenter": 1003241,
       "direction": "Entry via Flinders Lane",
       "heightRestriction": 1.9,
-      "information": "<p>Wilson Parking offer affordable &amp; secure parking at 333 Collins St Car Park, accessed via 310 Flinders Lane, Melbourne. Located in the heart of the Melbourne CBD, nearby to Flinders St Station and offering competive 24/7 unlimited access Monthly Parking as well as casual Hourly Parking, the 333 Collins St Car Park will meet all of your parking needs.</p>",
+      "information": "<p>Wilson Parking offer affordable &amp; secure parking at 333 Collins St Car Park, accessed via 310 Flinders Lane, Melbourne. Located in the heart of the Melbourne CBD, nearby to Flinders St Station and offering competitive 24/7 unlimited access Monthly Parking as well as casual Hourly Parking, the 333 Collins St Car Park will meet all of your parking needs.</p>",
       "isWilsonOne": false,
       "legacyID": 159,
       "monthlyParkingServiceIsAvailable": true,
@@ -63837,7 +63830,7 @@
       "costCenter": 1003289,
       "direction": "Entry via Fishplate Lane",
       "heightRestriction": 2.2,
-      "information": "<p>Wilson Parking offer affordable &amp; secure parking at 750 Collins St Car Park, located at 750 Colllins St&nbsp;in the heart of Docklands. Open Monday - Friday, this undercover car park provides convenient access to nearby West Melbourne attractions including Marvel Stadium. Offering Hourly and Early Bird Parking with exclusive discounts when you prepay online, permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the 750 Collins St&nbsp;Car Park will meet all your business and leisure parking needs.&nbsp;</p>",
+      "information": "<p>Wilson Parking offer affordable &amp; secure parking at 750 Collins St Car Park, located at 750 Collins St&nbsp;in the heart of Docklands. Open Monday - Friday, this undercover car park provides convenient access to nearby West Melbourne attractions including Marvel Stadium. Offering Hourly and Early Bird Parking with exclusive discounts when you prepay online, permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the 750 Collins St&nbsp;Car Park will meet all your business and leisure parking needs.&nbsp;</p>",
       "isWilsonOne": true,
       "legacyID": 379,
       "monthlyParkingServiceIsAvailable": true,
@@ -67465,7 +67458,7 @@
       "costCenter": 1004356,
       "direction": "Entry off Little Cribb Street",
       "heightRestriction": 2.2,
-      "information": "<p><span style=\"color: #ff1e25;\">Event Parking is available at this car park on the following dates: 12, 13, 14, 15, 20, 21, 22, 27 &amp; 28 February, 6 &amp; 8 March.</span></p>\n<p>Wilson Parking offers affordable &amp; secure parking at Milton Green&nbsp;car park, located at 19 Little Cribb Street&nbsp;in the heart of Milton. Open 7 days, this undercover car park provides convenient access to nearby Suncorp Stadium and surrounding entertainment and retail precinct. Offering hourly, night and weekend parking options with discounts when you prepay online, permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the Milton Green&nbsp;car park will meet all your business and leisure parking needs.&nbsp;</p>",
+      "information": "<p><span style=\"color: #ff1e25;\">Event Parking is available at this car park on the following dates: 13, 14, 15, 20, 21, 22 &amp; 27 February, 6 &amp; 8 March.</span></p>\n<p>Wilson Parking offers affordable &amp; secure parking at Milton Green&nbsp;car park, located at 19 Little Cribb Street&nbsp;in the heart of Milton. Open 7 days, this undercover car park provides convenient access to nearby Suncorp Stadium and surrounding entertainment and retail precinct. Offering hourly, night and weekend parking options with discounts when you prepay online, permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the Milton Green&nbsp;car park will meet all your business and leisure parking needs.&nbsp;</p>",
       "isWilsonOne": false,
       "legacyID": 1004356,
       "monthlyParkingServiceIsAvailable": true,
@@ -67863,7 +67856,7 @@
       "costCenter": 1004187,
       "direction": "Enter via the W Hotel roundabout off North Quay.  PLEASE NOTE: The Victoria Bridge is permanently closing to general traffic from Sunday 24 January 2021",
       "heightRestriction": 2.2,
-      "information": "<p>Wilson Parking offers affordable and secure parking for visitors at Brisbane Quarter, located at 300 George Street, Brisbane. Situated within Brisbane's world-class Brisbane Quarter precinct, 300 George Street, and The One, this car park will suit both commuter and lesiure parking requirements. Offering Hourly, Night and Weekend parking options, as well as online discount parking, the Brisbane Quarter car park will meet all of your parking needs.</p>\n<p>Save when you prepay your parking online or with the Wilson Parking App; enjoy the convenience of 24/7 unlimited access when you subscribe to Monthly Parking; or pay as you go with the queue-less, contact free Wilson Parking Card.</p>\n<p>Note: the car park on B1 is not open to the public.</p>",
+      "information": "<p>Wilson Parking offers affordable and secure parking for visitors at Brisbane Quarter, located at 300 George Street, Brisbane. Situated within Brisbane's world-class Brisbane Quarter precinct, 300 George Street, and The One, this car park will suit both commuter and leisure parking requirements. Offering Hourly, Night and Weekend parking options, as well as online discount parking, the Brisbane Quarter car park will meet all of your parking needs.</p>\n<p>Save when you prepay your parking online or with the Wilson Parking App; enjoy the convenience of 24/7 unlimited access when you subscribe to Monthly Parking; or pay as you go with the queue-less, contact free Wilson Parking Card.</p>\n<p>Note: the car park on B1 is not open to the public.</p>",
       "isWilsonOne": true,
       "legacyID": 596,
       "monthlyParkingServiceIsAvailable": true,
@@ -67990,7 +67983,7 @@
           "note": null
         },
         {
-          "day_TimePeriod": "Sauturday",
+          "day_TimePeriod": "Saturday",
           "is24_7": false,
           "closed": false,
           "opening": "05:00",
@@ -69639,7 +69632,7 @@
       "costCenter": 1004121,
       "direction": "Entry via 145 Ann Street",
       "heightRestriction": 2.3,
-      "information": "<p>Wilson Parking offers affordable and secure parking at King George Central Car Park, located at 145 Ann Street, Brisbane. Located in the Brisbane CBD, near King George Square and open Monday - Friday, this car park us perfect for commuter parking. Offering hourly and monthly parking, this car park will meet all your parking needs.</p>\n<p>Save when you prepay online or enjoy the convenience of unlimited 24/7 access when you subscribe to Monthly Parking.&nbsp;</p>",
+      "information": "<p>Wilson Parking offers affordable and secure parking at King George Central Car Park, located at 145 Ann Street, Brisbane. Located in the Brisbane CBD, near King George Square and open Monday - Friday, this car park is perfect for commuter parking. Offering hourly and monthly parking, this car park will meet all your parking needs.</p>\n<p>Save when you prepay online or enjoy the convenience of unlimited 24/7 access when you subscribe to Monthly Parking.&nbsp;</p>",
       "isWilsonOne": false,
       "legacyID": 286,
       "monthlyParkingServiceIsAvailable": false,
@@ -70441,7 +70434,7 @@
       "costCenter": 1004029,
       "direction": "The Riverside Centre car park has two entries on Eagle Street. The northern entry is near Pig N Whistle Riverside. The southern entry is via the left lane under Jade Buddha.",
       "heightRestriction": 2.0,
-      "information": "<p>Wilson Parking offers affordable &amp; secure parking at Riverside Centre, located at 123 Eagle Street, Brisbane. Nearby to Riveside Ferry Terminal, Eagle Street Pier, in the Brisbane CBD, the car park, open 24 hours will cater for both commuter and leisure parking. Offering Hourly, Flexi, Weekend and Night parking, along with discount online parking options, the Riverside Centre car park will meet all of your parking needs.</p>\n<p>Save when you prepay online or with the Wilson Parking App; enjoy the convenience of 24/7 access when you subscribe to monthly parking; or pay as you go with the queue-less, contact free Wilson Parking Card.&nbsp;</p>",
+      "information": "<p>Wilson Parking offers affordable &amp; secure parking at Riverside Centre, located at 123 Eagle Street, Brisbane. Nearby to Riverside Ferry Terminal, Eagle Street Pier, in the Brisbane CBD, the car park, open 24 hours will cater for both commuter and leisure parking. Offering Hourly, Flexi, Weekend and Night parking, along with discount online parking options, the Riverside Centre car park will meet all of your parking needs.</p>\n<p>Save when you prepay online or with the Wilson Parking App; enjoy the convenience of 24/7 access when you subscribe to monthly parking; or pay as you go with the queue-less, contact free Wilson Parking Card.</p>",
       "isWilsonOne": true,
       "legacyID": 244,
       "monthlyParkingServiceIsAvailable": true,
@@ -70844,7 +70837,7 @@
       "costCenter": 1004298,
       "direction": "Entry via Dowse Street",
       "heightRestriction": 2.3,
-      "information": "<p><span style=\"color: #ff1e25;\">Event Parking is available at this car park on the following dates:</span><span style=\"color: #ff1e25;\"> 12, 13, 14, 15, 20, 21, 22, 27 &amp; 28 February,&nbsp;6 &amp; 8 March.</span></p>\n<p>Wilson Parking offers affordable and secure parking at&nbsp;Darling &amp; Co car park, located in the heart of Paddington. Open 7 days, this undercover car park provides convenient access to Lang Park (Suncorp Stadium). Offering casual and night parking, and exclusive discounts when you pay via the Wilson Parking app, the&nbsp;Darling &amp; Co car park will meet all your business and leisure parking needs.</p>\n<p>Car park closes at 11pm on event nights.</p>",
+      "information": "<p><span style=\"color: #ff1e25;\">Event Parking is available at this car park on the following dates:</span><span style=\"color: #ff1e25;\"> 13, 14, 15, 20, 21, 22 &amp; 27 February,&nbsp;6 &amp; 8 March.</span></p>\n<p>Wilson Parking offers affordable and secure parking at&nbsp;Darling &amp; Co car park, located in the heart of Paddington. Open 7 days, this undercover car park provides convenient access to Lang Park (Suncorp Stadium). Offering casual and night parking, and exclusive discounts when you pay via the Wilson Parking app, the&nbsp;Darling &amp; Co car park will meet all your business and leisure parking needs.</p>\n<p>Car park closes at 11pm on event nights.</p>",
       "isWilsonOne": false,
       "legacyID": 4298,
       "monthlyParkingServiceIsAvailable": true,
@@ -74658,7 +74651,7 @@
       "costCenter": 5003234,
       "direction": null,
       "heightRestriction": 0.0,
-      "information": "<p>&nbsp;</p>\n<p>The 17 Yarra St Car Park is offer affordable and secure parking in the heart of Geelong. Close to the retail centre of Geelong, including Westfield Geelong and Market Square Shopping Centre, along with local parks, beaches the Geelong Art Centre and Deakin University, Geelong Campus, this car park is open 24/7.&nbsp;</p>\n<p>The 17 Yarra St Car Park offers Casual Hourly, Night/Afternoon and Weekend rates and will meet all your parking needs.</p>",
+      "information": "<p>The 17 Yarra St Car Park is offer affordable and secure parking in the heart of Geelong. Close to the retail centre of Geelong, including Westfield Geelong and Market Square Shopping Centre, along with local parks, beaches the Geelong Art Centre and Deakin University, Geelong Campus, this car park is open 24/7.&nbsp;</p>\n<p>The 17 Yarra St Car Park offers Casual Hourly, Night/Afternoon and Weekend rates and will meet all your parking needs.</p>",
       "isWilsonOne": false,
       "legacyID": 5003234,
       "monthlyParkingServiceIsAvailable": false,
@@ -74857,6 +74850,185 @@
       "featuredIndex": 0
     },
     {
+      "name": "The Carlton 13-19 Malop St Car Park",
+      "bookText": null,
+      "canBookABay": true,
+      "selectedFeatures": "",
+      "carParkFeature": [
+        "Early Bird Parking",
+        "Book a Bay"
+      ],
+      "services": [
+        "book a bay"
+      ],
+      "carParkName": "The Carlton 13-19 Malop St Car Park",
+      "carParkNumber": 9243,
+      "carParkPhoto": null,
+      "category": "",
+      "costCenter": 1009243,
+      "direction": "Enter via Corio Street",
+      "heightRestriction": 2.2,
+      "information": "<p>The 13-19 Malop St Car Park, offers convenient and reliable parking in Geelong. This undercover car park offers the convenience of unlimited 24/7 access when you subscribe to Monthly Parking, as well as exclusive parking rates when you use the Wilson Parking App to prepay online.</p>\n<p>Also offering drive up hourly and Early bird parking rates, the 13-19 Malop St Geelong Car Park will meet all of your parking needs.</p>\n<p>Download the Wilson Parking App to easily find your way to the car park, prepay for parking and take advantage of exclusive perks.&nbsp;</p>",
+      "isWilsonOne": false,
+      "legacyID": 647,
+      "monthlyParkingServiceIsAvailable": false,
+      "evChargerIsAvailable": false,
+      "disabledParkingIsAvailable": false,
+      "phoneNumber": "1800 PARKING",
+      "products": [],
+      "staticMapPhoto": null,
+      "streetViewHeading": "235.48007560044852",
+      "streetViewLocation": "https://www.google.com/maps/@?api=1&map_action=pano&pano=2LmcfxHbbSFr1o0_FQpmgw&viewpoint=-38.14579551904137,144.35971505582367&heading=254.52040205547567&pitch=-5.373498598106352&zoom=0.9999999999999997",
+      "rates": [
+        {
+          "rateType": "Hourly",
+          "notes": "<p>Monday - Friday 6am - 8pm</p>",
+          "rates": [
+            {
+              "timeSpan": "0.0 - 1.0 Hours",
+              "price": 4.0
+            },
+            {
+              "timeSpan": "1.0 - 2.0 Hours",
+              "price": 8.0
+            },
+            {
+              "timeSpan": "2.0 - 3.0 Hours",
+              "price": 12.0
+            },
+            {
+              "timeSpan": "3.0 - 4.0 Hours",
+              "price": 19.0
+            },
+            {
+              "timeSpan": "4.0 + Hours",
+              "price": 25.0
+            }
+          ]
+        }
+      ],
+      "fromText": "From",
+      "fromPrice": "4",
+      "location": {
+        "longitude": 144.359514081647,
+        "latitude": -38.1458379378892,
+        "zoom": 13,
+        "address": "13-19 Malop Street",
+        "region": {
+          "name": "Geelong",
+          "longitude": 144.36249107619631,
+          "latitude": -38.150356829232159,
+          "status": "",
+          "state": {
+            "name": "Victoria",
+            "abbreviation": "VIC",
+            "country": "Australia",
+            "longitude": 145.08864104747772,
+            "latitude": -36.438262107088946,
+            "status": ""
+          }
+        }
+      },
+      "openingTimes": [
+        {
+          "day_TimePeriod": "Monday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "06:00",
+          "closing": "20:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Tuesday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "06:00",
+          "closing": "20:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Wednesday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "06:00",
+          "closing": "20:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Thursday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "06:00",
+          "closing": "20:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Friday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "06:00",
+          "closing": "20:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Saturday",
+          "is24_7": false,
+          "closed": true,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Sunday",
+          "is24_7": false,
+          "closed": true,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Public Holiday",
+          "is24_7": false,
+          "closed": true,
+          "opening": "",
+          "closing": "",
+          "note": null
+        }
+      ],
+      "url": "/parking-locations/victoria/geelong/13-19-malop-st-car-park/",
+      "serviceConfiguration": {
+        "canBookABay": true,
+        "bookABayIconLabel": "Prepay Online",
+        "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
+        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingIconLabel": "Monthly Subscription",
+        "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
+        "isWilsonOne": false,
+        "wilsonOneIconLabel": "Parking Card",
+        "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
+        "disabledParkingIsAvailable": false,
+        "disabledParkingIconLabel": "Disabled Parking",
+        "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
+        "evChargerIsAvailable": false,
+        "evChargerIconLabel": "EV Charging",
+        "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
+        "additionalServices": []
+      },
+      "state": "VIC",
+      "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
+      "price": "",
+      "status": "",
+      "cpmsCarparkCode": null,
+      "externalCarParkInfo": {
+        "name": "InterPark",
+        "pinUrl": "/globalassets/icons/interpark-icons/pin-blue.png",
+        "logoUrl": "/siteassets/parking-stock-images/interpark-icons/interpark_logo.jpg",
+        "pageUrl": "",
+        "content": "<p>This is an Interpark carpark with LOGO</p>"
+      },
+      "featuredIndex": 0
+    },
+    {
       "name": "16 Gheringhap St",
       "bookText": null,
       "canBookABay": false,
@@ -75014,190 +75186,6 @@
         "monthlyParkingIconLabel": "Monthly Subscription",
         "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
         "isWilsonOne": false,
-        "wilsonOneIconLabel": "Parking Card",
-        "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
-        "disabledParkingIsAvailable": false,
-        "disabledParkingIconLabel": "Disabled Parking",
-        "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
-        "evChargerIsAvailable": false,
-        "evChargerIconLabel": "EV Charging",
-        "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "additionalServices": []
-      },
-      "state": "VIC",
-      "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
-      "price": "",
-      "status": "",
-      "cpmsCarparkCode": null,
-      "externalCarParkInfo": {
-        "name": "InterPark",
-        "pinUrl": "/globalassets/icons/interpark-icons/pin-blue.png",
-        "logoUrl": "/siteassets/parking-stock-images/interpark-icons/interpark_logo.jpg",
-        "pageUrl": "",
-        "content": "<p>This is an Interpark carpark with LOGO</p>"
-      },
-      "featuredIndex": 0
-    },
-    {
-      "name": "The Carlton 13-19 Malop St Car Park",
-      "bookText": null,
-      "canBookABay": true,
-      "selectedFeatures": "",
-      "carParkFeature": [
-        "Monthly Parking",
-        "Early Bird Parking",
-        "Book a Bay",
-        "Wilson One",
-        "Epark"
-      ],
-      "services": [
-        "book a bay",
-        "wilson one",
-        "monthly"
-      ],
-      "carParkName": "The Carlton 13-19 Malop St Car Park",
-      "carParkNumber": 9243,
-      "carParkPhoto": null,
-      "category": "",
-      "costCenter": 1009243,
-      "direction": "Enter via Corio Street",
-      "heightRestriction": 2.2,
-      "information": "<p>The 13-19 Malop St Car Park, offers convenient and reliable parking in Geelong. This undercover car park offers the convenience of unlimited 24/7 access when you subscribe to Monthly Parking, as well as exclusive parking rates when you use the Wilson Parking App to prepay online.</p>\n<p>Also offering drive up hourly and Early bird parking rates, the 13-19 Malop St Geelong Car Park will meet all of your parking needs.</p>\n<p>Download the Wilson Parking App to easily find your way to the car park, prepay for parking and take advantage of exclusive perks.&nbsp;</p>",
-      "isWilsonOne": true,
-      "legacyID": 647,
-      "monthlyParkingServiceIsAvailable": true,
-      "evChargerIsAvailable": false,
-      "disabledParkingIsAvailable": false,
-      "phoneNumber": "1800 PARKING",
-      "products": [],
-      "staticMapPhoto": null,
-      "streetViewHeading": "235.48007560044852",
-      "streetViewLocation": "https://www.google.com/maps/@?api=1&map_action=pano&pano=kNc8YaXraD_cPvezuX4tuw&viewpoint=-38.14591731434339,144.3599356010345&heading=235.48007560044852&pitch=-11.224769510061165",
-      "rates": [
-        {
-          "rateType": "Hourly",
-          "notes": "Monday - Friday 7am - 7pm",
-          "rates": [
-            {
-              "timeSpan": "0.0 - 1.0 Hours",
-              "price": 4.0
-            },
-            {
-              "timeSpan": "1.0 - 2.0 Hours",
-              "price": 8.0
-            },
-            {
-              "timeSpan": "2.0 - 3.0 Hours",
-              "price": 12.0
-            },
-            {
-              "timeSpan": "3.0 - 4.0 Hours",
-              "price": 19.0
-            },
-            {
-              "timeSpan": "4.0 + Hours",
-              "price": 25.0
-            }
-          ]
-        }
-      ],
-      "fromText": "From",
-      "fromPrice": "4",
-      "location": {
-        "longitude": 144.35940973988113,
-        "latitude": -38.146679501564236,
-        "zoom": 13,
-        "address": "13-19 Malop Street",
-        "region": {
-          "name": "Geelong",
-          "longitude": 144.36249107619631,
-          "latitude": -38.150356829232159,
-          "status": "",
-          "state": {
-            "name": "Victoria",
-            "abbreviation": "VIC",
-            "country": "Australia",
-            "longitude": 145.08864104747772,
-            "latitude": -36.438262107088946,
-            "status": ""
-          }
-        }
-      },
-      "openingTimes": [
-        {
-          "day_TimePeriod": "Monday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "07:00",
-          "closing": "19:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Tuesday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "07:00",
-          "closing": "19:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Wednesday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "07:00",
-          "closing": "19:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Thursday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "07:00",
-          "closing": "19:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Friday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "07:00",
-          "closing": "19:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Saturday",
-          "is24_7": false,
-          "closed": true,
-          "opening": "",
-          "closing": "",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Sunday",
-          "is24_7": false,
-          "closed": true,
-          "opening": "",
-          "closing": "",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Public Holiday",
-          "is24_7": false,
-          "closed": true,
-          "opening": "",
-          "closing": "",
-          "note": null
-        }
-      ],
-      "url": "/parking-locations/victoria/geelong/13-19-malop-st-car-park/",
-      "serviceConfiguration": {
-        "canBookABay": true,
-        "bookABayIconLabel": "Prepay Online",
-        "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": true,
-        "monthlyParkingIconLabel": "Monthly Subscription",
-        "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
-        "isWilsonOne": true,
         "wilsonOneIconLabel": "Parking Card",
         "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
         "disabledParkingIsAvailable": false,
@@ -78107,7 +78095,7 @@
       "costCenter": 1005004,
       "direction": null,
       "heightRestriction": 2.0,
-      "information": "<p>Wilson Parking offer affordable &amp; secure parking at 21 Bent St Car Park located at 21 Bent Street, Adelaide. This car park is positioned in the heart of Adelaide, close to shopping, restaurants and the Adelaide CBD. With Hourly, and discount online parking options the 21 Bent St Car Park will meet all of your parking needs.</p>\n<p>Enjoy the convenince of&nbsp;pay as you go with a Wilson Parking card, or enjoy 24/7 unlimited access when you subscribe to Monthly Parking.&nbsp;</p>",
+      "information": "<p>Wilson Parking offer affordable &amp; secure parking at 21 Bent St Car Park located at 21 Bent Street, Adelaide. This car park is positioned in the heart of Adelaide, close to shopping, restaurants and the Adelaide CBD. With Hourly, and discount online parking options the 21 Bent St Car Park will meet all of your parking needs.</p>\n<p>Enjoy the convenience of&nbsp;pay as you go with a Wilson Parking card, or enjoy 24/7 unlimited access when you subscribe to Monthly Parking.</p>",
       "isWilsonOne": true,
       "legacyID": 268,
       "monthlyParkingServiceIsAvailable": true,
