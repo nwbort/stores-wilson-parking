@@ -642,7 +642,7 @@
       "costCenter": 1002189,
       "direction": "Car Park entry is from 123 Pitt St",
       "heightRestriction": 2.1,
-      "information": "<p>Wilson Parking offer affordable &amp; secure parking at Angel Place Car Park, located at 123 Pitt St in the heart of Sydney CBD. Convenientlty located closeby to City Recital Hall, Martin Place, Pitt St Mall shopping, Hotels and Restaurant Precints, the car park is open until midnight every night.&nbsp;Offering Hourly, Night and Weekend Parking, as well as online discount parking options, including Flexi Saver, the Angel Place Car Park will suit all your leisure and commuter parking needs.&nbsp;</p>\n<p>Save when you prepay your parking online or with the Wilson Parking App; enjoy unlimited 24/7 access when you subscribe to monthly parking; or pay as you go with the queue-less, contact free Wilson Parking Card.</p>",
+      "information": "<p>Wilson Parking offer affordable &amp; secure parking at Angel Place Car Park, located at 123 Pitt St in the heart of Sydney CBD. Conveniently located closeby to City Recital Hall, Martin Place, Pitt St Mall shopping, Hotels and Restaurant Precincts, the car park is open until midnight every night.&nbsp;Offering Hourly, Night and Weekend Parking, as well as online discount parking options, including Flexi Saver, the Angel Place Car Park will suit all your leisure and commuter parking needs.&nbsp;</p>\n<p>Save when you prepay your parking online or with the Wilson Parking App; enjoy unlimited 24/7 access when you subscribe to monthly parking; or pay as you go with the queue-less, contact free Wilson Parking Card.</p>",
       "isWilsonOne": true,
       "legacyID": 15,
       "monthlyParkingServiceIsAvailable": true,
@@ -5701,7 +5701,7 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Houlry rates apply Monday to Friday.&nbsp;Rates are charged from 6am daily.<br /><br /></p>\n<p>&nbsp;</p>",
+          "notes": "<p>Hourly rates apply Monday to Friday.&nbsp;Rates are charged from 6am daily.<br /><br /></p>\n<p>&nbsp;</p>",
           "rates": [
             {
               "timeSpan": "0.0 - 1.0 hrs",
@@ -7499,7 +7499,7 @@
       "costCenter": 1002176,
       "direction": null,
       "heightRestriction": 2.0,
-      "information": "<p>Wilson Parking offer affordable &amp; secure parking at Quay West Car Park, located at 111 Harington St, Sydney in the heart of The Rocks&nbsp;Circular Quay. The car park is nearby the International Cruise Ship Terminal, Shopping, Restaurant &amp; Bar precints and is close to many hotels overlooking Sydney Harbour and the famous BridgeClimb tourist attaction. Offering&nbsp;Casual Hourly, Night and Weekend Parking, as well as online discount parking options, this car park will suit every parking need when visiting your favourite restaurant or tourist destination as well as commuter parking needs.</p>\n<p>Save when you prepay your parking online or with the Wilson Parking App; enjoy unlimited 24/7 access when you subscribr to monthly parking; or pay as you go with the convenient queue-less, contact free Wilson Parking Card.</p>",
+      "information": "<p>Wilson Parking offer affordable &amp; secure parking at Quay West Car Park, located at 111 Harrington St, Sydney in the heart of The Rocks&nbsp;Circular Quay. The car park is nearby the International Cruise Ship Terminal, Shopping, Restaurant &amp; Bar precincts and is close to many hotels overlooking Sydney Harbour and the famous BridgeClimb tourist attaction. Offering&nbsp;Casual Hourly, Night and Weekend Parking, as well as online discount parking options, this car park will suit every parking need when visiting your favourite restaurant or tourist destination as well as commuter parking needs.</p>\n<p>Save when you prepay your parking online or with the Wilson Parking App; enjoy unlimited 24/7 access when you subscriber to monthly parking; or pay as you go with the convenient queue-less, contact free Wilson Parking Card.</p>",
       "isWilsonOne": true,
       "legacyID": 162,
       "monthlyParkingServiceIsAvailable": true,
@@ -11624,7 +11624,7 @@
       "category": "",
       "costCenter": 1002357,
       "direction": "55 Holt St, Surry Hills",
-      "heightRestriction": 1.9,
+      "heightRestriction": 2.1,
       "information": "<p>Wilson Parking offer affordable &amp; secure parking at 55 Holt St Car Park, located at 55 Holt St in Surry Hills in the South of the Sydney CBD.&nbsp;Open until midnight 7 days a week, this undercover car park provides convenient access to nearby stores, restaurants and other Surry Hills businesses.&nbsp;Offering casual Hourly, Weekend and Night Parking with exclusive discounts when you prepay online and permanent monthly parking for regular parkers,&nbsp;the 55 Holt St&nbsp;Car Park will meet all your business and leisure parking needs.&nbsp;</p>\n<p>Download the Wilson Parking App to plan your journey and access parking discounts when you prepay online;&nbsp;enjoy unlimited 24/7 access when you subscribe to monthly parking; or&nbsp;pay as you go on one convenient monthly invoice when you use your Wilson Parking Card to access the car park.</p>",
       "isWilsonOne": true,
       "legacyID": 802,
@@ -54325,7 +54325,7 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Parking from $10, per 30 Mins - Maximum daily rate is $60.</p>\n<p>Houlry rates apply Monday to Friday - Rates are charged from 6:00 AM daily.</p>",
+          "notes": "<p>Parking from $10, per 30 Mins - Maximum daily rate is $60.</p>\n<p>Hourly rates apply Monday to Friday - Rates are charged from 6:00 AM daily.</p>",
           "rates": [
             {
               "timeSpan": "0.0 - 0.5 Hrs",
