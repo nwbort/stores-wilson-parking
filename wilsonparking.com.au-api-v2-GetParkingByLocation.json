@@ -1248,7 +1248,7 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Rates apply Monday to Friday<br />Public Holidays: Weekend Rates Apply</p>",
+          "notes": "<p>Rates apply Monday to Friday<br />Large vehicle surcharge of $20 applies if vehicle cannot park on level B2<br />Public Holidays: Weekend Rates Apply</p>",
           "rates": [
             {
               "timeSpan": "0.0 - 1.0  hrs   ",
@@ -2764,7 +2764,7 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p><u>Overnight</u>: additional $25 applies to all vehicles left in car park past close<br /><br /><u>Public Holidays</u>: Closed<br /><br /><u>Note for Level B1-B3</u>: No Parking, tenant occupants only. <strong>Additional fee of <span style=\"text-decoration: underline;\">$140</span> will apply if parking on wrong level</strong></p>",
+          "notes": "<p><u>Note for Level B1-B3</u>: No Parking, tenant occupants only. <strong>Additional fee of <span style=\"text-decoration: underline;\">$140</span> will apply if parking on wrong level</strong></p>",
           "rates": [
             {
               "timeSpan": "0.0 - 0.5 hrs",
@@ -2783,20 +2783,10 @@
               "price": 95.0
             }
           ]
-        },
-        {
-          "rateType": "Weekend",
-          "notes": "Flat rate: enter after 11am and exit before 2pm<br />\r\nOvernight Fee: $25.00, applies to all vehicles left in car park past close",
-          "rates": [
-            {
-              "timeSpan": "Sat - Sun",
-              "price": 25.0
-            }
-          ]
         }
       ],
       "fromText": "From",
-      "fromPrice": "25",
+      "fromPrice": "35",
       "location": {
         "longitude": 151.2099677324295,
         "latitude": -33.86495913203175,
@@ -3937,7 +3927,7 @@
           "notes": "<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Prepay Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the <strong>Prepay Now</strong> link below to get started.<br />Rates shown include transaction fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>",
           "rates": [
             {
-              "timeSpan": "Weekend & Public Holiday varies from $35.00 - $39.00, depending on demand",
+              "timeSpan": "Weekend & Public Holiday varies from $35.00 - $37.00, depending on demand",
               "price": 42.0
             }
           ]
@@ -8089,7 +8079,7 @@
           "day_TimePeriod": "Sunday",
           "is24_7": false,
           "closed": false,
-          "opening": "13:00",
+          "opening": "07:00",
           "closing": "22:00",
           "note": null
         },
@@ -82135,7 +82125,8 @@
         "Night Parking",
         "Weekend Parking",
         "Epark",
-        "Entry height at least 2"
+        "Entry height at least 2",
+        "Special Event Parking"
       ],
       "services": [],
       "carParkName": "47 Port Rd Car Park",
