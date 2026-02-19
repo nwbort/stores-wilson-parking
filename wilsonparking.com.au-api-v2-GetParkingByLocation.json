@@ -55742,7 +55742,7 @@
       "costCenter": 1003085,
       "direction": "Entry from Little Bourke St, Melbourne",
       "heightRestriction": 2.0,
-      "information": "<p>Wilson Parking offers affordable and convenient parking at Midcity Car Park. Located at 179 Little Bourke St&nbsp;in the heart of Melbourne CBD and open 7 days a week, this undercover car park provides convenient access to Chinatown and Bourke St Mall.</p>\n<p>Offering discounted parking when you prepay online for Early Bird, Weekend and Night Parking, competitive drive-in rates and the convenience of paying from your phone with the Wilson Parking App, the Mid City Car Park will meet all your business and leisure parking needs.&nbsp;</p>\n<p><strong>Pay as you go with the Wilson Parking Card, or enjoy convenient unlimited 24/7 access when you subscribe to Monthly Parking.</strong></p>",
+      "information": "<p><span style=\"color: #ff1e25;\">Due to Lunar New Year celebrations, the car park will be&nbsp;closed&nbsp;on&nbsp;<strong>Sunday 22nd February 2026</strong>.</span></p>\n<p><span style=\"color: #ff1e25;\"><em>Thanks for your understanding</em></span></p>\n<p>Wilson Parking offers affordable and convenient parking at Midcity Car Park. Located at 179 Little Bourke St&nbsp;in the heart of Melbourne CBD and open 7 days a week, this undercover car park provides convenient access to Chinatown and Bourke St Mall.</p>\n<p>Offering discounted parking when you prepay online for Early Bird, Weekend and Night Parking, competitive drive-in rates and the convenience of paying from your phone with the Wilson Parking App, the Mid City Car Park will meet all your business and leisure parking needs.&nbsp;</p>\n<p><strong>Pay as you go with the Wilson Parking Card, or enjoy convenient unlimited 24/7 access when you subscribe to Monthly Parking.</strong></p>",
       "isWilsonOne": true,
       "legacyID": 3085,
       "monthlyParkingServiceIsAvailable": true,
@@ -55891,7 +55891,7 @@
         {
           "day_TimePeriod": "Sunday",
           "is24_7": false,
-          "closed": false,
+          "closed": true,
           "opening": "06:00",
           "closing": "00:00",
           "note": null
@@ -56343,7 +56343,7 @@
       "costCenter": 1003250,
       "direction": "Entry via Russell St (Extension) or off Batman Ave (at Tennis Centre)\nOn event dates and busy periods, please use the Batman Avenue Exit from Level 1 and allow additional time to exit. \nEvent Dates \nSeptember 2025 - 12th, 19th, 25th from 4:00 pm, 20th from 12:00 pm, 27th from 7:00 am.",
       "heightRestriction": 2.1,
-      "information": "<p><span style=\"color: #ff1e25;\"><strong><u>Event Dates February:<br /></u></strong></span></p>\n<ul>\n<li><span style=\"color: #ff1e25;\">1st from 10:00am to 11:59pm</span></li>\n<li><span style=\"color: #ff1e25;\">10th,11th, 12th, 14th, 19th, 22nd and 25th-28th from 4:00pm to 11:59pm</span></li>\n<li><span style=\"color: #ff1e25;\">21st and 28<sup>th</sup>&nbsp;from 8:00am to 11:59pm</span></li>\n</ul>\n<p><span style=\"color: #ff1e25;\">Event rates will apply.</span><br /><span style=\"color: #ff1e25;\"><em>On event dates, please allow additional time to exit.</em></span></p>\n<p>Wilson Parking offers affordable &amp; secure parking at Federation Square Car Park, located on Russell St (Extension) in the Melbourne CBD. This car park is nearby to many popular attractions, including Federation Square, Flinders St Station, Birrarung Marr, Rod Laver Arena and Melbourne Park. Offering casual Early Bird, Hourly, Night and Weekend parking, with exclusive discounts when you prepay online, the Federation Square Car Park will meet all of your parking needs.</p>\n<p><span style=\"color: #000000;\"><strong>On event dates and busy periods, please use the Batman Avenue Exit from Level 1 and allow additional time to exit.</strong></span></p>\n<p>Download the Wilson Parking App to plan your journey and access exclusive discounts when you prepay online; pay as you go with one convenient monthly invoice when you use your Wilson Parking Card; enjoy 24/7 unlimited access when you subscribe to Monthly Parking; or just drive up to pay with a credit card at the car park.</p>",
+      "information": "<p>&nbsp;</p>\n<p><span style=\"color: #ff1e25;\"><strong><u>Event Dates Februrary 2026:</u></strong></span></p>\n<ul>\n<li><span style=\"color: #ff1e25;\">19th, 22nd and 25th-28th from 4:00pm to 11:59pm</span></li>\n<li><span style=\"color: #ff1e25;\">21st and 28<sup>th</sup>&nbsp;from 8:00am to 11:59pm</span></li>\n</ul>\n<p><span style=\"color: #ff1e25;\">Event rates will apply.</span><br /><span style=\"color: #ff1e25;\"><em>On event dates, please allow additional time to exit.</em></span></p>\n<p>&nbsp;</p>\n<p>Wilson Parking offers affordable &amp; secure parking at Federation Square Car Park, located on Russell St (Extension) in the Melbourne CBD. This car park is nearby to many popular attractions, including Federation Square, Flinders St Station, Birrarung Marr, Rod Laver Arena and Melbourne Park. Offering casual Early Bird, Hourly, Night and Weekend parking, with exclusive discounts when you prepay online, the Federation Square Car Park will meet all of your parking needs.</p>\n<p><span style=\"color: #000000;\"><strong>On event dates and busy periods, please use the Batman Avenue Exit from Level 1 and allow additional time to exit.</strong></span></p>\n<p>Download the Wilson Parking App to plan your journey and access exclusive discounts when you prepay online; pay as you go with one convenient monthly invoice when you use your Wilson Parking Card; enjoy 24/7 unlimited access when you subscribe to Monthly Parking; or just drive up to pay with a credit card at the car park.</p>",
       "isWilsonOne": true,
       "legacyID": 94,
       "monthlyParkingServiceIsAvailable": true,
@@ -63193,7 +63193,7 @@
       "carParkPhoto": null,
       "category": "",
       "costCenter": 1003323,
-      "direction": "Entry and Exit via Queens Lane",
+      "direction": "Entry and Exit via Queens Lane\n",
       "heightRestriction": 0.0,
       "information": "<p>Wilson Parking offer affordable &amp; secure parking at 5 Queens Road Car Park&nbsp; located in the heart of St Kilda. With Early Bird and casual parking, the 5 Queens Road Car Park will meet all of your parking needs.</p>\n<p><strong>This car park accepts Credit Card payments only.</strong></p>",
       "isWilsonOne": true,
@@ -67454,7 +67454,7 @@
       "costCenter": 1004356,
       "direction": "Entry off Little Cribb Street",
       "heightRestriction": 2.2,
-      "information": "<p><span style=\"color: #ff1e25;\">Event Parking is available at this car park on the following dates:&nbsp;</span><span style=\"color: #ff1e25;\">20, 21, 22 &amp; 27 February,&nbsp;6, 8, 12, 13, 14 &amp; 15 March.</span></p>\n<p>Wilson Parking offers affordable &amp; secure parking at Milton Green&nbsp;car park, located at 19 Little Cribb Street&nbsp;in the heart of Milton. Open 7 days, this undercover car park provides convenient access to nearby Suncorp Stadium and surrounding entertainment and retail precinct. Offering hourly, night and weekend parking options with discounts when you prepay online, permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the Milton Green&nbsp;car park will meet all your business and leisure parking needs.&nbsp;</p>",
+      "information": "<p><span style=\"color: #ff1e25;\">Event Parking is available at this car park on the following dates:&nbsp;</span><span style=\"color: #ff1e25;\">20, 21, 22 &amp; 27 February,&nbsp;6, 8, 12, 13, 14 &amp; 15 March.<br /><br /></span></p>\n<p>Wilson Parking offers affordable &amp; secure parking at Milton Green&nbsp;car park, located at 19 Little Cribb Street&nbsp;in the heart of Milton. Open 7 days, this undercover car park provides convenient access to nearby Suncorp Stadium and surrounding entertainment and retail precinct. Offering hourly, night and weekend parking options with discounts when you prepay online, permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the Milton Green&nbsp;car park will meet all your business and leisure parking needs.&nbsp;</p>",
       "isWilsonOne": false,
       "legacyID": 1004356,
       "monthlyParkingServiceIsAvailable": true,
@@ -67489,8 +67489,12 @@
               "price": 3.0
             },
             {
-              "timeSpan": "Suncorp Stadium Events (all day)",
+              "timeSpan": "Event Parking (A-League) from",
               "price": 60.0
+            },
+            {
+              "timeSpan": "Event Parking (NRL/ Rugby/ Concerts) from",
+              "price": 80.0
             }
           ]
         },
