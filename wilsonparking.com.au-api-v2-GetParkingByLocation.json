@@ -55018,7 +55018,7 @@
       "costCenter": 1003252,
       "direction": null,
       "heightRestriction": 2.0,
-      "information": "<p>Wilson Parking offer affordable &amp; secure parking at 222 Russell St Car Park, located at 222 Russell Street in the Melbourne CBD. This car park is nearby to many Melbourne attractions, including Chinatown and is perfect for restaurant parking. Offering casual Night and Weekend parking with exclusive discounts when you prepay online, or permanent monthly parking for regular parkers, the 222 Russell St Car Park will meet all of your parking needs.</p>\n<p>Download the Wilson Parking App to plan your journey and access exclusive discounts when you prepay online; pay as you go with one monthly invoice when you use your Wilson Parking Card; enjoy unlimited 24/7 access when you subscribe to Monthly Parking; or drive up and pay with your credit card only at the car park.</p>",
+      "information": "<p><span style=\"color: #ff1e25;\">Due to Lunar New Year celebrations, the car park will be&nbsp;closed&nbsp;on&nbsp;<strong>Sunday 22nd February 2026</strong>. Traffic control will manage access for hotel guests and residents.&nbsp;</span></p>\n<p><span style=\"color: #ff1e25;\"><em>Thanks for your understanding</em></span></p>\n<p>Wilson Parking offer affordable &amp; secure parking at 222 Russell St Car Park, located at 222 Russell Street in the Melbourne CBD. This car park is nearby to many Melbourne attractions, including Chinatown and is perfect for restaurant parking. Offering casual Night and Weekend parking with exclusive discounts when you prepay online, or permanent monthly parking for regular parkers, the 222 Russell St Car Park will meet all of your parking needs.</p>\n<p>Download the Wilson Parking App to plan your journey and access exclusive discounts when you prepay online; pay as you go with one monthly invoice when you use your Wilson Parking Card; enjoy unlimited 24/7 access when you subscribe to Monthly Parking; or drive up and pay with your credit card only at the car park.</p>",
       "isWilsonOne": true,
       "legacyID": 215,
       "monthlyParkingServiceIsAvailable": true,
@@ -55167,7 +55167,7 @@
         {
           "day_TimePeriod": "Sunday",
           "is24_7": true,
-          "closed": false,
+          "closed": true,
           "opening": "",
           "closing": "",
           "note": null
@@ -55330,7 +55330,7 @@
       "costCenter": 1003215,
       "direction": null,
       "heightRestriction": 2.0,
-      "information": "<p>Wilson Parking offer affordable &amp; secure parking at 180 Russell St Car Park, located at 180 Russell Street in the Melbourne CBD. Nearby to many popular attractions, including Chinatown and Melbourne CBD shopping. Offering Early Bird, Hourly, Night and Weekend parking options&nbsp;with exclusive discounts when you prepay online, permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the 180 Russell St Car Park will meet all of your business and leisure parking needs.&nbsp;</p>\n<p>Download the Wilson Parking App to plan your journey and access parking discounts when you prepay online;&nbsp;enjoy unlimited 24/7 access when you subscribe to monthly parking;&nbsp;pay as you go on one convenient monthly invoice when you use your Wilson Parking Card to access the car park.</p>",
+      "information": "<p><span style=\"color: #ff1e25;\">Due to Lunar New Year celebrations, the car park will be&nbsp;closed&nbsp;on&nbsp;<strong>Sunday 22nd February 2026</strong>.&nbsp;</span></p>\n<p><span style=\"color: #ff1e25;\"><em>Thanks for your understanding</em></span></p>\n<p>Wilson Parking offer affordable &amp; secure parking at 180 Russell St Car Park, located at 180 Russell Street in the Melbourne CBD. Nearby to many popular attractions, including Chinatown and Melbourne CBD shopping. Offering Early Bird, Hourly, Night and Weekend parking options&nbsp;with exclusive discounts when you prepay online, permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the 180 Russell St Car Park will meet all of your business and leisure parking needs.&nbsp;</p>\n<p>Download the Wilson Parking App to plan your journey and access parking discounts when you prepay online;&nbsp;enjoy unlimited 24/7 access when you subscribe to monthly parking;&nbsp;pay as you go on one convenient monthly invoice when you use your Wilson Parking Card to access the car park.</p>",
       "isWilsonOne": true,
       "legacyID": 11,
       "monthlyParkingServiceIsAvailable": true,
@@ -55475,7 +55475,7 @@
         {
           "day_TimePeriod": "Sunday",
           "is24_7": true,
-          "closed": false,
+          "closed": true,
           "opening": "",
           "closing": "",
           "note": null
@@ -56343,7 +56343,7 @@
       "costCenter": 1003250,
       "direction": "Entry via Russell St (Extension) or off Batman Ave (at Tennis Centre)\nOn event dates and busy periods, please use the Batman Avenue Exit from Level 1 and allow additional time to exit. \nEvent Dates \nSeptember 2025 - 12th, 19th, 25th from 4:00 pm, 20th from 12:00 pm, 27th from 7:00 am.",
       "heightRestriction": 2.1,
-      "information": "<p>&nbsp;</p>\n<p><span style=\"color: #ff1e25;\"><strong><u>Event Dates Februrary 2026:</u></strong></span></p>\n<ul>\n<li><span style=\"color: #ff1e25;\">19th, 22nd and 25th-28th from 4:00pm to 11:59pm</span></li>\n<li><span style=\"color: #ff1e25;\">21st and 28<sup>th</sup>&nbsp;from 8:00am to 11:59pm</span></li>\n</ul>\n<p><span style=\"color: #ff1e25;\">Event rates will apply.</span><br /><span style=\"color: #ff1e25;\"><em>On event dates, please allow additional time to exit.</em></span></p>\n<p>&nbsp;</p>\n<p>Wilson Parking offers affordable &amp; secure parking at Federation Square Car Park, located on Russell St (Extension) in the Melbourne CBD. This car park is nearby to many popular attractions, including Federation Square, Flinders St Station, Birrarung Marr, Rod Laver Arena and Melbourne Park. Offering casual Early Bird, Hourly, Night and Weekend parking, with exclusive discounts when you prepay online, the Federation Square Car Park will meet all of your parking needs.</p>\n<p><span style=\"color: #000000;\"><strong>On event dates and busy periods, please use the Batman Avenue Exit from Level 1 and allow additional time to exit.</strong></span></p>\n<p>Download the Wilson Parking App to plan your journey and access exclusive discounts when you prepay online; pay as you go with one convenient monthly invoice when you use your Wilson Parking Card; enjoy 24/7 unlimited access when you subscribe to Monthly Parking; or just drive up to pay with a credit card at the car park.</p>",
+      "information": "<p><span style=\"color: #ff1e25;\"><strong><u>Event Dates Februrary 2026:</u></strong></span></p>\n<ul>\n<li><span style=\"color: #ff1e25;\">19th, 22nd and 25th-28th from 4:00pm to 11:59pm</span></li>\n<li><span style=\"color: #ff1e25;\">21st and 28<sup>th</sup>&nbsp;from 8:00am to 11:59pm</span></li>\n</ul>\n<p><span style=\"color: #ff1e25;\">Event rates will apply.</span><br /><span style=\"color: #ff1e25;\"><em>On event dates, please allow additional time to exit.</em></span></p>\n<p>Wilson Parking offers affordable &amp; secure parking at Federation Square Car Park, located on Russell St (Extension) in the Melbourne CBD. This car park is nearby to many popular attractions, including Federation Square, Flinders St Station, Birrarung Marr, Rod Laver Arena and Melbourne Park. Offering casual Early Bird, Hourly, Night and Weekend parking, with exclusive discounts when you prepay online, the Federation Square Car Park will meet all of your parking needs.</p>\n<p><span style=\"color: #000000;\"><strong>On event dates and busy periods, please use the Batman Avenue Exit from Level 1 and allow additional time to exit.</strong></span></p>\n<p>Download the Wilson Parking App to plan your journey and access exclusive discounts when you prepay online; pay as you go with one convenient monthly invoice when you use your Wilson Parking Card; enjoy 24/7 unlimited access when you subscribe to Monthly Parking; or just drive up to pay with a credit card at the car park.</p>",
       "isWilsonOne": true,
       "legacyID": 94,
       "monthlyParkingServiceIsAvailable": true,
@@ -62665,7 +62665,7 @@
           "rates": [
             {
               "timeSpan": "Mon - Fri",
-              "price": 28.0
+              "price": 23.0
             }
           ]
         }
@@ -63195,7 +63195,7 @@
       "costCenter": 1003323,
       "direction": "Entry and Exit via Queens Lane\n",
       "heightRestriction": 0.0,
-      "information": "<p>Wilson Parking offer affordable &amp; secure parking at 5 Queens Road Car Park&nbsp; located in the heart of St Kilda. With Early Bird and casual parking, the 5 Queens Road Car Park will meet all of your parking needs.</p>\n<p><strong>This car park accepts Credit Card payments only.</strong></p>",
+      "information": "<p><span style=\"color: #ff1e25;\"><strong><u>Melbourne Grand Prix Operating Hours</u></strong></span></p>\n<p><span style=\"color: #ff1e25;\">This car park will be open from 6am - 9pm, 6th, 7th and 8th March 2026 for the Melbourne Grand Prix.</span></p>\n<p><span style=\"color: #ff1e25;\">Event rates will apply. Please allow additional time to exit</span>.</p>\n<p>Wilson Parking offer affordable &amp; secure parking at 5 Queens Road Car Park&nbsp; located in the heart of St Kilda. With Early Bird and casual parking, the 5 Queens Road Car Park will meet all of your parking needs.</p>\n<p><strong>This car park accepts Credit Card payments only.</strong></p>",
       "isWilsonOne": true,
       "legacyID": 545,
       "monthlyParkingServiceIsAvailable": true,
@@ -72468,9 +72468,9 @@
       "carParkPhoto": null,
       "category": "",
       "costCenter": 1004084,
-      "direction": "Entry via 365 Herston Road",
+      "direction": "Entry via 325 Herston Road",
       "heightRestriction": 2.1,
-      "information": "<p>Wilson Parking offers affordable parking at the Herston Medical Precinct Car Park, conveniently located at 365 Herston Road, Herston, directly opposite the Royal Brisbane and Women&rsquo;s Hospital (RBWH) and within easy reach of nearby health, research and education precincts.</p>\n<p>Open 7 days, this multistorey car park provides seamless access for hospital visitors, staff, patients and those travelling to surrounding facilities. Offering Hourly, Weekend and Night parking options, the Herston Medical Precinct Car Park will meet all your parking needs.&nbsp;</p>",
+      "information": "<p>Wilson Parking offers affordable parking at the Herston Medical Precinct Car Park, conveniently located at 325 Herston Road, Herston, directly opposite the Royal Brisbane and Women&rsquo;s Hospital (RBWH) and within easy reach of nearby health, research and education precincts.</p>\n<p>Open 7 days, this multistorey car park provides seamless access for hospital visitors, staff, patients and those travelling to surrounding facilities. Offering Hourly, Weekend and Night parking options, the Herston Medical Precinct Car Park will meet all your parking needs.&nbsp;</p>",
       "isWilsonOne": false,
       "legacyID": 4084,
       "monthlyParkingServiceIsAvailable": false,
@@ -77666,35 +77666,19 @@
               "price": 6.0
             },
             {
-              "timeSpan": "1.0 - 1.5 hrs",
-              "price": 9.0
-            },
-            {
-              "timeSpan": "1.5 - 2.0 hrs",
+              "timeSpan": "1.0 - 2.0 hrs",
               "price": 12.0
             },
             {
-              "timeSpan": "2.0 - 2.5 hrs",
-              "price": 15.0
-            },
-            {
-              "timeSpan": "2.5 - 3.0 hrs",
+              "timeSpan": "2.0 - 3.0 hrs",
               "price": 18.0
             },
             {
-              "timeSpan": "3.0 - 3.5 hrs",
-              "price": 21.0
-            },
-            {
-              "timeSpan": "3.5 - 4.0 hrs",
+              "timeSpan": "3.0 - 4.0 hrs",
               "price": 24.0
             },
             {
-              "timeSpan": "4.0 - 4.5 hrs",
-              "price": 27.0
-            },
-            {
-              "timeSpan": "4.5 - 5.0 hrs",
+              "timeSpan": "4.0 - 5.0 hrs",
               "price": 30.0
             },
             {
@@ -77705,11 +77689,11 @@
         },
         {
           "rateType": "Weekend",
-          "notes": "<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>",
+          "notes": "<p><strong>Weekends</strong>: Saturday, Sunday &amp; Public Holidays <br />Flat Rate, per exit, per day - charged from 5.15am daily</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>",
           "rates": [
             {
-              "timeSpan": "Sat - Sun",
-              "price": 15.0
+              "timeSpan": "Flat Rate",
+              "price": 19.0
             }
           ]
         }
