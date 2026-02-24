@@ -52642,7 +52642,7 @@
           "is24_7": false,
           "closed": false,
           "opening": "07:00",
-          "closing": "22:00",
+          "closing": "21:00",
           "note": null
         },
         {
@@ -52650,7 +52650,7 @@
           "is24_7": false,
           "closed": false,
           "opening": "07:00",
-          "closing": "22:00",
+          "closing": "21:00",
           "note": null
         },
         {
@@ -52658,7 +52658,7 @@
           "is24_7": false,
           "closed": false,
           "opening": "07:00",
-          "closing": "22:00",
+          "closing": "21:00",
           "note": null
         },
         {
@@ -52666,7 +52666,7 @@
           "is24_7": false,
           "closed": false,
           "opening": "07:00",
-          "closing": "22:00",
+          "closing": "21:00",
           "note": null
         },
         {
@@ -52674,7 +52674,7 @@
           "is24_7": false,
           "closed": false,
           "opening": "07:00",
-          "closing": "22:00",
+          "closing": "21:00",
           "note": null
         },
         {
@@ -59958,7 +59958,7 @@
           "rates": [
             {
               "timeSpan": "Mon - Fri",
-              "price": 26.0
+              "price": 28.0
             }
           ]
         },
@@ -77849,7 +77849,7 @@
       "costCenter": 1005050,
       "direction": "Enter off Frome Road (located near lot 14)",
       "heightRestriction": 2.0,
-      "information": "<p>Wilson Parking offer affordable &amp; secure parking at Lot Fourteen Car Park, located off Frome Rd, Adelaide. Nearby to The University of Adelaide and with 24/7 access, the car park offers Hourly, Early Bird, Night and Weekend parking and discount online parking options, the Lot Fourteen Car Park will meet all of your parking needs.</p>\n<p>Enjoy the convenience of pay as you go with a Wilson Parking Card, or get unlimited 24/7 access when you subscribe to Monthly Parking.</p>",
+      "information": "<p>Wilson Parking offer affordable &amp; secure parking at Lot Fourteen Car Park, located off Frome Rd, Adelaide. Nearby to The University of Adelaide and with 24/7 access, the car park offers Hourly, Early Bird, Night and Weekend parking and discount online parking options, the Lot Fourteen Car Park will meet all of your parking needs.</p>\n<p>Enjoy the convenience of pay as you go with a Wilson Parking Card, or get unlimited 24/7 access when you subscribe to Monthly Parking.</p>\n<p><span style=\"color: #ff1e25;\">Due&nbsp;to council roadworks, traffic and pedestrian restrictions will impact the Lot Fourteen Car Park. Works will occur&nbsp;daily at 7am to 5pm. Please allow additional time when entering and exiting the car park.</span></p>",
       "isWilsonOne": true,
       "legacyID": 276,
       "monthlyParkingServiceIsAvailable": true,
@@ -88259,7 +88259,7 @@
       "carParkPhoto": "/contentassets/ebe0e5edc3f94faa9ed99860074a70a2/per113c.jpg",
       "category": "",
       "costCenter": 1006113,
-      "direction": "Entry via Hay Street or Pier Street\n\nMotorbike parking must be paid for using the 517 Hay St (Kings Complex) - Motorcycle parking location",
+      "direction": "Entry via Hay Street or Pier Street\n\nMotorbike parking must be paid for using the 517 Hay St (Kings Complex) - Motorcycle parking location\n\n</br></br>Please note the Pier Street entry to the car park will be closed on 28th of February. </br>\n</br></br>We apologise for any inconvenience.</br>",
       "heightRestriction": 2.0,
       "information": "<p>Wilson Parking offer affordable parking at Kings Complex Car Park, located at 517 Hay Street, Perth. This undercover car park is open 24/7 close to Perth's legal distrtict, providing parking options for nearby restaurants and businesses, as well as the Magistrates Court of Western Australia and District Court of Western Australia. Offering casual Hourly, Online Early Bird Flexi, Night and Weekend Parking as well as exclusive discounts available when you prepay online or with the Wilson Parking App, the Central Park Car Park will meet all of your parking needs.</p>\n<p>The car park offers two convenient entries. Enter via Hay St or Pier Street, heading southbound, after the Hay Street intersection.</p>\n<p>Download the Wilson Parking App to prepay ahead and access exclusive savings, or simply drive up and pay with your Credit Card, pay as you go with a Wilson Parking card.</p>",
       "isWilsonOne": true,
@@ -88474,7 +88474,7 @@
       "carParkPhoto": "/contentassets/9324ab3291044efbbd2e12849cb91a3c/per113c.jpg",
       "category": "",
       "costCenter": 1006113,
-      "direction": "Entry via Hay Street or Pier Street\n\n</br></br>Please note the car park lift is Out of Service until further advice. We apologise for the inconvenience.",
+      "direction": "Entry via Hay Street or Pier Street\n\n</br></br>Please note the Pier Street entry to the car park will be closed on 28th of February. \nWe apologise for any inconvenience.</br>",
       "heightRestriction": 2.0,
       "information": "<p>Wilson Parking offer affordable motorcycle parking at Kings Complex Car Park, located at 517 Hay Street, Perth.&nbsp;The car park offers two convenient entries. Enter via Hay St or Pier Street, heading southbound, after the Hay Street intersection.</p>\n<p>Download the Wilson Parking App to pay for and manage your motorbike parking directly from your phone.</p>\n<p>Looking for car parking at 517 Hay St - check out our other parking options <a href=\"/link/3ef8101d1faa416f9c4c38f70f5c8d40.aspx\" target=\"_top\">here</a></p>",
       "isWilsonOne": false,
