@@ -3129,7 +3129,6 @@
         "Flexi Parking",
         "Entry height at least 2",
         "Daily Pass Bundles",
-        "Super Saver",
         "Summer Sale"
       ],
       "services": [
@@ -60265,7 +60264,7 @@
       "costCenter": 1003139,
       "direction": "Entry and exit via Southbank Blvd.",
       "heightRestriction": 2.0,
-      "information": "<p>Wilson Parking offers affordable &amp; convenient parking at Riverside Quay Car Park, located in Southbank. With prepay online discounts for Flexi-Saver, Night and Weekend parking options along with competitive drive-in rates, the Riverside Quay Car Park will meet all of your parking needs.</p>\n<p>Enjoy the convenience of 24/7 access, and subscribe to monthly parking or sign up for a Wilson Parking Card and pay as you go.</p>\n<p>We're contactless. Simply use your credit card or Wilson Parking Card for payment.</p>",
+      "information": "<p><span style=\"color: #ff1e25;\"><span style=\"text-decoration: underline;\">Event Parking</span>&nbsp;applies during&nbsp;Grand Prix from <strong>Thursday, 5th March till Sunday, 8th March</strong>.&nbsp;</span></p>\n<p>Wilson Parking offers affordable &amp; convenient parking at Riverside Quay Car Park, located in Southbank. With prepay online discounts for Flexi-Saver, Night and Weekend parking options along with competitive drive-in rates, the Riverside Quay Car Park will meet all of your parking needs.</p>\n<p>Online Night and Wekend rates may not be availble on peak precinct event days. Event rates will apply at these times, available exit times may vary.</p>\n<p>Enjoy the convenience of 24/7 access, and subscribe to monthly parking or sign up for a Wilson Parking Card and pay as you go.</p>\n<p>We're contactless. Simply use your credit card or Wilson Parking Card for payment.</p>",
       "isWilsonOne": true,
       "legacyID": 182,
       "monthlyParkingServiceIsAvailable": true,
@@ -60330,8 +60329,18 @@
           "notes": "<p>Enter after 6:00 am &amp; exit before 6:00 am next day.</p>\n<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the <strong>Prepay Now</strong> link below to get started.<br />Rates shown include transaction fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>",
           "rates": [
             {
-              "timeSpan": "Sat - Sun & Public Holiday varies from $20.00 - $23.00, depending on demand",
+              "timeSpan": "Sat - Sun & Public Holiday varies from $20.00 - $24.00, depending on demand",
               "price": 25.0
+            }
+          ]
+        },
+        {
+          "rateType": "Event Rate",
+          "notes": "<p>Event Rate applies on Event Days</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>",
+          "rates": [
+            {
+              "timeSpan": "Event Days",
+              "price": 27.0
             }
           ]
         }
@@ -62028,7 +62037,7 @@
       "costCenter": 1003359,
       "direction": "Entry and Exit via Queens Lane",
       "heightRestriction": 1.9,
-      "information": "<p style=\"text-align: left;\">&nbsp;</p>\n<p>Wilson Parking offer affordable &amp; secure parking at 436 St Kilda Road Car Park&nbsp; located in the heart of St Kilda. With Prepay Online, Monthly, Early Bird, Night and Weekend Parking, the 436 St Kilda Road Car Park will meet all of your parking needs.</p>\n<p>Enjoy the convenience of 24/7 access, and subscribe to monthly parking or sign up for a Wilson Parking Card and pay as you go.</p>",
+      "information": "<p style=\"text-align: left;\"><strong><span style=\"color: #ff1e25;\">Event Rate applies for Grand Prix, Saturday, 7th March and Sunday 8th March.</span></strong></p>\n<p>Wilson Parking offer affordable &amp; secure parking at 436 St Kilda Road Car Park&nbsp; located in the heart of St Kilda. With Prepay Online, Monthly, Early Bird, Night and Weekend Parking, the 436 St Kilda Road Car Park will meet all of your parking needs.</p>\n<p>Enjoy the convenience of 24/7 access, and subscribe to monthly parking or sign up for a Wilson Parking Card and pay as you go.</p>",
       "isWilsonOne": true,
       "legacyID": 25,
       "monthlyParkingServiceIsAvailable": true,
@@ -62090,6 +62099,16 @@
             },
             {
               "timeSpan": "Event Parking ",
+              "price": 30.0
+            }
+          ]
+        },
+        {
+          "rateType": "Event Rate",
+          "notes": "<p>Event Rate applies on Event Days</p>\n<p>Drive Up Only - per exit, per day</p>",
+          "rates": [
+            {
+              "timeSpan": "Event Day",
               "price": 30.0
             }
           ]
@@ -64790,7 +64809,7 @@
       "costCenter": 5003233,
       "direction": "352 Canterbury Rd",
       "heightRestriction": 2.0,
-      "information": "<p>&nbsp;</p>\n<p>The 352 Canterbury Rd Car Park offers secure, affordable parking in the heart of St Kilda. Conveniently located near St Kilda Beach, Luna Park, Fitzroy Street, and local cafes. It&rsquo;s also close to popular venues like The Fifth Province, Saint Hotel, and The George Ballroom, as well as recreational spots like Albert Park Tennis Centre and St Kilda Cricket Ground. This carpark is open 24/7!</p>\n<p>Download the Wilson Parking App to easily pay for your parking from your phone.</p>",
+      "information": "<p><span style=\"color: #ff1e25;\">Event Parking (Drive Up Only) applies during&nbsp;Grand Prix from Thursday, 5th March till Sunday, 8th March.&nbsp;</span></p>\n<p>The 352 Canterbury Rd Car Park offers secure, affordable parking in the heart of St Kilda. Conveniently located near St Kilda Beach, Luna Park, Fitzroy Street, and local cafes. It&rsquo;s also close to popular venues like The Fifth Province, Saint Hotel, and The George Ballroom, as well as recreational spots like Albert Park Tennis Centre and St Kilda Cricket Ground. This carpark is open 24/7!</p>\n<p>Download the Wilson Parking App to easily pay for your parking from your phone.</p>",
       "isWilsonOne": false,
       "legacyID": 5003233,
       "monthlyParkingServiceIsAvailable": false,
@@ -64859,6 +64878,16 @@
             {
               "timeSpan": "Event Rate",
               "price": 10.0
+            }
+          ]
+        },
+        {
+          "rateType": "Event Rate",
+          "notes": "<p>Drive-Up Only - per exit, per day</p>\n<p><span style=\"color: #000000;\">Event Parking applies during&nbsp;Grand Prix from Thursday, 5th March till Sunday, 8th March.&nbsp;</span></p>",
+          "rates": [
+            {
+              "timeSpan": "Event Rate",
+              "price": 30.0
             }
           ]
         }
@@ -71399,7 +71428,9 @@
         "Weekend Parking",
         "Early Bird Parking",
         "Book a Bay",
-        "Daily Pass Bundles"
+        "Daily Pass Bundles",
+        "Elevate",
+        "LPR"
       ],
       "services": [
         "book a bay",
