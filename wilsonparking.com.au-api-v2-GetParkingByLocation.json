@@ -853,7 +853,7 @@
       "costCenter": 1002374,
       "direction": "Entry via 55 Market St\n\nFor afterhours access to the lift lobby press the intercom button at the main entry and security will let you in",
       "heightRestriction": 2.0,
-      "information": "<p>Wilson Parking offers affordable and reliable parking at 55 Market St Car Park, located at 55 Market St in the south of the Sydney CBD.&nbsp;</p>\n<p>Open 24/7 and offering Hourly, Night and Weekend Parking, the&nbsp;55 Market St Car Park&nbsp;suits all your parking needs.</p>\n<p>For afterhours access to the lift lobby press the intercom button at the main entry and security will allow access.&nbsp;</p>",
+      "information": "<p>Wilson Parking offers affordable and reliable parking at 55 Market St Car Park, located at 55 Market St in the south of the Sydney CBD.&nbsp;</p>\n<p>Open 24/7 and offering Hourly parking options, the&nbsp;55 Market St Car Park&nbsp;suits all your parking needs.</p>\n<p>For afterhours access to the lift lobby press the intercom button at the main entry and security will allow access.&nbsp;</p>",
       "isWilsonOne": false,
       "legacyID": 2374,
       "monthlyParkingServiceIsAvailable": true,
@@ -867,7 +867,7 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": null,
+          "notes": "<p>Monday to Sunday - Hourly rates apply all days.</p>\n<p>Rates are charged from 6am daily.&nbsp;&nbsp;</p>\n<p>--</p>\n<p><em><span style=\"color: #000000;\">For afterhours access to the lift lobby, press the intercom button at the main entry and security will allow access.&nbsp;</span></em></p>",
           "rates": [
             {
               "timeSpan": "0.0 - 1.0 hrs",
@@ -884,26 +884,6 @@
             {
               "timeSpan": "3.0+ hrs",
               "price": 89.0
-            }
-          ]
-        },
-        {
-          "rateType": "Night",
-          "notes": "<p>Entry after 5pm, exit before 6am the following day.&nbsp;</p>\n<p>Hourly rates apply from time of entry if conditions are not met.&nbsp;</p>\n<p>--</p>\n<p><em><span style=\"color: #000000;\">For afterhours access to the lift lobby, press the intercom button at the main entry and security will allow access.&nbsp;</span></em></p>",
-          "rates": [
-            {
-              "timeSpan": "Mon - Fri",
-              "price": 40.0
-            }
-          ]
-        },
-        {
-          "rateType": "Weekend",
-          "notes": "<p>Flat rate per exit per day.&nbsp;</p>\n<p>Rates are charged from 6am daily.&nbsp;&nbsp;</p>\n<p>--</p>\n<p><em><span style=\"color: #000000;\">For afterhours access to the lift lobby, press the intercom button at the main entry and security will allow access.&nbsp;</span></em></p>",
-          "rates": [
-            {
-              "timeSpan": "Sat - Sun",
-              "price": 45.0
             }
           ]
         }
@@ -64799,7 +64779,8 @@
       "canBookABay": false,
       "selectedFeatures": "",
       "carParkFeature": [
-        "Epark"
+        "Epark",
+        "Grand Prix"
       ],
       "services": [],
       "carParkName": "352 Canterbury Rd Car Park",
@@ -65172,6 +65153,188 @@
       },
       "state": null,
       "imgUrl": "/contentassets/f89fa4ae14d1457da17582b2507be93e/brighton.jpg",
+      "price": "",
+      "status": "",
+      "cpmsCarparkCode": null,
+      "externalCarParkInfo": null,
+      "featuredIndex": 0
+    },
+    {
+      "name": "New Footscray Hospital",
+      "bookText": null,
+      "canBookABay": false,
+      "selectedFeatures": "",
+      "carParkFeature": [
+        "Disabled Parking"
+      ],
+      "services": [
+        "disabled parking"
+      ],
+      "carParkName": "New Footscray Hospital",
+      "carParkNumber": 1003365,
+      "carParkPhoto": null,
+      "category": "",
+      "costCenter": 1003365,
+      "direction": "Enter from Ballarat Rd or Geelong Rd",
+      "heightRestriction": 2.2,
+      "information": "<p>Wilson Parking offer affordable &amp; reliable parking at the New Footscray Hospital Car Park, located at 89 Ballarat Rd, Footscray. Open 24 hours, 7 days, and entries from both Ballarat Rd and Geelong Rd, this car park provides convenient access for staff, patients and visitors to The New Footscray Hospital. Offering Hourly, Weekend and special concession rates (on validation at the hospital), The Footscray Hospital Car Park will meet all your hospital parking needs.&nbsp;</p>",
+      "isWilsonOne": false,
+      "legacyID": 1003365,
+      "monthlyParkingServiceIsAvailable": false,
+      "evChargerIsAvailable": false,
+      "disabledParkingIsAvailable": true,
+      "phoneNumber": null,
+      "products": [],
+      "staticMapPhoto": null,
+      "streetViewHeading": null,
+      "streetViewLocation": "https://www.google.com/maps/@?api=1&map_action=pano&pano=GO9lk_JQCwymTFa9I8RopQ&viewpoint=-37.79591688460543,144.8978666104802&heading=9.34712931368324&pitch=-1.8231506495255445&zoom=0.9999999999999997",
+      "rates": [
+        {
+          "rateType": "Hourly",
+          "notes": "<p>Available Monday - Friday</p>\n<p>*Concession/Pensioner Rate: must validate at main reception at the New Footscray Hospital</p>",
+          "rates": [
+            {
+              "timeSpan": "0.0 - 0.5 hrs",
+              "price": 0.0
+            },
+            {
+              "timeSpan": "0.5 - 1.0 hrs",
+              "price": 8.5
+            },
+            {
+              "timeSpan": "1.0 - 2.0 hrs",
+              "price": 12.4
+            },
+            {
+              "timeSpan": "2.0 - 3.0 hrs",
+              "price": 16.4
+            },
+            {
+              "timeSpan": "3.0+ hrs",
+              "price": 20.8
+            }
+          ]
+        },
+        {
+          "rateType": "Weekend",
+          "notes": "<p>Available Sat and Sun. Rates are per entry per day and reset at 6am.</p>\n<p><strong>*Concession/Pensioner Rate:</strong> must validate at main reception at the New Footscray Hospital.&nbsp;</p>",
+          "rates": [
+            {
+              "timeSpan": "0.0 - 0.5 hrs",
+              "price": 0.0
+            },
+            {
+              "timeSpan": "0.5 - 1.0 hrs",
+              "price": 8.5
+            },
+            {
+              "timeSpan": "1.0+ hrs",
+              "price": 12.4
+            }
+          ]
+        }
+      ],
+      "fromText": "From",
+      "fromPrice": "0",
+      "location": {
+        "longitude": 144.898226401109,
+        "latitude": -37.7954198171956,
+        "zoom": 13,
+        "address": "89 Ballarat Rd, Footscray",
+        "region": {
+          "name": "Footscray",
+          "longitude": 144.8902702331543,
+          "latitude": -37.792151101468434,
+          "status": "",
+          "state": {
+            "name": "Victoria",
+            "abbreviation": "VIC",
+            "country": "Australia",
+            "longitude": 145.08864104747772,
+            "latitude": -36.438262107088946,
+            "status": ""
+          }
+        }
+      },
+      "openingTimes": [
+        {
+          "day_TimePeriod": "Monday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Tuesday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Wednesday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Thursday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Friday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Saturday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Sunday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        }
+      ],
+      "url": "/parking-locations/victoria/footscray/new-footscray-hospital/",
+      "serviceConfiguration": {
+        "canBookABay": false,
+        "bookABayIconLabel": "Prepay Online",
+        "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
+        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingIconLabel": "Monthly Subscription",
+        "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
+        "isWilsonOne": false,
+        "wilsonOneIconLabel": "Parking Card",
+        "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
+        "disabledParkingIsAvailable": true,
+        "disabledParkingIconLabel": "Disabled Parking",
+        "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
+        "evChargerIsAvailable": false,
+        "evChargerIconLabel": "EV Charging",
+        "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
+        "additionalServices": []
+      },
+      "state": "VIC",
+      "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
       "price": "",
       "status": "",
       "cpmsCarparkCode": null,
@@ -79177,7 +79340,7 @@
       "costCenter": 1005039,
       "direction": "Enter via North Terrace opposite the Art Gallery of SA",
       "heightRestriction": 2.05,
-      "information": "<p>Wilson Parking offer affordable &amp; reliable parking at Adelaide Central Car Park, located at 225 North Terrace, Adelaide. The Car Park is located near The University of Adelaide, The Art Gallery of SA, Rundle Mall and just a short walk to Adelaide Oval. Offering All Day Flexi-Saver, Weekend and discount online parking options, the Adelaide Central Car Park will meet all of your parking needs.</p>\n<p>Experience the convenience of&nbsp;pay as you go with a Wilson Parking card, or enjoy 24/7 unlimited access when you subscribe to Monthly Parking.&nbsp;</p>",
+      "information": "<p>Wilson Parking offer affordable &amp; reliable parking at Adelaide Central Car Park, located at 225 North Terrace, Adelaide. The Car Park is located near The University of Adelaide, The Art Gallery of SA, Rundle Mall and just a short walk to Adelaide Oval. Offering Flexi Saver, Weekend and discount online parking options, the Adelaide Central Car Park will meet all of your parking needs.</p>\n<p>Experience the convenience of&nbsp;pay as you go with a Wilson Parking card, or enjoy 24/7 unlimited access when you subscribe to Monthly Parking.&nbsp;</p>",
       "isWilsonOne": true,
       "legacyID": 165,
       "monthlyParkingServiceIsAvailable": true,
@@ -80278,7 +80441,7 @@
       "costCenter": 1005008,
       "direction": "Entry via 30 Hindley Street ",
       "heightRestriction": 2.0,
-      "information": "<p>Wilson Parking offer affordable &amp; reliable parking at 30 Hindley St Car Park, located at 30 Hindley Street, Adelaide. With 24 hour access, this car park is perfect for nearby hotels, restaurants and Rundle Mall parking. Offering Online All Day Flexi Saver and Weekend parking, along with discount&nbsp;online parking options, the 30 Hindley St Car Park will meet all of your parking needs.</p>\n<p>Experience the convenience of&nbsp;pay as you go with a Wilson Parking card, or enjoy 24/7 unlimited access when you subscribe to Monthly Parking.</p>",
+      "information": "<p>Wilson Parking offer affordable &amp; reliable parking at 30 Hindley St Car Park, located at 30 Hindley Street, Adelaide. With 24 hour access, this car park is perfect for nearby hotels, restaurants and Rundle Mall parking. Offering Online Flexi Saver and Weekend parking, along with discount&nbsp;online parking options, the 30 Hindley St Car Park will meet all of your parking needs.</p>\n<p>Experience the convenience of&nbsp;pay as you go with a Wilson Parking card, or enjoy 24/7 unlimited access when you subscribe to Monthly Parking.</p>",
       "isWilsonOne": true,
       "legacyID": 173,
       "monthlyParkingServiceIsAvailable": true,
@@ -82789,7 +82952,7 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Rates apply 7 days a week&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
+          "notes": "<p>Rates apply 7 days a week&nbsp;</p>\n<p><strong>Parking</strong></p>\n<p>Undercover carpark accessible via Military Rd. 1.5 hours free during Foodland opening hours.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
           "rates": [
             {
               "timeSpan": "0.0 - 1.5 hrs",
@@ -98243,7 +98406,7 @@
       "carParkPhoto": "/contentassets/302586f6c50442f0943399d2e3571b53/20230418_100313.jpg",
       "category": "",
       "costCenter": 1006256,
-      "direction": "Entry via Hasler Road.",
+      "direction": "Entry via Hasler Road.\n\nThe last operational date for this car park will be 27th of February 2026. ",
       "heightRestriction": 0.0,
       "information": "<p>Wilson Parking offer affordable parking at Hasler Rd Car Park, located at 84 Hasler Road Osborne Park. Open 24/7, this open air car park is situated in a prime location in Osborne Park. Offering casual Hourly Parking with the exclusive discounts available when using the Wilson Parking App, the Hasler Rd Car Park will meet all of your parking needs.</p>\n<p>Download the Wilson Parking app to easily pay for your parking from your phone.</p>",
       "isWilsonOne": false,
