@@ -11381,7 +11381,7 @@
       "costCenter": 5002510,
       "direction": "**Car Park will be closed from December 23, 2023 - January 7, 2024 (inclusive)**\n\nCar Park access is via Thomas St, Ultimo",
       "heightRestriction": 2.1,
-      "information": "<p>Offering affordable and secure parking, the University of Technology Sydney Car Park is located on Thomas St in Ultimo. Open Monday - Sunday, this car park is close to TAFE, Chinatown, Central Park, Central Station and many Sydney CBD businesses and cafes.</p>\n<p>With casual hourly rates and special discounts for students at staff at UTS, the University of Technology Car Park will meet all your parking needs.</p>",
+      "information": "<p><span style=\"color: #ff1e25;\">All discount cards have been sold out for 2026. Please apply next year.</span></p>\n<p>Offering affordable and secure parking, the University of Technology Sydney Car Park is located on Thomas St in Ultimo. Open Monday - Sunday, this car park is close to TAFE, Chinatown, Central Park, Central Station and many Sydney CBD businesses and cafes.</p>\n<p>With casual hourly rates and special discounts for students at staff at UTS, the University of Technology Car Park will meet all your parking needs.</p>",
       "isWilsonOne": false,
       "legacyID": 5002510,
       "monthlyParkingServiceIsAvailable": false,
@@ -36609,7 +36609,7 @@
           "rates": [
             {
               "timeSpan": "Early Bird",
-              "price": 7.0
+              "price": 10.0
             }
           ]
         }
@@ -51767,224 +51767,6 @@
       "featuredIndex": 0
     },
     {
-      "name": "Victoria Gardens",
-      "bookText": null,
-      "canBookABay": false,
-      "selectedFeatures": "",
-      "carParkFeature": [],
-      "services": [],
-      "carParkName": "Victoria Gardens",
-      "carParkNumber": 3334,
-      "carParkPhoto": null,
-      "category": "",
-      "costCenter": 1003334,
-      "direction": "Enter from Victoria Street, Burnley Street or Vickers Drive",
-      "heightRestriction": 2.1,
-      "information": "<p>Wilson Parking offers affordable, secure parking at Victoria Gardens Richmond Car Park, located at Victoria St Richmond. This car park is located in Victoria Gardnes shopping centre, with convenient entries off Victoria St, Burnely St and Vickers Dr. Enjoy convenient parking all week, with discounts available at night.&nbsp;&nbsp;</p>\n<p>The Victoria Gardens Car Park will meet all your parking needs.&nbsp;</p>",
-      "isWilsonOne": false,
-      "legacyID": 617,
-      "monthlyParkingServiceIsAvailable": false,
-      "evChargerIsAvailable": false,
-      "disabledParkingIsAvailable": false,
-      "phoneNumber": "1800 PARKING",
-      "products": [],
-      "staticMapPhoto": null,
-      "streetViewHeading": "94.21036928872694",
-      "streetViewLocation": "https://www.google.com/maps/@?api=1&map_action=pano&pano=pZAQFCh0k8DhGxz2BcF4Wg&viewpoint=-37.81320489410606,145.0095580761091&heading=94.21036928872694&pitch=1.681548890372639",
-      "rates": [
-        {
-          "rateType": "Hourly",
-          "notes": null,
-          "rates": [
-            {
-              "timeSpan": "0.0 - 0.5 Hours",
-              "price": 1.0
-            },
-            {
-              "timeSpan": "0.5 - 1.0 Hours",
-              "price": 1.0
-            },
-            {
-              "timeSpan": "1.0 - 1.5 Hours",
-              "price": 2.0
-            },
-            {
-              "timeSpan": "1.5 - 2.0 Hours",
-              "price": 3.0
-            },
-            {
-              "timeSpan": "2.0 - 2.5  Hours",
-              "price": 4.0
-            },
-            {
-              "timeSpan": "2.5 - 3.0 Hours",
-              "price": 5.0
-            },
-            {
-              "timeSpan": "3.0 - 3.5 Hours",
-              "price": 7.0
-            },
-            {
-              "timeSpan": "3.5 - 4.0 Hours",
-              "price": 8.0
-            },
-            {
-              "timeSpan": "4.0 - 4.5 Hours",
-              "price": 10.0
-            },
-            {
-              "timeSpan": "4.5 - 5.0 Hours",
-              "price": 15.0
-            },
-            {
-              "timeSpan": "5.0 - 5.5 Hours",
-              "price": 20.0
-            },
-            {
-              "timeSpan": "5.5 - 6.0 Hours",
-              "price": 30.0
-            },
-            {
-              "timeSpan": "6.0 + Hours",
-              "price": 40.0
-            }
-          ]
-        },
-        {
-          "rateType": "Night",
-          "notes": "Enter after 6.00pm and exit before 9.00am",
-          "rates": [
-            {
-              "timeSpan": "Overnight rate",
-              "price": 5.0
-            }
-          ]
-        }
-      ],
-      "fromText": "From",
-      "fromPrice": "1",
-      "location": {
-        "longitude": 145.01106091163933,
-        "latitude": -37.812474268368753,
-        "zoom": 13,
-        "address": "620 Victoria Street, Richmond",
-        "region": {
-          "name": "Richmond",
-          "longitude": 145.00368093809811,
-          "latitude": -37.819320411955708,
-          "status": "",
-          "state": {
-            "name": "Victoria",
-            "abbreviation": "VIC",
-            "country": "Australia",
-            "longitude": 145.08864104747772,
-            "latitude": -36.438262107088946,
-            "status": ""
-          }
-        }
-      },
-      "openingTimes": [
-        {
-          "day_TimePeriod": "Monthly",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Monday",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Tuesday",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Wednesday",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Thursday",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Friday",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Saturday",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Sunday",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Public Holiday",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        }
-      ],
-      "url": "/parking-locations/victoria/richmond/victoria-gardens/",
-      "serviceConfiguration": {
-        "canBookABay": false,
-        "bookABayIconLabel": "Prepay Online",
-        "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": false,
-        "monthlyParkingIconLabel": "Monthly Subscription",
-        "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
-        "isWilsonOne": false,
-        "wilsonOneIconLabel": "Parking Card",
-        "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
-        "disabledParkingIsAvailable": false,
-        "disabledParkingIconLabel": "Disabled Parking",
-        "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
-        "evChargerIsAvailable": false,
-        "evChargerIconLabel": "EV Charging",
-        "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "additionalServices": []
-      },
-      "state": "VIC",
-      "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
-      "price": "",
-      "status": "",
-      "cpmsCarparkCode": null,
-      "externalCarParkInfo": null,
-      "featuredIndex": 0
-    },
-    {
       "name": "ALDI Fitzroy Car Park",
       "bookText": null,
       "canBookABay": true,
@@ -54774,7 +54556,7 @@
       "costCenter": 1003300,
       "direction": null,
       "heightRestriction": 2.05,
-      "information": "<p><span style=\"color: #ff1e25;\"><strong><u>Event Dates<br /></u></strong></span><span style=\"color: #ff1e25;\">Thursday 19 February from 4PM<br /></span><span style=\"color: #ff1e25;\">Event rates will apply.&nbsp;</span><br /><span style=\"color: #ff1e25;\"><em>On event dates, please allow additional time to exit</em></span></p>\n<p>Wilson Parking offers affordable &amp; secure parking at 11 Exhibition St&nbsp;Car Park, located at 11 Exhibition St in the heart of East End. Open 7 days, this undercover car park provides convenient access to nearby the MCG, Federation Square, Birrarung Marr, Melbourne Park and many other popular attractions. This car park offers flat rate parking at the times you need when you prepay online a Flexi Saver rate online. Casual Hourly, Weekend and Night Parking options are also available, with permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the 11 Exhibition St Car Park will meet all your business and leisure parking needs.&nbsp;</p>\n<p>This car park accepts Credit Card payments only.&nbsp;Download the Wilson Parking App to plan your journey and access the best parking value when you prepay online; enjoy unlimited 24/7 access when you subscribe to monthly parking; pay as you go on one convenient monthly invoice when you use your Wilson Parking Card to access the car park.</p>",
+      "information": "<p>Wilson Parking offers affordable &amp; secure parking at 11 Exhibition St&nbsp;Car Park, located at 11 Exhibition St in the heart of East End. Open 7 days, this undercover car park provides convenient access to nearby the MCG, Federation Square, Birrarung Marr, Melbourne Park and many other popular attractions. This car park offers flat rate parking at the times you need when you prepay online a Flexi Saver rate online. Casual Hourly, Weekend and Night Parking options are also available, with permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the 11 Exhibition St Car Park will meet all your business and leisure parking needs.&nbsp;</p>\n<p>This car park accepts Credit Card payments only.&nbsp;Download the Wilson Parking App to plan your journey and access the best parking value when you prepay online; enjoy unlimited 24/7 access when you subscribe to monthly parking; pay as you go on one convenient monthly invoice when you use your Wilson Parking Card to access the car park.</p>",
       "isWilsonOne": true,
       "legacyID": 497,
       "monthlyParkingServiceIsAvailable": true,
@@ -55060,6 +54842,16 @@
             {
               "timeSpan": "Sat - Sun & Public Holiday varies from $17.00 - $21.00",
               "price": 22.0
+            }
+          ]
+        },
+        {
+          "rateType": "Early Bird",
+          "notes": "<p>Enter between 6am - 10am and exit between 2pm and 7pm</p>",
+          "rates": [
+            {
+              "timeSpan": "Mon - Fri",
+              "price": 25.0
             }
           ]
         }
@@ -55746,19 +55538,11 @@
               "price": 20.0
             },
             {
-              "timeSpan": "1.0 - 1.5 hrs",
-              "price": 30.0
-            },
-            {
-              "timeSpan": "1.5 - 2.0 hrs",
+              "timeSpan": "1.0 - 2.0 hrs",
               "price": 40.0
             },
             {
-              "timeSpan": "2.0 - 2.5 hrs",
-              "price": 50.0
-            },
-            {
-              "timeSpan": "2.5 + hrs",
+              "timeSpan": "2.0 + hrs",
               "price": 60.0
             }
           ]
@@ -62003,7 +61787,8 @@
         "Book a Bay",
         "Wilson One",
         "Flexi Parking",
-        "Daily Pass Bundles"
+        "Daily Pass Bundles",
+        "Grand Prix"
       ],
       "services": [
         "book a bay",
@@ -64855,10 +64640,6 @@
             {
               "timeSpan": "Saturday & Sunday",
               "price": 5.0
-            },
-            {
-              "timeSpan": "Event Rate",
-              "price": 10.0
             }
           ]
         },
@@ -98391,69 +98172,43 @@
       "featuredIndex": 0
     },
     {
-      "name": "Hasler Road Car Park",
+      "name": "405 Scarborough Beach Road",
       "bookText": null,
       "canBookABay": false,
       "selectedFeatures": "",
       "carParkFeature": [
         "Night Parking",
         "Weekend Parking",
+        "Overnight Parking",
         "Epark"
       ],
       "services": [],
-      "carParkName": "Hasler Road Car Park",
-      "carParkNumber": 6256,
-      "carParkPhoto": "/contentassets/302586f6c50442f0943399d2e3571b53/20230418_100313.jpg",
+      "carParkName": "405 Scarborough Beach Road",
+      "carParkNumber": 6539,
+      "carParkPhoto": null,
       "category": "",
-      "costCenter": 1006256,
-      "direction": "Entry via Hasler Road.\n\nThe last operational date for this car park will be 27th of February 2026. ",
+      "costCenter": 1006539,
+      "direction": null,
       "heightRestriction": 0.0,
-      "information": "<p>Wilson Parking offer affordable parking at Hasler Rd Car Park, located at 84 Hasler Road Osborne Park. Open 24/7, this open air car park is situated in a prime location in Osborne Park. Offering casual Hourly Parking with the exclusive discounts available when using the Wilson Parking App, the Hasler Rd Car Park will meet all of your parking needs.</p>\n<p>Download the Wilson Parking app to easily pay for your parking from your phone.</p>",
+      "information": "<p>Wilson Parking offer affordable parking at the 405 Scarborough Beach Road Car Park, located in Scarborough. Open 24/7, this open air car park is conveniently located close to Scarborough Beach.&nbsp;Offering casual Hourly rates, only available when purchased through the Wilson Parking app.</p>\n<p>This is an Wilson Parking app payment only car park. Download the Wilson Parking app from the App Store or Google Play to easily pay for your parking direct from your phone, without the need for tickets.</p>",
       "isWilsonOne": false,
-      "legacyID": 628,
+      "legacyID": 6539,
       "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
-      "phoneNumber": "1800 PARKING",
+      "phoneNumber": "1800 PARKING (1800 727 547)",
       "products": [],
       "staticMapPhoto": null,
-      "streetViewHeading": "13.756502755667064",
-      "streetViewLocation": "https://www.google.com/maps/@?api=1&map_action=pano&pano=tI8XX5S6_wBIV9ssxpZogA&viewpoint=-31.91604225026309,115.8165386159911&heading=13.756502755667064&pitch=-4.293915681848688",
-      "rates": [
-        {
-          "rateType": "Hourly",
-          "notes": "<p>Rates apply Monday - Sunday. 12hr max stay.&nbsp;</p>\n<p>*Online rate only available when purchasing through the Wilson Parking App. Online rates includes Transaction fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a> to download the Wilson Parking App</p>",
-          "rates": [
-            {
-              "timeSpan": "0.0 - 1.0 hr",
-              "price": 2.0
-            },
-            {
-              "timeSpan": "1.0 - 2.0 hrs",
-              "price": 4.0
-            },
-            {
-              "timeSpan": "2.0 - 3.0 hrs",
-              "price": 6.0
-            },
-            {
-              "timeSpan": "3.0 - 4.0 hrs",
-              "price": 8.0
-            },
-            {
-              "timeSpan": "4.0 - 12.0 hrs",
-              "price": 11.0
-            }
-          ]
-        }
-      ],
+      "streetViewHeading": null,
+      "streetViewLocation": null,
+      "rates": [],
       "fromText": "From",
       "fromPrice": "2",
       "location": {
-        "longitude": 115.81646243848979,
-        "latitude": -31.915873731325689,
+        "longitude": 115.813527737815,
+        "latitude": -31.9100857765037,
         "zoom": 13,
-        "address": "84 Hasler Road, Osborne Park WA 6019",
+        "address": "405 Scarborough Beach Road",
         "region": {
           "name": "Osborne Park",
           "longitude": 115.81949651241302,
@@ -98535,7 +98290,7 @@
           "note": null
         }
       ],
-      "url": "/parking-locations/western-australia/osborne-park/hasler-road-car-park/",
+      "url": "/parking-locations/western-australia/osborne-park/405-scarborough-beach-road/",
       "serviceConfiguration": {
         "canBookABay": false,
         "bookABayIconLabel": "Prepay Online",
@@ -98560,7 +98315,7 @@
         ]
       },
       "state": "WA",
-      "imgUrl": "/contentassets/302586f6c50442f0943399d2e3571b53/20230418_100313.jpg",
+      "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
       "price": "",
       "status": "",
       "cpmsCarparkCode": null,
