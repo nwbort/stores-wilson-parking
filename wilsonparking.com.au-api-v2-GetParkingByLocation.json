@@ -208,6 +208,10 @@
           {
             "label": null,
             "icon": null
+          },
+          {
+            "label": null,
+            "icon": null
           }
         ]
       },
@@ -373,7 +377,12 @@
         "evChargerIsAvailable": false,
         "evChargerIconLabel": "EV Charging",
         "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "additionalServices": []
+        "additionalServices": [
+          {
+            "label": null,
+            "icon": null
+          }
+        ]
       },
       "state": null,
       "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
@@ -1182,7 +1191,12 @@
         "evChargerIsAvailable": false,
         "evChargerIconLabel": "EV Charging",
         "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "additionalServices": []
+        "additionalServices": [
+          {
+            "label": null,
+            "icon": null
+          }
+        ]
       },
       "state": "NSW",
       "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
@@ -2039,7 +2053,12 @@
         "evChargerIsAvailable": false,
         "evChargerIconLabel": "EV Charging",
         "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "additionalServices": []
+        "additionalServices": [
+          {
+            "label": null,
+            "icon": null
+          }
+        ]
       },
       "state": "NSW",
       "imgUrl": "/siteassets/parking-location-images/nsw/syd001a.jpg",
@@ -3609,7 +3628,12 @@
         "evChargerIsAvailable": false,
         "evChargerIconLabel": "EV Charging",
         "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "additionalServices": []
+        "additionalServices": [
+          {
+            "label": null,
+            "icon": null
+          }
+        ]
       },
       "state": "NSW",
       "imgUrl": "/siteassets/parking-location-images/nsw/syd235.jpg",
@@ -4723,7 +4747,12 @@
         "evChargerIsAvailable": false,
         "evChargerIconLabel": "EV Charging",
         "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "additionalServices": []
+        "additionalServices": [
+          {
+            "label": null,
+            "icon": null
+          }
+        ]
       },
       "state": "NSW",
       "imgUrl": "/siteassets/parking-location-images/nsw/syd137.jpg",
@@ -5145,7 +5174,12 @@
         "evChargerIsAvailable": false,
         "evChargerIconLabel": "EV Charging",
         "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "additionalServices": []
+        "additionalServices": [
+          {
+            "label": null,
+            "icon": null
+          }
+        ]
       },
       "state": null,
       "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
@@ -5528,6 +5562,10 @@
         "evChargerIconLabel": "EV Charging",
         "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
         "additionalServices": [
+          {
+            "label": null,
+            "icon": null
+          },
           {
             "label": null,
             "icon": null
@@ -7236,7 +7274,12 @@
         "evChargerIsAvailable": false,
         "evChargerIconLabel": "EV Charging",
         "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "additionalServices": []
+        "additionalServices": [
+          {
+            "label": null,
+            "icon": null
+          }
+        ]
       },
       "state": "NSW",
       "imgUrl": "/siteassets/parking-location-images/nsw/syd239.jpg",
@@ -12906,6 +12949,10 @@
         "evChargerIconLabel": "EV Charging",
         "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
         "additionalServices": [
+          {
+            "label": null,
+            "icon": null
+          },
           {
             "label": null,
             "icon": null
@@ -67426,7 +67473,7 @@
       "costCenter": 1004356,
       "direction": "Entry off Little Cribb Street",
       "heightRestriction": 2.2,
-      "information": "<p><span style=\"color: #ff1e25;\">Event Parking is available at this car park on the following dates:&nbsp;27 February, 6, 8, 12, 13, 14, 15 &amp; 21 March.</span></p>\n<p>Wilson Parking offers affordable &amp; secure parking at Milton Green&nbsp;car park, located at 19 Little Cribb Street&nbsp;in the heart of Milton. Open 7 days, this undercover car park provides convenient access to nearby Suncorp Stadium and surrounding entertainment and retail precinct. Offering hourly, night and weekend parking options with discounts when you prepay online, permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the Milton Green&nbsp;car park will meet all your business and leisure parking needs.&nbsp;</p>",
+      "information": "<p><span style=\"color: #ff1e25;\">Event Parking is available at this car park on the following dates:&nbsp;6, 8, 12, 13, 14, 15, 21 &amp; 27 March.</span></p>\n<p>Wilson Parking offers affordable &amp; secure parking at Milton Green&nbsp;car park, located at 19 Little Cribb Street&nbsp;in the heart of Milton. Open 7 days, this undercover car park provides convenient access to nearby Suncorp Stadium and surrounding entertainment and retail precinct. Offering hourly, night and weekend parking options with discounts when you prepay online, permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the Milton Green&nbsp;car park will meet all your business and leisure parking needs.&nbsp;</p>",
       "isWilsonOne": false,
       "legacyID": 1004356,
       "monthlyParkingServiceIsAvailable": true,
@@ -70809,7 +70856,7 @@
       "costCenter": 1004298,
       "direction": "Entry via Dowse Street",
       "heightRestriction": 2.3,
-      "information": "<p><span style=\"color: #ff1e25;\">Event Parking is available at this car park on the following dates:</span><span style=\"color: #ff1e25;\">&nbsp;27 February, 6, 8, 12, 13, 14, 15 &amp; 21 March.</span></p>\n<p>Wilson Parking offers affordable and secure parking at&nbsp;Darling &amp; Co car park, located in the heart of Paddington. Open 7 days, this undercover car park provides convenient access to Lang Park (Suncorp Stadium). Offering casual and night parking, and exclusive discounts when you pay via the Wilson Parking app, the&nbsp;Darling &amp; Co car park will meet all your business and leisure parking needs.</p>\n<p>Car park closes at 11pm on event nights.</p>",
+      "information": "<p><span style=\"color: #ff1e25;\">Event Parking is available at this car park on the following dates:</span><span style=\"color: #ff1e25;\">&nbsp;6, 8, 12, 13, 14, 15, 21 &amp; 27 March.</span></p>\n<p>Wilson Parking offers affordable and secure parking at&nbsp;Darling &amp; Co car park, located in the heart of Paddington. Open 7 days, this undercover car park provides convenient access to Lang Park (Suncorp Stadium). Offering casual and night parking, and exclusive discounts when you pay via the Wilson Parking app, the&nbsp;Darling &amp; Co car park will meet all your business and leisure parking needs.</p>\n<p>Car park closes at 11pm on event nights.</p>",
       "isWilsonOne": false,
       "legacyID": 4298,
       "monthlyParkingServiceIsAvailable": true,
@@ -77781,6 +77828,10 @@
           {
             "label": null,
             "icon": null
+          },
+          {
+            "label": null,
+            "icon": null
           }
         ]
       },
@@ -81596,7 +81647,7 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>*Event rates may apply</p>\n<p>New charges start 5am</p>",
+          "notes": "<p>*Event rates may apply</p>\n<p>Rates charged per exit, per day - New day starts at 5am</p>",
           "rates": [
             {
               "timeSpan": "0.0 - 0.5 hrs",
@@ -81607,35 +81658,19 @@
               "price": 8.0
             },
             {
-              "timeSpan": "1.0 - 1.5 hrs",
+              "timeSpan": "1.0 - 2.0 hrs",
               "price": 14.0
             },
             {
-              "timeSpan": "1.5 - 2.0 hrs",
-              "price": 14.0
-            },
-            {
-              "timeSpan": "2.0 - 2.5 hrs",
-              "price": 17.0
-            },
-            {
-              "timeSpan": "2.5 - 3.0 hrs",
+              "timeSpan": "2.0 - 3.0 hrs",
               "price": 19.0
             },
             {
-              "timeSpan": "3.0 - 3.5 hrs",
-              "price": 21.0
-            },
-            {
-              "timeSpan": "3.5 - 4.0 hrs",
+              "timeSpan": "3.0 - 4.0 hrs",
               "price": 24.0
             },
             {
-              "timeSpan": "4.0 - 4.5 hrs",
-              "price": 26.0
-            },
-            {
-              "timeSpan": "4.5+ hrs",
+              "timeSpan": "4.0 + hrs",
               "price": 28.0
             }
           ]
@@ -88234,7 +88269,7 @@
       "carParkPhoto": "/contentassets/ebe0e5edc3f94faa9ed99860074a70a2/per113c.jpg",
       "category": "",
       "costCenter": 1006113,
-      "direction": "Entry via Hay Street or Pier Street\n\nMotorbike parking must be paid for using the 517 Hay St (Kings Complex) - Motorcycle parking location\n\n</br></br>Please note the Pier Street entry to the car park will be closed on 28th of February. </br>\n</br></br>We apologise for any inconvenience.</br>",
+      "direction": "Entry via Hay Street or Pier Street\n\nMotorbike parking must be paid for using the 517 Hay St (Kings Complex) - Motorcycle parking location\n",
       "heightRestriction": 2.0,
       "information": "<p>Wilson Parking offer affordable parking at Kings Complex Car Park, located at 517 Hay Street, Perth. This undercover car park is open 24/7 close to Perth's legal distrtict, providing parking options for nearby restaurants and businesses, as well as the Magistrates Court of Western Australia and District Court of Western Australia. Offering casual Hourly, Online Early Bird Flexi, Night and Weekend Parking as well as exclusive discounts available when you prepay online or with the Wilson Parking App, the Central Park Car Park will meet all of your parking needs.</p>\n<p>The car park offers two convenient entries. Enter via Hay St or Pier Street, heading southbound, after the Hay Street intersection.</p>\n<p>Download the Wilson Parking App to prepay ahead and access exclusive savings, or simply drive up and pay with your Credit Card, pay as you go with a Wilson Parking card.</p>",
       "isWilsonOne": true,
@@ -88421,6 +88456,10 @@
         "evChargerIconLabel": "EV Charging",
         "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
         "additionalServices": [
+          {
+            "label": null,
+            "icon": null
+          },
           {
             "label": null,
             "icon": null
@@ -90840,6 +90879,10 @@
           {
             "label": null,
             "icon": null
+          },
+          {
+            "label": null,
+            "icon": null
           }
         ]
       },
@@ -91073,7 +91116,7 @@
       "carParkPhoto": "/contentassets/9a5141f3b44a485ab0e62e75f8296298/per114.jpg",
       "category": "",
       "costCenter": 1006114,
-      "direction": "Entry via Queen Street (one way)\nPedestrian access 24hrs.<br>\nMotorbike parking must be paid for using the Queen St - Motorcycle parking location\n",
+      "direction": "Entry via Queen Street (one way)\nPedestrian access 24hrs.<br>\nMotorbike parking must be paid for using the Queen St - Motorcycle parking location",
       "heightRestriction": 2.0,
       "information": "<p>Wilson Parking offer affordable parking at Queen Street Car Park, located at the Corner of Wellington Street and Queen Street, Perth. Open 7 days until late, this undercover car park is ideally located for local restaurants and businesses, as well as His Majesty's Theatre. Offering casual Hourly, Online Flexi Saver, Night and Weekend Parking as well as exclusive discounts when you prepay online or with the Wilson Parking App, the Queen Street Car Park will meet all of your Perth parking needs.&nbsp;</p>\n<p>Download the Wilson Parking App or prepay online to plan your journey and access exclusive discounts or simply drive up and pay with your Credit Card,&nbsp;pay as you go with a Wilson Parking card, or enjoy unlimited access during the operational hours of the car park when you subscribe to Monthly Parking.</p>",
       "isWilsonOne": true,
@@ -91264,6 +91307,10 @@
         "evChargerIconLabel": "EV Charging",
         "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
         "additionalServices": [
+          {
+            "label": null,
+            "icon": null
+          },
           {
             "label": null,
             "icon": null
@@ -91636,6 +91683,10 @@
         "evChargerIconLabel": "EV Charging",
         "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
         "additionalServices": [
+          {
+            "label": null,
+            "icon": null
+          },
           {
             "label": null,
             "icon": null
@@ -93381,7 +93432,12 @@
         "evChargerIsAvailable": false,
         "evChargerIconLabel": "EV Charging",
         "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "additionalServices": []
+        "additionalServices": [
+          {
+            "label": null,
+            "icon": null
+          }
+        ]
       },
       "state": "WA",
       "imgUrl": "/siteassets/parking-location-images/wa/per055.gif",
