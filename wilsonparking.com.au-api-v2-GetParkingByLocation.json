@@ -831,6 +831,10 @@
           {
             "label": null,
             "icon": null
+          },
+          {
+            "label": null,
+            "icon": null
           }
         ]
       },
@@ -2275,6 +2279,10 @@
           {
             "label": null,
             "icon": null
+          },
+          {
+            "label": null,
+            "icon": null
           }
         ]
       },
@@ -2488,6 +2496,10 @@
         "evChargerIconLabel": "EV Charging",
         "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
         "additionalServices": [
+          {
+            "label": null,
+            "icon": null
+          },
           {
             "label": null,
             "icon": null
@@ -4972,6 +4984,10 @@
           {
             "label": null,
             "icon": null
+          },
+          {
+            "label": null,
+            "icon": null
           }
         ]
       },
@@ -6494,6 +6510,10 @@
           {
             "label": null,
             "icon": null
+          },
+          {
+            "label": null,
+            "icon": null
           }
         ]
       },
@@ -7688,6 +7708,10 @@
         "evChargerIconLabel": "EV Charging",
         "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
         "additionalServices": [
+          {
+            "label": null,
+            "icon": null
+          },
           {
             "label": null,
             "icon": null
@@ -9370,6 +9394,10 @@
         "evChargerIconLabel": "EV Charging",
         "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
         "additionalServices": [
+          {
+            "label": null,
+            "icon": null
+          },
           {
             "label": null,
             "icon": null
@@ -19606,196 +19634,6 @@
       },
       "state": "NSW",
       "imgUrl": "/globalassets/parking-location-images/mandarin-centre-car-park/syd3445.jpg",
-      "price": "",
-      "status": "",
-      "cpmsCarparkCode": null,
-      "externalCarParkInfo": null,
-      "featuredIndex": 0
-    },
-    {
-      "name": "Chatswood Chase Car Park",
-      "bookText": null,
-      "canBookABay": false,
-      "selectedFeatures": "",
-      "carParkFeature": [
-        "Entry height at least 2"
-      ],
-      "services": [],
-      "carParkName": "Chatswood Chase Car Park",
-      "carParkNumber": 2180,
-      "carParkPhoto": "/siteassets/parking-location-images/nsw/syd180.jpg",
-      "category": "",
-      "costCenter": 1002180,
-      "direction": null,
-      "heightRestriction": 2.0,
-      "information": "<p>Wilson Parking offer affordable &amp; secure parking at Chatswood Chase Car Park, located at 345 Victoria Ave in the heart of Chatswood CBD, Shopping and Restaurant Precints.&nbsp;</p>\n<p>Chatswood Car Park suits all your leisure and business parking needs. With Casual Parking available 7 days.&nbsp;</p>",
-      "isWilsonOne": false,
-      "legacyID": 193,
-      "monthlyParkingServiceIsAvailable": false,
-      "evChargerIsAvailable": false,
-      "disabledParkingIsAvailable": false,
-      "phoneNumber": "1800 PARKING",
-      "products": [],
-      "staticMapPhoto": null,
-      "streetViewHeading": "330.2084607833406",
-      "streetViewLocation": "https://www.google.com/maps/@?api=1&map_action=pano&pano=f9t314dJiD06S37DzEAJLw&viewpoint=-33.79503590812039,151.18709442202362&heading=330.2084607833406&pitch=-1.263156511729207",
-      "rates": [
-        {
-          "rateType": "Hourly",
-          "notes": "<p>Rates apply Monday to Sunday</p>",
-          "rates": [
-            {
-              "timeSpan": "0.0 - 3.0 hrs",
-              "price": 0.0
-            },
-            {
-              "timeSpan": "3.0 - 3.5 hrs",
-              "price": 7.0
-            },
-            {
-              "timeSpan": "3.5 - 4.0 hrs",
-              "price": 10.0
-            },
-            {
-              "timeSpan": "4.0 - 4.5 hrs",
-              "price": 20.0
-            },
-            {
-              "timeSpan": "4.5 - 5.0 hrs",
-              "price": 25.0
-            },
-            {
-              "timeSpan": "5.0 - 5.5 hrs",
-              "price": 30.0
-            },
-            {
-              "timeSpan": "5.5 - 6.0 hrs",
-              "price": 35.0
-            },
-            {
-              "timeSpan": "6.0 - 6.5 hrs",
-              "price": 40.0
-            },
-            {
-              "timeSpan": "6.5 - 7.0 hrs",
-              "price": 45.0
-            },
-            {
-              "timeSpan": "7.0 + hrs",
-              "price": 80.0
-            }
-          ]
-        }
-      ],
-      "fromText": "From",
-      "fromPrice": "0",
-      "location": {
-        "longitude": 151.18620872497559,
-        "latitude": -33.79523329301071,
-        "zoom": 13,
-        "address": "345 Victoria Avenue, Chatswood",
-        "region": {
-          "name": "Chatswood",
-          "longitude": 151.18281841278076,
-          "latitude": -33.7959644012857,
-          "status": "",
-          "state": {
-            "name": "New South Wales",
-            "abbreviation": "NSW",
-            "country": "Australia",
-            "longitude": 151.207430362701,
-            "latitude": -33.8662642500823,
-            "status": ""
-          }
-        }
-      },
-      "openingTimes": [
-        {
-          "day_TimePeriod": "Monday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "06:00",
-          "closing": "22:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Tuesday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "06:00",
-          "closing": "22:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Wednesday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "06:00",
-          "closing": "22:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Thursday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "06:00",
-          "closing": "22:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Friday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "06:00",
-          "closing": "22:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Saturday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "08:00",
-          "closing": "22:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Sunday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "08:00",
-          "closing": "22:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Public Holiday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "08:00",
-          "closing": "22:00",
-          "note": null
-        }
-      ],
-      "url": "/parking-locations/new-south-wales/chatswood/chatswood-chase-car-park/",
-      "serviceConfiguration": {
-        "canBookABay": false,
-        "bookABayIconLabel": "Prepay Online",
-        "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": false,
-        "monthlyParkingIconLabel": "Monthly Subscription",
-        "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
-        "isWilsonOne": false,
-        "wilsonOneIconLabel": "Parking Card",
-        "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
-        "disabledParkingIsAvailable": false,
-        "disabledParkingIconLabel": "Disabled Parking",
-        "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
-        "evChargerIsAvailable": false,
-        "evChargerIconLabel": "EV Charging",
-        "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "additionalServices": []
-      },
-      "state": "NSW",
-      "imgUrl": "/siteassets/parking-location-images/nsw/syd180.jpg",
       "price": "",
       "status": "",
       "cpmsCarparkCode": null,
@@ -53890,6 +53728,10 @@
           {
             "label": null,
             "icon": null
+          },
+          {
+            "label": null,
+            "icon": null
           }
         ]
       },
@@ -54783,6 +54625,10 @@
           {
             "label": null,
             "icon": null
+          },
+          {
+            "label": null,
+            "icon": null
           }
         ]
       },
@@ -55017,6 +54863,10 @@
         "evChargerIconLabel": "EV Charging",
         "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
         "additionalServices": [
+          {
+            "label": null,
+            "icon": null
+          },
           {
             "label": null,
             "icon": null
@@ -55325,6 +55175,10 @@
         "evChargerIconLabel": "EV Charging",
         "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
         "additionalServices": [
+          {
+            "label": null,
+            "icon": null
+          },
           {
             "label": null,
             "icon": null
@@ -56957,6 +56811,10 @@
           {
             "label": null,
             "icon": null
+          },
+          {
+            "label": null,
+            "icon": null
           }
         ]
       },
@@ -57598,7 +57456,12 @@
         "evChargerIsAvailable": false,
         "evChargerIconLabel": "EV Charging",
         "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "additionalServices": []
+        "additionalServices": [
+          {
+            "label": null,
+            "icon": null
+          }
+        ]
       },
       "state": "VIC",
       "imgUrl": "/siteassets/parking-location-images/vic/mel391.jpg",
@@ -57798,6 +57661,10 @@
         "evChargerIconLabel": "EV Charging",
         "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
         "additionalServices": [
+          {
+            "label": null,
+            "icon": null
+          },
           {
             "label": null,
             "icon": null
@@ -58544,7 +58411,12 @@
         "evChargerIsAvailable": false,
         "evChargerIconLabel": "EV Charging",
         "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "additionalServices": []
+        "additionalServices": [
+          {
+            "label": null,
+            "icon": null
+          }
+        ]
       },
       "state": "VIC",
       "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
@@ -58948,6 +58820,10 @@
         "evChargerIconLabel": "EV Charging",
         "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
         "additionalServices": [
+          {
+            "label": null,
+            "icon": null
+          },
           {
             "label": null,
             "icon": null
@@ -59608,6 +59484,10 @@
         "evChargerIconLabel": "EV Charging",
         "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
         "additionalServices": [
+          {
+            "label": null,
+            "icon": null
+          },
           {
             "label": null,
             "icon": null
@@ -61402,7 +61282,12 @@
         "evChargerIsAvailable": false,
         "evChargerIconLabel": "EV Charging",
         "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "additionalServices": []
+        "additionalServices": [
+          {
+            "label": null,
+            "icon": null
+          }
+        ]
       },
       "state": null,
       "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
@@ -68649,7 +68534,12 @@
         "evChargerIsAvailable": false,
         "evChargerIconLabel": "EV Charging",
         "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "additionalServices": []
+        "additionalServices": [
+          {
+            "label": null,
+            "icon": null
+          }
+        ]
       },
       "state": "QLD",
       "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
@@ -68943,7 +68833,12 @@
         "evChargerIsAvailable": false,
         "evChargerIconLabel": "EV Charging",
         "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "additionalServices": []
+        "additionalServices": [
+          {
+            "label": null,
+            "icon": null
+          }
+        ]
       },
       "state": "QLD",
       "imgUrl": "/siteassets/parking-location-images/qld/bne063.jpg",
@@ -69151,7 +69046,12 @@
         "evChargerIsAvailable": false,
         "evChargerIconLabel": "EV Charging",
         "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "additionalServices": []
+        "additionalServices": [
+          {
+            "label": null,
+            "icon": null
+          }
+        ]
       },
       "state": "QLD",
       "imgUrl": "/siteassets/parking-location-images/qld/bne027.png",
@@ -69536,7 +69436,12 @@
         "evChargerIsAvailable": false,
         "evChargerIconLabel": "EV Charging",
         "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "additionalServices": []
+        "additionalServices": [
+          {
+            "label": null,
+            "icon": null
+          }
+        ]
       },
       "state": "QLD",
       "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
@@ -70110,7 +70015,12 @@
         "evChargerIsAvailable": false,
         "evChargerIconLabel": "EV Charging",
         "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "additionalServices": []
+        "additionalServices": [
+          {
+            "label": null,
+            "icon": null
+          }
+        ]
       },
       "state": "QLD",
       "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
@@ -70825,7 +70735,12 @@
         "evChargerIsAvailable": false,
         "evChargerIconLabel": "EV Charging",
         "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "additionalServices": []
+        "additionalServices": [
+          {
+            "label": null,
+            "icon": null
+          }
+        ]
       },
       "state": "QLD",
       "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
@@ -71621,7 +71536,12 @@
         "evChargerIsAvailable": false,
         "evChargerIconLabel": "EV Charging",
         "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "additionalServices": []
+        "additionalServices": [
+          {
+            "label": null,
+            "icon": null
+          }
+        ]
       },
       "state": "QLD",
       "imgUrl": "/contentassets/c12c6df4b9b2486da33a406833ee0914/bne296-photo_2021-11-12_09-35-36.jpg",
@@ -79358,6 +79278,10 @@
           {
             "label": null,
             "icon": null
+          },
+          {
+            "label": null,
+            "icon": null
           }
         ]
       },
@@ -79561,7 +79485,12 @@
         "evChargerIsAvailable": true,
         "evChargerIconLabel": "EV Charging",
         "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "additionalServices": []
+        "additionalServices": [
+          {
+            "label": null,
+            "icon": null
+          }
+        ]
       },
       "state": "SA",
       "imgUrl": "/siteassets/parking-location-images/sa/ade052-resized.jpg",
@@ -80477,7 +80406,12 @@
         "evChargerIsAvailable": false,
         "evChargerIconLabel": "EV Charging",
         "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "additionalServices": []
+        "additionalServices": [
+          {
+            "label": null,
+            "icon": null
+          }
+        ]
       },
       "state": "SA",
       "imgUrl": "/siteassets/parking-location-images/sa/ade008-resized.jpg",
@@ -81810,6 +81744,10 @@
         "evChargerIconLabel": "EV Charging",
         "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
         "additionalServices": [
+          {
+            "label": null,
+            "icon": null
+          },
           {
             "label": null,
             "icon": null
