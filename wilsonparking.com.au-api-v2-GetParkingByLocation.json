@@ -651,7 +651,7 @@
       "costCenter": 1002189,
       "direction": "Car Park entry is from 123 Pitt St",
       "heightRestriction": 2.1,
-      "information": "<p>Wilson Parking offer affordable &amp; secure parking at Angel Place Car Park, located at 123 Pitt St in the heart of Sydney CBD. Conveniently located closeby to City Recital Hall, Martin Place, Pitt St Mall shopping, Hotels and Restaurant Precincts, the car park is open until midnight every night.&nbsp;Offering Hourly, Night and Weekend Parking, as well as online discount parking options, including Flexi Saver, the Angel Place Car Park will suit all your leisure and commuter parking needs.&nbsp;</p>\n<p>Save when you prepay your parking online or with the Wilson Parking App; enjoy unlimited 24/7 access when you subscribe to monthly parking; or pay as you go with the queue-less, contact free Wilson Parking Card.</p>",
+      "information": "<h5><span style=\"text-decoration: underline;\"><span style=\"color: #ff1e25; text-decoration: underline;\">Site Closed on Sun 8th March from 7am till 2pm</span></span></h5>\n<p><span style=\"color: #ff1e25;\">Due to a planned power shutdown of the Angel Place building, the car park will be closed on Sunday 8th March&nbsp; between 7:00am and 2:00pm. There will be no entry or exit during this time.&nbsp;</span></p>\n<p>Wilson Parking offer affordable &amp; secure parking at Angel Place Car Park, located at 123 Pitt St in the heart of Sydney CBD. Conveniently located closeby to City Recital Hall, Martin Place, Pitt St Mall shopping, Hotels and Restaurant Precincts, the car park is open until midnight every night.&nbsp;Offering Hourly, Night and Weekend Parking, as well as online discount parking options, including Flexi Saver, the Angel Place Car Park will suit all your leisure and commuter parking needs.&nbsp;</p>\n<p>Save when you prepay your parking online or with the Wilson Parking App; enjoy unlimited 24/7 access when you subscribe to monthly parking; or pay as you go with the queue-less, contact free Wilson Parking Card.</p>",
       "isWilsonOne": true,
       "legacyID": 15,
       "monthlyParkingServiceIsAvailable": true,
@@ -797,7 +797,7 @@
           "day_TimePeriod": "Sunday",
           "is24_7": false,
           "closed": false,
-          "opening": "06:00",
+          "opening": "14:00",
           "closing": "00:00",
           "note": null
         },
@@ -21830,182 +21830,6 @@
         "monthlyParkingIconLabel": "Monthly Subscription",
         "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
         "isWilsonOne": true,
-        "wilsonOneIconLabel": "Parking Card",
-        "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
-        "disabledParkingIsAvailable": false,
-        "disabledParkingIconLabel": "Disabled Parking",
-        "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
-        "evChargerIsAvailable": false,
-        "evChargerIconLabel": "EV Charging",
-        "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "additionalServices": []
-      },
-      "state": "NSW",
-      "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
-      "price": "",
-      "status": "",
-      "cpmsCarparkCode": null,
-      "externalCarParkInfo": null,
-      "featuredIndex": 0
-    },
-    {
-      "name": "Coles Urban Village Car Park",
-      "bookText": null,
-      "canBookABay": false,
-      "selectedFeatures": "",
-      "carParkFeature": [],
-      "services": [],
-      "carParkName": "Coles Urban Village Car Park",
-      "carParkNumber": 2249,
-      "carParkPhoto": null,
-      "category": "",
-      "costCenter": 1002249,
-      "direction": "Entry via Market Street",
-      "heightRestriction": 2.1,
-      "information": "<p>Wilson Parking offer affordable &amp; secure parking at Coles Urban Village Car Park which is located at 15 Chatham Road in the heart of West Ryde Shopping precint.</p>\n<p>With casual and weekend parking the Coles Urban Village Car Park will meet all of your parking needs.</p>",
-      "isWilsonOne": false,
-      "legacyID": 361,
-      "monthlyParkingServiceIsAvailable": false,
-      "evChargerIsAvailable": false,
-      "disabledParkingIsAvailable": false,
-      "phoneNumber": "1800 PARKING",
-      "products": [],
-      "staticMapPhoto": null,
-      "streetViewHeading": "23.52586896977641",
-      "streetViewLocation": "https://www.google.com/maps/@?api=1&map_action=pano&pano=Fgu_yvz9yob5WMTcgKMekg&viewpoint=-33.80598359219559,151.08714971115774&heading=23.52586896977641&pitch=-5.036173643381289",
-      "rates": [
-        {
-          "rateType": "Hourly",
-          "notes": "<p>Rates apply Monday to Sunday</p>",
-          "rates": [
-            {
-              "timeSpan": "0.0 - 2.0 hrs",
-              "price": 0.0
-            },
-            {
-              "timeSpan": "2.0 - 3.0 hrs",
-              "price": 5.0
-            },
-            {
-              "timeSpan": "3.0 - 4.0 hrs",
-              "price": 15.0
-            },
-            {
-              "timeSpan": "4.0 - 5.0 hrs",
-              "price": 60.0
-            },
-            {
-              "timeSpan": "5.0 + hrs",
-              "price": 75.0
-            }
-          ]
-        }
-      ],
-      "fromText": "From",
-      "fromPrice": "0",
-      "location": {
-        "longitude": 151.08753561973572,
-        "latitude": -33.806025421696646,
-        "zoom": 13,
-        "address": "15 Chatham Road, West Ryde",
-        "region": {
-          "name": "Parramatta",
-          "longitude": 151.00512742996216,
-          "latitude": -33.810522854619578,
-          "status": "",
-          "state": {
-            "name": "New South Wales",
-            "abbreviation": "NSW",
-            "country": "Australia",
-            "longitude": 151.207430362701,
-            "latitude": -33.8662642500823,
-            "status": ""
-          }
-        }
-      },
-      "openingTimes": [
-        {
-          "day_TimePeriod": "Monthly",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Monday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "06:00",
-          "closing": "00:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Tuesday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "06:00",
-          "closing": "00:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Wednesday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "06:00",
-          "closing": "00:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Thursday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "06:00",
-          "closing": "00:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Friday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "06:00",
-          "closing": "00:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Saturday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "06:00",
-          "closing": "00:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Sunday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "06:00",
-          "closing": "00:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Public Holiday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "06:00",
-          "closing": "00:00",
-          "note": null
-        }
-      ],
-      "url": "/parking-locations/new-south-wales/parramatta/coles-urban-village-car-park/",
-      "serviceConfiguration": {
-        "canBookABay": false,
-        "bookABayIconLabel": "Prepay Online",
-        "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": false,
-        "monthlyParkingIconLabel": "Monthly Subscription",
-        "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
-        "isWilsonOne": false,
         "wilsonOneIconLabel": "Parking Card",
         "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
         "disabledParkingIsAvailable": false,
@@ -49728,198 +49552,6 @@
       "featuredIndex": 0
     },
     {
-      "name": "Casey Hospital Car Park",
-      "bookText": null,
-      "canBookABay": false,
-      "selectedFeatures": "",
-      "carParkFeature": [
-        "Wilson One"
-      ],
-      "services": [
-        "wilson one"
-      ],
-      "carParkName": "Casey Hospital Car Park",
-      "carParkNumber": 3232,
-      "carParkPhoto": null,
-      "category": "",
-      "costCenter": 1003232,
-      "direction": "Entry & exit via access road on Hospital grounds.",
-      "heightRestriction": 0.0,
-      "information": "<p>Wilson Parking offer affordable &amp; secure parking at Casey Hospital Car Park, located at 62-70 Kangan Drive, Berwick. This open air car park offers casual hourly or weekly rates, or enjoy the convenience of pay as you go with a Wilson Parking Card. The Casey Hospital Car Park will meet all of your hospital parking needs.</p>",
-      "isWilsonOne": true,
-      "legacyID": 45,
-      "monthlyParkingServiceIsAvailable": false,
-      "evChargerIsAvailable": false,
-      "disabledParkingIsAvailable": false,
-      "phoneNumber": "1800 PARKING",
-      "products": [],
-      "staticMapPhoto": null,
-      "streetViewHeading": "143.67578461546336",
-      "streetViewLocation": "https://www.google.com/maps/@?api=1&map_action=pano&pano=WAHyZg4VwJBZA-5SBGXLoQ&viewpoint=-38.04539584149278,145.3460574248445&heading=143.67578461546336&pitch=-0.1672244114843977",
-      "rates": [
-        {
-          "rateType": "Hourly",
-          "notes": "<p>Rates apply Mon - Sun. <br />Weekly rate available for purchase from Automatic Pay Machine</p>",
-          "rates": [
-            {
-              "timeSpan": "0.0 - 0.5 hrs",
-              "price": 0.0
-            },
-            {
-              "timeSpan": "0.5 - 1.0 hrs",
-              "price": 9.0
-            },
-            {
-              "timeSpan": "1.0 - 2.0 hrs",
-              "price": 13.0
-            },
-            {
-              "timeSpan": "2.0  - 3.0 hrs",
-              "price": 15.0
-            },
-            {
-              "timeSpan": "3.0 - 4.0 hrs",
-              "price": 17.0
-            },
-            {
-              "timeSpan": "4.0 - 5.0 hrs",
-              "price": 20.0
-            },
-            {
-              "timeSpan": "5.0 + hrs",
-              "price": 21.0
-            },
-            {
-              "timeSpan": "Weekly rate (7 days)",
-              "price": 58.0
-            }
-          ]
-        }
-      ],
-      "fromText": "From",
-      "fromPrice": "0",
-      "location": {
-        "longitude": 145.3476619720459,
-        "latitude": -38.045818280488128,
-        "zoom": 13,
-        "address": "62-70 Kangan Drive, Berwick",
-        "region": {
-          "name": "Berwick",
-          "longitude": 145.34692168235779,
-          "latitude": -38.047043397471505,
-          "status": "",
-          "state": {
-            "name": "Victoria",
-            "abbreviation": "VIC",
-            "country": "Australia",
-            "longitude": 145.08864104747772,
-            "latitude": -36.438262107088946,
-            "status": ""
-          }
-        }
-      },
-      "openingTimes": [
-        {
-          "day_TimePeriod": "Monthly",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Monday",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Tuesday",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Wednesday",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Thursday",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Friday",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Saturday",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Sunday",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Public Holiday",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        }
-      ],
-      "url": "/parking-locations/victoria/berwick/casey-hospital-car-park/",
-      "serviceConfiguration": {
-        "canBookABay": false,
-        "bookABayIconLabel": "Prepay Online",
-        "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": false,
-        "monthlyParkingIconLabel": "Monthly Subscription",
-        "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
-        "isWilsonOne": true,
-        "wilsonOneIconLabel": "Parking Card",
-        "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
-        "disabledParkingIsAvailable": false,
-        "disabledParkingIconLabel": "Disabled Parking",
-        "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
-        "evChargerIsAvailable": false,
-        "evChargerIconLabel": "EV Charging",
-        "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "additionalServices": []
-      },
-      "state": "VIC",
-      "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
-      "price": "",
-      "status": "",
-      "cpmsCarparkCode": null,
-      "externalCarParkInfo": null,
-      "featuredIndex": 0
-    },
-    {
       "name": "14 Poplar Street Car Park",
       "bookText": null,
       "canBookABay": false,
@@ -65684,7 +65316,7 @@
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": null,
-      "streetViewLocation": "-38.14588393601081,145.1197588899768",
+      "streetViewLocation": "https://www.google.com/maps/@?api=1&map_action=pano&pano=sjqzU5Y0tXvWB9a6Zo3Rqg&viewpoint=-38.14558362940988,145.12084330253586&heading=32.6647188659903&pitch=0.038805259076042375&zoom=1.0341568657686364",
       "rates": [
         {
           "rateType": "Hourly",
@@ -65718,8 +65350,8 @@
       "fromText": "From",
       "fromPrice": "2",
       "location": {
-        "longitude": 145.120876388231,
-        "latitude": -38.1455052014546,
+        "longitude": 145.120973752198,
+        "latitude": -38.1455397264263,
         "zoom": 16,
         "address": "11 Davey St, Frankston VIC 3199",
         "region": {
