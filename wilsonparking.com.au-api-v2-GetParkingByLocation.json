@@ -2088,6 +2088,7 @@
         "Overnight Parking",
         "Flexi Parking",
         "Entry height at least 2",
+        "Daily Pass Bundles",
         "Elevate",
         "LPR"
       ],
@@ -21849,6 +21850,182 @@
       "featuredIndex": 0
     },
     {
+      "name": "Coles Urban Village Car Park",
+      "bookText": null,
+      "canBookABay": false,
+      "selectedFeatures": "",
+      "carParkFeature": [],
+      "services": [],
+      "carParkName": "Coles Urban Village Car Park",
+      "carParkNumber": 2249,
+      "carParkPhoto": null,
+      "category": "",
+      "costCenter": 1002249,
+      "direction": "Entry via Market Street",
+      "heightRestriction": 2.1,
+      "information": "<p>Wilson Parking offer affordable &amp; secure parking at Coles Urban Village Car Park which is located at 15 Chatham Road in the heart of West Ryde Shopping precint.</p>\n<p>With casual and weekend parking the Coles Urban Village Car Park will meet all of your parking needs.</p>",
+      "isWilsonOne": false,
+      "legacyID": 361,
+      "monthlyParkingServiceIsAvailable": false,
+      "evChargerIsAvailable": false,
+      "disabledParkingIsAvailable": false,
+      "phoneNumber": "1800 PARKING",
+      "products": [],
+      "staticMapPhoto": null,
+      "streetViewHeading": "23.52586896977641",
+      "streetViewLocation": "https://www.google.com/maps/@?api=1&map_action=pano&pano=Fgu_yvz9yob5WMTcgKMekg&viewpoint=-33.80598359219559,151.08714971115774&heading=23.52586896977641&pitch=-5.036173643381289",
+      "rates": [
+        {
+          "rateType": "Hourly",
+          "notes": "<p>Rates apply Monday to Sunday</p>",
+          "rates": [
+            {
+              "timeSpan": "0.0 - 2.0 hrs",
+              "price": 0.0
+            },
+            {
+              "timeSpan": "2.0 - 3.0 hrs",
+              "price": 5.0
+            },
+            {
+              "timeSpan": "3.0 - 4.0 hrs",
+              "price": 15.0
+            },
+            {
+              "timeSpan": "4.0 - 5.0 hrs",
+              "price": 60.0
+            },
+            {
+              "timeSpan": "5.0 + hrs",
+              "price": 75.0
+            }
+          ]
+        }
+      ],
+      "fromText": "From",
+      "fromPrice": "0",
+      "location": {
+        "longitude": 151.08753561973572,
+        "latitude": -33.806025421696646,
+        "zoom": 13,
+        "address": "15 Chatham Road, West Ryde",
+        "region": {
+          "name": "Parramatta",
+          "longitude": 151.00512742996216,
+          "latitude": -33.810522854619578,
+          "status": "",
+          "state": {
+            "name": "New South Wales",
+            "abbreviation": "NSW",
+            "country": "Australia",
+            "longitude": 151.207430362701,
+            "latitude": -33.8662642500823,
+            "status": ""
+          }
+        }
+      },
+      "openingTimes": [
+        {
+          "day_TimePeriod": "Monthly",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Monday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "06:00",
+          "closing": "00:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Tuesday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "06:00",
+          "closing": "00:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Wednesday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "06:00",
+          "closing": "00:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Thursday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "06:00",
+          "closing": "00:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Friday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "06:00",
+          "closing": "00:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Saturday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "06:00",
+          "closing": "00:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Sunday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "06:00",
+          "closing": "00:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Public Holiday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "06:00",
+          "closing": "00:00",
+          "note": null
+        }
+      ],
+      "url": "/parking-locations/new-south-wales/parramatta/coles-urban-village-car-park/",
+      "serviceConfiguration": {
+        "canBookABay": false,
+        "bookABayIconLabel": "Prepay Online",
+        "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
+        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingIconLabel": "Monthly Subscription",
+        "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
+        "isWilsonOne": false,
+        "wilsonOneIconLabel": "Parking Card",
+        "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
+        "disabledParkingIsAvailable": false,
+        "disabledParkingIconLabel": "Disabled Parking",
+        "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
+        "evChargerIsAvailable": false,
+        "evChargerIconLabel": "EV Charging",
+        "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
+        "additionalServices": []
+      },
+      "state": "NSW",
+      "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
+      "price": "",
+      "status": "",
+      "cpmsCarparkCode": null,
+      "externalCarParkInfo": null,
+      "featuredIndex": 0
+    },
+    {
       "name": "West Ryde Marketplace Car Park",
       "bookText": null,
       "canBookABay": false,
@@ -39215,96 +39392,6 @@
         }
       ],
       "url": "/parking-locations/australian-capital-territory/fyshwick/26-ipswich-st-car-park/",
-      "serviceConfiguration": {
-        "canBookABay": false,
-        "bookABayIconLabel": "Prepay Online",
-        "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": false,
-        "monthlyParkingIconLabel": "Monthly Subscription",
-        "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
-        "isWilsonOne": false,
-        "wilsonOneIconLabel": "Parking Card",
-        "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
-        "disabledParkingIsAvailable": false,
-        "disabledParkingIconLabel": "Disabled Parking",
-        "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
-        "evChargerIsAvailable": false,
-        "evChargerIconLabel": "EV Charging",
-        "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "additionalServices": [
-          {
-            "label": null,
-            "icon": null
-          }
-        ]
-      },
-      "state": "ACT",
-      "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
-      "price": "",
-      "status": "",
-      "cpmsCarparkCode": null,
-      "externalCarParkInfo": null,
-      "featuredIndex": 0
-    },
-    {
-      "name": "4 Marcus Clarke Street Car Park",
-      "bookText": null,
-      "canBookABay": false,
-      "selectedFeatures": "",
-      "carParkFeature": [],
-      "services": [],
-      "carParkName": "4 Marcus Clarke Street Car Park",
-      "carParkNumber": 1061,
-      "carParkPhoto": null,
-      "category": "",
-      "costCenter": 1012061,
-      "direction": null,
-      "heightRestriction": 0.0,
-      "information": "<p>Wilson Parking offer affordable &amp; secure parking at 4 Marcus Clarke Street, Canberra. Nearby to City Hill, and close to many Canberra businesses, this monthly parking only car park will meet all your Canberra parking needs.</p>\n<p>This is a monthly only car park. Apply for monthly parking for convenient, unlimited 24 hour access to the car park.</p>",
-      "isWilsonOne": false,
-      "legacyID": 566,
-      "monthlyParkingServiceIsAvailable": false,
-      "evChargerIsAvailable": false,
-      "disabledParkingIsAvailable": false,
-      "phoneNumber": "1800 PARKING",
-      "products": [],
-      "staticMapPhoto": null,
-      "streetViewHeading": null,
-      "streetViewLocation": null,
-      "rates": [],
-      "fromText": "",
-      "fromPrice": "",
-      "location": {
-        "longitude": 149.12540316581726,
-        "latitude": -35.284465256923141,
-        "zoom": 13,
-        "address": "4 Marcus Clarke Street, Canberra",
-        "region": {
-          "name": "Canberra CBD",
-          "longitude": 149.12678718566895,
-          "latitude": -35.280449666148527,
-          "status": "",
-          "state": {
-            "name": "Australian Capital Territory",
-            "abbreviation": "ACT",
-            "country": "Australia",
-            "longitude": 149.12884712219238,
-            "latitude": 35.281991116036352,
-            "status": ""
-          }
-        }
-      },
-      "openingTimes": [
-        {
-          "day_TimePeriod": "Monthly",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        }
-      ],
-      "url": "/parking-locations/australian-capital-territory/canberra-cbd/4-marcus-clarke-street-car-park/",
       "serviceConfiguration": {
         "canBookABay": false,
         "bookABayIconLabel": "Prepay Online",
@@ -64128,7 +64215,6 @@
       "canBookABay": false,
       "selectedFeatures": "",
       "carParkFeature": [
-        "Epark",
         "Grand Prix"
       ],
       "services": [],
@@ -64170,20 +64256,6 @@
             {
               "timeSpan": "3.0 + hrs",
               "price": 8.0
-            }
-          ]
-        },
-        {
-          "rateType": "Pay by App",
-          "notes": "<p>Download the Wilson Parking App to Pay by App for all day value</p>",
-          "rates": [
-            {
-              "timeSpan": "Night (entry after 4pm,exit before 6am)",
-              "price": 4.0
-            },
-            {
-              "timeSpan": "Weekend (Sat or Sun)",
-              "price": 5.0
             }
           ]
         },
