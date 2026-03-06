@@ -46,7 +46,7 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<ul>\n<li>Parking from $20 per 30 Mins - Maximum daily rate of $95</li>\n<li>Hourly rates apply Monday to Friday</li>\n<li>Rates are charged from 6am daily</li>\n</ul>",
+          "notes": "<ul>\n<li>Parking from $20 per 30 Mins - Maximum daily rate of $95</li>\n<li>Hourly rates apply Monday to Friday</li>\n<li>Rates are charged from 6am daily</li>\n<li>Motorbike Parking $20 (Validate ticket with onsite staff or press intercom)</li>\n</ul>",
           "rates": [
             {
               "timeSpan": "0.0 - 0.5 hrs",
@@ -5064,7 +5064,7 @@
         },
         {
           "rateType": "Night",
-          "notes": "<p>Monday - Friday</p>\n<p>Enter after 5pm, exit before 10pm</p>",
+          "notes": "<p>Monday - Friday</p>\n<p>Enter after 5pm, exit before Midnight</p>",
           "rates": [
             {
               "timeSpan": "Mon - Fri",
@@ -15912,15 +15912,11 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Rates apply Monday to Friday</p>\n<p>Flat Rate, per exit per day</p>\n<p>Overnight Fee: charged in addtion to all vehicles left in car park past close (7pm)</p>",
+          "notes": "<p>Rates apply Monday to Friday</p>\n<p>Flat Rate, per exit per day</p>\n<p>$20 Overnight Fee: charged in addtion to all vehicles left in car park past close (7pm)</p>",
           "rates": [
             {
               "timeSpan": "Mon - Fri",
               "price": 22.0
-            },
-            {
-              "timeSpan": "Overnight, additional charge of",
-              "price": 20.0
             }
           ]
         },
@@ -31882,7 +31878,7 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Rates apply Monday to Sunday<br />Casual rates apply for Public Holidays, Weekends and Nights. <br />Concession rates only apply to valid card holders. Must see onsite attendant to purchase.</p>",
+          "notes": "<p>Rates apply Monday to Sunday<br />Rates charged from 6am daily<br />Casual rates apply for Public Holidays, Weekends and Nights. <br />Concession rates only apply to valid card holders. Must see onsite attendant to purchase.</p>",
           "rates": [
             {
               "timeSpan": "0.0 - 0.25 hrs",
@@ -61666,7 +61662,9 @@
         "Flexi Parking",
         "Entry height at least 2",
         "Disabled Parking",
-        "Daily Pass Bundles"
+        "Daily Pass Bundles",
+        "Elevate",
+        "LPR"
       ],
       "services": [
         "book a bay",
@@ -61837,7 +61835,12 @@
         "evChargerIsAvailable": false,
         "evChargerIconLabel": "EV Charging",
         "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "additionalServices": []
+        "additionalServices": [
+          {
+            "label": null,
+            "icon": null
+          }
+        ]
       },
       "state": "VIC",
       "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
@@ -96645,232 +96648,6 @@
       },
       "state": "WA",
       "imgUrl": "/contentassets/112d17b05c124fb4bd065566ad0019df/per152a.jpg",
-      "price": "",
-      "status": "",
-      "cpmsCarparkCode": null,
-      "externalCarParkInfo": null,
-      "featuredIndex": 0
-    },
-    {
-      "name": "480 Hay St Car Park",
-      "bookText": null,
-      "canBookABay": false,
-      "selectedFeatures": "",
-      "carParkFeature": [
-        "Monthly Parking",
-        "Weekend Parking",
-        "Early Bird Parking",
-        "Epark"
-      ],
-      "services": [
-        "monthly"
-      ],
-      "carParkName": "480 Hay St Car Park",
-      "carParkNumber": 6133,
-      "carParkPhoto": "/contentassets/07f98496283a4b57a2cd57dea1189fbd/per133.jpg",
-      "category": "",
-      "costCenter": 1006133,
-      "direction": "Entry via Alvan Street\n",
-      "heightRestriction": 0.0,
-      "information": "<p>Wilson Parking offer affordable parking at 480 Hay St Car Park, located at 480 Hay St, Subiaco. This open air car park is open 24/7 and is located near the Regal Theatre, Subiaco hotels and popular restaurants. Offering hourly Casual, Early Bird and Weekend Parking, and exclusive discounts when you pay with the Wilson Parking App, the 480 Hay St Car Park will meet all of your Subiaco parking needs.&nbsp;</p>\n<p>Download the Wilson Parking App to easily and conveniently pay for your parking from your phone, or subscribe to monthly parking for unlimited 24/7 access to the 480 Hay St Car Park.</p>",
-      "isWilsonOne": false,
-      "legacyID": 47,
-      "monthlyParkingServiceIsAvailable": true,
-      "evChargerIsAvailable": false,
-      "disabledParkingIsAvailable": false,
-      "phoneNumber": "1800 PARKING",
-      "products": [],
-      "staticMapPhoto": null,
-      "streetViewHeading": "49.46917757720247",
-      "streetViewLocation": "https://www.google.com/maps/@?api=1&map_action=pano&pano=nM2fghFl-QQrP46PkpSZXA&viewpoint=-31.9467868634088,115.82301746016469&heading=68.70848854012002&pitch=-4.344855471709863",
-      "rates": [
-        {
-          "rateType": "Hourly",
-          "notes": "<p>Rates apply Monday - Friday.</p>\n<p>*Online rate only available when purchasing through the Wilson Parking App. Online rates includes Transaction fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a> to download the Wilson Parking App</p>\n<p>&nbsp;</p>",
-          "rates": [
-            {
-              "timeSpan": "0.0 - 0.5 hrs",
-              "price": 5.0
-            },
-            {
-              "timeSpan": "0.5 - 1.0 hrs",
-              "price": 7.0
-            },
-            {
-              "timeSpan": "1.0 - 2.0 hrs",
-              "price": 10.0
-            },
-            {
-              "timeSpan": "2.0 - 3.0 hrs",
-              "price": 13.0
-            },
-            {
-              "timeSpan": "3.0 - 4.0 hrs",
-              "price": 16.0
-            },
-            {
-              "timeSpan": "4.0 - 5.0 hrs",
-              "price": 19.0
-            },
-            {
-              "timeSpan": "5.0 - 12.0 hrs",
-              "price": 22.0
-            }
-          ]
-        },
-        {
-          "rateType": "Weekend",
-          "notes": "<p>Rates apply per exit per day, Saturday &amp; Sunday.</p>\n<p>*Online rate only available when purchasing through the Wilson Parking App. Online rates includes Transaction fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a> to download the Wilson Parking App</p>\n<p>&nbsp;</p>",
-          "rates": [
-            {
-              "timeSpan": "0.0 - 1.0 hrs",
-              "price": 2.0
-            },
-            {
-              "timeSpan": "1.0 - 2.0 hrs",
-              "price": 4.0
-            },
-            {
-              "timeSpan": "2.0 - 3.0 hrs",
-              "price": 6.0
-            },
-            {
-              "timeSpan": "3.0 - 4.0 hrs",
-              "price": 8.0
-            },
-            {
-              "timeSpan": "4.0 - 5.0 hrs +",
-              "price": 10.0
-            }
-          ]
-        }
-      ],
-      "fromText": "From",
-      "fromPrice": "2",
-      "location": {
-        "longitude": 115.82317113876343,
-        "latitude": -31.946720571683361,
-        "zoom": 13,
-        "address": "480 Hay Street, Subiaco",
-        "region": {
-          "name": "Subiaco",
-          "longitude": 115.82764506340027,
-          "latitude": -31.945735074426217,
-          "status": "",
-          "state": {
-            "name": "Western Australia",
-            "abbreviation": "WA",
-            "country": "Australia",
-            "longitude": 123.41536223888397,
-            "latitude": -25.833723163507287,
-            "status": ""
-          }
-        }
-      },
-      "openingTimes": [
-        {
-          "day_TimePeriod": "Monthly",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Monday",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Tuesday",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Wednesday",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Thursday",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Friday",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Saturday",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Sunday",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Public Holiday",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        }
-      ],
-      "url": "/parking-locations/western-australia/subiaco/480-hay-st-car-park/",
-      "serviceConfiguration": {
-        "canBookABay": false,
-        "bookABayIconLabel": "Prepay Online",
-        "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": true,
-        "monthlyParkingIconLabel": "Monthly Subscription",
-        "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
-        "isWilsonOne": false,
-        "wilsonOneIconLabel": "Parking Card",
-        "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
-        "disabledParkingIsAvailable": false,
-        "disabledParkingIconLabel": "Disabled Parking",
-        "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
-        "evChargerIsAvailable": false,
-        "evChargerIconLabel": "EV Charging",
-        "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "additionalServices": [
-          {
-            "label": null,
-            "icon": null
-          },
-          {
-            "label": null,
-            "icon": null
-          }
-        ]
-      },
-      "state": "WA",
-      "imgUrl": "/contentassets/07f98496283a4b57a2cd57dea1189fbd/per133.jpg",
       "price": "",
       "status": "",
       "cpmsCarparkCode": null,
