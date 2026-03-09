@@ -651,7 +651,7 @@
       "costCenter": 1002189,
       "direction": "Car Park entry is from 123 Pitt St",
       "heightRestriction": 2.1,
-      "information": "<h5><span style=\"text-decoration: underline;\"><span style=\"color: #ff1e25; text-decoration: underline;\">Site Closed on Sun 8th March from 7am till 2pm</span></span></h5>\n<p><span style=\"color: #ff1e25;\">Due to a planned power shutdown of the Angel Place building, the car park will be closed on Sunday 8th March&nbsp; between 7:00am and 2:00pm. There will be no entry or exit during this time.&nbsp;</span></p>\n<p>Wilson Parking offer affordable &amp; secure parking at Angel Place Car Park, located at 123 Pitt St in the heart of Sydney CBD. Conveniently located closeby to City Recital Hall, Martin Place, Pitt St Mall shopping, Hotels and Restaurant Precincts, the car park is open until midnight every night.&nbsp;Offering Hourly, Night and Weekend Parking, as well as online discount parking options, including Flexi Saver, the Angel Place Car Park will suit all your leisure and commuter parking needs.&nbsp;</p>\n<p>Save when you prepay your parking online or with the Wilson Parking App; enjoy unlimited 24/7 access when you subscribe to monthly parking; or pay as you go with the queue-less, contact free Wilson Parking Card.</p>",
+      "information": "<p>Wilson Parking offer affordable &amp; secure parking at Angel Place Car Park, located at 123 Pitt St in the heart of Sydney CBD. Conveniently located closeby to City Recital Hall, Martin Place, Pitt St Mall shopping, Hotels and Restaurant Precincts, the car park is open until midnight every night.&nbsp;Offering Hourly, Night and Weekend Parking, as well as online discount parking options, including Flexi Saver, the Angel Place Car Park will suit all your leisure and commuter parking needs.&nbsp;</p>\n<p>Save when you prepay your parking online or with the Wilson Parking App; enjoy unlimited 24/7 access when you subscribe to monthly parking; or pay as you go with the queue-less, contact free Wilson Parking Card.</p>",
       "isWilsonOne": true,
       "legacyID": 15,
       "monthlyParkingServiceIsAvailable": true,
@@ -797,7 +797,7 @@
           "day_TimePeriod": "Sunday",
           "is24_7": false,
           "closed": false,
-          "opening": "14:00",
+          "opening": "06:00",
           "closing": "00:00",
           "note": null
         },
@@ -27466,7 +27466,7 @@
             },
             {
               "timeSpan": "3.0 - 3.5 hrs",
-              "price": 5.0
+              "price": 6.0
             },
             {
               "timeSpan": "3.5 - 4.0 hrs",
