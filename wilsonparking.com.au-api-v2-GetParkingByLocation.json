@@ -25197,6 +25197,141 @@
       "featuredIndex": 0
     },
     {
+      "name": "Eat Street Car Park",
+      "bookText": null,
+      "canBookABay": false,
+      "selectedFeatures": "",
+      "carParkFeature": [
+        "Entry height at least 2"
+      ],
+      "services": [],
+      "carParkName": "Eat Street Car Park",
+      "carParkNumber": 2425,
+      "carParkPhoto": null,
+      "category": "",
+      "costCenter": 1002425,
+      "direction": "Car Park entry from Erby Place and Horwood Place",
+      "heightRestriction": 2.0,
+      "information": "<p>Wilson Parking offer affordable &amp; secure Monthly parking at Eat St Car Park, located in Parramatta's dining precinct.</p>\n<p>With convenient access to nearby restaurants, bars &amp; cafes, including nearby Westfield Shopping Centre, Eat St Car Park will meet all your parking needs.&nbsp;</p>",
+      "isWilsonOne": false,
+      "legacyID": 1002425,
+      "monthlyParkingServiceIsAvailable": false,
+      "evChargerIsAvailable": false,
+      "disabledParkingIsAvailable": false,
+      "phoneNumber": null,
+      "products": [],
+      "staticMapPhoto": null,
+      "streetViewHeading": null,
+      "streetViewLocation": "https://www.google.com/maps/@?api=1&map_action=pano&pano=COQcpLXo83j2hjl3SFkXlw&viewpoint=-33.812687677353274,151.00447677462267&heading=182.43666855143076&pitch=-5.445088630177821&zoom=0.9999999999999997",
+      "rates": [],
+      "fromText": "",
+      "fromPrice": "",
+      "location": {
+        "longitude": 151.004809329436,
+        "latitude": -33.8130849873819,
+        "zoom": 13,
+        "address": "30 George St Parramatta",
+        "region": {
+          "name": "Parramatta",
+          "longitude": 151.00512742996216,
+          "latitude": -33.810522854619578,
+          "status": "",
+          "state": {
+            "name": "New South Wales",
+            "abbreviation": "NSW",
+            "country": "Australia",
+            "longitude": 151.207430362701,
+            "latitude": -33.8662642500823,
+            "status": ""
+          }
+        }
+      },
+      "openingTimes": [
+        {
+          "day_TimePeriod": "Monday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Tuesday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Wednesday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Thursday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Friday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Saturday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Sunday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        }
+      ],
+      "url": "/parking-locations/new-south-wales/parramatta/eat-street-car-park/",
+      "serviceConfiguration": {
+        "canBookABay": false,
+        "bookABayIconLabel": "Prepay Online",
+        "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
+        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingIconLabel": "Monthly Subscription",
+        "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
+        "isWilsonOne": false,
+        "wilsonOneIconLabel": "Parking Card",
+        "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
+        "disabledParkingIsAvailable": false,
+        "disabledParkingIconLabel": "Disabled Parking",
+        "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
+        "evChargerIsAvailable": false,
+        "evChargerIconLabel": "EV Charging",
+        "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
+        "additionalServices": []
+      },
+      "state": "NSW",
+      "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
+      "price": "",
+      "status": "",
+      "cpmsCarparkCode": null,
+      "externalCarParkInfo": null,
+      "featuredIndex": 0
+    },
+    {
       "name": "Revesby Park&Ride",
       "bookText": null,
       "canBookABay": false,
@@ -25616,6 +25751,133 @@
             "icon": null
           }
         ]
+      },
+      "state": "NSW",
+      "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
+      "price": "",
+      "status": "",
+      "cpmsCarparkCode": null,
+      "externalCarParkInfo": null,
+      "featuredIndex": 0
+    },
+    {
+      "name": "Justice Precinct Car Park",
+      "bookText": null,
+      "canBookABay": false,
+      "selectedFeatures": "",
+      "carParkFeature": [
+        "Entry height at least 2"
+      ],
+      "services": [],
+      "carParkName": "Justice Precinct Car Park",
+      "carParkNumber": 2426,
+      "carParkPhoto": null,
+      "category": "",
+      "costCenter": 0,
+      "direction": null,
+      "heightRestriction": 2.0,
+      "information": "<p>Wilson Parking offer affordable &amp; secure Monthly parking at Justice Precinct Car Park, located in Parramatta's CBD.</p>\n<p>With convenient access to Parramatta courthouse and government services.</p>",
+      "isWilsonOne": false,
+      "legacyID": 1002426,
+      "monthlyParkingServiceIsAvailable": false,
+      "evChargerIsAvailable": false,
+      "disabledParkingIsAvailable": false,
+      "phoneNumber": null,
+      "products": [],
+      "staticMapPhoto": null,
+      "streetViewHeading": null,
+      "streetViewLocation": null,
+      "rates": [],
+      "fromText": "",
+      "fromPrice": "",
+      "location": {
+        "longitude": 150.99904250742,
+        "latitude": -33.8147986925242,
+        "zoom": 13,
+        "address": "4 - 14 Hunter Street Parramatta\n",
+        "region": {
+          "name": "Parramatta",
+          "longitude": 151.00512742996216,
+          "latitude": -33.810522854619578,
+          "status": "",
+          "state": {
+            "name": "New South Wales",
+            "abbreviation": "NSW",
+            "country": "Australia",
+            "longitude": 151.207430362701,
+            "latitude": -33.8662642500823,
+            "status": ""
+          }
+        }
+      },
+      "openingTimes": [
+        {
+          "day_TimePeriod": "Monday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Tuesday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Wednesday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Thursday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Friday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Saturday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        }
+      ],
+      "url": "/parking-locations/new-south-wales/parramatta/justice-precinct-car-park/",
+      "serviceConfiguration": {
+        "canBookABay": false,
+        "bookABayIconLabel": "Prepay Online",
+        "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
+        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingIconLabel": "Monthly Subscription",
+        "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
+        "isWilsonOne": false,
+        "wilsonOneIconLabel": "Parking Card",
+        "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
+        "disabledParkingIsAvailable": false,
+        "disabledParkingIconLabel": "Disabled Parking",
+        "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
+        "evChargerIsAvailable": false,
+        "evChargerIconLabel": "EV Charging",
+        "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
+        "additionalServices": []
       },
       "state": "NSW",
       "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
@@ -26127,6 +26389,139 @@
         }
       ],
       "url": "/parking-locations/new-south-wales/northern-beaches/warriewood-park-ride/",
+      "serviceConfiguration": {
+        "canBookABay": false,
+        "bookABayIconLabel": "Prepay Online",
+        "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
+        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingIconLabel": "Monthly Subscription",
+        "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
+        "isWilsonOne": false,
+        "wilsonOneIconLabel": "Parking Card",
+        "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
+        "disabledParkingIsAvailable": false,
+        "disabledParkingIconLabel": "Disabled Parking",
+        "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
+        "evChargerIsAvailable": false,
+        "evChargerIconLabel": "EV Charging",
+        "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
+        "additionalServices": []
+      },
+      "state": "NSW",
+      "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
+      "price": "",
+      "status": "",
+      "cpmsCarparkCode": null,
+      "externalCarParkInfo": null,
+      "featuredIndex": 0
+    },
+    {
+      "name": "Parramatta Aquatic Centre (PAC)",
+      "bookText": null,
+      "canBookABay": false,
+      "selectedFeatures": "",
+      "carParkFeature": [],
+      "services": [],
+      "carParkName": "Parramatta Aquatic Centre (PAC)",
+      "carParkNumber": 0,
+      "carParkPhoto": null,
+      "category": "",
+      "costCenter": 0,
+      "direction": null,
+      "heightRestriction": 0.0,
+      "information": "<p>Wilson Parking offer affordable &amp; secure Monthly parking at Parramatta Aquatic Centre Car Park, located in Parramatta Park.</p>\n<p>With convenient access to indoor and outdoor pools, gym and wellness facilities.</p>",
+      "isWilsonOne": false,
+      "legacyID": 1002427,
+      "monthlyParkingServiceIsAvailable": false,
+      "evChargerIsAvailable": false,
+      "disabledParkingIsAvailable": false,
+      "phoneNumber": null,
+      "products": [],
+      "staticMapPhoto": null,
+      "streetViewHeading": null,
+      "streetViewLocation": null,
+      "rates": [],
+      "fromText": "",
+      "fromPrice": "",
+      "location": {
+        "longitude": 150.992185467024,
+        "latitude": -33.8106945570745,
+        "zoom": 13,
+        "address": "7 Park Parade, Parramatta\n",
+        "region": {
+          "name": "Parramatta",
+          "longitude": 151.00512742996216,
+          "latitude": -33.810522854619578,
+          "status": "",
+          "state": {
+            "name": "New South Wales",
+            "abbreviation": "NSW",
+            "country": "Australia",
+            "longitude": 151.207430362701,
+            "latitude": -33.8662642500823,
+            "status": ""
+          }
+        }
+      },
+      "openingTimes": [
+        {
+          "day_TimePeriod": "Monday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Tuesday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Wednesday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Thursday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Friday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Saturday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Sunday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        }
+      ],
+      "url": "/parking-locations/new-south-wales/parramatta/parramatta-aquatic-centre-pac/",
       "serviceConfiguration": {
         "canBookABay": false,
         "bookABayIconLabel": "Prepay Online",
@@ -37714,7 +38109,7 @@
       "costCenter": 1012069,
       "direction": null,
       "heightRestriction": 0.0,
-      "information": "<p>Wilson Parking offer affordable parking at 36 Mort Street Car Park, located at 36 Mort St, Braddon. Open 24/7 and centrally located, this open air car park offers options for hotel or restaurant parking, or casual business and leisure parking. Offering casual Hourly Parking for up to 4 hours, the 36 Mort Street Car Park will meet all of your Braddon parking needs.</p>",
+      "information": "<p>Wilson Parking offer affordable parking at 36 Mort Street Car Park, located at 36 Mort St, Braddon. Open 24/7 and centrally located, this open air car park offers options for hotel or restaurant parking, or casual business and leisure parking. Offering casual Hourly Parking all day, the 36 Mort Street Car Park will meet all of your Braddon parking needs.</p>",
       "isWilsonOne": false,
       "legacyID": 604,
       "monthlyParkingServiceIsAvailable": false,
@@ -83282,6 +83677,144 @@
       },
       "state": "QLD",
       "imgUrl": "/siteassets/parking-location-images/qld/bne205.jpg",
+      "price": "",
+      "status": "",
+      "cpmsCarparkCode": null,
+      "externalCarParkInfo": null,
+      "featuredIndex": 0
+    },
+    {
+      "name": "Centrepoint Church",
+      "bookText": null,
+      "canBookABay": false,
+      "selectedFeatures": "",
+      "carParkFeature": [
+        "Night Parking",
+        "Weekend Parking",
+        "Overnight Parking",
+        "Epark"
+      ],
+      "services": [],
+      "carParkName": "Centrepoint Church",
+      "carParkNumber": 6531,
+      "carParkPhoto": null,
+      "category": "",
+      "costCenter": 1006531,
+      "direction": "34 Orr Street",
+      "heightRestriction": 2.0,
+      "information": "<p>Wilson Parking offer affordable parking at Centrepoint Church Car Park, located at 34 Orr Street, Maddington. This open air car park is open 24/7 and is situated off the Olga Road exit on Albany Highway. Offering casual All Day Parking with the convenience of payment with the Wilson Parking App.</p>\n<p>Download the Wilson Parking App to easily pay for your parking directly from your phone</p>",
+      "isWilsonOne": false,
+      "legacyID": 6531,
+      "monthlyParkingServiceIsAvailable": false,
+      "evChargerIsAvailable": false,
+      "disabledParkingIsAvailable": false,
+      "phoneNumber": "1800 PARKING (1800 727 5464)",
+      "products": [],
+      "staticMapPhoto": null,
+      "streetViewHeading": null,
+      "streetViewLocation": null,
+      "rates": [],
+      "fromText": "From",
+      "fromPrice": "2",
+      "location": {
+        "longitude": 115.981725288343,
+        "latitude": -32.0515796137084,
+        "zoom": 13,
+        "address": "34 Orr Street, Maddington",
+        "region": null
+      },
+      "openingTimes": [
+        {
+          "day_TimePeriod": "Monday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Tuesday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Wednesday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Thursday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Friday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Saturday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Sunday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Public Holiday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        }
+      ],
+      "url": "/parking-locations/western-australia/centrepoint-church/",
+      "serviceConfiguration": {
+        "canBookABay": false,
+        "bookABayIconLabel": "Prepay Online",
+        "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
+        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingIconLabel": "Monthly Subscription",
+        "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
+        "isWilsonOne": false,
+        "wilsonOneIconLabel": "Parking Card",
+        "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
+        "disabledParkingIsAvailable": false,
+        "disabledParkingIconLabel": "Disabled Parking",
+        "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
+        "evChargerIsAvailable": false,
+        "evChargerIconLabel": "EV Charging",
+        "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
+        "additionalServices": [
+          {
+            "label": null,
+            "icon": null
+          }
+        ]
+      },
+      "state": null,
+      "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
       "price": "",
       "status": "",
       "cpmsCarparkCode": null,
