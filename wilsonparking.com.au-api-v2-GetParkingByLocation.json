@@ -4792,7 +4792,6 @@
         "Entry height at least 2",
         "Daily Pass Bundles",
         "Special Event Parking",
-        "Super Saver",
         "Summer Sale",
         "Elevate",
         "LPR"
@@ -5389,7 +5388,6 @@
         "Disabled Parking",
         "Daily Pass Bundles",
         "Special Event Parking",
-        "Super Saver",
         "Summer Sale",
         "Elevate",
         "LPR"
@@ -25017,6 +25015,192 @@
       "featuredIndex": 0
     },
     {
+      "name": "Parramatta Station",
+      "bookText": null,
+      "canBookABay": false,
+      "selectedFeatures": "",
+      "carParkFeature": [
+        "Entry height at least 2"
+      ],
+      "services": [],
+      "carParkName": "Parramatta Station",
+      "carParkNumber": 2429,
+      "carParkPhoto": "/siteassets/parking-location-images/nsw/syd429.jpg",
+      "category": "",
+      "costCenter": 1002429,
+      "direction": "Entry via 15 Wentworth St",
+      "heightRestriction": 2.0,
+      "information": "<p>Wilson Parking offer affordable &amp; reliable parking&nbsp;at Parramatta Station&nbsp;Car Park, located at 15 Wentworth Street&nbsp;in the heart of Parramatta.</p>\n<p>Parramatta Station car park offers Casual hourly parking Monday to Sunday, conveniently located with easy access to nearby restaurants, cafes and retail stores.&nbsp;Parramatta Station car park will meet all your leisure and business parking needs.&nbsp;</p>",
+      "isWilsonOne": false,
+      "legacyID": 2429,
+      "monthlyParkingServiceIsAvailable": false,
+      "evChargerIsAvailable": false,
+      "disabledParkingIsAvailable": false,
+      "phoneNumber": "1800 PARKING (1800 7272 546)",
+      "products": [],
+      "staticMapPhoto": null,
+      "streetViewHeading": null,
+      "streetViewLocation": "https://www.google.com/maps/@?api=1&map_action=pano&pano=P6enEA_7MK_NDEtHH0jO6Q&viewpoint=-33.818878597032395,151.0048887936202&heading=264.38227923278237&pitch=-7.5203553041851166&zoom=0.9999999999999997",
+      "rates": [
+        {
+          "rateType": "Hourly",
+          "notes": "<p>Rates apply from 6am daily.&nbsp;</p>",
+          "rates": [
+            {
+              "timeSpan": "0.0 - 1.0 hrs",
+              "price": 3.5
+            },
+            {
+              "timeSpan": "1.0 - 2.0 hrs",
+              "price": 7.0
+            },
+            {
+              "timeSpan": "2.0 - 3.0 hrs ",
+              "price": 11.0
+            },
+            {
+              "timeSpan": "3.0 - 18.0 hrs",
+              "price": 14.0
+            },
+            {
+              "timeSpan": "18.0 +  hrs",
+              "price": 30.0
+            },
+            {
+              "timeSpan": "0.0 - 1.0 hrs",
+              "price": 0.0
+            },
+            {
+              "timeSpan": "2.0 + hrs",
+              "price": 10.0
+            }
+          ]
+        }
+      ],
+      "fromText": "From",
+      "fromPrice": "0",
+      "location": {
+        "longitude": 151.004840704759,
+        "latitude": -33.8194686915456,
+        "zoom": 13,
+        "address": "15 Wentworth Street, Parramatta",
+        "region": {
+          "name": "Parramatta",
+          "longitude": 151.00512742996216,
+          "latitude": -33.810522854619578,
+          "status": "",
+          "state": {
+            "name": "New South Wales",
+            "abbreviation": "NSW",
+            "country": "Australia",
+            "longitude": 151.207430362701,
+            "latitude": -33.8662642500823,
+            "status": ""
+          }
+        }
+      },
+      "openingTimes": [
+        {
+          "day_TimePeriod": "Monthly",
+          "is24_7": true,
+          "closed": false,
+          "opening": "06:00",
+          "closing": "06:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Monday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "06:00",
+          "closing": "06:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Tuesday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "06:00",
+          "closing": "06:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Wednesday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "06:00",
+          "closing": "06:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Thursday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "06:00",
+          "closing": "06:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Friday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "06:00",
+          "closing": "06:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Saturday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "06:00",
+          "closing": "06:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Sunday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "06:00",
+          "closing": "06:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Public Holiday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "06:00",
+          "closing": "06:00",
+          "note": null
+        }
+      ],
+      "url": "/parking-locations/new-south-wales/parramatta/parramatta-station/",
+      "serviceConfiguration": {
+        "canBookABay": false,
+        "bookABayIconLabel": "Prepay Online",
+        "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
+        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingIconLabel": "Monthly Subscription",
+        "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
+        "isWilsonOne": false,
+        "wilsonOneIconLabel": "Parking Card",
+        "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
+        "disabledParkingIsAvailable": false,
+        "disabledParkingIconLabel": "Disabled Parking",
+        "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
+        "evChargerIsAvailable": false,
+        "evChargerIconLabel": "EV Charging",
+        "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
+        "additionalServices": []
+      },
+      "state": "NSW",
+      "imgUrl": "/siteassets/parking-location-images/nsw/syd429.jpg",
+      "price": "",
+      "status": "",
+      "cpmsCarparkCode": null,
+      "externalCarParkInfo": null,
+      "featuredIndex": 0
+    },
+    {
       "name": "1 Fitzwilliam St Car Park",
       "bookText": null,
       "canBookABay": false,
@@ -25197,6 +25381,184 @@
       "featuredIndex": 0
     },
     {
+      "name": "Parramatta Square",
+      "bookText": null,
+      "canBookABay": false,
+      "selectedFeatures": "",
+      "carParkFeature": [
+        "Entry height at least 2"
+      ],
+      "services": [],
+      "carParkName": "Parramatta Square",
+      "carParkNumber": 2428,
+      "carParkPhoto": "/siteassets/parking-location-images/nsw/syd428.jpg",
+      "category": "",
+      "costCenter": 1002428,
+      "direction": "Corner of Smith and Darcy Street",
+      "heightRestriction": 3.8,
+      "information": "<p>Wilson Parking offer affordable &amp; reliable parking at Parramatta Square&nbsp;Car Park, located at Corner of Smith and Darcy Street&nbsp;in the heart of Parramatta.</p>\n<p>Parramatta Square offers Casual hourly parking Monday to Sunday, conveniently located with easy access to nearby restaurants, cafes and retail stores.&nbsp;Parramatta Square car park will meet all your leisure and business parking needs.&nbsp;</p>",
+      "isWilsonOne": false,
+      "legacyID": 2428,
+      "monthlyParkingServiceIsAvailable": false,
+      "evChargerIsAvailable": false,
+      "disabledParkingIsAvailable": false,
+      "phoneNumber": "1800 PARKING (727 546)",
+      "products": [],
+      "staticMapPhoto": null,
+      "streetViewHeading": null,
+      "streetViewLocation": "https://www.google.com/maps/@?api=1&map_action=pano&pano=NKYaQGYmozNci6iEE9YrCA&viewpoint=-33.81712471604868,151.00579259254852&heading=292.38177889911174&pitch=-5.68941639323215&zoom=1",
+      "rates": [
+        {
+          "rateType": "Hourly",
+          "notes": "<div>Rates apply from 6am daily, Available Monday to Sundat</div>\n<div>&nbsp;</div>\n<div>Motor Bikes &ndash; 50% off. Press interom on exit for assistance</div>",
+          "rates": [
+            {
+              "timeSpan": "0.0 - 1.0 hrs",
+              "price": 5.5
+            },
+            {
+              "timeSpan": "1.0 - 2.0 hrs",
+              "price": 11.0
+            },
+            {
+              "timeSpan": "2.0 - 3.0 hrs",
+              "price": 27.0
+            },
+            {
+              "timeSpan": "3.0 - 4.0 hrs",
+              "price": 42.0
+            },
+            {
+              "timeSpan": "4.0 - 5.0 hrs",
+              "price": 58.0
+            },
+            {
+              "timeSpan": "5.0 - 18.0 hrs",
+              "price": 75.0
+            },
+            {
+              "timeSpan": "18.0 +  hrs",
+              "price": 90.0
+            }
+          ]
+        }
+      ],
+      "fromText": "From",
+      "fromPrice": "5.5",
+      "location": {
+        "longitude": 151.004231988155,
+        "latitude": -33.8157512551747,
+        "zoom": 13,
+        "address": "Corner of Smith and Darcy Street",
+        "region": {
+          "name": "Parramatta",
+          "longitude": 151.00512742996216,
+          "latitude": -33.810522854619578,
+          "status": "",
+          "state": {
+            "name": "New South Wales",
+            "abbreviation": "NSW",
+            "country": "Australia",
+            "longitude": 151.207430362701,
+            "latitude": -33.8662642500823,
+            "status": ""
+          }
+        }
+      },
+      "openingTimes": [
+        {
+          "day_TimePeriod": "Monday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "06:00",
+          "closing": "06:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Tuesday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "06:00",
+          "closing": "06:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Wednesday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "06:00",
+          "closing": "06:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Thursday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "06:00",
+          "closing": "06:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Friday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "06:00",
+          "closing": "06:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Saturday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "06:00",
+          "closing": "06:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Sunday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "06:00",
+          "closing": "06:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Public Holiday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "06:00",
+          "closing": "06:00",
+          "note": null
+        }
+      ],
+      "url": "/parking-locations/new-south-wales/parramatta/parramatta-square/",
+      "serviceConfiguration": {
+        "canBookABay": false,
+        "bookABayIconLabel": "Prepay Online",
+        "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
+        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingIconLabel": "Monthly Subscription",
+        "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
+        "isWilsonOne": false,
+        "wilsonOneIconLabel": "Parking Card",
+        "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
+        "disabledParkingIsAvailable": false,
+        "disabledParkingIconLabel": "Disabled Parking",
+        "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
+        "evChargerIsAvailable": false,
+        "evChargerIconLabel": "EV Charging",
+        "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
+        "additionalServices": []
+      },
+      "state": "NSW",
+      "imgUrl": "/siteassets/parking-location-images/nsw/syd428.jpg",
+      "price": "",
+      "status": "",
+      "cpmsCarparkCode": null,
+      "externalCarParkInfo": null,
+      "featuredIndex": 0
+    },
+    {
       "name": "Eat Street Car Park",
       "bookText": null,
       "canBookABay": false,
@@ -25212,20 +25574,63 @@
       "costCenter": 1002425,
       "direction": "Car Park entry from Erby Place and Horwood Place",
       "heightRestriction": 2.0,
-      "information": "<p>Wilson Parking offer affordable &amp; secure Monthly parking at Eat St Car Park, located in Parramatta's dining precinct.</p>\n<p>With convenient access to nearby restaurants, bars &amp; cafes, including nearby Westfield Shopping Centre, Eat St Car Park will meet all your parking needs.&nbsp;</p>",
+      "information": "<p>Wilson Parking offer affordable &amp; secure parking at Eat St Car Park, located at 30 George St, in Parramatta's dining precinct.<br /><br />Eat St Car Park offers&nbsp;Casual parking&nbsp;available Monday to Sunday, with convenient access to nearby restaurants, bars &amp; cafes, including nearby Westfield Shopping Centre. Eat St Car Park will meet all your parking needs.</p>",
       "isWilsonOne": false,
       "legacyID": 1002425,
       "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
-      "phoneNumber": null,
+      "phoneNumber": "1800-PARKING",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": null,
       "streetViewLocation": "https://www.google.com/maps/@?api=1&map_action=pano&pano=COQcpLXo83j2hjl3SFkXlw&viewpoint=-33.812687677353274,151.00447677462267&heading=182.43666855143076&pitch=-5.445088630177821&zoom=0.9999999999999997",
-      "rates": [],
-      "fromText": "",
-      "fromPrice": "",
+      "rates": [
+        {
+          "rateType": "Hourly",
+          "notes": "<p>Motor Bikes - 50% fee's apply. Press intercom for assistance</p>\n<p>Lost ticket - $50.00</p>",
+          "rates": [
+            {
+              "timeSpan": "0.0 - 1.0 hrs",
+              "price": 4.0
+            },
+            {
+              "timeSpan": "1.0 - 2.0 hrs",
+              "price": 7.0
+            },
+            {
+              "timeSpan": "2.0 - 3.0 hrs",
+              "price": 12.0
+            },
+            {
+              "timeSpan": "3.0 - 4.0 hrs",
+              "price": 22.0
+            },
+            {
+              "timeSpan": "4.0 - 5.0 hrs",
+              "price": 28.0
+            },
+            {
+              "timeSpan": "5.0 - 12.0 hrs",
+              "price": 40.0
+            },
+            {
+              "timeSpan": "12.0 + hrs",
+              "price": 50.0
+            },
+            {
+              "timeSpan": "0.0 - 2.0 hrs",
+              "price": 0.0
+            },
+            {
+              "timeSpan": "2.0 + hrs",
+              "price": 15.0
+            }
+          ]
+        }
+      ],
+      "fromText": "From",
+      "fromPrice": "0",
       "location": {
         "longitude": 151.004809329436,
         "latitude": -33.8130849873819,
@@ -25536,7 +25941,7 @@
       "costCenter": 1002358,
       "direction": null,
       "heightRestriction": 0.0,
-      "information": "<p>Wilson Parking offer affordable &amp; secure parking 35 Hunter St Car Park which is located in the heart of Parramatta.</p>\n<p>35 Hunter St Car Park suits all your leisure and business parking needs. With Casual parking Mondy to Sunday.&nbsp;</p>",
+      "information": "<p>Wilson Parking offer affordable &amp; secure parking 35 Hunter St Car Park which is located in the heart of Parramatta.</p>\n<p>35 Hunter St Car Park suits all your leisure and business parking needs. With Casual parking Monday to Sunday.</p>",
       "isWilsonOne": false,
       "legacyID": 786,
       "monthlyParkingServiceIsAvailable": false,
@@ -25773,23 +26178,62 @@
       "carParkNumber": 2426,
       "carParkPhoto": null,
       "category": "",
-      "costCenter": 0,
-      "direction": null,
+      "costCenter": 1002426,
+      "direction": "4 - 14 Hunter Street Parramatta",
       "heightRestriction": 2.0,
-      "information": "<p>Wilson Parking offer affordable &amp; secure Monthly parking at Justice Precinct Car Park, located in Parramatta's CBD.</p>\n<p>With convenient access to Parramatta courthouse and government services.</p>",
+      "information": "<p>Wilson Parking offer affordable &amp; secure parking at Justice Precinct Car Park, located at 4-14 Hunter St, in Parramatta's CBD.</p>\n<p>With convenient access to Parramatta courthouse and government services and Club Parramatta.</p>\n<p>Offering casual rates for everyday parking, the Justice Precinct Car Park will meet all your parking needs.</p>",
       "isWilsonOne": false,
       "legacyID": 1002426,
       "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
-      "phoneNumber": null,
+      "phoneNumber": "1800-PARKING",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": null,
       "streetViewLocation": null,
-      "rates": [],
-      "fromText": "",
-      "fromPrice": "",
+      "rates": [
+        {
+          "rateType": "Hourly",
+          "notes": "<p>Motorbikes are charged at 50% of Casual Parking Rates</p>\n<p>Rates apply from time of entry to time of exit.</p>",
+          "rates": [
+            {
+              "timeSpan": "0.0 - 1 hrs",
+              "price": 3.5
+            },
+            {
+              "timeSpan": "1.0 - 2.0 hrs",
+              "price": 6.5
+            },
+            {
+              "timeSpan": "2.0 - 3.0 hrs",
+              "price": 10.0
+            },
+            {
+              "timeSpan": "3.0 - 4.0 hrs",
+              "price": 13.0
+            },
+            {
+              "timeSpan": "4.0 - 18.0 hrs",
+              "price": 14.0
+            },
+            {
+              "timeSpan": "18.0 + hrs",
+              "price": 27.0
+            },
+            {
+              "timeSpan": "0.0 - 2 hrs",
+              "price": 0.0
+            },
+            {
+              "timeSpan": "2.0 + hrs",
+              "price": 10.0
+            }
+          ]
+        }
+      ],
+      "fromText": "From",
+      "fromPrice": "0",
       "location": {
         "longitude": 150.99904250742,
         "latitude": -33.8147986925242,
@@ -26426,23 +26870,74 @@
       "carParkNumber": 0,
       "carParkPhoto": null,
       "category": "",
-      "costCenter": 0,
-      "direction": null,
+      "costCenter": 1002427,
+      "direction": "7 Park Parade, Parramatta",
       "heightRestriction": 0.0,
-      "information": "<p>Wilson Parking offer affordable &amp; secure Monthly parking at Parramatta Aquatic Centre Car Park, located in Parramatta Park.</p>\n<p>With convenient access to indoor and outdoor pools, gym and wellness facilities.</p>",
+      "information": "<p>Wilson Parking offer affordable &amp; secure casual parking at Parramatta Aquatic Centre Car Park, located at Park Parade Parramatta.</p>\n<p>Parramatta Aquatic Centre Car Park offers Casual parking available Monday to Sunday suits all your leisure parking needs in the Parramatta Park precinct.&nbsp;</p>",
       "isWilsonOne": false,
       "legacyID": 1002427,
       "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
-      "phoneNumber": null,
+      "phoneNumber": "1800-PARKING",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": null,
       "streetViewLocation": null,
-      "rates": [],
-      "fromText": "",
-      "fromPrice": "",
+      "rates": [
+        {
+          "rateType": "Hourly",
+          "notes": null,
+          "rates": [
+            {
+              "timeSpan": "0.0 - 0.5 mins",
+              "price": 3.5
+            },
+            {
+              "timeSpan": "0. 5 - 1 hr",
+              "price": 7.0
+            },
+            {
+              "timeSpan": "1.0 - 1.5 hrs",
+              "price": 10.5
+            },
+            {
+              "timeSpan": "1.5 - 2.0 hrs",
+              "price": 14.0
+            },
+            {
+              "timeSpan": "2.0 - 2.5 hrs",
+              "price": 17.5
+            },
+            {
+              "timeSpan": "2.5 - 3.0 hrs",
+              "price": 21.0
+            },
+            {
+              "timeSpan": "3.0 - 3.5 hrs",
+              "price": 24.5
+            },
+            {
+              "timeSpan": "3.5 - 4.0 hrs",
+              "price": 28.0
+            },
+            {
+              "timeSpan": "4.0 - 4.5 hrs",
+              "price": 31.5
+            },
+            {
+              "timeSpan": "4.5 - 5.0 hrs",
+              "price": 35.0
+            },
+            {
+              "timeSpan": "5.0 + hrs",
+              "price": 38.0
+            }
+          ]
+        }
+      ],
+      "fromText": "From",
+      "fromPrice": "3.5",
       "location": {
         "longitude": 150.992185467024,
         "latitude": -33.8106945570745,
@@ -50992,7 +51487,7 @@
       "costCenter": 1004367,
       "direction": "36 Neil St Toowoomba",
       "heightRestriction": 0.0,
-      "information": "<p>Wilson Parking offers affordable parking at 36 Neil St Car Park, located at 36 Neil St Toowoomba. Open 24 hours Monday - Sunday, this car park is ideally located nearby the Toowoomba bus station, DVA and other Toowoomba restaurants and businesses. Offering Hourly Parking when you Pay by App using the Wilson Parking App, the 36 Neil St Car Park will meet all your Perth CBD parking needs.&nbsp;</p>\n<p>Download the Wilson Parking App to plan your journey and pay for parking at this car park.</p>",
+      "information": "<p>Wilson Parking offers affordable parking at 36 Neil St Car Park, located at 36 Neil St Toowoomba. Open 24 hours Monday - Sunday, this car park is ideally located nearby the Toowoomba bus station, DVA and other Toowoomba restaurants and businesses. Offering Hourly Parking when you Pay by App using the Wilson Parking App.</p>\n<p>Download the Wilson Parking App to plan your journey and pay for parking at this car park.</p>",
       "isWilsonOne": false,
       "legacyID": 1004367,
       "monthlyParkingServiceIsAvailable": false,
@@ -51382,6 +51877,156 @@
         }
       ],
       "url": "/parking-locations/queensland/toowoomba/28-neil-street/",
+      "serviceConfiguration": {
+        "canBookABay": false,
+        "bookABayIconLabel": "Prepay Online",
+        "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
+        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingIconLabel": "Monthly Subscription",
+        "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
+        "isWilsonOne": false,
+        "wilsonOneIconLabel": "Parking Card",
+        "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
+        "disabledParkingIsAvailable": false,
+        "disabledParkingIconLabel": "Disabled Parking",
+        "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
+        "evChargerIsAvailable": false,
+        "evChargerIconLabel": "EV Charging",
+        "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
+        "additionalServices": []
+      },
+      "state": "QLD",
+      "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
+      "price": "",
+      "status": "",
+      "cpmsCarparkCode": null,
+      "externalCarParkInfo": null,
+      "featuredIndex": 0
+    },
+    {
+      "name": "301 Ruthven Street",
+      "bookText": null,
+      "canBookABay": false,
+      "selectedFeatures": "",
+      "carParkFeature": [
+        "Epark"
+      ],
+      "services": [],
+      "carParkName": "301 Ruthven Street",
+      "carParkNumber": 0,
+      "carParkPhoto": null,
+      "category": "",
+      "costCenter": 1004370,
+      "direction": "301 Ruthven Street",
+      "heightRestriction": 0.0,
+      "information": "<p><span style=\"color: #ff1e25;\">Wilson Parking will begin operating this car park from 16th March.</span><br /><br />Wilson Parking offers affordable parking at 301 Ruthven Street Car Park. Open 24 hours Monday to Sunday, this car park is located near the Toowoomba railway station, Grand Central Shopping Centre and Toowoomba Sports Club. Offering Hourly Parking when you Pay by App using the Wilson Parking App, the 301 Ruthven St Car Park will meet all your parking needs.</p>\n<p>Download the Wilson Parking App to plan your journey and pay for parking at this car park.</p>",
+      "isWilsonOne": false,
+      "legacyID": 1004370,
+      "monthlyParkingServiceIsAvailable": false,
+      "evChargerIsAvailable": false,
+      "disabledParkingIsAvailable": false,
+      "phoneNumber": "1800-PARKING",
+      "products": [],
+      "staticMapPhoto": null,
+      "streetViewHeading": null,
+      "streetViewLocation": null,
+      "rates": [
+        {
+          "rateType": "Pay by App",
+          "notes": null,
+          "rates": [
+            {
+              "timeSpan": "0.1 - 1.0 hr",
+              "price": 2.0
+            },
+            {
+              "timeSpan": "1.0 + hr",
+              "price": 4.0
+            }
+          ]
+        }
+      ],
+      "fromText": "From",
+      "fromPrice": "2",
+      "location": {
+        "longitude": 151.953540866741,
+        "latitude": -27.5572168552256,
+        "zoom": 13,
+        "address": "301 Ruthven Street",
+        "region": {
+          "name": "Toowoomba",
+          "longitude": 151.9507554306885,
+          "latitude": -27.56039188349127,
+          "status": "",
+          "state": {
+            "name": "Queensland",
+            "abbreviation": "QLD",
+            "country": "Australia",
+            "longitude": 153.029420017695,
+            "latitude": -27.46777640825,
+            "status": ""
+          }
+        }
+      },
+      "openingTimes": [
+        {
+          "day_TimePeriod": "Monday",
+          "is24_7": false,
+          "closed": true,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Tuesday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Wednesday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Thursday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Friday",
+          "is24_7": false,
+          "closed": true,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Saturday",
+          "is24_7": false,
+          "closed": true,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Sunday",
+          "is24_7": false,
+          "closed": true,
+          "opening": "",
+          "closing": "",
+          "note": null
+        }
+      ],
+      "url": "/parking-locations/queensland/toowoomba/301-ruthven-street/",
       "serviceConfiguration": {
         "canBookABay": false,
         "bookABayIconLabel": "Prepay Online",
@@ -51816,7 +52461,7 @@
             },
             {
               "timeSpan": "4.0 + Hours",
-              "price": 34.0
+              "price": 35.0
             }
           ]
         },
@@ -55764,7 +56409,7 @@
           "rates": [
             {
               "timeSpan": "Mon - Fri",
-              "price": 20.0
+              "price": 22.0
             }
           ]
         }
@@ -64652,7 +65297,7 @@
             },
             {
               "timeSpan": "3.0 + hrs",
-              "price": 8.0
+              "price": 9.0
             }
           ]
         },
@@ -67459,7 +68104,7 @@
       "costCenter": 1004356,
       "direction": "Entry off Little Cribb Street",
       "heightRestriction": 2.2,
-      "information": "<p><span style=\"color: #ff1e25;\">Event Parking is available at this car park on the following dates:&nbsp;6, 8, 12, 13, 14, 15, 21 &amp; 27 March.</span></p>\n<p>Wilson Parking offers affordable &amp; secure parking at Milton Green&nbsp;car park, located at 19 Little Cribb Street&nbsp;in the heart of Milton. Open 7 days, this undercover car park provides convenient access to nearby Suncorp Stadium and surrounding entertainment and retail precinct. Offering hourly, night and weekend parking options with discounts when you prepay online, permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the Milton Green&nbsp;car park will meet all your business and leisure parking needs.&nbsp;</p>",
+      "information": "<p><span style=\"color: #ff1e25;\">Event Parking is available at this car park on the following dates: 12, 13, 14, 15, 21 &amp; 27 March. 2, 4 April.<br /></span></p>\n<p>Wilson Parking offers affordable &amp; secure parking at Milton Green&nbsp;car park, located at 19 Little Cribb Street&nbsp;in the heart of Milton. Open 7 days, this undercover car park provides convenient access to nearby Suncorp Stadium and surrounding entertainment and retail precinct. Offering hourly, night and weekend parking options with discounts when you prepay online, permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the Milton Green&nbsp;car park will meet all your business and leisure parking needs.&nbsp;</p>",
       "isWilsonOne": false,
       "legacyID": 1004356,
       "monthlyParkingServiceIsAvailable": true,
@@ -70872,7 +71517,7 @@
       "costCenter": 1004298,
       "direction": "Entry via Dowse Street",
       "heightRestriction": 2.3,
-      "information": "<p><span style=\"color: #ff1e25;\">Event Parking is available at this car park on the following dates:</span><span style=\"color: #ff1e25;\">&nbsp;6, 8, 12, 13, 14, 15, 21 &amp; 27 March.</span></p>\n<p>Wilson Parking offers affordable and secure parking at&nbsp;Darling &amp; Co car park, located in the heart of Paddington. Open 7 days, this undercover car park provides convenient access to Lang Park (Suncorp Stadium). Offering casual and night parking, and exclusive discounts when you pay via the Wilson Parking app, the&nbsp;Darling &amp; Co car park will meet all your business and leisure parking needs.</p>\n<p>Car park closes at 11pm on event nights.</p>",
+      "information": "<p><span style=\"color: #ff1e25;\">Event Parking is available at this car park on the following dates:</span><span style=\"color: #ff1e25;\"> 12, 13, 14, 15, 21 &amp; 27 March. 2, 4 April.</span></p>\n<p>Wilson Parking offers affordable and secure parking at&nbsp;Darling &amp; Co car park, located in the heart of Paddington. Open 7 days, this undercover car park provides convenient access to Lang Park (Suncorp Stadium). Offering casual and night parking, and exclusive discounts when you pay via the Wilson Parking app, the&nbsp;Darling &amp; Co car park will meet all your business and leisure parking needs.</p>\n<p>Car park closes at 11pm on event nights.</p>",
       "isWilsonOne": false,
       "legacyID": 4298,
       "monthlyParkingServiceIsAvailable": true,
