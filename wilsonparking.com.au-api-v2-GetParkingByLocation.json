@@ -3452,7 +3452,6 @@
         "Entry height at least 2",
         "Daily Pass Bundles",
         "Special Event Parking",
-        "Super Saver",
         "Summer Sale",
         "Elevate",
         "LPR"
@@ -6734,7 +6733,7 @@
       ],
       "carParkName": "201 – 207 Kent Street Car Park",
       "carParkNumber": 2055,
-      "carParkPhoto": "/siteassets/parking-location-images/nsw/syd055.jpg",
+      "carParkPhoto": "/siteassets/parking-location-images/nsw/syd055-update.jpeg",
       "category": "",
       "costCenter": 1002055,
       "direction": null,
@@ -6910,7 +6909,7 @@
         "additionalServices": []
       },
       "state": "NSW",
-      "imgUrl": "/siteassets/parking-location-images/nsw/syd055.jpg",
+      "imgUrl": "/siteassets/parking-location-images/nsw/syd055-update.jpeg",
       "price": "",
       "status": "",
       "cpmsCarparkCode": null,
@@ -25067,11 +25066,11 @@
               "price": 30.0
             },
             {
-              "timeSpan": "0.0 - 1.0 hrs",
+              "timeSpan": "0.0 - 4.0 hrs",
               "price": 0.0
             },
             {
-              "timeSpan": "2.0 + hrs",
+              "timeSpan": "4.0 + hrs",
               "price": 10.0
             }
           ]
@@ -26198,7 +26197,7 @@
           "notes": "<p>Motorbikes are charged at 50% of Casual Parking Rates</p>\n<p>Rates apply from time of entry to time of exit.</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 1 hrs",
+              "timeSpan": "0.0 - 1.0 hrs",
               "price": 3.5
             },
             {
@@ -26222,11 +26221,11 @@
               "price": 27.0
             },
             {
-              "timeSpan": "0.0 - 2 hrs",
+              "timeSpan": "0.0 - 4.0 hrs",
               "price": 0.0
             },
             {
-              "timeSpan": "2.0 + hrs",
+              "timeSpan": "4.0 + hrs",
               "price": 10.0
             }
           ]
@@ -56760,9 +56759,9 @@
       "carParkPhoto": "/siteassets/parking-location-images/vic/mel250_480.jpg",
       "category": "",
       "costCenter": 1003250,
-      "direction": "Entry via Russell St (Extension) or off Batman Ave (at Tennis Centre)\nOn event dates and busy periods, please use the Batman Avenue Exit from Level 1 and allow additional time to exit. ",
+      "direction": "Entry via Russell St (Extension) or off Batman Ave (at Tennis Centre)\nOn event dates and busy periods, please use the Batman Ave Exit from Level 1 and allow additional time to exit. ",
       "heightRestriction": 2.1,
-      "information": "<p><span style=\"color: #ff1e25;\"><strong><u>Event Dates March 2026:</u></strong></span></p>\n<ul>\n<li><span style=\"color: #ff1e25;\">2nd, 3rd, 5th, 6th, 10th, 12th, 13th, 14th, 19th, 20th, 22nd, 26th, 27<sup>th</sup>&nbsp;from 4:00pm to 11:59pm.</span></li>\n<li><span style=\"color: #ff1e25;\">15th, 21<sup>st</sup>&nbsp;and 29<sup>th</sup>&nbsp;from 11:00am to 11:59pm.</span></li>\n<li><span style=\"color: #ff1e25;\">1st, 7th, 8<sup>th</sup>&nbsp;from 8:00am to 11:59pm.</span></li>\n</ul>\n<p><span style=\"color: #ff1e25;\">Event rates will apply.</span><br /><span style=\"color: #ff1e25;\"><em>On event dates, please allow additional time to exit.</em></span></p>\n<p>Wilson Parking offers affordable &amp; secure parking at Federation Square Car Park, located on Russell St (Extension) in the Melbourne CBD. This car park is nearby to many popular attractions, including Federation Square, Flinders St Station, Birrarung Marr, Rod Laver Arena and Melbourne Park. Offering casual Early Bird, Hourly, Night and Weekend parking, with exclusive discounts when you prepay online, the Federation Square Car Park will meet all of your parking needs.</p>\n<p><span style=\"color: #000000;\"><strong>On event dates and busy periods, please use the Batman Avenue Exit from Level 1 and allow additional time to exit.</strong></span></p>\n<p>Download the Wilson Parking App to plan your journey and access exclusive discounts when you prepay online; pay as you go with one convenient monthly invoice when you use your Wilson Parking Card; enjoy 24/7 unlimited access when you subscribe to Monthly Parking; or just drive up to pay with a credit card at the car park.</p>",
+      "information": "<p><span style=\"color: #ff1e25;\"><strong><u>Power Shutdown</u></strong></span></p>\n<p><span style=\"color: #ff1e25;\">Due to planned power shutdown. The car park will be closed and not accessible from 11pm Sunday 15th March until 7am Monday 16th March 2026.</span></p>\n<p><span style=\"color: #ff1e25;\"><strong><u>Event Dates March 2026<br /></u></strong></span></p>\n<ul>\n<li><span style=\"color: #ff1e25;\">2nd, 3rd, 5th, 6th, 10th, 12th, 13th, 14th, 19th, 20th, 22nd, 26th, 27</span><sup style=\"color: #ff1e25;\">th</sup><span style=\"color: #ff1e25;\">&nbsp;from 4:00pm to 11:59pm.</span></li>\n<li><span style=\"color: #ff1e25;\">15th, 21<sup>st</sup>&nbsp;and 29<sup>th</sup>&nbsp;from 11:00am to 11:59pm.</span></li>\n<li><span style=\"color: #ff1e25;\">1st, 7th, 8<sup>th</sup>&nbsp;from 8:00am to 11:59pm.</span></li>\n</ul>\n<p><span style=\"color: #ff1e25;\">Event rates will apply.</span><br /><span style=\"color: #ff1e25;\"><em>On event dates, please allow additional time to exit.</em></span></p>\n<p>Wilson Parking offers affordable &amp; secure parking at Federation Square Car Park, located on Russell St (Extension) in the Melbourne CBD. This car park is nearby to many popular attractions, including Federation Square, Flinders St Station, Birrarung Marr, Rod Laver Arena and Melbourne Park. Offering casual Early Bird, Hourly, Night and Weekend parking, with exclusive discounts when you prepay online, the Federation Square Car Park will meet all of your parking needs.</p>\n<p><span style=\"color: #000000;\"><strong>On event dates and busy periods, please use the Batman Avenue Exit from Level 1 and allow additional time to exit.</strong></span></p>\n<p>Download the Wilson Parking App to plan your journey and access exclusive discounts when you prepay online; pay as you go with one convenient monthly invoice when you use your Wilson Parking Card; enjoy 24/7 unlimited access when you subscribe to Monthly Parking; or just drive up to pay with a credit card at the car park.</p>",
       "isWilsonOne": true,
       "legacyID": 94,
       "monthlyParkingServiceIsAvailable": true,
