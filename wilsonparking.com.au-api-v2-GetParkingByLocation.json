@@ -705,10 +705,10 @@
         },
         {
           "rateType": "Weekend",
-          "notes": "<p>Flat Rate: per exit, per day</p>\n<p>Online rates include transaction fee. Click the <strong>Prepay&nbsp;now</strong> link below to get started</p>",
+          "notes": "<p>Flat Rate: per exit, per day</p>\n<p>Online rates include transaction fee. Click the <strong>Prepay&nbsp;now</strong> link below to get started</p>\n<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Prepay Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the <strong>Prepay Now</strong> link below to get started.<br />Rates shown include transaction fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>",
           "rates": [
             {
-              "timeSpan": "Sat - Sun from",
+              "timeSpan": "Sat - Sun & Public Holiday varies from $35.00 - $37.00, depending on demand",
               "price": 40.0
             }
           ]
@@ -1039,7 +1039,7 @@
       "costCenter": 1002417,
       "direction": "Entry via 24 York Street, Sydney",
       "heightRestriction": 1.9,
-      "information": "<p>Wilson Parking offer affordable &amp; secure parking at George Place Car Park, located via 24 York Street, in the heart of Sydney CBD. Conveniently nearby to City Recital Hall, Martin Place, Pitt St Mall shopping, Hotels and Restaurant Precincts, this car park is open daily till 10pm. Offering Hourly and Weekend parking, the George Place Car Park&nbsp;suits all your leisure and business parking needs.</p>\n<p>Save when you prepay your parking online or with the Wilson Parking App; enjoy unlimited 24/7 access when you subscribe to Monthly Parking; or pay as you go with the convenient queue-less, contact free Wilson Parking Card.&nbsp;</p>\n<div><span style=\"color: #ff1e25;\">Please note:&nbsp;Once the car park closes, <strong>there is no vehicle or pedestrian access afterhours</strong>.</span></div>\n<div><br /><span style=\"color: #ff1e25;\"><strong>Mobility access is unavailable once the building closes at 6:00pm&nbsp;(Monday to Friday), Weekends and Public Holidays</strong>, so we encourage customers requiring accessible entry to plan their visit accordingly.</span></div>",
+      "information": "<p>Wilson Parking offer affordable &amp; secure parking at George Place Car Park, located via 24 York Street, in the heart of Sydney CBD. Conveniently nearby to City Recital Hall, Martin Place, Pitt St Mall shopping, Hotels and Restaurant Precincts, this car park is open daily till 10pm. Offering Hourly and Weekend parking, the George Place Car Park&nbsp;suits all your leisure and business parking needs.</p>\n<p>Save when you prepay your parking online or with the Wilson Parking App; enjoy unlimited 24/7 access when you subscribe to Monthly Parking; or pay as you go with the convenient queue-less, contact free Wilson Parking Card.&nbsp;</p>\n<p><span style=\"color: #ff1e25;\"><strong>Important Updates<br /></strong></span><span style=\"color: #ff1e25;\"><span style=\"color: #000000;\">- Once the car park closes, there is no vehicle or pedestrian access afterhours.<br /></span></span><span style=\"color: #000000;\">- Mobility access is unavailable once the building closes at 6:00pm&nbsp;(Monday to Friday), Weekends and Public Holidays, so we encourage those requiring accessible entry to plan their visit accordingly.</span></p>\n<div>&nbsp;</div>",
       "isWilsonOne": false,
       "legacyID": 2417,
       "monthlyParkingServiceIsAvailable": false,
@@ -85802,7 +85802,7 @@
       "carParkPhoto": "/contentassets/ca151af77ba848a8a7950e6de5610cf5/capture.jpg",
       "category": "",
       "costCenter": 1006212,
-      "direction": "<b>**Car Park only operational on selected event days**</b><br>\n\n</b><br>1st March -  AFC Women's Asian Cup - Australia Vs Philippines<b>\n</b><br>(Gate opens at 2:00pm and closes at 9:00pm sharp)<b>\n\n</b><br>21st March -  AFL Fremantle Dockers Vs Melbourne<b>\n</b><br>(Gate opens at 3:30pm and closes at 9:00pm sharp)<b>\n\n</b><br>22nd March -  AFL West Coast Eagles Vs North Melbourne<b>\n</b><br>(Gate opens at 2:00pm and closes at 7:30pm sharp)<b>\n\n</b><br>28th March -  AFL Fremantle Dockers Vs Richmond<b>\n</b><br>(Gate opens at 12:00pm and closes at 6:00pm sharp)<b>",
+      "direction": "<b>**Car Park only operational on selected event days**</b><br>\n\n</b><br>17th March -  AFC Women's Asian Cup - Semi Finals<b>\n</b><br>(Gate opens at 4:30pm and closes at 9:30pm sharp)<b>\n\n</b><br>21st March -  AFL Fremantle Dockers Vs Melbourne<b>\n</b><br>(Gate opens at 3:30pm and closes at 9:00pm sharp)<b>\n\n</b><br>22nd March -  AFL West Coast Eagles Vs North Melbourne<b>\n</b><br>(Gate opens at 2:00pm and closes at 7:30pm sharp)<b>\n\n</b><br>28th March -  AFL Fremantle Dockers Vs Richmond<b>\n</b><br>(Gate opens at 12:00pm and closes at 6:00pm sharp)<b>",
       "heightRestriction": 0.0,
       "information": "<p>Wilson Parking offers affordable parking at Belmont Racecourse Car Park for Optus Stadium event parking only. Located a short walk from Optus Stadium, this car park is the perfect location for footy, cricket, concerts and other Optus Stadium events. Operational days are shown under the parking rates to the left.</p>\n<p>Parking must be prepaid in advance through the Wilson Parking App or website. No payments can be taken at the gate. Must present prepaid confirmation to access car park.</p>",
       "isWilsonOne": false,
