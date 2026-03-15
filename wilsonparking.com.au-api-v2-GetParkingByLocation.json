@@ -91908,6 +91908,157 @@
       "featuredIndex": 0
     },
     {
+      "name": "Queen Street Motorcycle only",
+      "bookText": null,
+      "canBookABay": false,
+      "selectedFeatures": "",
+      "carParkFeature": [
+        "Epark"
+      ],
+      "services": [],
+      "carParkName": "Queen Street Motorcycle only",
+      "carParkNumber": 6114,
+      "carParkPhoto": "/contentassets/fc7fddc9ed754dde9d866f08e225e0ae/per114.jpg",
+      "category": "",
+      "costCenter": 1006114,
+      "direction": "Entry via Queen Street (one way)\nPedestrian access 24hrs.\nParking for Motorcycles only. Check the other Queen St car park for other parking options",
+      "heightRestriction": 2.0,
+      "information": "<p>Wilson Parking offer affordable motrocycle parking at Queen Street Car Park, located at the Corner of Wellington Street and Queen Street, Perth.&nbsp;</p>\n<p>Download the Wilson Parking App to pay and manage your motorbike parking directly from your phone.</p>\n<p>Looking for car parking at Queen St - check out our other parking options <a href=\"/link/558f2c33e18a40d79b88ffe9e45bfd87.aspx\">here</a></p>",
+      "isWilsonOne": false,
+      "legacyID": 1006114,
+      "monthlyParkingServiceIsAvailable": false,
+      "evChargerIsAvailable": false,
+      "disabledParkingIsAvailable": false,
+      "phoneNumber": "1800 PARKING",
+      "products": [],
+      "staticMapPhoto": null,
+      "streetViewHeading": "239.8317261225185",
+      "streetViewLocation": "https://www.google.com/maps/@?api=1&map_action=pano&pano=k1ycD_O88YoK1MQxqvoeUA&viewpoint=-31.951443813704,115.8564431819089&heading=239.8317261225185&pitch=8.096167684077528",
+      "rates": [],
+      "fromText": "From",
+      "fromPrice": "7",
+      "location": {
+        "longitude": 115.85642470417,
+        "latitude": -31.9511475529816,
+        "zoom": 13,
+        "address": "Corner of Wellington Street and Queen Street, Perth",
+        "region": {
+          "name": "Perth CBD",
+          "longitude": 115.86034952911382,
+          "latitude": -31.954708170013102,
+          "status": "",
+          "state": {
+            "name": "Western Australia",
+            "abbreviation": "WA",
+            "country": "Australia",
+            "longitude": 123.41536223888397,
+            "latitude": -25.833723163507287,
+            "status": ""
+          }
+        }
+      },
+      "openingTimes": [
+        {
+          "day_TimePeriod": "Monthly",
+          "is24_7": false,
+          "closed": false,
+          "opening": "05:00",
+          "closing": "22:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Monday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "05:00",
+          "closing": "22:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Tuesday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "05:00",
+          "closing": "22:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Wednesday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "05:00",
+          "closing": "22:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Thursday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "05:00",
+          "closing": "22:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Friday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "05:00",
+          "closing": "00:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Saturday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "05:00",
+          "closing": "00:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Sunday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "05:00",
+          "closing": "22:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Public Holiday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "05:00",
+          "closing": "22:00",
+          "note": null
+        }
+      ],
+      "url": "/parking-locations/western-australia/perth-cbd/queen-street-motorcycle-only/",
+      "serviceConfiguration": {
+        "canBookABay": false,
+        "bookABayIconLabel": "Prepay Online",
+        "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
+        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingIconLabel": "Monthly Subscription",
+        "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
+        "isWilsonOne": false,
+        "wilsonOneIconLabel": "Parking Card",
+        "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
+        "disabledParkingIsAvailable": false,
+        "disabledParkingIconLabel": "Disabled Parking",
+        "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
+        "evChargerIsAvailable": false,
+        "evChargerIconLabel": "EV Charging",
+        "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
+        "additionalServices": []
+      },
+      "state": "WA",
+      "imgUrl": "/contentassets/fc7fddc9ed754dde9d866f08e225e0ae/per114.jpg",
+      "price": "",
+      "status": "",
+      "cpmsCarparkCode": null,
+      "externalCarParkInfo": null,
+      "featuredIndex": 0
+    },
+    {
       "name": "Queen Street Car Park",
       "bookText": null,
       "canBookABay": true,
@@ -92140,157 +92291,6 @@
       },
       "state": "WA",
       "imgUrl": "/contentassets/9a5141f3b44a485ab0e62e75f8296298/per114.jpg",
-      "price": "",
-      "status": "",
-      "cpmsCarparkCode": null,
-      "externalCarParkInfo": null,
-      "featuredIndex": 0
-    },
-    {
-      "name": "Queen Street Motorcycle only",
-      "bookText": null,
-      "canBookABay": false,
-      "selectedFeatures": "",
-      "carParkFeature": [
-        "Epark"
-      ],
-      "services": [],
-      "carParkName": "Queen Street Motorcycle only",
-      "carParkNumber": 6114,
-      "carParkPhoto": "/contentassets/fc7fddc9ed754dde9d866f08e225e0ae/per114.jpg",
-      "category": "",
-      "costCenter": 1006114,
-      "direction": "Entry via Queen Street (one way)\nPedestrian access 24hrs.\nParking for Motorcycles only. Check the other Queen St car park for other parking options",
-      "heightRestriction": 2.0,
-      "information": "<p>Wilson Parking offer affordable motrocycle parking at Queen Street Car Park, located at the Corner of Wellington Street and Queen Street, Perth.&nbsp;</p>\n<p>Download the Wilson Parking App to pay and manage your motorbike parking directly from your phone.</p>\n<p>Looking for car parking at Queen St - check out our other parking options <a href=\"/link/558f2c33e18a40d79b88ffe9e45bfd87.aspx\">here</a></p>",
-      "isWilsonOne": false,
-      "legacyID": 1006114,
-      "monthlyParkingServiceIsAvailable": false,
-      "evChargerIsAvailable": false,
-      "disabledParkingIsAvailable": false,
-      "phoneNumber": "1800 PARKING",
-      "products": [],
-      "staticMapPhoto": null,
-      "streetViewHeading": "239.8317261225185",
-      "streetViewLocation": "https://www.google.com/maps/@?api=1&map_action=pano&pano=k1ycD_O88YoK1MQxqvoeUA&viewpoint=-31.951443813704,115.8564431819089&heading=239.8317261225185&pitch=8.096167684077528",
-      "rates": [],
-      "fromText": "From",
-      "fromPrice": "7",
-      "location": {
-        "longitude": 115.85642470417,
-        "latitude": -31.9511475529816,
-        "zoom": 13,
-        "address": "Corner of Wellington Street and Queen Street, Perth",
-        "region": {
-          "name": "Perth CBD",
-          "longitude": 115.86034952911382,
-          "latitude": -31.954708170013102,
-          "status": "",
-          "state": {
-            "name": "Western Australia",
-            "abbreviation": "WA",
-            "country": "Australia",
-            "longitude": 123.41536223888397,
-            "latitude": -25.833723163507287,
-            "status": ""
-          }
-        }
-      },
-      "openingTimes": [
-        {
-          "day_TimePeriod": "Monthly",
-          "is24_7": false,
-          "closed": false,
-          "opening": "05:00",
-          "closing": "22:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Monday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "05:00",
-          "closing": "22:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Tuesday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "05:00",
-          "closing": "22:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Wednesday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "05:00",
-          "closing": "22:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Thursday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "05:00",
-          "closing": "22:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Friday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "05:00",
-          "closing": "00:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Saturday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "05:00",
-          "closing": "00:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Sunday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "05:00",
-          "closing": "22:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Public Holiday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "05:00",
-          "closing": "22:00",
-          "note": null
-        }
-      ],
-      "url": "/parking-locations/western-australia/perth-cbd/queen-street-motorcycle-only/",
-      "serviceConfiguration": {
-        "canBookABay": false,
-        "bookABayIconLabel": "Prepay Online",
-        "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": false,
-        "monthlyParkingIconLabel": "Monthly Subscription",
-        "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
-        "isWilsonOne": false,
-        "wilsonOneIconLabel": "Parking Card",
-        "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
-        "disabledParkingIsAvailable": false,
-        "disabledParkingIconLabel": "Disabled Parking",
-        "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
-        "evChargerIsAvailable": false,
-        "evChargerIconLabel": "EV Charging",
-        "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "additionalServices": []
-      },
-      "state": "WA",
-      "imgUrl": "/contentassets/fc7fddc9ed754dde9d866f08e225e0ae/per114.jpg",
       "price": "",
       "status": "",
       "cpmsCarparkCode": null,
