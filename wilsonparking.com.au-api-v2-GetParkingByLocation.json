@@ -51918,7 +51918,7 @@
       "costCenter": 1004370,
       "direction": "301 Ruthven Street",
       "heightRestriction": 0.0,
-      "information": "<p><span style=\"color: #ff1e25;\">Wilson Parking will begin operating this car park from 16th March.</span><br /><br />Wilson Parking offers affordable parking at 301 Ruthven Street Car Park. Open 24 hours Monday to Sunday, this car park is located near the Toowoomba railway station, Grand Central Shopping Centre and Toowoomba Sports Club. Offering Hourly Parking when you Pay by App using the Wilson Parking App, the 301 Ruthven St Car Park will meet all your parking needs.</p>\n<p>Download the Wilson Parking App to plan your journey and pay for parking at this car park.</p>",
+      "information": "<p>Wilson Parking offers affordable parking at 301 Ruthven Street Car Park. Open 24 hours Monday to Sunday, this car park is located near the Toowoomba railway station, Grand Central Shopping Centre and Toowoomba Sports Club. Offering Hourly Parking when you Pay by App using the Wilson Parking App, the 301 Ruthven St Car Park will meet all your parking needs.</p>\n<p>Download the Wilson Parking App to plan your journey and pay for parking at this car park.</p>",
       "isWilsonOne": false,
       "legacyID": 1004370,
       "monthlyParkingServiceIsAvailable": false,
@@ -51929,22 +51929,7 @@
       "staticMapPhoto": null,
       "streetViewHeading": null,
       "streetViewLocation": null,
-      "rates": [
-        {
-          "rateType": "Pay by App",
-          "notes": null,
-          "rates": [
-            {
-              "timeSpan": "0.1 - 1.0 hr",
-              "price": 2.0
-            },
-            {
-              "timeSpan": "1.0 + hr",
-              "price": 4.0
-            }
-          ]
-        }
-      ],
+      "rates": [],
       "fromText": "From",
       "fromPrice": "2",
       "location": {
@@ -51970,8 +51955,8 @@
       "openingTimes": [
         {
           "day_TimePeriod": "Monday",
-          "is24_7": false,
-          "closed": true,
+          "is24_7": true,
+          "closed": false,
           "opening": "",
           "closing": "",
           "note": null
@@ -52002,24 +51987,24 @@
         },
         {
           "day_TimePeriod": "Friday",
-          "is24_7": false,
-          "closed": true,
+          "is24_7": true,
+          "closed": false,
           "opening": "",
           "closing": "",
           "note": null
         },
         {
           "day_TimePeriod": "Saturday",
-          "is24_7": false,
-          "closed": true,
+          "is24_7": true,
+          "closed": false,
           "opening": "",
           "closing": "",
           "note": null
         },
         {
           "day_TimePeriod": "Sunday",
-          "is24_7": false,
-          "closed": true,
+          "is24_7": true,
+          "closed": false,
           "opening": "",
           "closing": "",
           "note": null
@@ -56761,7 +56746,7 @@
       "costCenter": 1003250,
       "direction": "Entry via Russell St (Extension) or off Batman Ave (at Tennis Centre)\nOn event dates and busy periods, please use the Batman Ave Exit from Level 1 and allow additional time to exit. ",
       "heightRestriction": 2.1,
-      "information": "<p><span style=\"color: #ff1e25;\"><strong><u>Power Shutdown</u></strong></span></p>\n<p><span style=\"color: #ff1e25;\">Due to planned power shutdown. The car park will be closed and not accessible from 11pm Sunday 15th March until 7am Monday 16th March 2026.</span></p>\n<p><span style=\"color: #ff1e25;\"><strong><u>Event Dates March 2026<br /></u></strong></span></p>\n<ul>\n<li><span style=\"color: #ff1e25;\">2nd, 3rd, 5th, 6th, 10th, 12th, 13th, 14th, 19th, 20th, 22nd, 26th, 27</span><sup style=\"color: #ff1e25;\">th</sup><span style=\"color: #ff1e25;\">&nbsp;from 4:00pm to 11:59pm.</span></li>\n<li><span style=\"color: #ff1e25;\">15th, 21<sup>st</sup>&nbsp;and 29<sup>th</sup>&nbsp;from 11:00am to 11:59pm.</span></li>\n<li><span style=\"color: #ff1e25;\">1st, 7th, 8<sup>th</sup>&nbsp;from 8:00am to 11:59pm.</span></li>\n</ul>\n<p><span style=\"color: #ff1e25;\">Event rates will apply.</span><br /><span style=\"color: #ff1e25;\"><em>On event dates, please allow additional time to exit.</em></span></p>\n<p>Wilson Parking offers affordable &amp; secure parking at Federation Square Car Park, located on Russell St (Extension) in the Melbourne CBD. This car park is nearby to many popular attractions, including Federation Square, Flinders St Station, Birrarung Marr, Rod Laver Arena and Melbourne Park. Offering casual Early Bird, Hourly, Night and Weekend parking, with exclusive discounts when you prepay online, the Federation Square Car Park will meet all of your parking needs.</p>\n<p><span style=\"color: #000000;\"><strong>On event dates and busy periods, please use the Batman Avenue Exit from Level 1 and allow additional time to exit.</strong></span></p>\n<p>Download the Wilson Parking App to plan your journey and access exclusive discounts when you prepay online; pay as you go with one convenient monthly invoice when you use your Wilson Parking Card; enjoy 24/7 unlimited access when you subscribe to Monthly Parking; or just drive up to pay with a credit card at the car park.</p>",
+      "information": "<p><span style=\"color: #ff1e25;\"><strong><u>Event Dates March 2026<br /></u></strong></span></p>\n<ul>\n<li><span style=\"color: #ff1e25;\">2nd, 3rd, 5th, 6th, 10th, 12th, 13th, 14th, 19th, 20th, 22nd, 26th, 27</span><sup style=\"color: #ff1e25;\">th</sup><span style=\"color: #ff1e25;\">&nbsp;from 4:00pm to 11:59pm.</span></li>\n<li><span style=\"color: #ff1e25;\">15th, 21<sup>st</sup>&nbsp;and 29<sup>th</sup>&nbsp;from 11:00am to 11:59pm.</span></li>\n<li><span style=\"color: #ff1e25;\">1st, 7th, 8<sup>th</sup>&nbsp;from 8:00am to 11:59pm.</span></li>\n</ul>\n<p><span style=\"color: #ff1e25;\">Event rates will apply.</span><br /><span style=\"color: #ff1e25;\"><em>On event dates, please allow additional time to exit.</em></span></p>\n<p>Wilson Parking offers affordable &amp; secure parking at Federation Square Car Park, located on Russell St (Extension) in the Melbourne CBD. This car park is nearby to many popular attractions, including Federation Square, Flinders St Station, Birrarung Marr, Rod Laver Arena and Melbourne Park. Offering casual Early Bird, Hourly, Night and Weekend parking, with exclusive discounts when you prepay online, the Federation Square Car Park will meet all of your parking needs.</p>\n<p><span style=\"color: #000000;\"><strong>On event dates and busy periods, please use the Batman Avenue Exit from Level 1 and allow additional time to exit.</strong></span></p>\n<p>Download the Wilson Parking App to plan your journey and access exclusive discounts when you prepay online; pay as you go with one convenient monthly invoice when you use your Wilson Parking Card; enjoy 24/7 unlimited access when you subscribe to Monthly Parking; or just drive up to pay with a credit card at the car park.</p>",
       "isWilsonOne": true,
       "legacyID": 94,
       "monthlyParkingServiceIsAvailable": true,
@@ -58724,14 +58709,10 @@
         },
         {
           "rateType": "Night",
-          "notes": "<p>Mon - Thurs 5:00 pm-7:00 pm</p>\n<p>Fri 5:00 pm - 9:00 pm</p>\n<p>Online rate shown includes transaction fee. Click the <strong>Prepay now</strong> link below to get started.</p>",
+          "notes": "<p>From 5:00 pm - 6:00 am on next day</p>\n<p>Online rate shown includes transaction fee. Click the <strong>Prepay now</strong> link below to get started.</p>",
           "rates": [
             {
-              "timeSpan": "Mon - Thurs",
-              "price": 15.0
-            },
-            {
-              "timeSpan": "Fri",
+              "timeSpan": "Mon - Fri",
               "price": 15.0
             }
           ]
@@ -84365,7 +84346,20 @@
         "latitude": -32.0515796137084,
         "zoom": 13,
         "address": "34 Orr Street, Maddington",
-        "region": null
+        "region": {
+          "name": "Maddington",
+          "longitude": -32.0449259532052,
+          "latitude": 115.98918553314,
+          "status": "",
+          "state": {
+            "name": "Western Australia",
+            "abbreviation": "WA",
+            "country": "Australia",
+            "longitude": 123.41536223888397,
+            "latitude": -25.833723163507287,
+            "status": ""
+          }
+        }
       },
       "openingTimes": [
         {
@@ -84433,7 +84427,7 @@
           "note": null
         }
       ],
-      "url": "/parking-locations/western-australia/centrepoint-church/",
+      "url": "/parking-locations/western-australia/maddington/centrepoint-church/",
       "serviceConfiguration": {
         "canBookABay": false,
         "bookABayIconLabel": "Prepay Online",
@@ -84457,7 +84451,7 @@
           }
         ]
       },
-      "state": null,
+      "state": "WA",
       "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
       "price": "",
       "status": "",
