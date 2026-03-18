@@ -25019,20 +25019,23 @@
       "canBookABay": false,
       "selectedFeatures": "",
       "carParkFeature": [
+        "Monthly Parking",
         "Entry height at least 2"
       ],
-      "services": [],
+      "services": [
+        "monthly"
+      ],
       "carParkName": "Parramatta Station",
       "carParkNumber": 2429,
-      "carParkPhoto": "/siteassets/parking-location-images/nsw/syd429.jpg",
+      "carParkPhoto": null,
       "category": "",
       "costCenter": 1002429,
       "direction": "Entry via 15 Wentworth St",
       "heightRestriction": 2.0,
-      "information": "<p>Wilson Parking offer affordable &amp; reliable parking&nbsp;at Parramatta Station&nbsp;Car Park, located at 15 Wentworth Street&nbsp;in the heart of Parramatta.</p>\n<p>Parramatta Station car park offers Casual hourly parking Monday to Sunday, conveniently located with easy access to nearby restaurants, cafes and retail stores.&nbsp;Parramatta Station car park will meet all your leisure and business parking needs.&nbsp;</p>",
+      "information": "<p>Wilson Parking offers affordable &amp; reliable parking&nbsp;at Parramatta Station&nbsp;Car Park, located at 15 Wentworth Street&nbsp;in the heart of Parramatta.</p>\n<p>Open 24/7, this undercover car park is conveniently located near the Parramatta Train Station, providing a convenient parking option for train commuters. Also nearby to Church St Mall, Westfield Parramatta and other Parramatta hotels and restaurants, the Parramatta Station Car Park offers casual hourly parking to meet all your parking needs.&nbsp;</p>\n<p>Monthly Parking available - enjoy unlimited access when you subscribe to Monthly Parking;</p>",
       "isWilsonOne": false,
       "legacyID": 2429,
-      "monthlyParkingServiceIsAvailable": false,
+      "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
       "phoneNumber": "1800 PARKING (1800 7272 546)",
@@ -25043,7 +25046,7 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Rates apply from 6am daily.&nbsp;</p>",
+          "notes": "<p>Rates apply from 6am daily.&nbsp;<br />*$14 rate for parking up to 3-18 hours applicable until further notice.<br />Motor Bikes - 50% fees apply, press intercom for assistance</p>",
           "rates": [
             {
               "timeSpan": "0.0 - 1.0 hrs",
@@ -25064,13 +25067,19 @@
             {
               "timeSpan": "18.0 +  hrs",
               "price": 30.0
-            },
+            }
+          ]
+        },
+        {
+          "rateType": "Weekend",
+          "notes": null,
+          "rates": [
             {
-              "timeSpan": "0.0 - 4.0 hrs",
+              "timeSpan": "Up to 4 hours",
               "price": 0.0
             },
             {
-              "timeSpan": "4.0 + hrs",
+              "timeSpan": "4+ hours (flat rate)",
               "price": 10.0
             }
           ]
@@ -25177,7 +25186,7 @@
         "canBookABay": false,
         "bookABayIconLabel": "Prepay Online",
         "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingServiceIsAvailable": true,
         "monthlyParkingIconLabel": "Monthly Subscription",
         "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
         "isWilsonOne": false,
@@ -25192,7 +25201,7 @@
         "additionalServices": []
       },
       "state": "NSW",
-      "imgUrl": "/siteassets/parking-location-images/nsw/syd429.jpg",
+      "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
       "price": "",
       "status": "",
       "cpmsCarparkCode": null,
@@ -25390,12 +25399,12 @@
       "services": [],
       "carParkName": "Parramatta Square",
       "carParkNumber": 2428,
-      "carParkPhoto": "/siteassets/parking-location-images/nsw/syd428.jpg",
+      "carParkPhoto": null,
       "category": "",
       "costCenter": 1002428,
       "direction": "Corner of Smith and Darcy Street",
       "heightRestriction": 3.8,
-      "information": "<p>Wilson Parking offer affordable &amp; reliable parking at Parramatta Square&nbsp;Car Park, located at Corner of Smith and Darcy Street&nbsp;in the heart of Parramatta.</p>\n<p>Parramatta Square offers Casual hourly parking Monday to Sunday, conveniently located with easy access to nearby restaurants, cafes and retail stores.&nbsp;Parramatta Square car park will meet all your leisure and business parking needs.&nbsp;</p>",
+      "information": "<p>Wilson Parking offers affordable &amp; reliable parking at Parramatta Square&nbsp;Car Park, located at the corner of Smith and Darcy Street&nbsp;in the heart of Parramatta.</p>\n<p>Open 24/7 this undercover car park is conveniently located near Parramatta Square, Parramatta Library, Westfield Parramatta, Church St Mall. With easy access to nearby restaurants, cafes and retail stores, the Parramatta Square car park offers casual hourly parking to meet all your parking needs.&nbsp;</p>",
       "isWilsonOne": false,
       "legacyID": 2428,
       "monthlyParkingServiceIsAvailable": false,
@@ -25409,7 +25418,7 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<div>Rates apply from 6am daily, Available Monday to Sundat</div>\n<div>&nbsp;</div>\n<div>Motor Bikes &ndash; 50% off. Press interom on exit for assistance</div>",
+          "notes": "<div>Rates apply from 6am daily, available Monday to Sunday.</div>\n<div>&nbsp;</div>\n<div>Motor Bikes &ndash; 50% off. Press intercom on exit for assistance</div>",
           "rates": [
             {
               "timeSpan": "0.0 - 1.0 hrs",
@@ -25550,7 +25559,7 @@
         "additionalServices": []
       },
       "state": "NSW",
-      "imgUrl": "/siteassets/parking-location-images/nsw/syd428.jpg",
+      "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
       "price": "",
       "status": "",
       "cpmsCarparkCode": null,
@@ -25563,9 +25572,12 @@
       "canBookABay": false,
       "selectedFeatures": "",
       "carParkFeature": [
+        "Monthly Parking",
         "Entry height at least 2"
       ],
-      "services": [],
+      "services": [
+        "monthly"
+      ],
       "carParkName": "Eat Street Car Park",
       "carParkNumber": 2425,
       "carParkPhoto": null,
@@ -25573,10 +25585,10 @@
       "costCenter": 1002425,
       "direction": "Car Park entry from Erby Place and Horwood Place",
       "heightRestriction": 2.0,
-      "information": "<p>Wilson Parking offer affordable &amp; secure parking at Eat St Car Park, located at 30 George St, in Parramatta's dining precinct.<br /><br />Eat St Car Park offers&nbsp;Casual parking&nbsp;available Monday to Sunday, with convenient access to nearby restaurants, bars &amp; cafes, including nearby Westfield Shopping Centre. Eat St Car Park will meet all your parking needs.</p>",
+      "information": "<p>Wilson Parking offers affordable &amp; reliable parking at Eat St Car Park, located in the heart of Parramatta's dining precinct.</p>\n<p>Open 24/7, and with entry from Erby Pl or Horwood Pl, this undercover car park is conveniently located near the Riverside Theatres, Church St Mall, and Parramatta's vibrant Eat Street precinct. With easy access to nearby restaurants, cafes and retail stores, the Eat St Car Park offers casual hourly parking to meet all your parking needs.&nbsp;</p>\n<p>Monthly Parking available - enjoy unlimited access when you subscribe to Monthly Parking;</p>",
       "isWilsonOne": false,
       "legacyID": 1002425,
-      "monthlyParkingServiceIsAvailable": false,
+      "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
       "phoneNumber": "1800-PARKING",
@@ -25587,7 +25599,7 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Motor Bikes - 50% fee's apply. Press intercom for assistance</p>\n<p>Lost ticket - $50.00</p>",
+          "notes": "<p>Rates available Monday - Saturday</p>\n<p>Motor Bikes - 50% fees apply. Press intercom for assistance</p>\n<p>Lost ticket - $50.00</p>",
           "rates": [
             {
               "timeSpan": "0.0 - 1.0 hrs",
@@ -25616,13 +25628,19 @@
             {
               "timeSpan": "12.0 + hrs",
               "price": 50.0
-            },
+            }
+          ]
+        },
+        {
+          "rateType": "Weekend",
+          "notes": null,
+          "rates": [
             {
-              "timeSpan": "0.0 - 2.0 hrs",
+              "timeSpan": "Up to 2 hours",
               "price": 0.0
             },
             {
-              "timeSpan": "2.0 + hrs",
+              "timeSpan": "2+ hours (flat rate)",
               "price": 15.0
             }
           ]
@@ -25713,7 +25731,7 @@
         "canBookABay": false,
         "bookABayIconLabel": "Prepay Online",
         "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingServiceIsAvailable": true,
         "monthlyParkingIconLabel": "Monthly Subscription",
         "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
         "isWilsonOne": false,
@@ -26170,9 +26188,12 @@
       "canBookABay": false,
       "selectedFeatures": "",
       "carParkFeature": [
+        "Monthly Parking",
         "Entry height at least 2"
       ],
-      "services": [],
+      "services": [
+        "monthly"
+      ],
       "carParkName": "Justice Precinct Car Park",
       "carParkNumber": 2426,
       "carParkPhoto": null,
@@ -26180,21 +26201,21 @@
       "costCenter": 1002426,
       "direction": "4 - 14 Hunter Street Parramatta",
       "heightRestriction": 2.0,
-      "information": "<p>Wilson Parking offer affordable &amp; secure parking at Justice Precinct Car Park, located at 4-14 Hunter St, in Parramatta's CBD.</p>\n<p>With convenient access to Parramatta courthouse and government services and Club Parramatta.</p>\n<p>Offering casual rates for everyday parking, the Justice Precinct Car Park will meet all your parking needs.</p>",
+      "information": "<p>Wilson Parking offers affordable &amp; reliable parking at Justice Precinct Car Park, located at 4-14 Hunter St, in Parramatta's CBD.</p>\n<p>Open 24/7, this undercover car park is conveniently located near Parramatta courthouse, assorted government services, Club Parramatta and Parramatta Park. With easy access to Parramatta's retail centre and other restaurants, cafes and hotels, the Justice Precinct car park offers casual hourly parking to meet all your parking needs.&nbsp;</p>\n<p>Monthly Parking available - enjoy unlimited access when you subscribe to Monthly Parking;</p>",
       "isWilsonOne": false,
       "legacyID": 1002426,
-      "monthlyParkingServiceIsAvailable": false,
+      "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
-      "phoneNumber": "1800-PARKING",
+      "phoneNumber": "1800 PARKING",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": null,
-      "streetViewLocation": null,
+      "streetViewLocation": "https://www.google.com/maps/@?api=1&map_action=pano&pano=xbtXmga6xrQ45KnzpMLu7A&viewpoint=-33.815047359623684,150.9984942302464&heading=64.52753605213071&pitch=-6.280641825519368&zoom=0.9999999999999997",
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Motorbikes are charged at 50% of Casual Parking Rates</p>\n<p>Rates apply from time of entry to time of exit.</p>",
+          "notes": "<p>Available Monday - Saturday</p>\n<p>Motorbikes are charged at 50% of Casual Parking Rates. Press intercom for assistance.</p>\n<p>*$14 rate for parking up to 4-18 hours applicable until further notice.</p>",
           "rates": [
             {
               "timeSpan": "0.0 - 1.0 hrs",
@@ -26219,13 +26240,19 @@
             {
               "timeSpan": "18.0 + hrs",
               "price": 27.0
-            },
+            }
+          ]
+        },
+        {
+          "rateType": "Weekend",
+          "notes": null,
+          "rates": [
             {
-              "timeSpan": "0.0 - 4.0 hrs",
+              "timeSpan": "Up to 4 hours",
               "price": 0.0
             },
             {
-              "timeSpan": "4.0 + hrs",
+              "timeSpan": "4+ hours (flat rate)",
               "price": 10.0
             }
           ]
@@ -26301,6 +26328,14 @@
           "opening": "",
           "closing": "",
           "note": null
+        },
+        {
+          "day_TimePeriod": "Sunday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
         }
       ],
       "url": "/parking-locations/new-south-wales/parramatta/justice-precinct-car-park/",
@@ -26308,7 +26343,7 @@
         "canBookABay": false,
         "bookABayIconLabel": "Prepay Online",
         "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingServiceIsAvailable": true,
         "monthlyParkingIconLabel": "Monthly Subscription",
         "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
         "isWilsonOne": false,
@@ -26866,77 +26901,45 @@
       "carParkFeature": [],
       "services": [],
       "carParkName": "Parramatta Aquatic Centre (PAC)",
-      "carParkNumber": 0,
+      "carParkNumber": 2427,
       "carParkPhoto": null,
       "category": "",
       "costCenter": 1002427,
       "direction": "7 Park Parade, Parramatta",
       "heightRestriction": 0.0,
-      "information": "<p>Wilson Parking offer affordable &amp; secure casual parking at Parramatta Aquatic Centre Car Park, located at Park Parade Parramatta.</p>\n<p>Parramatta Aquatic Centre Car Park offers Casual parking available Monday to Sunday suits all your leisure parking needs in the Parramatta Park precinct.&nbsp;</p>",
+      "information": "<p>Wilson Parking offer affordable &amp; reliable parking at Parramatta Aquatic Centre Car Park, located within the Parramatta Aquatic Centre, on Park Parade Parramatta.</p>\n<p>Open 24/7, this open air car park offers casual parking for patrons of the Parramatta Aquatic Centre, including the first 2 hours free for eligible patrons.&nbsp;</p>",
       "isWilsonOne": false,
       "legacyID": 1002427,
       "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
-      "phoneNumber": "1800-PARKING",
+      "phoneNumber": "1800 PARKING",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": null,
-      "streetViewLocation": null,
+      "streetViewLocation": "https://www.google.com/maps/@?api=1&map_action=pano&pano=ES3unPhl22XejeBRVuBMsg&viewpoint=-33.8129153974424,150.99448163285595&heading=209.96143192289895&pitch=5.5168916428177255&zoom=0.9999999999999997",
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": null,
+          "notes": "<p>Parking at the PAC is timed, the first 2 hours are free for eligible patrons. After this time, it will be charged at $3.50 per 30 minutes.</p>\n<p>The capped daily rate is $38.00.</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 0.5 mins",
+              "timeSpan": "First 2 hours - eligible patrons only",
+              "price": 0.0
+            },
+            {
+              "timeSpan": "Per 30 minutes",
               "price": 3.5
             },
             {
-              "timeSpan": "0. 5 - 1 hr",
-              "price": 7.0
-            },
-            {
-              "timeSpan": "1.0 - 1.5 hrs",
-              "price": 10.5
-            },
-            {
-              "timeSpan": "1.5 - 2.0 hrs",
-              "price": 14.0
-            },
-            {
-              "timeSpan": "2.0 - 2.5 hrs",
-              "price": 17.5
-            },
-            {
-              "timeSpan": "2.5 - 3.0 hrs",
-              "price": 21.0
-            },
-            {
-              "timeSpan": "3.0 - 3.5 hrs",
-              "price": 24.5
-            },
-            {
-              "timeSpan": "3.5 - 4.0 hrs",
-              "price": 28.0
-            },
-            {
-              "timeSpan": "4.0 - 4.5 hrs",
-              "price": 31.5
-            },
-            {
-              "timeSpan": "4.5 - 5.0 hrs",
-              "price": 35.0
-            },
-            {
-              "timeSpan": "5.0 + hrs",
+              "timeSpan": "Max Daily Rate",
               "price": 38.0
             }
           ]
         }
       ],
       "fromText": "From",
-      "fromPrice": "3.5",
+      "fromPrice": "0",
       "location": {
         "longitude": 150.992185467024,
         "latitude": -33.8106945570745,
@@ -43527,8 +43530,12 @@
       "bookText": null,
       "canBookABay": false,
       "selectedFeatures": "",
-      "carParkFeature": [],
-      "services": [],
+      "carParkFeature": [
+        "Monthly Parking"
+      ],
+      "services": [
+        "monthly"
+      ],
       "carParkName": "Little National Car Park",
       "carParkNumber": 1020,
       "carParkPhoto": null,
@@ -43539,7 +43546,7 @@
       "information": "<p>Wilson Parking offer affordable parking at Little National Car Park, located at National Circuit, Barton. This undercover car park is open 7 days and provides parking for Little National Hotel patrons and guests as well as convenient daily parking for visitors and businesses in the Barton area. Offering casual Hourly Parking and Monthly Permanent Parking, the Little National Car Park will meet all of your parking needs.</p>\n<p>Download the Wilson Parking App to plan your journey and enjoy the convenience of unlimited 24/7 access when you subscribe to monthly parking at the Little National Car Park.</p>",
       "isWilsonOne": false,
       "legacyID": 407,
-      "monthlyParkingServiceIsAvailable": false,
+      "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
       "phoneNumber": "1800 PARKING",
@@ -43676,7 +43683,7 @@
         "canBookABay": false,
         "bookABayIconLabel": "Prepay Online",
         "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingServiceIsAvailable": true,
         "monthlyParkingIconLabel": "Monthly Subscription",
         "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
         "isWilsonOne": false,
@@ -55474,16 +55481,6 @@
             {
               "timeSpan": "Sat - Sun & Public Holiday varies from $17.00 - $21.00",
               "price": 22.0
-            }
-          ]
-        },
-        {
-          "rateType": "Early Bird",
-          "notes": "<p>Enter between 6am - 10am and exit between 2pm and 7pm</p>",
-          "rates": [
-            {
-              "timeSpan": "Mon - Fri",
-              "price": 25.0
             }
           ]
         }
@@ -68084,7 +68081,7 @@
       "costCenter": 1004356,
       "direction": "Entry off Little Cribb Street",
       "heightRestriction": 2.2,
-      "information": "<p><span style=\"color: #ff1e25;\">Event Parking is available at this car park on the following dates: 12, 13, 14, 15, 21 &amp; 27 March. 2, 4 April.<br /></span></p>\n<p>Wilson Parking offers affordable &amp; secure parking at Milton Green&nbsp;car park, located at 19 Little Cribb Street&nbsp;in the heart of Milton. Open 7 days, this undercover car park provides convenient access to nearby Suncorp Stadium and surrounding entertainment and retail precinct. Offering hourly, night and weekend parking options with discounts when you prepay online, permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the Milton Green&nbsp;car park will meet all your business and leisure parking needs.&nbsp;</p>",
+      "information": "<p><span style=\"color: #ff1e25;\">Event Parking is available at this car park on the following dates: 21, 27 March.&nbsp;2, 4, 10, 11 April.<br /></span></p>\n<p>Wilson Parking offers affordable &amp; secure parking at Milton Green&nbsp;car park, located at 19 Little Cribb Street&nbsp;in the heart of Milton. Open 7 days, this undercover car park provides convenient access to nearby Suncorp Stadium and surrounding entertainment and retail precinct. Offering hourly, night and weekend parking options with discounts when you prepay online, permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the Milton Green&nbsp;car park will meet all your business and leisure parking needs.&nbsp;</p>",
       "isWilsonOne": false,
       "legacyID": 1004356,
       "monthlyParkingServiceIsAvailable": true,
@@ -71497,7 +71494,7 @@
       "costCenter": 1004298,
       "direction": "Entry via Dowse Street",
       "heightRestriction": 2.3,
-      "information": "<p><span style=\"color: #ff1e25;\">Event Parking is available at this car park on the following dates:</span><span style=\"color: #ff1e25;\"> 12, 13, 14, 15, 21 &amp; 27 March. 2, 4 April.</span></p>\n<p>Wilson Parking offers affordable and secure parking at&nbsp;Darling &amp; Co car park, located in the heart of Paddington. Open 7 days, this undercover car park provides convenient access to Lang Park (Suncorp Stadium). Offering casual and night parking, and exclusive discounts when you pay via the Wilson Parking app, the&nbsp;Darling &amp; Co car park will meet all your business and leisure parking needs.</p>\n<p>Car park closes at 11pm on event nights.</p>",
+      "information": "<p><span style=\"color: #ff1e25;\">Event Parking is available at this car park on the following dates:</span><span style=\"color: #ff1e25;\">&nbsp;21, 27 March.&nbsp;</span><span style=\"color: #ff1e25;\">2, 4, 10, 11 April.</span></p>\n<p>Wilson Parking offers affordable and secure parking at&nbsp;Darling &amp; Co car park, located in the heart of Paddington. Open 7 days, this undercover car park provides convenient access to Lang Park (Suncorp Stadium). Offering casual and night parking, and exclusive discounts when you pay via the Wilson Parking app, the&nbsp;Darling &amp; Co car park will meet all your business and leisure parking needs.</p>\n<p>Car park closes at 11pm on event nights.</p>",
       "isWilsonOne": false,
       "legacyID": 4298,
       "monthlyParkingServiceIsAvailable": true,
@@ -89320,8 +89317,8 @@
       "fromText": "From",
       "fromPrice": "7",
       "location": {
-        "longitude": 115.86252,
-        "latitude": -31.95541,
+        "longitude": 115.862491797684,
+        "latitude": -31.9554569002934,
         "zoom": 13,
         "address": "517 Hay Street, Perth",
         "region": {
@@ -91902,6 +91899,157 @@
       "featuredIndex": 0
     },
     {
+      "name": "Queen Street Motorcycle only",
+      "bookText": null,
+      "canBookABay": false,
+      "selectedFeatures": "",
+      "carParkFeature": [
+        "Epark"
+      ],
+      "services": [],
+      "carParkName": "Queen Street Motorcycle only",
+      "carParkNumber": 6114,
+      "carParkPhoto": "/contentassets/fc7fddc9ed754dde9d866f08e225e0ae/per114.jpg",
+      "category": "",
+      "costCenter": 1006114,
+      "direction": "Entry via Queen Street (one way)\nPedestrian access 24hrs.\nParking for Motorcycles only. Check the other Queen St car park for other parking options",
+      "heightRestriction": 2.0,
+      "information": "<p>Wilson Parking offer affordable motrocycle parking at Queen Street Car Park, located at the Corner of Wellington Street and Queen Street, Perth.&nbsp;</p>\n<p>Download the Wilson Parking App to pay and manage your motorbike parking directly from your phone.</p>\n<p>Looking for car parking at Queen St - check out our other parking options <a href=\"/link/558f2c33e18a40d79b88ffe9e45bfd87.aspx\">here</a></p>",
+      "isWilsonOne": false,
+      "legacyID": 1006114,
+      "monthlyParkingServiceIsAvailable": false,
+      "evChargerIsAvailable": false,
+      "disabledParkingIsAvailable": false,
+      "phoneNumber": "1800 PARKING",
+      "products": [],
+      "staticMapPhoto": null,
+      "streetViewHeading": "239.8317261225185",
+      "streetViewLocation": "https://www.google.com/maps/@?api=1&map_action=pano&pano=k1ycD_O88YoK1MQxqvoeUA&viewpoint=-31.951443813704,115.8564431819089&heading=239.8317261225185&pitch=8.096167684077528",
+      "rates": [],
+      "fromText": "From",
+      "fromPrice": "7",
+      "location": {
+        "longitude": 115.856522201382,
+        "latitude": -31.9508670421631,
+        "zoom": 13,
+        "address": "Corner of Wellington Street and Queen Street, Perth",
+        "region": {
+          "name": "Perth CBD",
+          "longitude": 115.86034952911382,
+          "latitude": -31.954708170013102,
+          "status": "",
+          "state": {
+            "name": "Western Australia",
+            "abbreviation": "WA",
+            "country": "Australia",
+            "longitude": 123.41536223888397,
+            "latitude": -25.833723163507287,
+            "status": ""
+          }
+        }
+      },
+      "openingTimes": [
+        {
+          "day_TimePeriod": "Monthly",
+          "is24_7": false,
+          "closed": false,
+          "opening": "05:00",
+          "closing": "22:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Monday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "05:00",
+          "closing": "22:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Tuesday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "05:00",
+          "closing": "22:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Wednesday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "05:00",
+          "closing": "22:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Thursday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "05:00",
+          "closing": "22:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Friday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "05:00",
+          "closing": "00:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Saturday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "05:00",
+          "closing": "00:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Sunday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "05:00",
+          "closing": "22:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Public Holiday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "05:00",
+          "closing": "22:00",
+          "note": null
+        }
+      ],
+      "url": "/parking-locations/western-australia/perth-cbd/queen-street-motorcycle-only/",
+      "serviceConfiguration": {
+        "canBookABay": false,
+        "bookABayIconLabel": "Prepay Online",
+        "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
+        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingIconLabel": "Monthly Subscription",
+        "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
+        "isWilsonOne": false,
+        "wilsonOneIconLabel": "Parking Card",
+        "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
+        "disabledParkingIsAvailable": false,
+        "disabledParkingIconLabel": "Disabled Parking",
+        "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
+        "evChargerIsAvailable": false,
+        "evChargerIconLabel": "EV Charging",
+        "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
+        "additionalServices": []
+      },
+      "state": "WA",
+      "imgUrl": "/contentassets/fc7fddc9ed754dde9d866f08e225e0ae/per114.jpg",
+      "price": "",
+      "status": "",
+      "cpmsCarparkCode": null,
+      "externalCarParkInfo": null,
+      "featuredIndex": 0
+    },
+    {
       "name": "Queen Street Car Park",
       "bookText": null,
       "canBookABay": true,
@@ -92134,157 +92282,6 @@
       },
       "state": "WA",
       "imgUrl": "/contentassets/9a5141f3b44a485ab0e62e75f8296298/per114.jpg",
-      "price": "",
-      "status": "",
-      "cpmsCarparkCode": null,
-      "externalCarParkInfo": null,
-      "featuredIndex": 0
-    },
-    {
-      "name": "Queen Street Motorcycle only",
-      "bookText": null,
-      "canBookABay": false,
-      "selectedFeatures": "",
-      "carParkFeature": [
-        "Epark"
-      ],
-      "services": [],
-      "carParkName": "Queen Street Motorcycle only",
-      "carParkNumber": 6114,
-      "carParkPhoto": "/contentassets/fc7fddc9ed754dde9d866f08e225e0ae/per114.jpg",
-      "category": "",
-      "costCenter": 1006114,
-      "direction": "Entry via Queen Street (one way)\nPedestrian access 24hrs.\nParking for Motorcycles only. Check the other Queen St car park for other parking options",
-      "heightRestriction": 2.0,
-      "information": "<p>Wilson Parking offer affordable motrocycle parking at Queen Street Car Park, located at the Corner of Wellington Street and Queen Street, Perth.&nbsp;</p>\n<p>Download the Wilson Parking App to pay and manage your motorbike parking directly from your phone.</p>\n<p>Looking for car parking at Queen St - check out our other parking options <a href=\"/link/558f2c33e18a40d79b88ffe9e45bfd87.aspx\">here</a></p>",
-      "isWilsonOne": false,
-      "legacyID": 1006114,
-      "monthlyParkingServiceIsAvailable": false,
-      "evChargerIsAvailable": false,
-      "disabledParkingIsAvailable": false,
-      "phoneNumber": "1800 PARKING",
-      "products": [],
-      "staticMapPhoto": null,
-      "streetViewHeading": "239.8317261225185",
-      "streetViewLocation": "https://www.google.com/maps/@?api=1&map_action=pano&pano=k1ycD_O88YoK1MQxqvoeUA&viewpoint=-31.951443813704,115.8564431819089&heading=239.8317261225185&pitch=8.096167684077528",
-      "rates": [],
-      "fromText": "From",
-      "fromPrice": "7",
-      "location": {
-        "longitude": 115.85642470417,
-        "latitude": -31.9511475529816,
-        "zoom": 13,
-        "address": "Corner of Wellington Street and Queen Street, Perth",
-        "region": {
-          "name": "Perth CBD",
-          "longitude": 115.86034952911382,
-          "latitude": -31.954708170013102,
-          "status": "",
-          "state": {
-            "name": "Western Australia",
-            "abbreviation": "WA",
-            "country": "Australia",
-            "longitude": 123.41536223888397,
-            "latitude": -25.833723163507287,
-            "status": ""
-          }
-        }
-      },
-      "openingTimes": [
-        {
-          "day_TimePeriod": "Monthly",
-          "is24_7": false,
-          "closed": false,
-          "opening": "05:00",
-          "closing": "22:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Monday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "05:00",
-          "closing": "22:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Tuesday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "05:00",
-          "closing": "22:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Wednesday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "05:00",
-          "closing": "22:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Thursday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "05:00",
-          "closing": "22:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Friday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "05:00",
-          "closing": "00:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Saturday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "05:00",
-          "closing": "00:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Sunday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "05:00",
-          "closing": "22:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Public Holiday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "05:00",
-          "closing": "22:00",
-          "note": null
-        }
-      ],
-      "url": "/parking-locations/western-australia/perth-cbd/queen-street-motorcycle-only/",
-      "serviceConfiguration": {
-        "canBookABay": false,
-        "bookABayIconLabel": "Prepay Online",
-        "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": false,
-        "monthlyParkingIconLabel": "Monthly Subscription",
-        "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
-        "isWilsonOne": false,
-        "wilsonOneIconLabel": "Parking Card",
-        "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
-        "disabledParkingIsAvailable": false,
-        "disabledParkingIconLabel": "Disabled Parking",
-        "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
-        "evChargerIsAvailable": false,
-        "evChargerIconLabel": "EV Charging",
-        "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "additionalServices": []
-      },
-      "state": "WA",
-      "imgUrl": "/contentassets/fc7fddc9ed754dde9d866f08e225e0ae/per114.jpg",
       "price": "",
       "status": "",
       "cpmsCarparkCode": null,
