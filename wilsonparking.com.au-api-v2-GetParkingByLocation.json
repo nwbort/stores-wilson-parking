@@ -54715,30 +54715,22 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Parking from $10, per 30 Mins - Maximum daily rate is $60.</p>\n<p>Hourly rates apply Monday to Friday - Rates are charged from 6:00 AM daily.</p>",
+          "notes": "<p>Rates apply Monday to Friday 6am daily</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 0.5 Hrs",
+              "timeSpan": "0.0 - 0.5 hrs",
               "price": 10.0
             },
             {
-              "timeSpan": "0.5 - 1.0 Hrs",
+              "timeSpan": "0.5 - 1.0 hrs",
               "price": 20.0
             },
             {
-              "timeSpan": "1.0 - 1.5 Hrs",
-              "price": 30.0
-            },
-            {
-              "timeSpan": "1.5 - 2.0 Hrs",
+              "timeSpan": "1.0 - 2.0 hrs",
               "price": 40.0
             },
             {
-              "timeSpan": "2.0 - 2.5 Hrs",
-              "price": 50.0
-            },
-            {
-              "timeSpan": "2.5 + Hrs",
+              "timeSpan": "2.0 + hrs",
               "price": 60.0
             }
           ]
@@ -54750,6 +54742,20 @@
             {
               "timeSpan": "Mon - Fri",
               "price": 20.0
+            }
+          ]
+        },
+        {
+          "rateType": "Overnight",
+          "notes": "<p>Price shown includes the transaction fee.</p>\n<p>Parking must be prepay online to receive the discount. Prepay online is available for parking stays between one&nbsp;and three&nbsp;nights.</p>\n<p><strong>Available for one entry and one exit only.</strong></p>",
+          "rates": [
+            {
+              "timeSpan": "1.0 - 2.0 hrs",
+              "price": 40.0
+            },
+            {
+              "timeSpan": "2.0 + hrs",
+              "price": 60.0
             }
           ]
         }
