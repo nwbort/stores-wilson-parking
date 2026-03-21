@@ -53410,8 +53410,12 @@
               "price": 14.0
             },
             {
-              "timeSpan": "2.0 hrs +",
+              "timeSpan": "2.0 - 3.0 hrs",
               "price": 19.0
+            },
+            {
+              "timeSpan": "3 + hrs",
+              "price": 29.0
             }
           ]
         },
@@ -53446,8 +53450,12 @@
               "price": 11.0
             },
             {
-              "timeSpan": "2.0+ hrs",
+              "timeSpan": "2.0 - 3.0 hrs",
               "price": 15.0
+            },
+            {
+              "timeSpan": "3.0 + hrs",
+              "price": 29.0
             },
             {
               "timeSpan": "Sat Night after 5pm from",
