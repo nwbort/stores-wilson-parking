@@ -35334,8 +35334,12 @@
       "bookText": null,
       "canBookABay": false,
       "selectedFeatures": "",
-      "carParkFeature": [],
-      "services": [],
+      "carParkFeature": [
+        "Monthly Parking"
+      ],
+      "services": [
+        "monthly"
+      ],
       "carParkName": "18 Honeysuckle Drive Car Park",
       "carParkNumber": 2314,
       "carParkPhoto": null,
@@ -35346,7 +35350,7 @@
       "information": "<p>Wilson Parking offer affordable &amp; secure Monthly parking at 18 Honeysuckle Drive, Newcastle.</p>",
       "isWilsonOne": false,
       "legacyID": 570,
-      "monthlyParkingServiceIsAvailable": false,
+      "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
       "phoneNumber": "1800 PARKING",
@@ -35392,7 +35396,7 @@
         "canBookABay": false,
         "bookABayIconLabel": "Prepay Online",
         "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingServiceIsAvailable": true,
         "monthlyParkingIconLabel": "Monthly Subscription",
         "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
         "isWilsonOne": false,
@@ -35924,154 +35928,6 @@
       },
       "state": "NSW",
       "imgUrl": "/siteassets/parking-location-images/nsw/syd172.jpg",
-      "price": "",
-      "status": "",
-      "cpmsCarparkCode": null,
-      "externalCarParkInfo": null,
-      "featuredIndex": 0
-    },
-    {
-      "name": "Loop Road Car Park",
-      "bookText": null,
-      "canBookABay": false,
-      "selectedFeatures": "",
-      "carParkFeature": [
-        "Epark"
-      ],
-      "services": [],
-      "carParkName": "Loop Road Car Park",
-      "carParkNumber": 2246,
-      "carParkPhoto": null,
-      "category": "",
-      "costCenter": 1002246,
-      "direction": null,
-      "heightRestriction": 0.0,
-      "information": "<p>Wilson Parking offer affordable &amp; secure parking at Loop Rd Car Park, located at King St in the heart of Newcastle CBD, Honeysuckle and Newcastle Waterfront restaurant Precints.&nbsp;</p>\n<p>Loop Rd Car Park suits all your leisure and business parking needs. With 4 hour Casual parking available 7 days.</p>",
-      "isWilsonOne": false,
-      "legacyID": 376,
-      "monthlyParkingServiceIsAvailable": false,
-      "evChargerIsAvailable": false,
-      "disabledParkingIsAvailable": false,
-      "phoneNumber": "1800 PARKING",
-      "products": [],
-      "staticMapPhoto": null,
-      "streetViewHeading": "96.47376616398151",
-      "streetViewLocation": "https://www.google.com/maps/@?api=1&map_action=pano&pano=qSfS1NDf7Q9XIPvZbEapCA&viewpoint=-32.92911523541158,151.7851777332471&heading=96.47376616398151&pitch=-9.92078767277421",
-      "rates": [],
-      "fromText": "From",
-      "fromPrice": "4",
-      "location": {
-        "longitude": 151.78521037101746,
-        "latitude": -32.92916104143206,
-        "zoom": 13,
-        "address": "King Street, Newcastle",
-        "region": {
-          "name": "Newcastle",
-          "longitude": 151.77183151245117,
-          "latitude": -32.918358672575174,
-          "status": "",
-          "state": {
-            "name": "New South Wales",
-            "abbreviation": "NSW",
-            "country": "Australia",
-            "longitude": 151.207430362701,
-            "latitude": -33.8662642500823,
-            "status": ""
-          }
-        }
-      },
-      "openingTimes": [
-        {
-          "day_TimePeriod": "Monday",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Tuesday",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Wednesday",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Thursday",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Friday",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Saturday",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Sunday",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Public Holiday",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        }
-      ],
-      "url": "/parking-locations/new-south-wales/newcastle/loop-road-car-park/",
-      "serviceConfiguration": {
-        "canBookABay": false,
-        "bookABayIconLabel": "Prepay Online",
-        "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": false,
-        "monthlyParkingIconLabel": "Monthly Subscription",
-        "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
-        "isWilsonOne": false,
-        "wilsonOneIconLabel": "Parking Card",
-        "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
-        "disabledParkingIsAvailable": false,
-        "disabledParkingIconLabel": "Disabled Parking",
-        "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
-        "evChargerIsAvailable": false,
-        "evChargerIconLabel": "EV Charging",
-        "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "additionalServices": [
-          {
-            "label": null,
-            "icon": null
-          }
-        ]
-      },
-      "state": "NSW",
-      "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
       "price": "",
       "status": "",
       "cpmsCarparkCode": null,
