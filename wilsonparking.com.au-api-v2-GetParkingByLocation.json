@@ -56426,19 +56426,11 @@
               "price": 28.0
             },
             {
-              "timeSpan": "1.0 - 1.5 Hours",
-              "price": 42.0
-            },
-            {
-              "timeSpan": "1.5 - 2.0 Hours",
+              "timeSpan": "1.0 - 2.0 Hours ",
               "price": 56.0
             },
             {
-              "timeSpan": "2.0 - 2.5 Hours",
-              "price": 70.0
-            },
-            {
-              "timeSpan": "2.5 + Hours",
+              "timeSpan": "2.0 + Hours",
               "price": 84.0
             }
           ]
@@ -56613,7 +56605,7 @@
       "costCenter": 1003250,
       "direction": "Entry via Russell St (Extension) or off Batman Ave (at Tennis Centre)\nOn event dates and busy periods, please use the Batman Ave Exit from Level 1 and allow additional time to exit. ",
       "heightRestriction": 2.1,
-      "information": "<p><span style=\"color: #ff1e25;\"><strong><u>Event Dates March 2026<br /></u></strong></span></p>\n<ul>\n<li><span style=\"color: #ff1e25;\">2nd, 3rd, 5th, 6th, 10th, 12th, 13th, 14th, 19th, 20th, 22nd, 26th, 27th, 31st&nbsp;from 4:00pm to 11:59pm.</span></li>\n<li><span style=\"color: #ff1e25;\">15th, 21st&nbsp;and 29th&nbsp;from 11:00am to 11:59pm.</span></li>\n<li><span style=\"color: #ff1e25;\">1st, 7th, 8th&nbsp;from 8:00am to 11:59pm.</span></li>\n</ul>\n<p><span style=\"color: #ff1e25;\">Event rates will apply.</span><br /><span style=\"color: #ff1e25;\"><em>On event dates, please allow additional time to exit.</em></span></p>\n<p>Wilson Parking offers affordable &amp; secure parking at Federation Square Car Park, located on Russell St (Extension) in the Melbourne CBD. This car park is nearby to many popular attractions, including Federation Square, Flinders St Station, Birrarung Marr, Rod Laver Arena and Melbourne Park. Offering casual Early Bird, Hourly, Night and Weekend parking, with exclusive discounts when you prepay online, the Federation Square Car Park will meet all of your parking needs.</p>\n<p><span style=\"color: #000000;\"><strong>On event dates and busy periods, please use the Batman Avenue Exit from Level 1 and allow additional time to exit.</strong></span></p>\n<p>Download the Wilson Parking App to plan your journey and access exclusive discounts when you prepay online; pay as you go with one convenient monthly invoice when you use your Wilson Parking Card; enjoy 24/7 unlimited access when you subscribe to Monthly Parking; or just drive up to pay with a credit card at the car park.</p>",
+      "information": "<p><span style=\"color: #ff1e25;\"><strong><u>Event Dates March 2026<br /></u></strong></span></p>\n<ul>\n<li><span style=\"color: #ff1e25;\">26th, 27th, 31st&nbsp;from 4:00pm to 11:59pm.</span></li>\n<li><span style=\"color: #ff1e25;\">29th&nbsp;from 11:00am to 11:59pm.</span></li>\n</ul>\n<p><span style=\"color: #ff1e25;\">Event rates will apply.</span><br /><span style=\"color: #ff1e25;\"><em>On event dates, please allow additional time to exit.</em></span></p>\n<p>Wilson Parking offers affordable &amp; secure parking at Federation Square Car Park, located on Russell St (Extension) in the Melbourne CBD. This car park is nearby to many popular attractions, including Federation Square, Flinders St Station, Birrarung Marr, Rod Laver Arena and Melbourne Park. Offering casual Early Bird, Hourly, Night and Weekend parking, with exclusive discounts when you prepay online, the Federation Square Car Park will meet all of your parking needs.</p>\n<p><span style=\"color: #000000;\"><strong>On event dates and busy periods, please use the Batman Avenue Exit from Level 1 and allow additional time to exit.</strong></span></p>\n<p>Download the Wilson Parking App to plan your journey and access exclusive discounts when you prepay online; pay as you go with one convenient monthly invoice when you use your Wilson Parking Card; enjoy 24/7 unlimited access when you subscribe to Monthly Parking; or just drive up to pay with a credit card at the car park.</p>",
       "isWilsonOne": true,
       "legacyID": 94,
       "monthlyParkingServiceIsAvailable": true,
@@ -58855,23 +58847,23 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Drive Up Conditions : Enter anytime between 6:00 am - 4:00 pm, Exit before Close.</p>\n<p>Monday &ndash; Friday</p>",
+          "notes": "<p>Drive Up Conditions: Enter anytime between 6:00 am - 4:00 pm, Exit before Close.</p>\n<p>Monday &ndash; Friday</p>",
           "rates": [
             {
               "timeSpan": "0.0  - 0.5 Hours",
-              "price": 12.0
+              "price": 13.0
             },
             {
               "timeSpan": "0.5 - 1.0 Hours",
-              "price": 24.0
+              "price": 26.0
             },
             {
               "timeSpan": "1.0 - 2.0 Hours",
-              "price": 48.0
+              "price": 52.0
             },
             {
               "timeSpan": "2.0 - 3.0 Hours",
-              "price": 72.0
+              "price": 78.0
             },
             {
               "timeSpan": "3.0 + Hours  (Max daily rate)",
@@ -58901,7 +58893,7 @@
         }
       ],
       "fromText": "From",
-      "fromPrice": "12",
+      "fromPrice": "13",
       "location": {
         "longitude": 144.960221360693,
         "latitude": -37.8134591138476,
@@ -60571,7 +60563,7 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Rates apply Monday - Friday, 6:00am to 4:00pm</p>",
+          "notes": "<p>Rates apply Monday - Friday, 6:00 am to 4:00 pm</p>",
           "rates": [
             {
               "timeSpan": "0.0 - 0.5 Hours",
@@ -60582,19 +60574,11 @@
               "price": 30.0
             },
             {
-              "timeSpan": "1.0 - 1.5 Hours",
-              "price": 45.0
-            },
-            {
-              "timeSpan": "1.5 - 2.0 Hours",
+              "timeSpan": "1.0 - 2.0 Hours",
               "price": 60.0
             },
             {
-              "timeSpan": "2.0 - 2.5 Hours",
-              "price": 75.0
-            },
-            {
-              "timeSpan": "2.5 + Hours",
+              "timeSpan": "2.0 + Hours",
               "price": 90.0
             }
           ]
@@ -69857,7 +69841,7 @@
       "costCenter": 1004060,
       "direction": "Entry via Market Street",
       "heightRestriction": 2.0,
-      "information": "<p>Wilson Parking offers affordable and secure parking at 10 Eagle Street, Brisbane. Conveniently located near Eagle Street Pier, popular Brisbane restaurants, and the Brisbane CBD, this is perfect for both commuter and leisure parking. Offering Hourly, Night and Weekend parking, as well as discount online parking options, the 10 Eagle Street (Gold Tower) car park, will meet all your parking needs.&nbsp;</p>\n<p>Save when you prepay your parking online or with the Wilson Parking App; enjoy convenient unlimited 24/7 access; or pay as you go with the queue-less, contact free Wilson Parking Card.</p>\n<p>Car park roller doors are open on weekdays 6am-6pm (excluding public holidays). Please refer to instructions at the entry of the car park for access outside these times</p>",
+      "information": "<p>Wilson Parking offers affordable and secure parking at 10 Eagle Street, Brisbane. Conveniently located near Eagle Street Pier, popular Brisbane restaurants, and the Brisbane CBD, this is perfect for both commuter and leisure parking. Offering Hourly, Night and Weekend parking, as well as discount online parking options, the 10 Eagle Street (Gold Tower) car park, will meet all your parking needs.&nbsp;</p>\n<p>Save when you prepay your parking online or with the Wilson Parking App; enjoy convenient unlimited 24/7 access; or pay as you go with the queue-less, contact free Wilson Parking Card.</p>\n<p><strong>Car park access</strong><br />Car park roller doors are open on weekdays 6am-6pm (excluding public holidays). Please refer to instructions at the entry of the car park for access outside these times.</p>",
       "isWilsonOne": true,
       "legacyID": 486,
       "monthlyParkingServiceIsAvailable": true,
@@ -69897,7 +69881,7 @@
         },
         {
           "rateType": "Night",
-          "notes": "<p>Per exit. Enter after 5:00pm and exit before 10:00pm.</p>\n<p>Online rates include transaction fee. Click the&nbsp;<strong>Prepay now</strong> link below to get started.</p>",
+          "notes": "<p>Per exit. Enter after 5:00pm and exit before 10:00pm.</p>\n<p>Online rates include transaction fee. Click the&nbsp;<strong>Prepay now</strong> link below to get started.</p>\n<p><strong>For car park access after 6pm</strong>, please refer to roller door instructions at the entry of the car park.</p>",
           "rates": [
             {
               "timeSpan": "Weeknights",
@@ -69907,7 +69891,7 @@
         },
         {
           "rateType": "Weekend",
-          "notes": "<p>Flat rate per day, per exit. Enter after 6:00am and exit before 10:00pm</p>",
+          "notes": "<p>Flat rate per day, per exit. Enter after 6:00am and exit before 10:00pm</p>\n<p><strong>For car park access</strong>, please refer to roller door instructions at the entry of the car park.</p>",
           "rates": [
             {
               "timeSpan": "Weekends",
@@ -72712,7 +72696,19 @@
           "notes": "<p>Enter after 4pm, exit before 12am</p>",
           "rates": [
             {
-              "timeSpan": "Flat Rate",
+              "timeSpan": "0.0 - 1.0 hrs",
+              "price": 0.0
+            },
+            {
+              "timeSpan": "1.0 - 1.5 hrs",
+              "price": 7.0
+            },
+            {
+              "timeSpan": "1.5 - 2.0 hrs",
+              "price": 14.0
+            },
+            {
+              "timeSpan": "2.0 + hrs",
               "price": 16.0
             }
           ]
@@ -78229,7 +78225,7 @@
           "rates": [
             {
               "timeSpan": "Flat Rate",
-              "price": 19.0
+              "price": 15.0
             }
           ]
         }
