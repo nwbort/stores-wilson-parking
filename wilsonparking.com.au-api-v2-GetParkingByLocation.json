@@ -9626,7 +9626,7 @@
       "carParkPhoto": null,
       "category": "",
       "costCenter": 1002109,
-      "direction": "Vivid Sydney Parking Notice - Due to expected road closures, Prepaid Parking may not be available for entry after 5pm from 23 May to 14 June. Drive Up Parking may be available, with access managed by Vivid Sydney support teams. ",
+      "direction": null,
       "heightRestriction": 2.2,
       "information": "<p>Wilson Parking offer affordable &amp; secure parking at Market City Car Park, located at 2 Quay Street, Haymarket in the heart of China Town. The car park provides parking for Market City visitors for both shopping and dining and is close to UTS and Ultimo Tafe, Darling Harbour Restaurants, Bar and shopping precincts, as well as the Capitol Theatre.&nbsp;Offering casual Hourly and Night Parking options, with exclusive discounts when you prepay online, and permanent monthly parking for regular parkers, the Market Car Park&nbsp;suits all your leisure and business parking needs.&nbsp;</p>\n<p>Download the Wilson Parking App to plan your journey and access exclusive discounts; or enjoy unlimited 24/7 access when you subscribe to Monthly Parking.</p>",
       "isWilsonOne": false,
@@ -92387,6 +92387,7 @@
       "canBookABay": true,
       "selectedFeatures": "",
       "carParkFeature": [
+        "Monthly Parking",
         "Night Parking",
         "Weekend Parking",
         "Early Bird Parking",
@@ -92399,6 +92400,7 @@
       "services": [
         "book a bay",
         "wilson one",
+        "monthly",
         "disabled parking"
       ],
       "carParkName": "Westralia Square",
@@ -92411,7 +92413,7 @@
       "information": "<p>Wilson Parking offer affordable and convenient parking at Westralia Square, located at 24 Mounts Bay Rd, Perth. Open 7 days, and late on Friday and Saturday, this car park is ideal for visitors to Elizabeth Quay and other surrounding Perth businesses. Offering casual Hourly, Daily, Night and Weekend, as well as exclusive savings when you prepay online or with the Wilson Parking App,&nbsp;the Westralia Square Car Park will meet all of your parking needs.</p>\n<p>Download the Wilson Parking App to plan your journey, prepay ahead and access exclusive savings, or just drive up, pay with your credit card, pay as you go with the Wilson Parking Card.</p>",
       "isWilsonOne": true,
       "legacyID": 155,
-      "monthlyParkingServiceIsAvailable": false,
+      "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": true,
       "phoneNumber": "1800 PARKING",
@@ -92584,7 +92586,7 @@
         "canBookABay": true,
         "bookABayIconLabel": "Prepay Online",
         "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingServiceIsAvailable": true,
         "monthlyParkingIconLabel": "Monthly Subscription",
         "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
         "isWilsonOne": true,
@@ -93899,6 +93901,7 @@
       "canBookABay": true,
       "selectedFeatures": "",
       "carParkFeature": [
+        "Monthly Parking",
         "Night Parking",
         "Weekend Parking",
         "Early Bird Parking",
@@ -93911,7 +93914,8 @@
       ],
       "services": [
         "book a bay",
-        "wilson one"
+        "wilson one",
+        "monthly"
       ],
       "carParkName": "St Georges Square Car Park",
       "carParkNumber": 6055,
@@ -93923,7 +93927,7 @@
       "information": "<p>Wilson Parking offer affordable &amp; convenient parking at our St Georges Square Car Park, located at 225 St Georges Tce, Perth, with the entry of Spring St. Open 7 days until late, this undercover car park is conveniently located in the Perth CBD, offering all day parking for visitors to nearby Perth businesses. Offering casual Hourly, Night and Weekend Parking and exclusive discounts when you prepay online or with the Wilson Parking App, the St Georges Square Car Park will meet all your Perth parking needs.&nbsp;</p>\n<p>Download the Wilson Parking App or prepay online to plan ahead and access exclusive discounts, or just drive up and pay with your credit card,&nbsp;pay as you go with a Wilson Parking card, or enjoy unlimited access within the operational hours of the car park when you subscribe to Monthly Parking. &nbsp;</p>",
       "isWilsonOne": true,
       "legacyID": 136,
-      "monthlyParkingServiceIsAvailable": false,
+      "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
       "phoneNumber": "1800 PARKING",
@@ -94100,7 +94104,7 @@
         "canBookABay": true,
         "bookABayIconLabel": "Prepay Online",
         "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingServiceIsAvailable": true,
         "monthlyParkingIconLabel": "Monthly Subscription",
         "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
         "isWilsonOne": true,
