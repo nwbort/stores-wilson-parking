@@ -58116,7 +58116,7 @@
       "costCenter": 1003204,
       "direction": "Entry via La Trobe and A'Beckett Street",
       "heightRestriction": 2.0,
-      "information": "<p>Wilson Parking offers affordable &amp; secure parking at 300 La Trobe St Car Park,&nbsp; located at 300 La Trobe Street, Melbourne. Nearby to Melbourne Central, Melbourne Institue of Technology and other local attractions, this undercover car park offers casual, Weekend and Night parking, with additional savings when you prepay online. Regular parkers can enjoy unlimited access with the best parking value when you subscribe to monthly parking. The 300 La Trobe St Car Park will meet all of your parking needs.</p>\n<p>This car park accepts Credit Card payments only.&nbsp;</p>\n<p>Pay as you go with a Wilson Parking card, or enjoy 24/7 unlimited access when you subscribe to Monthly Parking.</p>",
+      "information": "<p>&nbsp;</p>\n<p><span style=\"color: #ff1e25;\">Notice: Please be advised that the La Trobe Street entry to 300 La Trobe Street will be closed on the <strong>9<sup>th</sup>&nbsp;and 10<sup>th</sup>&nbsp;of April.&nbsp;<br /></strong>Please use entry on A'beckett St during this time.&nbsp;</span></p>\n<p>&nbsp;</p>\n<p>Wilson Parking offers affordable &amp; secure parking at 300 La Trobe St Car Park,&nbsp; located at 300 La Trobe Street, Melbourne. Nearby to Melbourne Central, Melbourne Institue of Technology and other local attractions, this undercover car park offers casual, Weekend and Night parking, with additional savings when you prepay online. Regular parkers can enjoy unlimited access with the best parking value when you subscribe to monthly parking. The 300 La Trobe St Car Park will meet all of your parking needs.</p>\n<p>This car park accepts Credit Card payments only.&nbsp;</p>\n<p>Pay as you go with a Wilson Parking card, or enjoy 24/7 unlimited access when you subscribe to Monthly Parking.</p>",
       "isWilsonOne": true,
       "legacyID": 20,
       "monthlyParkingServiceIsAvailable": true,
@@ -61561,19 +61561,15 @@
             },
             {
               "timeSpan": "0.5 - 1.0 Hours",
-              "price": 23.0
+              "price": 24.0
             },
             {
               "timeSpan": "1.0 - 2.0 Hours",
-              "price": 52.0
+              "price": 48.0
             },
             {
-              "timeSpan": "2.0 - 3.0 Hours",
-              "price": 63.0
-            },
-            {
-              "timeSpan": "3.0 + Hours",
-              "price": 69.0
+              "timeSpan": "2.0 + hrs",
+              "price": 72.0
             }
           ]
         },
@@ -61950,19 +61946,15 @@
             },
             {
               "timeSpan": "0.5 - 1.0 Hours",
-              "price": 23.0
+              "price": 24.0
             },
             {
               "timeSpan": "1.0 - 2.0 Hours",
-              "price": 52.0
+              "price": 48.0
             },
             {
-              "timeSpan": "2.0 - 3.0 Hours",
-              "price": 63.0
-            },
-            {
-              "timeSpan": "3.0 + Hours",
-              "price": 69.0
+              "timeSpan": "2.0 + hrs",
+              "price": 72.0
             }
           ]
         },
@@ -62984,7 +62976,7 @@
         },
         {
           "rateType": "Early Bird",
-          "notes": "<p>Enter between 6am and 8am, and exit between 2pm and midnight</p>",
+          "notes": "<p>Enter between 5am and 9am, and exit between 2pm and midnight</p>",
           "rates": [
             {
               "timeSpan": "Mon - Fri",
@@ -67955,7 +67947,7 @@
       "costCenter": 1004356,
       "direction": "Entry off Little Cribb Street",
       "heightRestriction": 2.2,
-      "information": "<p><span style=\"color: #ff1e25;\">Event Parking is available at this car park on the following dates: 27 March.&nbsp;2, 4, 10, 11, 18 April.<br /></span></p>\n<p>Wilson Parking offers affordable &amp; secure parking at Milton Green&nbsp;car park, located at 19 Little Cribb Street&nbsp;in the heart of Milton. Open 7 days, this undercover car park provides convenient access to nearby Suncorp Stadium and surrounding entertainment and retail precinct. Offering hourly, night and weekend parking options with discounts when you prepay online, permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the Milton Green&nbsp;car park will meet all your business and leisure parking needs.&nbsp;</p>",
+      "information": "<p><span style=\"color: #ff1e25;\">Event Parking is available at this car park on the following dates: 2, 4, 10, 11, 18, 24 April.<br /></span></p>\n<p>Wilson Parking offers affordable &amp; secure parking at Milton Green&nbsp;car park, located at 19 Little Cribb Street&nbsp;in the heart of Milton. Open 7 days, this undercover car park provides convenient access to nearby Suncorp Stadium and surrounding entertainment and retail precinct. Offering hourly, night and weekend parking options with discounts when you prepay online, permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the Milton Green&nbsp;car park will meet all your business and leisure parking needs.&nbsp;</p>",
       "isWilsonOne": true,
       "legacyID": 1004356,
       "monthlyParkingServiceIsAvailable": true,
@@ -71368,7 +71360,7 @@
       "costCenter": 1004298,
       "direction": "Entry via Dowse Street",
       "heightRestriction": 2.3,
-      "information": "<p><span style=\"color: #ff1e25;\">Event Parking is available at this car park on the following dates:</span><span style=\"color: #ff1e25;\"> 27 March.&nbsp;2, 4, 10, 11, 18 April.</span></p>\n<p>Wilson Parking offers affordable and secure parking at&nbsp;Darling &amp; Co car park, located in the heart of Paddington. Open 7 days, this undercover car park provides convenient access to Lang Park (Suncorp Stadium). Offering casual and night parking, and exclusive discounts when you pay via the Wilson Parking app, the&nbsp;Darling &amp; Co car park will meet all your business and leisure parking needs.</p>\n<p>Car park closes at 11pm on event nights.</p>",
+      "information": "<p><span style=\"color: #ff1e25;\">Event Parking is available at this car park on the following dates:</span><span style=\"color: #ff1e25;\">&nbsp;2, 4, 10, 11, 18, 24 April.</span></p>\n<p>Wilson Parking offers affordable and secure parking at&nbsp;Darling &amp; Co car park, located in the heart of Paddington. Open 7 days, this undercover car park provides convenient access to Lang Park (Suncorp Stadium). Offering casual and night parking, and exclusive discounts when you pay via the Wilson Parking app, the&nbsp;Darling &amp; Co car park will meet all your business and leisure parking needs.</p>\n<p>Car park closes at 11pm on event nights.</p>",
       "isWilsonOne": false,
       "legacyID": 4298,
       "monthlyParkingServiceIsAvailable": true,
