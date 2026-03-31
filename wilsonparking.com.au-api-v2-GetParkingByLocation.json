@@ -69519,7 +69519,7 @@
         },
         {
           "rateType": "Night",
-          "notes": "<p>Per exit. Entry after 5pm and exit before 6am</p>",
+          "notes": "<p>Per exit. Entry after 5pm and exit before 5am</p>",
           "rates": [
             {
               "timeSpan": "Weeknights",
@@ -81974,7 +81974,7 @@
       "costCenter": 1005067,
       "direction": "Entry via Hindley Street",
       "heightRestriction": 0.0,
-      "information": "<p>Wilson Parking offer affordable parking at 14-24 Rosina St Car Park, located in Adelaide. The open air car park is nearby to Tafe SA - Adelaide Campus and offers convenient 24/7 access. With affordable hourly parking rates, the 14-24 Rosina St Car Park in Adelaide will meet all your parking needs.&nbsp;</p>\n<p>Download the Wilson Parking app to easily pay for your parking from your phone.</p>\n<p><strong><span style=\"color: #ff1e25;\">Important Update</span></strong><br /><span style=\"color: #ff1e25;\">Due to council roadworks, traffic and pedestrian restrictions may impact access to this car park on the following dates:</span></p>\n<p><span style=\"color: #ff1e25;\">- Wednesday 25 March from 9pm</span><br /><span style=\"color: #ff1e25;\">- Thursday 26 March from 9pm</span><br /><span style=\"color: #ff1e25;\">- Monday 30 March from 8am</span></p>\n<p><span style=\"color: #ff1e25;\">Please allow additional time when entering and exiting the car park.</span></p>",
+      "information": "<p>Wilson Parking offer affordable parking at 14-24 Rosina St Car Park, located in Adelaide. The open air car park is nearby to Tafe SA - Adelaide Campus and offers convenient 24/7 access. With affordable hourly parking rates, the 14-24 Rosina St Car Park in Adelaide will meet all your parking needs.&nbsp;</p>\n<p>Download the Wilson Parking app to easily pay for your parking from your phone.</p>",
       "isWilsonOne": false,
       "legacyID": 265,
       "monthlyParkingServiceIsAvailable": false,
