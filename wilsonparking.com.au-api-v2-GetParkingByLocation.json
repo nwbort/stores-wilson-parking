@@ -55075,7 +55075,7 @@
       "costCenter": 1003300,
       "direction": null,
       "heightRestriction": 2.05,
-      "information": "<p>Wilson Parking offers affordable &amp; secure parking at 11 Exhibition St&nbsp;Car Park, located at 11 Exhibition St in the heart of East End. Open 7 days, this undercover car park provides convenient access to nearby the MCG, Federation Square, Birrarung Marr, Melbourne Park and many other popular attractions. This car park offers flat rate parking at the times you need when you prepay online a Flexi Saver rate online. Casual Hourly, Weekend and Night Parking options are also available, with permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the 11 Exhibition St Car Park will meet all your business and leisure parking needs.&nbsp;</p>\n<p>This car park accepts Credit Card payments only.&nbsp;Download the Wilson Parking App to plan your journey and access the best parking value when you prepay online; enjoy unlimited 24/7 access when you subscribe to monthly parking; pay as you go on one convenient monthly invoice when you use your Wilson Parking Card to access the car park.</p>",
+      "information": "<p><span style=\"color: #ff1e25;\"><strong><u>Event Dates April 2026:<br /></u></strong>25th from 12pm to 11:59pm.<br /><br /></span><span style=\"color: #ff1e25;\"><strong><u>Event Dates May 2026:<br /></u></strong>9th, 22nd, 29th from 5:00pm to 11:59pm.</span><br /><span style=\"color: #ff1e25;\">16th, 23rd from 2:00pm to 11:59pm.</span><br /><span style=\"color: #ff1e25;\">Event rates will apply.</span><br /><span style=\"color: #ff1e25;\"><em>On event dates, please allow additional time to exit.<br /><br /></em></span>Wilson Parking offers affordable &amp; secure parking at 11 Exhibition St&nbsp;Car Park, located at 11 Exhibition St in the heart of East End. Open 7 days, this undercover car park provides convenient access to nearby the MCG, Federation Square, Birrarung Marr, Melbourne Park and many other popular attractions. This car park offers flat rate parking at the times you need when you prepay online a Flexi Saver rate online. Casual Hourly, Weekend and Night Parking options are also available, with permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the 11 Exhibition St Car Park will meet all your business and leisure parking needs.&nbsp;</p>\n<p>This car park accepts Credit Card payments only.&nbsp;Download the Wilson Parking App to plan your journey and access the best parking value when you prepay online; enjoy unlimited 24/7 access when you subscribe to monthly parking; pay as you go on one convenient monthly invoice when you use your Wilson Parking Card to access the car park.</p>",
       "isWilsonOne": true,
       "legacyID": 497,
       "monthlyParkingServiceIsAvailable": true,
@@ -57245,7 +57245,7 @@
       "costCenter": 1003169,
       "direction": "Entry via Flinders St or 195 Flinders Lane",
       "heightRestriction": 2.0,
-      "information": "<p><span style=\"color: #ff1e25;\"><em>On event dates, please allow additional time to exit.</em></span></p>\n<p>Wilson Parking offers affordable &amp; convenient parking at Flinders Gate Car Park, located at 172-192 Flinders Street, Melbourne. This car park is nearby to many Melbourne attractions including St Paul's Cathedral, The Ian Potter Centre and Flinders St Station.</p>\n<p>Offering online discounts for Flexi Saver, Night, Overnight and Weekend parking as well as competitive drive up rates, the Flinders Gate car park will meet all of your parking needs when visiting the Melbourne CBD.</p>\n<p><strong>This car park accepts Credit Card payments only.</strong></p>\n<p>Pay as you go with a Wilson Parking Card, or enjoy unlimited 24/7 access when you subscribe to a Monthly parking account.</p>\n<p><em>Site can be affected by road closures. Please refer to the <a title=\"https://www.melbourne.vic.gov.au/parking-and-transport/roads/Pages/road-closures.aspx\" href=\"https://www.melbourne.vic.gov.au/parking-and-transport/roads/Pages/road-closures.aspx\" target=\"_blank\" rel=\"noopener\">City of Melbourne website</a> for more information.</em></p>",
+      "information": "<p><span style=\"color: #ff1e25;\"><strong><u>Event Dates April 2026:<br /></u></strong></span><span style=\"color: #ff1e25;\">25th from 2:00pm to 11:59pm.<br /></span></p>\n<p><strong style=\"color: #ff1e25;\"><u>Event Dates May 2026:<br /></u></strong><span style=\"color: #ff1e25;\">9th, 22nd, 29th from 5:00pm to 11:59pm.<br />16th from 1:00pm to 11:59pm.<br />23rd from 2:00pm to 11:59pm.<br />Event rates will apply.<br /><em>On event dates, please allow additional time to exit.</em></span></p>\n<p>Wilson Parking offers affordable &amp; convenient parking at Flinders Gate Car Park, located at 172-192 Flinders Street, Melbourne. This car park is nearby to many Melbourne attractions including St Paul's Cathedral, The Ian Potter Centre and Flinders St Station.</p>\n<p>Offering online discounts for Flexi Saver, Night, Overnight and Weekend parking as well as competitive drive up rates, the Flinders Gate car park will meet all of your parking needs when visiting the Melbourne CBD.</p>\n<p><strong>This car park accepts Credit Card payments only.</strong></p>\n<p>Pay as you go with a Wilson Parking Card, or enjoy unlimited 24/7 access when you subscribe to a Monthly parking account.</p>\n<p><em>Site can be affected by road closures. Please refer to the <a title=\"https://www.melbourne.vic.gov.au/parking-and-transport/roads/Pages/road-closures.aspx\" href=\"https://www.melbourne.vic.gov.au/parking-and-transport/roads/Pages/road-closures.aspx\" target=\"_blank\" rel=\"noopener\">City of Melbourne website</a> for more information.</em></p>",
       "isWilsonOne": true,
       "legacyID": 253,
       "monthlyParkingServiceIsAvailable": true,
@@ -57291,7 +57291,7 @@
           "rates": [
             {
               "timeSpan": "Sat - Sun & Public Holiday varies from $22.00 - $26.00, depending on demand",
-              "price": 30.0
+              "price": 32.0
             }
           ]
         },
@@ -57491,11 +57491,11 @@
             },
             {
               "timeSpan": "2.0 - 3.0 hours",
-              "price": 14.0
+              "price": 15.0
             },
             {
               "timeSpan": "3.0 + hours",
-              "price": 16.0
+              "price": 18.0
             }
           ]
         },
@@ -57505,7 +57505,7 @@
           "rates": [
             {
               "timeSpan": "Mon-Fri",
-              "price": 12.0
+              "price": 14.0
             }
           ]
         },
@@ -64310,7 +64310,7 @@
       "costCenter": 1003225,
       "direction": "Entry via Enterprize Way. Car park is on the right.",
       "heightRestriction": 2.0,
-      "information": "<p><span style=\"color: #ff1e25;\">Event rates apply on the below dates from the times listed:</span></p>\n<ul>\n<li><span style=\"color: #ff1e25;\">Friday 27th March from 4PM</span></li>\n<li><span style=\"color: #ff1e25;\">Saturday 28th March from 10AM</span></li>\n</ul>\n<p><span style=\"color: #ff1e25;\">Event rates will apply. Drive up only.</span><br /><span style=\"color: #ff1e25;\"><em>On event dates, please allow additional time to exit</em></span></p>\n<p>Wilson Parking offer affordable parking at 800 Bourke St Car Park, located at Enterprize Way, Docklands. This car park, located on the Yarra River,&nbsp; is nearby to Marvel Stadium, Docklands Park and other Docklands attractions. Offering Hourly, Weekend and night parking, as well as discount online parking options, the 800 Bourke St Car Park will meet all of your parking needs.</p>\n<p>Experience the convenience of&nbsp;pay as you go with a Wilson Parking card, or enjoy 24/7 unlimited access when you subscribe to Monthly Parking.</p>",
+      "information": "<p><span style=\"color: #ff1e25;\"><strong><u>Event Dates May 2026:<br /></u></strong></span><span style=\"color: #ff1e25;\">1st, 16th, 28th, 30th from 5:00pm<br /></span><span style=\"color: #ff1e25;\">2nd, 9th, 10th, 23rd from 10:00am<br /></span><span style=\"color: #ff1e25;\">17th, 24th from 12:00pm (Midday)<br />Event rates will apply. Drive up only.<br /><em>On event dates, please allow additional time to exit.<br /><br /></em></span>Wilson Parking offer affordable parking at 800 Bourke St Car Park, located at Enterprize Way, Docklands. This car park, located on the Yarra River,&nbsp; is nearby to Marvel Stadium, Docklands Park and other Docklands attractions. Offering Hourly, Weekend and night parking, as well as discount online parking options, the 800 Bourke St Car Park will meet all of your parking needs.</p>\n<p>Experience the convenience of&nbsp;pay as you go with a Wilson Parking card, or enjoy 24/7 unlimited access when you subscribe to Monthly Parking.</p>",
       "isWilsonOne": true,
       "legacyID": 41,
       "monthlyParkingServiceIsAvailable": false,
