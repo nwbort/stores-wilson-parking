@@ -62910,7 +62910,8 @@
       "carParkFeature": [
         "Night Parking",
         "Weekend Parking",
-        "Entry height at least 2"
+        "Entry height at least 2",
+        "Elevate"
       ],
       "services": [],
       "carParkName": "500 La Trobe St Car Park",
@@ -63090,7 +63091,12 @@
         "evChargerIsAvailable": false,
         "evChargerIconLabel": "EV Charging",
         "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "additionalServices": []
+        "additionalServices": [
+          {
+            "label": null,
+            "icon": null
+          }
+        ]
       },
       "state": "VIC",
       "imgUrl": "/siteassets/parking-location-images/vic/mel348.jpg",
@@ -85673,7 +85679,7 @@
       "carParkPhoto": "/contentassets/ca151af77ba848a8a7950e6de5610cf5/capture.jpg",
       "category": "",
       "costCenter": 1006212,
-      "direction": "<b>**Car Park only operational on selected event days**</b><br>\n\n</b><br>19th April -  AFL West Coast Eagles Vs Fremantle Dockers<b>\n</b><br>(Gate opens at 2:00pm and closes at 7:30pm sharp)<b>\n\n</b><br>25th April -  AFL Fremantle Dockers Vs Carlton<b>\n</b><br>(Gate opens at 4:30pm and closes at 10:30pm sharp)<b>\n\n</b><br>2nd May -  AFL West Coast Eagles Vs Richmond<b>\n</b><br>(Gate opens at 12:30pm and closes at 6:30pm sharp)<b>\n\n</b><br>7th May -  AFL Fremantle Dockers Vs Hawks<b>\n</b><br>(Gate opens at 4:30pm and closes at 10:30pm sharp)<b>\n\n</b><br>17th May -  AFL West Coast Eagles Vs GWS Giants<b>\n</b><br>(Gate opens at 2:30pm and closes at 8:30pm sharp)<b>\n\n</b><br>22nd May -  AFL Fremantle Dockers Vs St Kilda<b>\n</b><br>(Gate opens at 5:00pm and closes at 11:00pm sharp)<b>\n\n</b><br>31st May -  AFL West Coast Eagles Vs Essendon<b>\n</b><br>(Gate opens at 3:30pm and closes at 10:00pm sharp)<b>",
+      "direction": "<b>**Car Park only operational on selected event days**</b><br>\n\n</b><br>11th April -  NRL Double Header<b>\n</b><br>(Gate opens at 1:00pm and closes at 8:00pm sharp)<b>\n\n</b><br>19th April -  AFL West Coast Eagles Vs Fremantle Dockers<b>\n</b><br>(Gate opens at 2:00pm and closes at 7:30pm sharp)<b>\n\n</b><br>25th April -  AFL Fremantle Dockers Vs Carlton<b>\n</b><br>(Gate opens at 4:30pm and closes at 10:30pm sharp)<b>\n\n</b><br>2nd May -  AFL West Coast Eagles Vs Richmond<b>\n</b><br>(Gate opens at 12:30pm and closes at 6:30pm sharp)<b>\n\n</b><br>7th May -  AFL Fremantle Dockers Vs Hawks<b>\n</b><br>(Gate opens at 4:30pm and closes at 10:30pm sharp)<b>\n\n</b><br>17th May -  AFL West Coast Eagles Vs GWS Giants<b>\n</b><br>(Gate opens at 2:30pm and closes at 8:30pm sharp)<b>\n\n</b><br>22nd May -  AFL Fremantle Dockers Vs St Kilda<b>\n</b><br>(Gate opens at 5:00pm and closes at 11:00pm sharp)<b>\n\n</b><br>31st May -  AFL West Coast Eagles Vs Essendon<b>\n</b><br>(Gate opens at 3:30pm and closes at 10:00pm sharp)<b>",
       "heightRestriction": 0.0,
       "information": "<p>Wilson Parking offers affordable parking at Belmont Racecourse Car Park for Optus Stadium event parking only. Located a short walk from Optus Stadium, this car park is the perfect location for footy, cricket, concerts and other Optus Stadium events. Operational days are shown under the parking rates to the left.</p>\n<p>Parking must be prepaid in advance through the Wilson Parking App or website. No payments can be taken at the gate. Must present prepaid confirmation to access car park.</p>",
       "isWilsonOne": false,
