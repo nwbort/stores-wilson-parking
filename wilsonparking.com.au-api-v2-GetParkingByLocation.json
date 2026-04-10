@@ -92465,7 +92465,7 @@
       "carParkPhoto": "/contentassets/4faae83752104baa985fa2f50b062667/20230419_151728.jpg",
       "category": "",
       "costCenter": 1006059,
-      "direction": "Entry via Mounts Bay Road",
+      "direction": "Entry via Mounts Bay Road\n</br></br>Dear Customers,</br>\n</br></br>Car Park Pressure cleaning on 18th April from 6pm to 3am. Please remove your vehicle prior to the works from Level B3, B4 & B5.</br>\n\n</br></br>We apologise for this inconvenience.</br>",
       "heightRestriction": 2.1,
       "information": "<p>Wilson Parking offer affordable and convenient parking at Westralia Square, located at 24 Mounts Bay Rd, Perth. Open 7 days, and late on Friday and Saturday, this car park is ideal for visitors to Elizabeth Quay and other surrounding Perth businesses. Offering casual Hourly, Daily, Night and Weekend, as well as exclusive savings when you prepay online or with the Wilson Parking App,&nbsp;the Westralia Square Car Park will meet all of your parking needs.</p>\n<p>Download the Wilson Parking App to plan your journey, prepay ahead and access exclusive savings, or just drive up, pay with your credit card, pay as you go with the Wilson Parking Card.</p>",
       "isWilsonOne": true,
@@ -101511,6 +101511,11 @@
       "filtered": false,
       "key": "72",
       "name": "Spott Vehicle Recognition"
+    },
+    {
+      "filtered": false,
+      "key": "76",
+      "name": "Spott Saver"
     }
   ],
   "sort": [
