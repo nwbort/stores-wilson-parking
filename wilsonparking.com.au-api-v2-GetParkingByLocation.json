@@ -11,6 +11,7 @@
       "canBookABay": true,
       "selectedFeatures": "",
       "carParkFeature": [
+        "Monthly Parking",
         "Night Parking",
         "Weekend Parking",
         "Early Bird Parking",
@@ -24,7 +25,8 @@
       ],
       "services": [
         "book a bay",
-        "wilson one"
+        "wilson one",
+        "monthly"
       ],
       "carParkName": "25 Martin Place Car Park",
       "carParkNumber": 2078,
@@ -36,7 +38,7 @@
       "information": "<p>Wilson Parking offer affordable &amp; secure parking at 25 Martin Place Car Park, located at 108 King St in the heart of Sydney CBD. Conveniently nearby to City Recital Hall, Martin Place, Pitt St Mall shopping, Hotels and Restaurant Precincts, this car park is open to midnight 7 days a week, including public holidays. Offering Casual, Night and Weekend parking as well as online discount parking options, the 25 Martin Place Car Park&nbsp;suits all your leisure and business parking needs.</p>\n<p>Save when you prepay your parking online or with the Wilson Parking App; enjoy unlimited 24/7 access when you subscribe to Monthly Parking; or pay as you go with the convenient queue-less, contact free Wilson Parking Card.&nbsp;</p>",
       "isWilsonOne": true,
       "legacyID": 102,
-      "monthlyParkingServiceIsAvailable": false,
+      "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
       "phoneNumber": "1800 PARKING",
@@ -193,7 +195,7 @@
         "canBookABay": true,
         "bookABayIconLabel": "Prepay Online",
         "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingServiceIsAvailable": true,
         "monthlyParkingIconLabel": "Monthly Subscription",
         "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
         "isWilsonOne": true,
@@ -1426,6 +1428,7 @@
       "canBookABay": true,
       "selectedFeatures": "",
       "carParkFeature": [
+        "Monthly Parking",
         "Weekend Parking",
         "Book a Bay",
         "Wilson One",
@@ -1433,7 +1436,8 @@
       ],
       "services": [
         "book a bay",
-        "wilson one"
+        "wilson one",
+        "monthly"
       ],
       "carParkName": "Parkhouse Car Park",
       "carParkNumber": 2049,
@@ -1445,7 +1449,7 @@
       "information": "<p>Wilson Parking offer affordable &amp; secure parking at Park House Car Park, located at 187 Macquarie St in the Sydney CBD. This car park is open 7 days, and is conveniently located near The Domain, Sydney Opera House, Martin Place and Circular Quay Restaurants &amp; Bar Precint.&nbsp;</p>\n<p>Offering casual Hourly, Weekend Parking options with exclusive discounts available when you prepay online, the Park House Car Park will suit all your leisure and business parking needs.&nbsp;</p>\n<p>Download the Wilson Parking App to plan your journey and access exclusive discounts when you prepay online.</p>",
       "isWilsonOne": true,
       "legacyID": 564,
-      "monthlyParkingServiceIsAvailable": false,
+      "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
       "phoneNumber": "1800 PARKING",
@@ -1602,7 +1606,7 @@
         "canBookABay": true,
         "bookABayIconLabel": "Prepay Online",
         "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingServiceIsAvailable": true,
         "monthlyParkingIconLabel": "Monthly Subscription",
         "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
         "isWilsonOne": true,
@@ -2760,10 +2764,12 @@
       "canBookABay": false,
       "selectedFeatures": "",
       "carParkFeature": [
+        "Monthly Parking",
         "Wilson One"
       ],
       "services": [
-        "wilson one"
+        "wilson one",
+        "monthly"
       ],
       "carParkName": "1 Bligh St Car Park",
       "carParkNumber": 2240,
@@ -2775,7 +2781,7 @@
       "information": "<p>Wilson Parking offer affordable &amp; secure parking at 1 Bligh St Car Park, located at 4 O'Connell St in the heart of Sydney CBD. Offering Hourly and Weekend Parking and in walking distance to many popular attractions, and businesses in Sydney,&nbsp;1 Bligh St Car Park will meet all your commuter and leisure parking needs.</p>\n<p>Enjoy unlimited 24/7 access when you subscribe to Monthly Parking, or pay as you as go with the queue-less, contact free Wilson Parking Card.</p>",
       "isWilsonOne": true,
       "legacyID": 305,
-      "monthlyParkingServiceIsAvailable": false,
+      "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
       "phoneNumber": "1800 PARKING",
@@ -2908,7 +2914,7 @@
         "canBookABay": false,
         "bookABayIconLabel": "Prepay Online",
         "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingServiceIsAvailable": true,
         "monthlyParkingIconLabel": "Monthly Subscription",
         "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
         "isWilsonOne": true,
@@ -3672,6 +3678,7 @@
       "canBookABay": true,
       "selectedFeatures": "",
       "carParkFeature": [
+        "Monthly Parking",
         "Night Parking",
         "Weekend Parking",
         "Book a Bay",
@@ -3679,7 +3686,8 @@
       ],
       "services": [
         "book a bay",
-        "wilson one"
+        "wilson one",
+        "monthly"
       ],
       "carParkName": "No. 1 O'Connell St Car Park",
       "carParkNumber": 2150,
@@ -3691,7 +3699,7 @@
       "information": "<p>Wilson Parking offer affordable &amp; secure parking at No.1 O'Connell St Car Park, located at 3 Bent St in the heart of Sydney CBD. Close to Shopping, Hotels and popular Sydney Restaurant and Bars, this car park is open 7 days, including public holidays. Offering Casual, Night and Weekend Parking as well as online discount parking options, the No.1 O'Connell St Car Park will meet all your leisure and business parking needs.</p>\n<p>Save when you prepay your parking online or with the Wilson Parking App; enjoy unlimited 24/7 access when you subscribe to monthly parking; or pay as you go with the convenient queue-less contact free Wilson Parking Card.</p>",
       "isWilsonOne": true,
       "legacyID": 113,
-      "monthlyParkingServiceIsAvailable": false,
+      "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
       "phoneNumber": "1800 PARKING",
@@ -3848,7 +3856,7 @@
         "canBookABay": true,
         "bookABayIconLabel": "Prepay Online",
         "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingServiceIsAvailable": true,
         "monthlyParkingIconLabel": "Monthly Subscription",
         "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
         "isWilsonOne": true,
@@ -4571,6 +4579,7 @@
       "canBookABay": true,
       "selectedFeatures": "",
       "carParkFeature": [
+        "Monthly Parking",
         "Night Parking",
         "Weekend Parking",
         "Early Bird Parking",
@@ -4585,7 +4594,8 @@
       ],
       "services": [
         "book a bay",
-        "wilson one"
+        "wilson one",
+        "monthly"
       ],
       "carParkName": "1 Farrer Car Park",
       "carParkNumber": 2137,
@@ -4597,7 +4607,7 @@
       "information": "<p>Wilson Parking offer affordable &amp; secure parking at 1 Farrer Car Park, located at 43 Phillip St in the heart of Sydney CBD. Open 7 days, this undercover car park provides convenient access to nearby CBD businesses, the Royal Botanic Gardens, State Library of New South Wales and Circular Quay. Offering casual Hourly, Night and Weekend Parking options with exclusive discounts when you prepay online, the 1 Farrer Car Park will meet all your business and leisure parking needs.&nbsp;</p>\n<p>Download the Wilson Parking App to plan your journey and access parking discounts when you prepay online; or pay as you go on one convenient monthly invoice when you use your Wilson Parking Card to access the car park.</p>",
       "isWilsonOne": true,
       "legacyID": 85,
-      "monthlyParkingServiceIsAvailable": false,
+      "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
       "phoneNumber": "1800 PARKING (1800 727 5464)",
@@ -4758,7 +4768,7 @@
         "canBookABay": true,
         "bookABayIconLabel": "Prepay Online",
         "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingServiceIsAvailable": true,
         "monthlyParkingIconLabel": "Monthly Subscription",
         "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
         "isWilsonOne": true,
@@ -5774,7 +5784,7 @@
           "rates": [
             {
               "timeSpan": "Mon - Fri",
-              "price": 14.0
+              "price": 15.0
             }
           ]
         },
@@ -6735,6 +6745,7 @@
       "canBookABay": true,
       "selectedFeatures": "",
       "carParkFeature": [
+        "Monthly Parking",
         "Night Parking",
         "Weekend Parking",
         "Book a Bay",
@@ -6744,7 +6755,8 @@
       ],
       "services": [
         "book a bay",
-        "wilson one"
+        "wilson one",
+        "monthly"
       ],
       "carParkName": "201 – 207 Kent Street Car Park",
       "carParkNumber": 2055,
@@ -6756,7 +6768,7 @@
       "information": "<p>Wilson Parking offer affordable &amp; secure parking at 201 &ndash; 207 Kent Street Car Park, located at 8 - 20 Napoleon Street, Sydney in the heart of the Sydney CBD. Nearby to King St Wharf Restaurants, Barangaroo and Crown Casino Precinct, this car park is open Monday to Sunday. Offering discount online parking options, the 201-207 Kent St Car Park suits all your commuter parking needs.</p>\n<p>Save on your parking when you prepay online or with the Wilson Parking App; enjoy unlimited 24/7 access when you subscribe to monthly parking; or pay as you go with the convenient queue-less, contact free Wilson Parking Card.</p>",
       "isWilsonOne": true,
       "legacyID": 121,
-      "monthlyParkingServiceIsAvailable": false,
+      "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
       "phoneNumber": "1800 PARKING",
@@ -6909,7 +6921,7 @@
         "canBookABay": true,
         "bookABayIconLabel": "Prepay Online",
         "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingServiceIsAvailable": true,
         "monthlyParkingIconLabel": "Monthly Subscription",
         "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
         "isWilsonOne": true,
@@ -10463,6 +10475,7 @@
       "canBookABay": true,
       "selectedFeatures": "",
       "carParkFeature": [
+        "Monthly Parking",
         "Early Bird Parking",
         "Book a Bay",
         "Wilson One",
@@ -10477,6 +10490,7 @@
       "services": [
         "book a bay",
         "wilson one",
+        "monthly",
         "disabled parking"
       ],
       "carParkName": "Jones Bay Wharf Car Park",
@@ -10489,7 +10503,7 @@
       "information": "<p>Wilson Parking offer affordable &amp; secure parking at Jones Bay Wharf Car Park at&nbsp;17-23 Pirrama Road, Pyrmont.&nbsp;</p>\n<p>Nearby Star City Casino, Restaurant &amp; Bars, Shopping &amp; Hotel Precincts.&nbsp;</p>\n<p>Jones Bay Wharf Car Park suits all your leisure and business parking needs. With Monthly, Drive up or Prepay Online options.</p>",
       "isWilsonOne": true,
       "legacyID": 122,
-      "monthlyParkingServiceIsAvailable": false,
+      "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": true,
       "phoneNumber": "1800 PARKING",
@@ -10620,7 +10634,7 @@
         "canBookABay": true,
         "bookABayIconLabel": "Prepay Online",
         "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingServiceIsAvailable": true,
         "monthlyParkingIconLabel": "Monthly Subscription",
         "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
         "isWilsonOne": true,
@@ -35613,9 +35627,12 @@
       "canBookABay": false,
       "selectedFeatures": "",
       "carParkFeature": [
+        "Monthly Parking",
         "Epark"
       ],
-      "services": [],
+      "services": [
+        "monthly"
+      ],
       "carParkName": "Centenary Road Car Park",
       "carParkNumber": 2171,
       "carParkPhoto": "/siteassets/parking-location-images/nsw/syd171.jpg",
@@ -35626,7 +35643,7 @@
       "information": "<p>Wilson Parking offer affordable &amp; secure parking at Centenary Rd Car Park, located at Centenary Rd in the heart of Newcastle CBD, Honeysuckle and Newcastle Waterfront restaurant Precincts.&nbsp;</p>\n<p>Centenary Car Park suits all your leisure and business parking needs.</p>\n<p>Payment only available&nbsp;through the Wilson Parking App.</p>",
       "isWilsonOne": false,
       "legacyID": 95,
-      "monthlyParkingServiceIsAvailable": false,
+      "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
       "phoneNumber": "1800 PARKING",
@@ -35757,7 +35774,7 @@
         "canBookABay": false,
         "bookABayIconLabel": "Prepay Online",
         "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingServiceIsAvailable": true,
         "monthlyParkingIconLabel": "Monthly Subscription",
         "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
         "isWilsonOne": false,
@@ -39793,6 +39810,7 @@
       "canBookABay": true,
       "selectedFeatures": "",
       "carParkFeature": [
+        "Monthly Parking",
         "Book a Bay",
         "Daily Pass Bundles",
         "Elevate",
@@ -39800,7 +39818,8 @@
         "Spott Saver"
       ],
       "services": [
-        "book a bay"
+        "book a bay",
+        "monthly"
       ],
       "carParkName": "121 Marcus Clarke St",
       "carParkNumber": 1161,
@@ -39812,7 +39831,7 @@
       "information": "<p>Wilson Parking offer affordable, reliable parking at 121 Marcus Clarke St Car Park, located off Childers Street in the heart of Canberra. Open 7am-7pm, Monday to Friday, this car park offers stress free parking options close to the Australian Institute of Management, Llewellyn Hall, and other Canberra businesses and restaurants.</p>\n<p>Prepay online or on the Wilson Parking App for the best rate and seamless parking experience.&nbsp;&nbsp;</p>\n<p><em>Visiting regularly? Contact us to subscribe to monthly parking for unlimited access and best daily value.&nbsp;</em></p>\n<p>Download the Wilson Parking App to plan your journey and access exclusive parking rates when parking at the 121 Marcus Clarke Car Park in Canberra.</p>\n<p>&nbsp;</p>",
       "isWilsonOne": false,
       "legacyID": 1012161,
-      "monthlyParkingServiceIsAvailable": false,
+      "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
       "phoneNumber": null,
@@ -39941,7 +39960,7 @@
         "canBookABay": true,
         "bookABayIconLabel": "Prepay Online",
         "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingServiceIsAvailable": true,
         "monthlyParkingIconLabel": "Monthly Subscription",
         "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
         "isWilsonOne": false,
@@ -40432,11 +40451,14 @@
       "canBookABay": false,
       "selectedFeatures": "",
       "carParkFeature": [
+        "Monthly Parking",
         "Weekend Parking",
         "Early Bird Parking",
         "Epark"
       ],
-      "services": [],
+      "services": [
+        "monthly"
+      ],
       "carParkName": "Nishi Car Park",
       "carParkNumber": 1007,
       "carParkPhoto": "/siteassets/parking-location-images/act/can007.jpg",
@@ -40447,7 +40469,7 @@
       "information": "<p>Wilson Parking offer affordable parking at NISHI Car Park, located at Phillip Law Street, Canberra. The undercover NISHI car park, is open 24/7 and located in the heart of Canberra, nearby to Canberra businesses as well as popular restaurants and hotels. Offering casual Hourly, Early Bird and Weekend parking options, as well the convenience of payment with the Wilson Parking app, the NISHI Car Park will meet all of your Canberra parking needs.</p>\n<p>Download the Wilson Parking app to easily pay for your parking from your phone.&nbsp;</p>",
       "isWilsonOne": false,
       "legacyID": 259,
-      "monthlyParkingServiceIsAvailable": false,
+      "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
       "phoneNumber": "1800 PARKING",
@@ -40612,7 +40634,7 @@
         "canBookABay": false,
         "bookABayIconLabel": "Prepay Online",
         "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingServiceIsAvailable": true,
         "monthlyParkingIconLabel": "Monthly Subscription",
         "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
         "isWilsonOne": false,
@@ -54605,6 +54627,7 @@
       "canBookABay": true,
       "selectedFeatures": "",
       "carParkFeature": [
+        "Monthly Parking",
         "Night Parking",
         "Book a Bay",
         "Wilson One",
@@ -54614,7 +54637,8 @@
       ],
       "services": [
         "book a bay",
-        "wilson one"
+        "wilson one",
+        "monthly"
       ],
       "carParkName": "50 Lonsdale St Car Park",
       "carParkNumber": 3395,
@@ -54626,7 +54650,7 @@
       "information": "<p>Wilson Parking offers affordable &amp; secure parking at the 50 Lonsdale St Car Park, Melbourne.</p>\n<p>Car park entry is<strong>&nbsp;via 52 Little Lonsdale St, Melbourne only.</strong></p>\n<p>Offering casual Hourly, Night and permanent monthly parking for regular parkers, with exclusive discounts when you prepay online. 50 Lonsdale St Car Park will meet all your business and leisure parking needs.</p>\n<p>Pay as you go with a Wilson Parking card, or enjoy 24/7 unlimited access when you subscribe to Monthly Parking.</p>",
       "isWilsonOne": true,
       "legacyID": 3395,
-      "monthlyParkingServiceIsAvailable": false,
+      "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
       "phoneNumber": "1800 PARKING",
@@ -54762,7 +54786,7 @@
         "canBookABay": true,
         "bookABayIconLabel": "Prepay Online",
         "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingServiceIsAvailable": true,
         "monthlyParkingIconLabel": "Monthly Subscription",
         "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
         "isWilsonOne": true,
@@ -56440,6 +56464,7 @@
       "canBookABay": true,
       "selectedFeatures": "",
       "carParkFeature": [
+        "Monthly Parking",
         "Night Parking",
         "Weekend Parking",
         "Book a Bay",
@@ -56453,6 +56478,7 @@
       "services": [
         "book a bay",
         "wilson one",
+        "monthly",
         "disabled parking"
       ],
       "carParkName": "Scots Church Car Park",
@@ -56465,7 +56491,7 @@
       "information": "<p>Wilson Parking offers affordable &amp; secure parking at Scots Church Car Park, located at 181 Little Collins St, Melbourne. This car park is nearby to the Melbourne Town Hall and is perfect for local restaurant parking. Offering Hourly, Weekend and Night parking, as well as discount online parking options, the Scots Church, 181 Little Collins St Car Park will meet all of your parking needs.</p>\n<p><strong>This car park accepts Credit Card payments only</strong>.</p>\n<p>Pay as you go with the Wilson Parking Card, or enjoy convenient unlimited 24/7 access when you subscribe to Monthly Parking.</p>",
       "isWilsonOne": true,
       "legacyID": 384,
-      "monthlyParkingServiceIsAvailable": false,
+      "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": true,
       "phoneNumber": "1800 PARKING",
@@ -56618,7 +56644,7 @@
         "canBookABay": true,
         "bookABayIconLabel": "Prepay Online",
         "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingServiceIsAvailable": true,
         "monthlyParkingIconLabel": "Monthly Subscription",
         "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
         "isWilsonOne": true,
@@ -58573,6 +58599,7 @@
       "canBookABay": true,
       "selectedFeatures": "",
       "carParkFeature": [
+        "Monthly Parking",
         "Night Parking",
         "Weekend Parking",
         "Early Bird Parking",
@@ -58582,7 +58609,8 @@
       ],
       "services": [
         "book a bay",
-        "wilson one"
+        "wilson one",
+        "monthly"
       ],
       "carParkName": "350 Collins St Car Park",
       "carParkNumber": 3392,
@@ -58594,7 +58622,7 @@
       "information": "<p>Wilson Parking offer affordable &amp; secure parking at 350 Collins St Car Park, located at 369 Little Collins St&nbsp;in the heart of the CBD. Open 7 days, this undercover car park provides convenient access to nearby Collins St, Elizabeth St, Flinders Lane business areas and surrounding restaurants. Offering Hourly, Weekend and Night Parking options with exclusive discounts when you prepay online with the Wilson Parking App, the 350 Collins St Car Park will meet all your business and leisure parking needs.&nbsp;</p>",
       "isWilsonOne": true,
       "legacyID": 755,
-      "monthlyParkingServiceIsAvailable": false,
+      "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
       "phoneNumber": "1800 PARKING",
@@ -58755,7 +58783,7 @@
         "canBookABay": true,
         "bookABayIconLabel": "Prepay Online",
         "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingServiceIsAvailable": true,
         "monthlyParkingIconLabel": "Monthly Subscription",
         "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
         "isWilsonOne": true,
@@ -59503,6 +59531,7 @@
       "canBookABay": true,
       "selectedFeatures": "",
       "carParkFeature": [
+        "Monthly Parking",
         "Night Parking",
         "Weekend Parking",
         "Book a Bay",
@@ -59513,7 +59542,8 @@
       ],
       "services": [
         "book a bay",
-        "wilson one"
+        "wilson one",
+        "monthly"
       ],
       "carParkName": "Victoria University Car Park",
       "carParkNumber": 3394,
@@ -59525,7 +59555,7 @@
       "information": "<p>Wilson Parking offers affordable &amp; secure parking at the Victoria University Car Park in the heart of Melbourne CBD.</p>\n<p>Car park entry is<strong>&nbsp;via 370 Little Lonsdale St, Melbourne only.</strong></p>\n<p>Offering Hourly, Night, Weekend &amp; permanent monthly parking for regular parkers, with exclusive discounts when you prepay online, Victoria University Car Park will meet all your business and leisure parking needs.</p>\n<p>Pay as you go with a Wilson Parking card, or enjoy 24/7 unlimited access when you subscribe to Monthly Parking.</p>",
       "isWilsonOne": true,
       "legacyID": 3394,
-      "monthlyParkingServiceIsAvailable": false,
+      "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
       "phoneNumber": null,
@@ -59687,7 +59717,7 @@
         "canBookABay": true,
         "bookABayIconLabel": "Prepay Online",
         "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingServiceIsAvailable": true,
         "monthlyParkingIconLabel": "Monthly Subscription",
         "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
         "isWilsonOne": true,
@@ -60822,6 +60852,7 @@
       "canBookABay": true,
       "selectedFeatures": "",
       "carParkFeature": [
+        "Monthly Parking",
         "Early Bird Parking",
         "Book a Bay",
         "Wilson One",
@@ -60830,7 +60861,8 @@
       ],
       "services": [
         "book a bay",
-        "wilson one"
+        "wilson one",
+        "monthly"
       ],
       "carParkName": "485 La Trobe St Car Park",
       "carParkNumber": 3260,
@@ -60842,7 +60874,7 @@
       "information": "<p>Wilson Parking offer affordable &amp; secure parking at 485 La Trobe St Car Park, located at 22 Eagle Alley, in the Melbourne CBD. The car park is nearby to many attractions, including Flagstaff Gardens. Offering Hourly, Monthly and discounted online parking options, the 485 La Trobe St Car Park will meet all of your parking needs.&nbsp;</p>\n<p>Download the Wilson Parking App to access the best parking rates, pay as you go with a Wilson Parking card, or enjoy 24/7 unlimited access when you subscribe to Monthly Parking.</p>",
       "isWilsonOne": true,
       "legacyID": 337,
-      "monthlyParkingServiceIsAvailable": false,
+      "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
       "phoneNumber": "1800 PARKING",
@@ -60979,7 +61011,7 @@
         "canBookABay": true,
         "bookABayIconLabel": "Prepay Online",
         "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingServiceIsAvailable": true,
         "monthlyParkingIconLabel": "Monthly Subscription",
         "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
         "isWilsonOne": true,
@@ -61440,12 +61472,15 @@
       "canBookABay": false,
       "selectedFeatures": "",
       "carParkFeature": [
+        "Monthly Parking",
         "Night Parking",
         "Weekend Parking",
         "Early Bird Parking",
         "Epark"
       ],
-      "services": [],
+      "services": [
+        "monthly"
+      ],
       "carParkName": "383 King St Car Park",
       "carParkNumber": 3376,
       "carParkPhoto": null,
@@ -61456,7 +61491,7 @@
       "information": "<p>Wilson Parking offer affordable &amp; secure parking at car park name 383 King St Car Park, located at 383 King St&nbsp;in the heart of West Melbourne. Open 7 days, this undercover car park provides convenient access to nearby the western end of the city within close proximity to Docklands and Southern Cross Station. Offering Hourly, Early Bird, Weekend and Night Parking options and the convenience of payment from your phone with the Wilson Parking App, the 383 King St&nbsp;Car Park will meet all your business and leisure parking needs.&nbsp;</p>",
       "isWilsonOne": false,
       "legacyID": 3376,
-      "monthlyParkingServiceIsAvailable": false,
+      "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
       "phoneNumber": "1800 PARKING (1800 727 5464)",
@@ -61537,7 +61572,7 @@
         "canBookABay": false,
         "bookABayIconLabel": "Prepay Online",
         "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingServiceIsAvailable": true,
         "monthlyParkingIconLabel": "Monthly Subscription",
         "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
         "isWilsonOne": false,
@@ -63166,11 +63201,13 @@
       "canBookABay": false,
       "selectedFeatures": "",
       "carParkFeature": [
+        "Monthly Parking",
         "Early Bird Parking",
         "Wilson One"
       ],
       "services": [
-        "wilson one"
+        "wilson one",
+        "monthly"
       ],
       "carParkName": "530 Collins St Car Park",
       "carParkNumber": 3288,
@@ -63182,7 +63219,7 @@
       "information": "<p>Wilson Parking offers affordable &amp; secure parking at 530 Collins St Car Park, accessed via Little Collins St in the Melbourne CBD. This car park is nearby to many popular attractions, including Flinders Lane. With Early Bird and Hourly parking, the 530 Collins St underground Car Park will meet all of your Melbourne parking needs.</p>\n<p>This car park accepts Credit Card payments only, or pay as you go with a Wilson Parking card.</p>",
       "isWilsonOne": true,
       "legacyID": 378,
-      "monthlyParkingServiceIsAvailable": false,
+      "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
       "phoneNumber": "1800 PARKING",
@@ -63321,7 +63358,7 @@
         "canBookABay": false,
         "bookABayIconLabel": "Prepay Online",
         "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingServiceIsAvailable": true,
         "monthlyParkingIconLabel": "Monthly Subscription",
         "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
         "isWilsonOne": true,
@@ -64351,6 +64388,7 @@
       "canBookABay": true,
       "selectedFeatures": "",
       "carParkFeature": [
+        "Monthly Parking",
         "Night Parking",
         "Weekend Parking",
         "Early Bird Parking",
@@ -64361,7 +64399,8 @@
       ],
       "services": [
         "book a bay",
-        "wilson one"
+        "wilson one",
+        "monthly"
       ],
       "carParkName": "800 Bourke St Car Park",
       "carParkNumber": 3225,
@@ -64373,7 +64412,7 @@
       "information": "<p><span style=\"color: #ff1e25;\"><strong><u>Event Dates May 2026:<br /></u></strong></span><span style=\"color: #ff1e25;\">1st, 16th, 28th, 30th from 5:00pm<br /></span><span style=\"color: #ff1e25;\">2nd, 9th, 10th, 23rd from 10:00am<br /></span><span style=\"color: #ff1e25;\">17th, 24th from 12:00pm (Midday)<br />Event rates will apply. Drive up only.<br /><em>On event dates, please allow additional time to exit.<br /><br /></em></span>Wilson Parking offer affordable parking at 800 Bourke St Car Park, located at Enterprize Way, Docklands. This car park, located on the Yarra River,&nbsp; is nearby to Marvel Stadium, Docklands Park and other Docklands attractions. Offering Hourly, Weekend and night parking, as well as discount online parking options, the 800 Bourke St Car Park will meet all of your parking needs.</p>\n<p>Experience the convenience of&nbsp;pay as you go with a Wilson Parking card, or enjoy 24/7 unlimited access when you subscribe to Monthly Parking.</p>",
       "isWilsonOne": true,
       "legacyID": 41,
-      "monthlyParkingServiceIsAvailable": false,
+      "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
       "phoneNumber": "1800 PARKING",
@@ -64546,7 +64585,7 @@
         "canBookABay": true,
         "bookABayIconLabel": "Prepay Online",
         "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingServiceIsAvailable": true,
         "monthlyParkingIconLabel": "Monthly Subscription",
         "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
         "isWilsonOne": true,
@@ -64574,6 +64613,7 @@
       "canBookABay": true,
       "selectedFeatures": "",
       "carParkFeature": [
+        "Monthly Parking",
         "Early Bird Parking",
         "Book a Bay",
         "Wilson One",
@@ -64581,7 +64621,8 @@
       ],
       "services": [
         "book a bay",
-        "wilson one"
+        "wilson one",
+        "monthly"
       ],
       "carParkName": "818 Bourke St Car Park",
       "carParkNumber": 3255,
@@ -64593,7 +64634,7 @@
       "information": "<p>Wilson Parking offer affordable &amp; secure parking at 818 Bourke St Car Park, located at Enterprize Way, Docklands. This car park, located on the Yarra River,&nbsp; is nearby to Marvel Stadium, Docklands Park and other Docklands attractions. Offering Hourly, Weekend and night parking, as well as discount online parking options, the 818 Bourke St Car Park will meet all of your parking needs.</p>\n<p>Experience the convenience of&nbsp;pay as you go with a Wilson Parking card, or enjoy 24/7 unlimited access when you subscribe to Monthly Parking.&nbsp;</p>",
       "isWilsonOne": true,
       "legacyID": 24,
-      "monthlyParkingServiceIsAvailable": false,
+      "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
       "phoneNumber": "1800 PARKING",
@@ -64730,7 +64771,7 @@
         "canBookABay": true,
         "bookABayIconLabel": "Prepay Online",
         "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingServiceIsAvailable": true,
         "monthlyParkingIconLabel": "Monthly Subscription",
         "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
         "isWilsonOne": true,
@@ -67459,13 +67500,15 @@
       "canBookABay": true,
       "selectedFeatures": "",
       "carParkFeature": [
+        "Monthly Parking",
         "Book a Bay",
         "Wilson One",
         "Flexi Parking"
       ],
       "services": [
         "book a bay",
-        "wilson one"
+        "wilson one",
+        "monthly"
       ],
       "carParkName": "339 Coronation Drive",
       "carParkNumber": 4033,
@@ -67477,7 +67520,7 @@
       "information": "<p>Wilson Parking offers affordable &amp; secure parking at 339 Coronation Drive car park (John Oxley Centre), located at 339 Coronation Drive, Milton.&nbsp;Offering casual Hourly parking options with exclusive discounts when you prepay for Flexi Saver online.</p>\n<p>Featuring undercover parking in the heart of Milton, nearby The Wesley Hospital, the 339 Coronation Drive car park will meet all of your parking needs.</p>",
       "isWilsonOne": true,
       "legacyID": 198,
-      "monthlyParkingServiceIsAvailable": false,
+      "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
       "phoneNumber": "1800 PARKING",
@@ -67582,7 +67625,7 @@
         "canBookABay": true,
         "bookABayIconLabel": "Prepay Online",
         "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingServiceIsAvailable": true,
         "monthlyParkingIconLabel": "Monthly Subscription",
         "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
         "isWilsonOne": true,
@@ -68593,6 +68636,7 @@
       "canBookABay": true,
       "selectedFeatures": "",
       "carParkFeature": [
+        "Monthly Parking",
         "Night Parking",
         "Weekend Parking",
         "Book a Bay",
@@ -68603,7 +68647,8 @@
       ],
       "services": [
         "book a bay",
-        "wilson one"
+        "wilson one",
+        "monthly"
       ],
       "carParkName": "119 Charlotte Street",
       "carParkNumber": 4126,
@@ -68615,7 +68660,7 @@
       "information": "<p>Wilson Parking offers affordable and secure parking at 119 Charlotte Street car park, located at 119 Charlotte Street, Brisbane. Nearby to key shopping precincts including Uptown and Queen Street Mall, and a short walk to City Botanic Gardens, this 24 hour accessible car park is perfect for both your commuter and leisure parking requirements. Offering Hourly, Weekend and Night parking, as well as online discount parking options, including overnight parking, the 119 Charlotte Street car park will meet all of your parking needs.</p>\n<p>Save when you prepay online or with the Wilson Parking App; Enjoy unlimited access when you subscribe to Monthly Parking; or pay as you go with a convenient Wilson Parking access with queue-less, contact free access.&nbsp;</p>",
       "isWilsonOne": true,
       "legacyID": 285,
-      "monthlyParkingServiceIsAvailable": false,
+      "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
       "phoneNumber": "1800 PARKING",
@@ -68768,7 +68813,7 @@
         "canBookABay": true,
         "bookABayIconLabel": "Prepay Online",
         "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingServiceIsAvailable": true,
         "monthlyParkingIconLabel": "Monthly Subscription",
         "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
         "isWilsonOne": true,
@@ -69295,6 +69340,7 @@
       "canBookABay": true,
       "selectedFeatures": "",
       "carParkFeature": [
+        "Monthly Parking",
         "Early Bird Parking",
         "Book a Bay",
         "Wilson One",
@@ -69304,7 +69350,8 @@
       ],
       "services": [
         "book a bay",
-        "wilson one"
+        "wilson one",
+        "monthly"
       ],
       "carParkName": "One Eagle Street",
       "carParkNumber": 4063,
@@ -69316,7 +69363,7 @@
       "information": "<p>Wilson Parking offers affordable &amp; secure parking at One Eagle Street car park, located at 1 Eagle Street, Brisbane.&nbsp;Situated within Brisbane&rsquo;s prestigious commercial hub&nbsp;and offering hourly and monthly parking, as well as discount prepay online parking, the One Eagle Street car park will meet all of your parking needs.&nbsp;</p>\n<p>Save when you prepay your parking online or with the Wilson Parking App or enjoy the convenience of 24/7 unlimited access when you subscribe to Monthly Parking.&nbsp;</p>",
       "isWilsonOne": true,
       "legacyID": 151,
-      "monthlyParkingServiceIsAvailable": false,
+      "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
       "phoneNumber": "1800 PARKING",
@@ -69471,7 +69518,7 @@
         "canBookABay": true,
         "bookABayIconLabel": "Prepay Online",
         "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingServiceIsAvailable": true,
         "monthlyParkingIconLabel": "Monthly Subscription",
         "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
         "isWilsonOne": true,
@@ -70194,12 +70241,14 @@
       "canBookABay": true,
       "selectedFeatures": "",
       "carParkFeature": [
+        "Monthly Parking",
         "Book a Bay",
         "Flexi Parking",
         "Entry height at least 2"
       ],
       "services": [
-        "book a bay"
+        "book a bay",
+        "monthly"
       ],
       "carParkName": "145 Ann St - King George Central Car Park",
       "carParkNumber": 4121,
@@ -70211,7 +70260,7 @@
       "information": "<p>Wilson Parking offers affordable and secure parking at King George Central Car Park, located at 145 Ann Street, Brisbane. Located in the Brisbane CBD, near King George Square and open Monday - Friday, this car park is perfect for commuter parking. Offering hourly and monthly parking, this car park will meet all your parking needs.</p>\n<p>Save when you prepay online or enjoy the convenience of unlimited 24/7 access when you subscribe to Monthly Parking.&nbsp;</p>",
       "isWilsonOne": false,
       "legacyID": 286,
-      "monthlyParkingServiceIsAvailable": false,
+      "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
       "phoneNumber": "1800 PARKING",
@@ -70344,7 +70393,7 @@
         "canBookABay": true,
         "bookABayIconLabel": "Prepay Online",
         "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingServiceIsAvailable": true,
         "monthlyParkingIconLabel": "Monthly Subscription",
         "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
         "isWilsonOne": false,
@@ -70774,6 +70823,7 @@
       "canBookABay": true,
       "selectedFeatures": "",
       "carParkFeature": [
+        "Monthly Parking",
         "Night Parking",
         "Weekend Parking",
         "Early Bird Parking",
@@ -70787,7 +70837,8 @@
       ],
       "services": [
         "book a bay",
-        "wilson one"
+        "wilson one",
+        "monthly"
       ],
       "carParkName": "66 Eagle Street (Central Plaza 2)",
       "carParkNumber": 4144,
@@ -70799,7 +70850,7 @@
       "information": "<p>Wilson Parking offers affordable &amp; secure parking at Central Plaza 2 car park, located at 66 Eagle Street, Brisbane. This car park is nearby to Eagle Street Pier and the Brisbane CBD. Offering Hourly, Night and Weekend parking, along with discount online parking options, this car park will meet all of your parking needs.&nbsp;</p>\n<p>Save when you prepay online or use the Wilson Parking App; enjoy 24/7 unlimited access when you subscribe to Monthly Parking; or pay as you go with a Wilson Parking card.</p>",
       "isWilsonOne": true,
       "legacyID": 362,
-      "monthlyParkingServiceIsAvailable": false,
+      "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
       "phoneNumber": "1800 PARKING",
@@ -70964,7 +71015,7 @@
         "canBookABay": true,
         "bookABayIconLabel": "Prepay Online",
         "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingServiceIsAvailable": true,
         "monthlyParkingIconLabel": "Monthly Subscription",
         "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
         "isWilsonOne": true,
@@ -71208,6 +71259,7 @@
       "canBookABay": true,
       "selectedFeatures": "",
       "carParkFeature": [
+        "Monthly Parking",
         "Night Parking",
         "Weekend Parking",
         "Book a Bay",
@@ -71220,7 +71272,8 @@
       ],
       "services": [
         "book a bay",
-        "wilson one"
+        "wilson one",
+        "monthly"
       ],
       "carParkName": "Central Plaza 1",
       "carParkNumber": 4359,
@@ -71232,7 +71285,7 @@
       "information": "<p>Wilson Parking offers affordable and reliable parking at Central Plaza 1 Car Park, located at 345 Queen St in the heart of Brisbane's financial district, on the Brisbane River. Open 7 days until late, this undercover car park provides convenient access to nearby Brisbane River dining precincts and Queen Street Mall.</p>\n<p>Offering casual, flexi saver, night, and weekend parking options with exclusive discounts when you prepay online, permanent monthly parking for regular parkers and the convenience of ticketless access when you opt in to Spott in the Wilson Parking App, the Central Plaza 1 Car Park will meet all your parking needs.</p>",
       "isWilsonOne": true,
       "legacyID": 4359,
-      "monthlyParkingServiceIsAvailable": false,
+      "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
       "phoneNumber": "1800 PARKING (1800 727 546)",
@@ -71377,7 +71430,7 @@
         "canBookABay": true,
         "bookABayIconLabel": "Prepay Online",
         "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingServiceIsAvailable": true,
         "monthlyParkingIconLabel": "Monthly Subscription",
         "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
         "isWilsonOne": true,
@@ -71776,6 +71829,7 @@
       "canBookABay": true,
       "selectedFeatures": "",
       "carParkFeature": [
+        "Monthly Parking",
         "Night Parking",
         "Weekend Parking",
         "Book a Bay",
@@ -71786,7 +71840,8 @@
         "Riverfire"
       ],
       "services": [
-        "book a bay"
+        "book a bay",
+        "monthly"
       ],
       "carParkName": "340 Adelaide Street",
       "carParkNumber": 4095,
@@ -71798,7 +71853,7 @@
       "information": "<p>Wilson Parking offers affordable &amp; secure parking at 340 Adelaide Street car park, located at 340 Adelaide Street, Brisbane. Nearby to Cathedral Square, Queensland Academy of Technology and a number of popular Brisbane and restaurants, this car park caters for both commuter and leisure parking. Offering Hourly, Night and Weekend parking options, as well as discount online parking, the 340 Adelaide Street car park will meet all of your parking needs.</p>\n<p>Save when you prepay your parking online or with the Wilson Parking App; enjoy 24/7 access when you subscribe to Monthly Parking; or pay as you go with the queue-less, contact free Wilson Parking Card.&nbsp;</p>",
       "isWilsonOne": false,
       "legacyID": 345,
-      "monthlyParkingServiceIsAvailable": false,
+      "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
       "phoneNumber": "1800 PARKING",
@@ -71955,7 +72010,7 @@
         "canBookABay": true,
         "bookABayIconLabel": "Prepay Online",
         "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingServiceIsAvailable": true,
         "monthlyParkingIconLabel": "Monthly Subscription",
         "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
         "isWilsonOne": false,
@@ -77987,11 +78042,13 @@
       "canBookABay": true,
       "selectedFeatures": "",
       "carParkFeature": [
+        "Monthly Parking",
         "Book a Bay",
         "Flexi Parking"
       ],
       "services": [
-        "book a bay"
+        "book a bay",
+        "monthly"
       ],
       "carParkName": "229 Flinders St (CBC) Car Park",
       "carParkNumber": 5051,
@@ -78003,7 +78060,7 @@
       "information": "<p>Wilson Parking offer affordable parking at the CBC Car Park, located at 229 Flinders Street, Adelaide. Experience the convenience of 24/7 unlimited access when you subscribe to monthly parking, the 229 Flinders St (CBC) Car Park will meet all of your monthly parking needs.</p>",
       "isWilsonOne": false,
       "legacyID": 269,
-      "monthlyParkingServiceIsAvailable": false,
+      "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
       "phoneNumber": "1800 PARKING",
@@ -78105,7 +78162,7 @@
         "canBookABay": true,
         "bookABayIconLabel": "Prepay Online",
         "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingServiceIsAvailable": true,
         "monthlyParkingIconLabel": "Monthly Subscription",
         "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
         "isWilsonOne": false,
@@ -78890,7 +78947,7 @@
       "costCenter": 1005009,
       "direction": null,
       "heightRestriction": 2.0,
-      "information": "<p>Wilson Parking offer affordable &amp; reliable parking at 251 North Terrace Car Park, located at 251 North Terrace, Adelaide. The Car Park is located near The University of Adelaide, The Art Gallery of SA and the shopping precinct&nbsp;of Rundle Mall. Offering Hourly, Online Early Bird and Weekend parking options, the 251 North Terrace Car Park will meet all of your parking needs.</p>\n<p>Download the Wilson Parking app to easily pay for your parking from your phone.</p>",
+      "information": "<p>Wilson Parking offer affordable &amp; reliable parking at 251 North Terrace Car Park, located at 251 North Terrace, Adelaide. The Car Park is located near The University of Adelaide, The Art Gallery of SA and the shopping precinct&nbsp;of Rundle Mall. Offering Hourly, Online Early Bird and Weekend parking options, the 251 North Terrace Car Park will meet all of your parking needs.</p>\n<p>Download the Wilson Parking app to easily pay for your parking from your phone.</p>\n<p><span style=\"color: #ff1e25;\"><strong>Anzac Day:</strong> This car park will not be accessible from 4am to 12pm on Saturday, 25 April 2026. The car park will resume normal operations after 12pm.</span></p>",
       "isWilsonOne": false,
       "legacyID": 19,
       "monthlyParkingServiceIsAvailable": false,
@@ -79970,6 +80027,7 @@
       "canBookABay": true,
       "selectedFeatures": "",
       "carParkFeature": [
+        "Monthly Parking",
         "Weekend Parking",
         "Book a Bay",
         "Wilson One",
@@ -79985,6 +80043,7 @@
       "services": [
         "book a bay",
         "wilson one",
+        "monthly",
         "disabled parking",
         "ev charging"
       ],
@@ -79998,7 +80057,7 @@
       "information": "<p>Wilson Parking offer affordable &amp; secure parking at Flinders Link, 80 Flinders St Car Park, located at 69 Wyatt Street, Adelaide. Nearby to Rundle Mall, Adelaide Town Hall and offering Hourly, Weekend and discount online parking options the Flinders Link, 80 Flinders St Car Park will meet all of your parking needs.</p>\n<p>Enjoy the conveince of pay as you go with a Wilson Parking card, or get 24/7 unlimited access when you subscribe to Monthly Parking.</p>",
       "isWilsonOne": true,
       "legacyID": 241,
-      "monthlyParkingServiceIsAvailable": false,
+      "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": true,
       "disabledParkingIsAvailable": true,
       "phoneNumber": "1800 PARKING",
@@ -80145,7 +80204,7 @@
         "canBookABay": true,
         "bookABayIconLabel": "Prepay Online",
         "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingServiceIsAvailable": true,
         "monthlyParkingIconLabel": "Monthly Subscription",
         "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
         "isWilsonOne": true,
@@ -81277,13 +81336,16 @@
       "canBookABay": false,
       "selectedFeatures": "",
       "carParkFeature": [
+        "Monthly Parking",
         "Night Parking",
         "Weekend Parking",
         "Early Bird Parking",
         "Epark",
         "Entry height at least 2"
       ],
-      "services": [],
+      "services": [
+        "monthly"
+      ],
       "carParkName": "23 Franklin St Car Park",
       "carParkNumber": 5046,
       "carParkPhoto": "/siteassets/parking-location-images/sa/ade046-resized.jpg",
@@ -81294,7 +81356,7 @@
       "information": "<p>Wilson Parking offer affordable &amp; secure parking at 23 Franklin St Car Park, located at 26 Grote Street, Adelaide. Located near Victoria Square in the heart of the Adelaide CBD with 24 hour access and offering Hourly, Online Early Bird, Night and Weekend parking options, the 23 Franklin St Car Park will meet all of your parking needs.</p>\n<p>Download the Wilson Parking app to easily pay for your parking with your phone, or experience the convenience of unlimited 24/7 access when you subscribe to monthly parking.</p>",
       "isWilsonOne": false,
       "legacyID": 270,
-      "monthlyParkingServiceIsAvailable": false,
+      "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
       "phoneNumber": "1800 PARKING",
@@ -81447,7 +81509,7 @@
         "canBookABay": false,
         "bookABayIconLabel": "Prepay Online",
         "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingServiceIsAvailable": true,
         "monthlyParkingIconLabel": "Monthly Subscription",
         "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
         "isWilsonOne": false,
@@ -82745,7 +82807,7 @@
       "costCenter": 1005180,
       "direction": "Coming Soon! This car park will open 16 February, 2026.<br>\nLeft entry from Port Rd",
       "heightRestriction": 0.0,
-      "information": "<p>Wilson Parking offer affordable, reliable parking at 47 Port Rd Car Park, located at 47 Port Rd in the heart of Thebarton. This open air car park is conveniently located across from Bonython Park, and is a short walk to the Entertainment Centre and the New Womens and Childrens Hospital. Open all day, 7 days a week, easily pay for and manage your parking when you Pay by App in the Wilson Parking App.</p>\n<p>The 47 Port Rd Car Park will suit all your parking needs.</p>",
+      "information": "<p>Wilson Parking offer affordable, reliable parking at 47 Port Rd Car Park, located at 47 Port Rd in the heart of Thebarton. This open air car park is conveniently located across from Bonython Park, and is a short walk to the Entertainment Centre and the New Womens and Childrens Hospital. Open all day, 7 days a week, easily pay for and manage your parking when you Pay by App in the Wilson Parking App. The 47 Port Rd Car Park will suit all your parking needs.</p>\n<p>Whether you're catching a show or cheering on the 36ers or the Thunderbirds, our carpark at 47 Port Rd lands you right in the middle of the action.</p>",
       "isWilsonOne": false,
       "legacyID": 1005180,
       "monthlyParkingServiceIsAvailable": false,
@@ -94425,7 +94487,6 @@
         "Weekend Parking",
         "Book a Bay",
         "Wilson One",
-        "Flexi Parking",
         "Epark",
         "Disabled Parking"
       ],
@@ -94441,7 +94502,7 @@
       "costCenter": 1006063,
       "direction": "Entry via St Georges Terrace or Hay Street",
       "heightRestriction": 2.1,
-      "information": "<p>Wilson Parking offer affordable parking at 256 St Georges Tce (Barrack Arch) Car Park, located at 256 St Georges Terrace, Perth. With entrances from both St Georges Terrace and Hay St, this undercover car park is open 7 days until midnight, providing parking for visitors to QV1 plaza, Barracks Arch and nearby businesses in the Perth CBD. Offering casual Hourly, Online Flexi saver, Night and Weekend Parking with exclusive discounts when you prepay online, and permanent monthly parking for regular parkers, the 256 St Georges Tce (Barrack Arch) Car Park will meet all of your parking needs.</p>\n<p>Download the Wilson Parking App to plan your journey and access exclusive discounts when you prepay ahead; enjoy 24/7 access when you subscribe to monthly parking; or pay as you go when you access the car park using your Wilson Parking card.&nbsp;</p>",
+      "information": "<p>Wilson Parking offer affordable parking at 256 St Georges Tce (Barrack Arch) Car Park, located at 256 St Georges Terrace, Perth. With entrances from both St Georges Terrace and Hay St, this undercover car park is open 7 days until midnight, providing parking for visitors to QV1 plaza, Barracks Arch and nearby businesses in the Perth CBD. Offering casual Hourly, Night and Weekend Parking with exclusive discounts when you prepay online, and permanent monthly parking for regular parkers, the 256 St Georges Tce (Barrack Arch) Car Park will meet all of your parking needs.</p>\n<p>Download the Wilson Parking App to plan your journey and access exclusive discounts when you prepay ahead; enjoy 24/7 access when you subscribe to monthly parking; or pay as you go when you access the car park using your Wilson Parking card.&nbsp;</p>",
       "isWilsonOne": true,
       "legacyID": 167,
       "monthlyParkingServiceIsAvailable": false,
