@@ -5398,6 +5398,7 @@
       "canBookABay": true,
       "selectedFeatures": "",
       "carParkFeature": [
+        "Monthly Parking",
         "Night Parking",
         "Weekend Parking",
         "Early Bird Parking",
@@ -5418,6 +5419,7 @@
       "services": [
         "book a bay",
         "wilson one",
+        "monthly",
         "disabled parking"
       ],
       "carParkName": "Darling Park Car Park",
@@ -5430,7 +5432,7 @@
       "information": "<p>Wilson Parking offer affordable &amp; secure parking at Darling Park Car Park which is located at 201 Sussex St, Sydney in the heart of the Sydney CBD. This undercover car park, on the doorstep of Darling Harbour, provides convenient access to King St Wharf, Darling Harbour, Crown Casino, Restaurants and nearby Hotels and Bars as well as a short walk to Pitt St Mall.&nbsp;</p>\n<p>Offering Casual, Night and Weekend parking options, with exclusive savings when you prepay online, the Darling Park Car Park will suit all your leisure and business parking needs. Regular parkers can save when subscribing to Monthly Parking, or use your Wilson Parking Card and pay as you go.</p>",
       "isWilsonOne": true,
       "legacyID": 68,
-      "monthlyParkingServiceIsAvailable": false,
+      "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": true,
       "phoneNumber": "1800 PARKING",
@@ -5587,7 +5589,7 @@
         "canBookABay": true,
         "bookABayIconLabel": "Prepay Online",
         "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingServiceIsAvailable": true,
         "monthlyParkingIconLabel": "Monthly Subscription",
         "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
         "isWilsonOne": true,
@@ -7129,6 +7131,7 @@
       "canBookABay": true,
       "selectedFeatures": "",
       "carParkFeature": [
+        "Monthly Parking",
         "Night Parking",
         "Weekend Parking",
         "Early Bird Parking",
@@ -7142,6 +7145,7 @@
       "services": [
         "book a bay",
         "wilson one",
+        "monthly",
         "disabled parking"
       ],
       "carParkName": "Gateway Car Park",
@@ -7154,7 +7158,7 @@
       "information": "<p>Wilson Parking offer affordable &amp; secure parking at The Gateway St at 25 Reiby Place in the heart of The Rocks. Close to Circular Quay, the Sydney Opera House, International Cruise Ship Terminal, Restaurants and Bar Precincts, and open to midnight every day, the car park is perfect for business or leisure parking. Offering casual Hourly, Night, Weekend and Overnight Parking with exclusive discounts available when you prepay online, The Gateway Car Park will meet all your parking needs.&nbsp;</p>\n<p>Download the Wilson Parking App to plan your journey and access exclusive discounts when you prepay online; or pay as you go with a convenient monthly invoice when you use your Wilson Parking Card.</p>",
       "isWilsonOne": true,
       "legacyID": 313,
-      "monthlyParkingServiceIsAvailable": false,
+      "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": true,
       "phoneNumber": "1800 PARKING",
@@ -7307,7 +7311,7 @@
         "canBookABay": true,
         "bookABayIconLabel": "Prepay Online",
         "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingServiceIsAvailable": true,
         "monthlyParkingIconLabel": "Monthly Subscription",
         "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
         "isWilsonOne": true,
@@ -14502,6 +14506,7 @@
       "canBookABay": true,
       "selectedFeatures": "",
       "carParkFeature": [
+        "Monthly Parking",
         "Night Parking",
         "Weekend Parking",
         "Early Bird Parking",
@@ -14516,6 +14521,7 @@
       "services": [
         "book a bay",
         "wilson one",
+        "monthly",
         "disabled parking"
       ],
       "carParkName": "76 Berry St Car Park",
@@ -14528,7 +14534,7 @@
       "information": "<p>Wilson Parking offer affordable &amp; secure parking at 76 Berry Car Park which is located at 136-142 Walker St in the heart of North Sydney. Open 7 days a week, and nearby to many North Sydney businesses, bars and restaurants, this car park is conveniently&nbsp;located.&nbsp;</p>\n<p>Offering Hourly, Night and Weekend Parking, with exclusive discounts if you prepay online, and the convenience&nbsp;of unlimited 24/7 access for regular parkers&nbsp;who subscribe to Monthly Parking, the 76 Berry St car park will meet all your parking&nbsp;needs.&nbsp;</p>",
       "isWilsonOne": true,
       "legacyID": 229,
-      "monthlyParkingServiceIsAvailable": false,
+      "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": true,
       "phoneNumber": "1800 PARKING",
@@ -14697,7 +14703,7 @@
         "canBookABay": true,
         "bookABayIconLabel": "Prepay Online",
         "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingServiceIsAvailable": true,
         "monthlyParkingIconLabel": "Monthly Subscription",
         "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
         "isWilsonOne": true,
@@ -25117,11 +25123,11 @@
           "notes": null,
           "rates": [
             {
-              "timeSpan": "Up to 4 hours",
+              "timeSpan": "Up to 2 hours",
               "price": 0.0
             },
             {
-              "timeSpan": "4+ hours (flat rate)",
+              "timeSpan": "2+ hours (flat rate)",
               "price": 10.0
             }
           ]
@@ -25989,10 +25995,13 @@
       "canBookABay": false,
       "selectedFeatures": "",
       "carParkFeature": [
+        "Monthly Parking",
         "Epark",
         "Entry height at least 2"
       ],
-      "services": [],
+      "services": [
+        "monthly"
+      ],
       "carParkName": "35 Hunter Street Car Park",
       "carParkNumber": 2358,
       "carParkPhoto": null,
@@ -26003,7 +26012,7 @@
       "information": "<p>Wilson Parking offer affordable &amp; secure parking 35 Hunter St Car Park which is located in the heart of Parramatta.</p>\n<p>35 Hunter St Car Park suits all your leisure and business parking needs. With Casual parking Monday to Sunday.</p>",
       "isWilsonOne": false,
       "legacyID": 786,
-      "monthlyParkingServiceIsAvailable": false,
+      "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
       "phoneNumber": "1800 PARKING",
@@ -26105,7 +26114,7 @@
         "canBookABay": false,
         "bookABayIconLabel": "Prepay Online",
         "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingServiceIsAvailable": true,
         "monthlyParkingIconLabel": "Monthly Subscription",
         "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
         "isWilsonOne": false,
@@ -26290,11 +26299,11 @@
           "notes": null,
           "rates": [
             {
-              "timeSpan": "Up to 4 hours",
+              "timeSpan": "Up to 2 hours",
               "price": 0.0
             },
             {
-              "timeSpan": "4+ hours (flat rate)",
+              "timeSpan": "2+ hours (flat rate)",
               "price": 10.0
             }
           ]
@@ -55034,8 +55043,12 @@
       "bookText": null,
       "canBookABay": false,
       "selectedFeatures": "",
-      "carParkFeature": [],
-      "services": [],
+      "carParkFeature": [
+        "Monthly Parking"
+      ],
+      "services": [
+        "monthly"
+      ],
       "carParkName": "11 Exhibition Street Private Car Park",
       "carParkNumber": 3310,
       "carParkPhoto": null,
@@ -55046,7 +55059,7 @@
       "information": "<p>Wilson Parking offers affordable &amp; secure parking at 11 Exhibition St&nbsp;Private Car Park, located in the heart of East End with access off of Malthouse Lane. With access available 7 days a week, this car park will meet all your parking needs.</p>\n<p>Sign up to our Monthly Subscription today.</p>",
       "isWilsonOne": false,
       "legacyID": 3310,
-      "monthlyParkingServiceIsAvailable": false,
+      "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
       "phoneNumber": "1800 PARKING (727 546)",
@@ -55092,7 +55105,7 @@
         "canBookABay": false,
         "bookABayIconLabel": "Prepay Online",
         "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingServiceIsAvailable": true,
         "monthlyParkingIconLabel": "Monthly Subscription",
         "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
         "isWilsonOne": false,
@@ -57534,7 +57547,7 @@
       "costCenter": 5009245,
       "direction": "Entry via 10-12 Young St",
       "heightRestriction": 2.1,
-      "information": "<p>The Penny Lane Car Park is conveniently located in Moonee Ponds nearby to Moonee Ponds Central, Clocktower Centre, Palace Penny Lane Cinema, Queen&rsquo;s Park and Moonee Ponds Creek Trail.</p>\n<p>Open 24/7, and offering hourly parking and discounted weekends, the Penny Lane Park will meet all your Moonee Ponds parking needs.</p>\n<p>Download the Wilson Parking App to easily pay for your parking from your phone.</p>",
+      "information": "<p>The Penny Lane Car Park is conveniently located in Moonee Ponds nearby to Moonee Ponds Central, Clocktower Centre, Palace Penny Lane Cinema, Queen&rsquo;s Park and Moonee Ponds Creek Trail.<br /><br />Palace Cinema Patrons: Can EXIT the carpark prior to 1am. Access carpark Lifts on Level G</p>\n<p>Open 7 days per week, and offering hourly parking and discounted weekends, the Penny Lane Park will meet all your Moonee Ponds parking needs.</p>\n<p>Download the Wilson Parking App to easily pay for your parking from your phone.</p>",
       "isWilsonOne": false,
       "legacyID": 9245,
       "monthlyParkingServiceIsAvailable": false,
@@ -57636,66 +57649,66 @@
       "openingTimes": [
         {
           "day_TimePeriod": "Monday",
-          "is24_7": true,
+          "is24_7": false,
           "closed": false,
-          "opening": "",
-          "closing": "",
+          "opening": "6:00",
+          "closing": "23:00",
           "note": null
         },
         {
           "day_TimePeriod": "Tuesday",
-          "is24_7": true,
+          "is24_7": false,
           "closed": false,
-          "opening": "",
-          "closing": "",
+          "opening": "6:00",
+          "closing": "23:00",
           "note": null
         },
         {
           "day_TimePeriod": "Wednesday",
-          "is24_7": true,
+          "is24_7": false,
           "closed": false,
-          "opening": "",
-          "closing": "",
+          "opening": "6:00",
+          "closing": "23:00",
           "note": null
         },
         {
           "day_TimePeriod": "Thursday",
-          "is24_7": true,
+          "is24_7": false,
           "closed": false,
-          "opening": "",
-          "closing": "",
+          "opening": "6:00",
+          "closing": "23:00",
           "note": null
         },
         {
           "day_TimePeriod": "Friday",
-          "is24_7": true,
+          "is24_7": false,
           "closed": false,
-          "opening": "",
-          "closing": "",
+          "opening": "6:00",
+          "closing": "23:00",
           "note": null
         },
         {
           "day_TimePeriod": "Saturday",
-          "is24_7": true,
+          "is24_7": false,
           "closed": false,
-          "opening": "",
-          "closing": "",
+          "opening": "6:00",
+          "closing": "23:00",
           "note": null
         },
         {
           "day_TimePeriod": "Sunday",
-          "is24_7": true,
+          "is24_7": false,
           "closed": false,
-          "opening": "",
-          "closing": "",
+          "opening": "6:00",
+          "closing": "23:00",
           "note": null
         },
         {
           "day_TimePeriod": "Public Holiday",
-          "is24_7": true,
+          "is24_7": false,
           "closed": false,
-          "opening": "",
-          "closing": "",
+          "opening": "6:00",
+          "closing": "23:00",
           "note": null
         }
       ],
@@ -62847,7 +62860,7 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Rates Apply Monday - Sunday</p>\n<p>&nbsp;</p>",
+          "notes": "<p>Rates apply Monday to Sunday<br />Rates charged from 6am daily</p>",
           "rates": [
             {
               "timeSpan": "0.0 - 0.5 Hours",
@@ -62901,66 +62914,66 @@
       "openingTimes": [
         {
           "day_TimePeriod": "Monday",
-          "is24_7": true,
+          "is24_7": false,
           "closed": false,
-          "opening": "",
-          "closing": "",
+          "opening": "6:00",
+          "closing": "00:30",
           "note": null
         },
         {
           "day_TimePeriod": "Tuesday",
-          "is24_7": true,
+          "is24_7": false,
           "closed": false,
-          "opening": "",
-          "closing": "",
+          "opening": "6:00",
+          "closing": "00:30",
           "note": null
         },
         {
           "day_TimePeriod": "Wednesday",
-          "is24_7": true,
+          "is24_7": false,
           "closed": false,
-          "opening": "",
-          "closing": "",
+          "opening": "6:00",
+          "closing": "00:30",
           "note": null
         },
         {
           "day_TimePeriod": "Thursday",
-          "is24_7": true,
+          "is24_7": false,
           "closed": false,
-          "opening": "",
-          "closing": "",
+          "opening": "6:00",
+          "closing": "00:30",
           "note": null
         },
         {
           "day_TimePeriod": "Friday",
-          "is24_7": true,
+          "is24_7": false,
           "closed": false,
-          "opening": "",
-          "closing": "",
+          "opening": "6:00",
+          "closing": "00:30",
           "note": null
         },
         {
           "day_TimePeriod": "Saturday",
-          "is24_7": true,
+          "is24_7": false,
           "closed": false,
-          "opening": "",
-          "closing": "",
+          "opening": "6:00",
+          "closing": "00:30",
           "note": null
         },
         {
           "day_TimePeriod": "Sunday",
-          "is24_7": true,
+          "is24_7": false,
           "closed": false,
-          "opening": "",
-          "closing": "",
+          "opening": "6:00",
+          "closing": "00:30",
           "note": null
         },
         {
           "day_TimePeriod": "Public Holiday",
-          "is24_7": true,
+          "is24_7": false,
           "closed": false,
-          "opening": "",
-          "closing": "",
+          "opening": "6:00",
+          "closing": "00:30",
           "note": null
         }
       ],
@@ -70155,8 +70168,12 @@
       "bookText": null,
       "canBookABay": false,
       "selectedFeatures": "",
-      "carParkFeature": [],
-      "services": [],
+      "carParkFeature": [
+        "Monthly Parking"
+      ],
+      "services": [
+        "monthly"
+      ],
       "carParkName": "116 Adelaide Street",
       "carParkNumber": 4241,
       "carParkPhoto": null,
@@ -70167,7 +70184,7 @@
       "information": "<p>Wilson Parking offers affordable and secure parking at 116 Adelaide Street, located at 116 Adelaide Street Brisbane. Conveniently located in the heart of the Brisbane CBD, and allowing 24/7 access for monthly parkers, the 116 Adelaide Street car park will meet all of your commuter parking needs.</p>\n<p>This is a monthly parking only car park. Enjoy unlimited 24/7 access to the 116 Adelaide Street car park when you subscribe to Monthly Parking.&nbsp;</p>",
       "isWilsonOne": false,
       "legacyID": 726,
-      "monthlyParkingServiceIsAvailable": false,
+      "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
       "phoneNumber": "1800PARKING",
@@ -70213,7 +70230,7 @@
         "canBookABay": false,
         "bookABayIconLabel": "Prepay Online",
         "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingServiceIsAvailable": true,
         "monthlyParkingIconLabel": "Monthly Subscription",
         "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
         "isWilsonOne": false,
@@ -70420,8 +70437,12 @@
       "bookText": null,
       "canBookABay": false,
       "selectedFeatures": "",
-      "carParkFeature": [],
-      "services": [],
+      "carParkFeature": [
+        "Monthly Parking"
+      ],
+      "services": [
+        "monthly"
+      ],
       "carParkName": "143 Turbot Street",
       "carParkNumber": 4170,
       "carParkPhoto": null,
@@ -70432,7 +70453,7 @@
       "information": "<p>Wilson Parking offers affordable and secure parking at 143 Turbot Street car park, located off Roma Street, Brisbane. Boasting convenient access to the Brisbane CBD, and offering 24/7 access for monthly parkers, the 143 Turbot Street car park will meet all your monthly parking needs.</p>\n<p>This is a monthly parking only car park. Subscribe to monthly parking for convenient 24/7 access.&nbsp;</p>",
       "isWilsonOne": false,
       "legacyID": 579,
-      "monthlyParkingServiceIsAvailable": false,
+      "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
       "phoneNumber": "1800 PARKING",
@@ -70478,7 +70499,7 @@
         "canBookABay": false,
         "bookABayIconLabel": "Prepay Online",
         "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingServiceIsAvailable": true,
         "monthlyParkingIconLabel": "Monthly Subscription",
         "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
         "isWilsonOne": false,
@@ -79820,7 +79841,7 @@
       "costCenter": 1005039,
       "direction": "Enter via North Terrace opposite the Art Gallery of SA",
       "heightRestriction": 2.05,
-      "information": "<p>Wilson Parking offer affordable &amp; reliable parking at Adelaide Central Car Park, located at 225 North Terrace, Adelaide. The Car Park is located near The University of Adelaide, The Art Gallery of SA, Rundle Mall and just a short walk to Adelaide Oval. Offering Flexi Saver, Weekend and discount online parking options, the Adelaide Central Car Park will meet all of your parking needs.</p>\n<p>Experience the convenience of&nbsp;pay as you go with a Wilson Parking card, or enjoy 24/7 unlimited access when you subscribe to Monthly Parking.&nbsp;</p>",
+      "information": "<p>Wilson Parking offer affordable &amp; reliable parking at Adelaide Central Car Park, located at 225 North Terrace, Adelaide. The Car Park is located near The University of Adelaide, The Art Gallery of SA, Rundle Mall and just a short walk to Adelaide Oval. Offering Flexi Saver, Weekend and discount online parking options, the Adelaide Central Car Park will meet all of your parking needs.</p>\n<p>Experience the convenience of&nbsp;pay as you go with a Wilson Parking card, or enjoy 24/7 unlimited access when you subscribe to Monthly Parking.&nbsp;</p>\n<p><span style=\"color: #ff1e25;\"><strong>Anzac Day:</strong> This car park will not be accessible from 4am to 12pm on Saturday, 25 April 2026. The car park will resume normal operations after 12pm.</span></p>",
       "isWilsonOne": true,
       "legacyID": 165,
       "monthlyParkingServiceIsAvailable": true,
