@@ -1026,6 +1026,7 @@
       "canBookABay": true,
       "selectedFeatures": "",
       "carParkFeature": [
+        "Monthly Parking",
         "Night Parking",
         "Weekend Parking",
         "Book a Bay",
@@ -1037,7 +1038,8 @@
       ],
       "services": [
         "book a bay",
-        "wilson one"
+        "wilson one",
+        "monthly"
       ],
       "carParkName": "George Place Car Park",
       "carParkNumber": 2417,
@@ -1049,7 +1051,7 @@
       "information": "<p>Wilson Parking offer affordable &amp; secure parking at George Place Car Park, located via 24 York Street, in the heart of Sydney CBD. Conveniently nearby to City Recital Hall, Martin Place, Pitt St Mall shopping, Hotels and Restaurant Precincts, this car park is open daily till 10pm. Offering Hourly and Weekend parking, the George Place Car Park&nbsp;suits all your leisure and business parking needs.</p>\n<p>Save when you prepay your parking online or with the Wilson Parking App; enjoy unlimited 24/7 access when you subscribe to Monthly Parking; or pay as you go with the convenient queue-less, contact free Wilson Parking Card.&nbsp;</p>\n<p><span style=\"color: #ff1e25;\"><strong>Important Updates<br /></strong></span><span style=\"color: #ff1e25;\"><span style=\"color: #000000;\">- Once the car park closes, there is no vehicle or pedestrian access afterhours.<br /></span></span><span style=\"color: #000000;\">- Mobility access is unavailable once the building closes at 6:00pm&nbsp;(Monday to Friday), Weekends and Public Holidays, so we encourage those requiring accessible entry to plan their visit accordingly.</span></p>\n<div>&nbsp;</div>",
       "isWilsonOne": true,
       "legacyID": 2417,
-      "monthlyParkingServiceIsAvailable": false,
+      "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
       "phoneNumber": "1800 PARKING",
@@ -1190,7 +1192,7 @@
         "canBookABay": true,
         "bookABayIconLabel": "Prepay Online",
         "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingServiceIsAvailable": true,
         "monthlyParkingIconLabel": "Monthly Subscription",
         "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
         "isWilsonOne": true,
@@ -11685,6 +11687,7 @@
       "canBookABay": true,
       "selectedFeatures": "",
       "carParkFeature": [
+        "Monthly Parking",
         "Night Parking",
         "Weekend Parking",
         "Early Bird Parking",
@@ -11697,7 +11700,8 @@
       ],
       "services": [
         "book a bay",
-        "wilson one"
+        "wilson one",
+        "monthly"
       ],
       "carParkName": "55 Holt St Car Park",
       "carParkNumber": 2357,
@@ -11709,7 +11713,7 @@
       "information": "<p>Wilson Parking offer affordable &amp; secure parking at 55 Holt St Car Park, located at 55 Holt St in Surry Hills in the South of the Sydney CBD.&nbsp;Open until midnight 7 days a week, this undercover car park provides convenient access to nearby stores, restaurants and other Surry Hills businesses.&nbsp;Offering casual Hourly, Weekend and Night Parking with exclusive discounts when you prepay online and permanent monthly parking for regular parkers,&nbsp;the 55 Holt St&nbsp;Car Park will meet all your business and leisure parking needs.&nbsp;</p>\n<p>Download the Wilson Parking App to plan your journey and access parking discounts when you prepay online;&nbsp;enjoy unlimited 24/7 access when you subscribe to monthly parking; or&nbsp;pay as you go on one convenient monthly invoice when you use your Wilson Parking Card to access the car park.</p>",
       "isWilsonOne": true,
       "legacyID": 802,
-      "monthlyParkingServiceIsAvailable": false,
+      "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
       "phoneNumber": "1800 727 546",
@@ -11848,7 +11852,7 @@
         "canBookABay": true,
         "bookABayIconLabel": "Prepay Online",
         "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingServiceIsAvailable": true,
         "monthlyParkingIconLabel": "Monthly Subscription",
         "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
         "isWilsonOne": true,
@@ -15571,27 +15575,27 @@
             },
             {
               "timeSpan": "0.5 - 1.0 Hour",
-              "price": 6.0
+              "price": 0.0
             },
             {
               "timeSpan": "1.0 - 2.0 Hours",
-              "price": 12.0
+              "price": 6.0
             },
             {
               "timeSpan": "2.0 - 3.0 Hours",
-              "price": 18.0
+              "price": 12.0
             },
             {
               "timeSpan": "3.5 - 4.0 Hours",
-              "price": 30.0
+              "price": 18.0
             },
             {
               "timeSpan": "4.0 - 5.0 Hours",
-              "price": 40.0
+              "price": 30.0
             },
             {
               "timeSpan": "5.0 + Hours",
-              "price": 60.0
+              "price": 50.0
             }
           ]
         }
@@ -68854,6 +68858,7 @@
       "canBookABay": true,
       "selectedFeatures": "",
       "carParkFeature": [
+        "Monthly Parking",
         "Night Parking",
         "Weekend Parking",
         "Book a Bay",
@@ -68861,7 +68866,8 @@
         "Daily Pass Bundles"
       ],
       "services": [
-        "book a bay"
+        "book a bay",
+        "monthly"
       ],
       "carParkName": "60 Edward St",
       "carParkNumber": 4365,
@@ -68873,7 +68879,7 @@
       "information": "<p>Wilson Parking offer affordable, reliable parking at 60 Edward St Car Park, located in the heart of Brisbane. This undercover car park provides convenient access to the Brisbane Botanical Gardens, Riverstage, nearby businesses, hotels and restaurants. Open 7 days, until late, the 60 Edward St car park will&nbsp; offer casual hourly, night and weekend rates, and more flexibility and value when you prepay online. Also offering Permanent Monthly Subscription Parking for regular parkers with unlimited access, the 60 Edward St Car Park will suit all your parking needs.</p>",
       "isWilsonOne": false,
       "legacyID": 1004365,
-      "monthlyParkingServiceIsAvailable": false,
+      "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
       "phoneNumber": "1800 727546",
@@ -69010,7 +69016,7 @@
         "canBookABay": true,
         "bookABayIconLabel": "Prepay Online",
         "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingServiceIsAvailable": true,
         "monthlyParkingIconLabel": "Monthly Subscription",
         "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
         "isWilsonOne": false,
