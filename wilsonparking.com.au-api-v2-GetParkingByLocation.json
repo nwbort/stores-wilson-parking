@@ -1491,7 +1491,7 @@
           "notes": "<p>&nbsp;</p>\n<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>\n<p>&nbsp;</p>",
           "rates": [
             {
-              "timeSpan": "Weekend varies from $25.00 - $29.00, depending on demand",
+              "timeSpan": "Weekend varies from $24.75 - $28.75, depending on demand",
               "price": 32.0
             }
           ]
@@ -1508,7 +1508,7 @@
         }
       ],
       "fromText": "From",
-      "fromPrice": "25",
+      "fromPrice": "24.75",
       "location": {
         "longitude": 151.21217250824,
         "latitude": -33.8670214766653,
@@ -2400,7 +2400,7 @@
         }
       ],
       "fromText": "From",
-      "fromPrice": "15",
+      "fromPrice": "14.75",
       "location": {
         "longitude": 151.20582640171051,
         "latitude": -33.871101476069974,
@@ -3764,7 +3764,7 @@
         }
       ],
       "fromText": "From",
-      "fromPrice": "20",
+      "fromPrice": "20.75",
       "location": {
         "longitude": 151.21009111404419,
         "latitude": -33.86449142275498,
@@ -6427,7 +6427,7 @@
         }
       ],
       "fromText": "From",
-      "fromPrice": "12",
+      "fromPrice": "12.75",
       "location": {
         "longitude": 151.20522022247314,
         "latitude": -33.8735689793269,
@@ -6922,9 +6922,9 @@
         {
           "day_TimePeriod": "Public Holiday",
           "is24_7": false,
-          "closed": false,
-          "opening": "09:00",
-          "closing": "22:00",
+          "closed": true,
+          "opening": "",
+          "closing": "",
           "note": null
         }
       ],
@@ -10361,7 +10361,7 @@
         }
       ],
       "fromText": "From",
-      "fromPrice": "23",
+      "fromPrice": "23.75",
       "location": {
         "longitude": 151.20373159646988,
         "latitude": -33.881293941128156,
@@ -10503,7 +10503,6 @@
         "Disabled Parking",
         "Daily Pass Bundles",
         "Footy Parking",
-        "Super Saver",
         "Summer Sale"
       ],
       "services": [
@@ -10546,14 +10545,14 @@
           "notes": "<p>&nbsp;</p>\n<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>\n<p>&nbsp;</p>",
           "rates": [
             {
-              "timeSpan": "Weekend varies from $29.00 - $32.00, depending on demand",
+              "timeSpan": "Weekend varies from $28.75 - $32.75, depending on demand",
               "price": 35.0
             }
           ]
         }
       ],
       "fromText": "From",
-      "fromPrice": "25",
+      "fromPrice": "28.75",
       "location": {
         "longitude": 151.19355797767639,
         "latitude": -33.864785411742318,
@@ -11897,8 +11896,12 @@
       "bookText": null,
       "canBookABay": false,
       "selectedFeatures": "",
-      "carParkFeature": [],
-      "services": [],
+      "carParkFeature": [
+        "Monthly Parking"
+      ],
+      "services": [
+        "monthly"
+      ],
       "carParkName": "52 Alfred Street Car Park",
       "carParkNumber": 2354,
       "carParkPhoto": null,
@@ -11909,7 +11912,7 @@
       "information": "<p>Wilson Parking offer affordable &amp; secure Monthly parking at 52 Alfred St Car Park, located at Glen St, Milsons Point.</p>\n<p>With convenient access to nearby Milsons Point businesses, including Luna Park, and Milsons Point Station, the 582 Alfred St Car Park will meet all you permanent parking needs.&nbsp;</p>\n<p>This car park is monthly parking only. Subscribe to monthly parking to enjoy unlimited 24/7 access.&nbsp;</p>\n<p>&nbsp;</p>",
       "isWilsonOne": false,
       "legacyID": 774,
-      "monthlyParkingServiceIsAvailable": false,
+      "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
       "phoneNumber": "1800 PARKING",
@@ -11955,7 +11958,7 @@
         "canBookABay": false,
         "bookABayIconLabel": "Prepay Online",
         "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingServiceIsAvailable": true,
         "monthlyParkingIconLabel": "Monthly Subscription",
         "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
         "isWilsonOne": false,
@@ -14620,7 +14623,7 @@
         }
       ],
       "fromText": "From",
-      "fromPrice": "7",
+      "fromPrice": "10",
       "location": {
         "longitude": 151.20907187461853,
         "latitude": -33.836938827196335,
@@ -16173,7 +16176,7 @@
         }
       ],
       "fromText": "From",
-      "fromPrice": "15",
+      "fromPrice": "15.75",
       "location": {
         "longitude": 151.19628310203552,
         "latitude": -33.825105569636662,
@@ -25637,12 +25640,9 @@
       "canBookABay": false,
       "selectedFeatures": "",
       "carParkFeature": [
-        "Monthly Parking",
         "Entry height at least 2"
       ],
-      "services": [
-        "monthly"
-      ],
+      "services": [],
       "carParkName": "Eat Street Car Park",
       "carParkNumber": 2425,
       "carParkPhoto": null,
@@ -25653,7 +25653,7 @@
       "information": "<p>Wilson Parking offers affordable &amp; reliable parking at Eat St Car Park, located in the heart of Parramatta's dining precinct.</p>\n<p>Open 24/7, and with entry from Erby Pl or Horwood Pl, this undercover car park is conveniently located near the Riverside Theatres, Church St Mall, and Parramatta's vibrant Eat Street precinct. With easy access to nearby restaurants, cafes and retail stores, the Eat St Car Park offers casual hourly parking to meet all your parking needs.&nbsp;</p>\n<p>Monthly Parking available - enjoy unlimited access when you subscribe to Monthly Parking;</p>",
       "isWilsonOne": false,
       "legacyID": 1002425,
-      "monthlyParkingServiceIsAvailable": true,
+      "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
       "phoneNumber": "1800-PARKING",
@@ -25796,7 +25796,7 @@
         "canBookABay": false,
         "bookABayIconLabel": "Prepay Online",
         "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": true,
+        "monthlyParkingServiceIsAvailable": false,
         "monthlyParkingIconLabel": "Monthly Subscription",
         "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
         "isWilsonOne": false,
@@ -54121,7 +54121,7 @@
       "costCenter": 1003195,
       "direction": "Entry & exit via St Andrews Place",
       "heightRestriction": 2.1,
-      "information": "<p>Wilson Parking offer affordable &amp; secure parking at Park Hyatt Car Park, located at St Andrews Place&nbsp;in the heart of East Melbourne. Open 7 days, this undercover car park provides convenient access to Princess Theatre, Comedy Theatre, Parliament House and with 24 hour access is perfect for restaurant and hotel parking. Offering Hourly, Early Bird, Weekend and Night Parking options with exclusive discounts when you prepay online, permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the Park Hyatt Car Park will meet all your business and leisure parking needs.&nbsp;</p>\n<p>This car park accepts credit card payment only. Download the Wilson Parking App to plan your journey and access parking discounts when you prepay online;&nbsp;enjoy unlimited 24/7 access when you subscribe to monthly parking; pay as you go on one convenient monthly invoice when you use your Wilson Parking Card to access the car park.&nbsp;</p>",
+      "information": "<p><span style=\"color: #ff1e25;\"><strong><u>Event Dates April 2026:<br /></u></strong>24th, 30th from 4:00pm</span><br /><span style=\"color: #ff1e25;\"><em>Event rates will apply. Drive up only.<br />On event dates, please allow additional time to exit.</em></span></p>\n<p>Wilson Parking offer affordable &amp; secure parking at Park Hyatt Car Park, located at St Andrews Place&nbsp;in the heart of East Melbourne. Open 7 days, this undercover car park provides convenient access to Princess Theatre, Comedy Theatre, Parliament House and with 24 hour access is perfect for restaurant and hotel parking. Offering Hourly, Early Bird, Weekend and Night Parking options with exclusive discounts when you prepay online, permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the Park Hyatt Car Park will meet all your business and leisure parking needs.&nbsp;</p>\n<p>This car park accepts credit card payment only. Download the Wilson Parking App to plan your journey and access parking discounts when you prepay online;&nbsp;enjoy unlimited 24/7 access when you subscribe to monthly parking; pay as you go on one convenient monthly invoice when you use your Wilson Parking Card to access the car park.&nbsp;</p>",
       "isWilsonOne": true,
       "legacyID": 120,
       "monthlyParkingServiceIsAvailable": true,
@@ -54143,22 +54143,18 @@
             },
             {
               "timeSpan": "0.5 - 1.0 Hours",
-              "price": 21.0
+              "price": 22.0
             },
             {
               "timeSpan": "1.0 - 2.0 Hours\t",
               "price": 44.0
             },
             {
-              "timeSpan": "2.0 - 3.0 Hours",
+              "timeSpan": "2.0 - 3.0 hrs",
               "price": 66.0
             },
             {
-              "timeSpan": "3.0 - 4.0 Hours",
-              "price": 74.0
-            },
-            {
-              "timeSpan": "4.0 + Hours",
+              "timeSpan": "3.0 + hrs",
               "price": 80.0
             }
           ]
@@ -55039,7 +55035,7 @@
       "costCenter": 1003300,
       "direction": null,
       "heightRestriction": 2.05,
-      "information": "<p><span style=\"color: #ff1e25;\"><strong><u>Event Dates April 2026:<br /></u></strong>25th from 12pm to 11:59pm.<br /><br /></span><span style=\"color: #ff1e25;\"><strong><u>Event Dates May 2026:<br /></u></strong>9th, 22nd, 29th from 5:00pm to 11:59pm.</span><br /><span style=\"color: #ff1e25;\">16th, 23rd from 2:00pm to 11:59pm.</span><br /><span style=\"color: #ff1e25;\">Event rates will apply.</span><br /><span style=\"color: #ff1e25;\"><em>On event dates, please allow additional time to exit.<br /><br /></em></span>Wilson Parking offers affordable &amp; secure parking at 11 Exhibition St&nbsp;Car Park, located at 11 Exhibition St in the heart of East End. Open 7 days, this undercover car park provides convenient access to nearby the MCG, Federation Square, Birrarung Marr, Melbourne Park and many other popular attractions. This car park offers flat rate parking at the times you need when you prepay online a Flexi Saver rate online. Casual Hourly, Weekend and Night Parking options are also available, with permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the 11 Exhibition St Car Park will meet all your business and leisure parking needs.&nbsp;</p>\n<p>This car park accepts Credit Card payments only.&nbsp;Download the Wilson Parking App to plan your journey and access the best parking value when you prepay online; enjoy unlimited 24/7 access when you subscribe to monthly parking; pay as you go on one convenient monthly invoice when you use your Wilson Parking Card to access the car park.</p>",
+      "information": "<p><span style=\"color: #ff1e25;\"><u></u><strong><u>Event Dates April 2026:<br /></u></strong>24th, 30th from 4:00pm to 11:59pm.<br />25th from 12:00pm to 11:59pm.<br /><br /></span><span style=\"color: #ff1e25;\"><strong><u>Event Dates May 2026:<br /></u></strong>9th, 22nd, 29th from 5:00pm to 11:59pm.</span><br /><span style=\"color: #ff1e25;\">16th, 23rd from 2:00pm to 11:59pm.</span><br /><span style=\"color: #ff1e25;\">Event rates will apply.</span><br /><span style=\"color: #ff1e25;\"><em>On event dates, please allow additional time to exit.<br /><br /></em></span>Wilson Parking offers affordable &amp; secure parking at 11 Exhibition St&nbsp;Car Park, located at 11 Exhibition St in the heart of East End. Open 7 days, this undercover car park provides convenient access to nearby the MCG, Federation Square, Birrarung Marr, Melbourne Park and many other popular attractions. This car park offers flat rate parking at the times you need when you prepay online a Flexi Saver rate online. Casual Hourly, Weekend and Night Parking options are also available, with permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the 11 Exhibition St Car Park will meet all your business and leisure parking needs.&nbsp;</p>\n<p>This car park accepts Credit Card payments only.&nbsp;Download the Wilson Parking App to plan your journey and access the best parking value when you prepay online; enjoy unlimited 24/7 access when you subscribe to monthly parking; pay as you go on one convenient monthly invoice when you use your Wilson Parking Card to access the car park.</p>",
       "isWilsonOne": true,
       "legacyID": 497,
       "monthlyParkingServiceIsAvailable": true,
@@ -89218,7 +89214,7 @@
       "carParkPhoto": "/contentassets/9324ab3291044efbbd2e12849cb91a3c/per113c.jpg",
       "category": "",
       "costCenter": 1006113,
-      "direction": "Entry via Hay Street or Pier Street\n\n</br></br>Please note the Pier Street entry to the car park will be closed on 28th of February. \nWe apologise for any inconvenience.</br>",
+      "direction": "Entry via Hay Street or Pier Street\n",
       "heightRestriction": 2.0,
       "information": "<p>Wilson Parking offer affordable motorcycle parking at Kings Complex Car Park, located at 517 Hay Street, Perth.&nbsp;The car park offers two convenient entries. Enter via Hay St or Pier Street, heading southbound, after the Hay Street intersection.</p>\n<p>Download the Wilson Parking App to pay for and manage your motorbike parking directly from your phone.</p>\n<p>Looking for car parking at 517 Hay St - check out our other parking options <a href=\"/link/3ef8101d1faa416f9c4c38f70f5c8d40.aspx\" target=\"_top\">here</a></p>",
       "isWilsonOne": false,
