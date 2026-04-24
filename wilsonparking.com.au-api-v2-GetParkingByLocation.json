@@ -88,7 +88,7 @@
           "notes": "<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
           "rates": [
             {
-              "timeSpan": "Weekend varies from $39.00 - $42.00, depending on demand",
+              "timeSpan": "Weekend varies from $38.75- $42.75, depending on demand",
               "price": 45.0
             }
           ]
@@ -500,7 +500,7 @@
         }
       ],
       "fromText": "From",
-      "fromPrice": "25",
+      "fromPrice": "25.75",
       "location": {
         "longitude": 151.210675780513,
         "latitude": -33.8682724795688,
@@ -1100,7 +1100,7 @@
         }
       ],
       "fromText": "From",
-      "fromPrice": "20",
+      "fromPrice": "20.75",
       "location": {
         "longitude": 151.206025574126,
         "latitude": -33.8683208520192,
@@ -3025,7 +3025,7 @@
         }
       ],
       "fromText": "From",
-      "fromPrice": "24",
+      "fromPrice": "24.75",
       "location": {
         "longitude": 151.209987905488,
         "latitude": -33.8649337587749,
@@ -3161,7 +3161,8 @@
         "Daily Pass Bundles",
         "Summer Sale",
         "Elevate",
-        "LPR"
+        "LPR",
+        "Spott Saver"
       ],
       "services": [
         "book a bay",
@@ -3233,10 +3234,10 @@
         },
         {
           "rateType": "Weekend",
-          "notes": "<p>&nbsp;</p>\n<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
+          "notes": "<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>\n<p>&nbsp;</p>",
           "rates": [
             {
-              "timeSpan": "Weekend varies from $30.00 - $33.00, depending on demand",
+              "timeSpan": "Weekend varies from $29.75 - $33.75, depending on demand",
               "price": 37.0
             }
           ]
@@ -4890,7 +4891,7 @@
           "notes": "<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>",
           "rates": [
             {
-              "timeSpan": "Sat varies from $19.00 - $22.00, depending on demand",
+              "timeSpan": "Sat varies from $18.75 - $22.75, depending on demand",
               "price": 25.0
             }
           ]
@@ -7208,11 +7209,7 @@
           "notes": "<p>Entry after 5pm, exit before 6am following day<br />Casual rates apply if conditions are not met</p>\n<p>Online rates include transaction fee. Click the <strong>Prepay&nbsp;now</strong> link below to get started.</p>",
           "rates": [
             {
-              "timeSpan": "Mon - Thur from",
-              "price": 42.0
-            },
-            {
-              "timeSpan": "Friday Night from",
+              "timeSpan": "Mon - Fri from",
               "price": 42.0
             }
           ]
@@ -7222,7 +7219,7 @@
           "notes": "<p>Flat Rate: entry from 6am, exit before 12am</p>\n<p><strong>Prepay Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the <strong>Prepay Now</strong> link below to get started.<br />Rates shown include transaction fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>",
           "rates": [
             {
-              "timeSpan": "Sat - Sun & Public Holiday varies from $35.00 - $39.00, depending on demand",
+              "timeSpan": "Sat - Sun & Public Holiday varies from $35.75 - $39.75, depending on demand",
               "price": 45.0
             }
           ]
@@ -8283,7 +8280,7 @@
           "notes": "<p>Flat Rate: per exit, per day</p>\n<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Prepay Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the <strong>Prepay Now</strong> link below to get started.<br />Rates shown include transaction fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>",
           "rates": [
             {
-              "timeSpan": "Sat - Sun & Public Holiday varies from $39.00 - $42.00, depending on demand",
+              "timeSpan": "Sat - Sun & Public Holiday varies from $38.75 - $42.75, depending on demand",
               "price": 47.0
             }
           ]
@@ -10104,7 +10101,8 @@
         "Entry height at least 2",
         "Daily Pass Bundles",
         "Elevate",
-        "LPR"
+        "LPR",
+        "Spott Saver"
       ],
       "services": [
         "book a bay",
@@ -11772,7 +11770,7 @@
         }
       ],
       "fromText": "From",
-      "fromPrice": "20",
+      "fromPrice": "20.75",
       "location": {
         "longitude": 151.209126014121,
         "latitude": -33.8862333566564,
@@ -13984,7 +13982,7 @@
         }
       ],
       "fromText": "From",
-      "fromPrice": "6",
+      "fromPrice": "6.75",
       "location": {
         "longitude": 151.18386583988112,
         "latitude": -33.891551033782648,
@@ -24777,7 +24775,7 @@
         }
       ],
       "fromText": "From",
-      "fromPrice": "10",
+      "fromPrice": "10.75",
       "location": {
         "longitude": 151.007801235587,
         "latitude": -33.8134135816341,
@@ -39122,10 +39120,6 @@
             },
             {
               "timeSpan": "7.0+ hrs",
-              "price": 40.0
-            },
-            {
-              "timeSpan": "Lost Ticket",
               "price": 40.0
             }
           ]
@@ -79721,7 +79715,7 @@
       "costCenter": 1005039,
       "direction": "Enter via North Terrace opposite the Art Gallery of SA",
       "heightRestriction": 2.05,
-      "information": "<p>Wilson Parking offer affordable &amp; reliable parking at Adelaide Central Car Park, located at 225 North Terrace, Adelaide. The Car Park is located near The University of Adelaide, The Art Gallery of SA, Rundle Mall and just a short walk to Adelaide Oval. Offering Flexi Saver, Weekend and discount online parking options, the Adelaide Central Car Park will meet all of your parking needs.</p>\n<p>Experience the convenience of&nbsp;pay as you go with a Wilson Parking card, or enjoy 24/7 unlimited access when you subscribe to Monthly Parking.&nbsp;</p>\n<p><span style=\"color: #ff1e25;\"><strong>Anzac Day:</strong> This car park will not be accessible from 4am to 12pm on Saturday, 25 April 2026. The car park will resume normal operations after 12pm.</span></p>",
+      "information": "<p><span style=\"color: #ff1e25;\"><strong>Anzac Day:</strong> This car park will not be accessible from 4am to 12pm on Saturday, 25th April 2026. The car park will resume normal operations after 12pm.<br /><br /></span>Wilson Parking offer affordable &amp; reliable parking at Adelaide Central Car Park, located at 225 North Terrace, Adelaide. The Car Park is located near The University of Adelaide, The Art Gallery of SA, Rundle Mall and just a short walk to Adelaide Oval. Offering Flexi Saver, Weekend and discount online parking options, the Adelaide Central Car Park will meet all of your parking needs.</p>\n<p>Experience the convenience of&nbsp;pay as you go with a Wilson Parking card, or enjoy 24/7 unlimited access when you subscribe to Monthly Parking.</p>",
       "isWilsonOne": true,
       "legacyID": 165,
       "monthlyParkingServiceIsAvailable": true,
@@ -80140,7 +80134,6 @@
       "carParkFeature": [
         "Monthly Parking",
         "Weekend Parking",
-        "Early Bird Parking",
         "Epark"
       ],
       "services": [
@@ -80153,7 +80146,7 @@
       "costCenter": 1005174,
       "direction": "Wilson Parking commences operating this site, 10th July 2023.\nEnquire today about securing a Reserved Bay with 24/7 access at the 58-60 Carrington Street car park. \n\nEntry via 58-60 Carrington Street",
       "heightRestriction": 0.0,
-      "information": "<p><span style=\"color: #ff1e25;\"><strong>Enquire today about securing a Reserved Bay with 24/7 access </strong></span><span style=\"color: #ff1e25;\"><strong>at the 58-60 Carrington Street car park.&nbsp;</strong></span></p>\n<p>Wilson Parking offer affordable parking at 58-60 Carrington St&nbsp;Car Park, located at&nbsp;58-60 Carrington Street, Adelaide 5000&nbsp;in the heart of \"The Precinct\". Open 7 days, this open-air car park provides convenient access to local law firms, SA Courts, The Arts Theatre and Victoria Square / Tarntanyangga, perfect for when&nbsp;major events are on.</p>\n<p>Offering App Only Hourly, Early Bird, Weekend and Night Parking options, and permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the 58-60 Carrington St&nbsp;Car Park will meet all your business and leisure parking needs.&nbsp;</p>",
+      "information": "<p><span style=\"color: #ff1e25;\"><strong>Enquire today about securing a Reserved Bay with 24/7 access </strong></span><span style=\"color: #ff1e25;\"><strong>at the 58-60 Carrington Street car park.&nbsp;</strong></span></p>\n<p>Wilson Parking offer affordable parking at 58-60 Carrington St&nbsp;Car Park, located at&nbsp;58-60 Carrington Street, Adelaide 5000&nbsp;in the heart of \"The Precinct\". Open 7 days, this open-air car park provides convenient access to local law firms, SA Courts, The Arts Theatre and Victoria Square / Tarntanyangga, perfect for when&nbsp;major events are on.</p>\n<p>Offering App Only Hourly, Night and Weekend Parking options, and permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the 58-60 Carrington St&nbsp;Car Park will meet all your business and leisure parking needs.&nbsp;</p>",
       "isWilsonOne": false,
       "legacyID": 5174,
       "monthlyParkingServiceIsAvailable": true,
@@ -80163,15 +80156,14 @@
       "products": [
         "Monthly Parking",
         "Night Parking",
-        "Weekend Parking",
-        "Early Bird Parking"
+        "Weekend Parking"
       ],
       "staticMapPhoto": null,
       "streetViewHeading": null,
       "streetViewLocation": "https://www.google.com/maps/place/58-60+Carrington+St,+Adelaide+SA+5000/@-34.9314054,138.6024579,3a,75y,354.71h,86.08t/data=!3m6!1e1!3m4!1sSfFaQJwAzCk7ZcK6a4WgJA!2e0!7i16384!8i8192!4m7!3m6!1s0x6ab0ced93fc8f033:0x9b786c39be3a9eaf!8m2!3d-34.9311757!4d138.6024364!10e5!16s%2Fg%2F11c1xvn4bx?entry=ttu",
       "rates": [],
       "fromText": "From",
-      "fromPrice": "5",
+      "fromPrice": "7",
       "location": {
         "longitude": 138.60252,
         "latitude": -34.93125,
@@ -94180,6 +94172,162 @@
       "featuredIndex": 0
     },
     {
+      "name": "256 St Georges Tce (Barrack Arch) Motorbikes Only",
+      "bookText": null,
+      "canBookABay": false,
+      "selectedFeatures": "",
+      "carParkFeature": [
+        "Epark"
+      ],
+      "services": [],
+      "carParkName": "256 St Georges Tce (Barrack Arch) Motorbikes Only",
+      "carParkNumber": 6063,
+      "carParkPhoto": "/contentassets/516f07261fea4a1488c5e6d84a84acf9/20230418_105604.jpg",
+      "category": "",
+      "costCenter": 1006063,
+      "direction": "Entry via St Georges Terrace or Hay Street",
+      "heightRestriction": 2.1,
+      "information": "<p>Wilson Parking offer affordable motorcycle parking at 256 St Georges Tce (Barrack Arch) Car Park, located at 256 St Georges Terrace, Perth, with entrances from both St Georges Terrace and Hay St.&nbsp;</p>\n<p>Download the Wilson Parking App to pay for and manage your motorbike parking directly from your phone.</p>\n<p>Looking for car parking at 256 St Georges Tce (Barrack Arch) Car Oark - check out our other parking options <a href=\"/link/3a5230f933d34a5b904708b4c780c6ba.aspx\">here</a></p>",
+      "isWilsonOne": false,
+      "legacyID": 1006063,
+      "monthlyParkingServiceIsAvailable": false,
+      "evChargerIsAvailable": false,
+      "disabledParkingIsAvailable": false,
+      "phoneNumber": "1800 PARKING",
+      "products": [],
+      "staticMapPhoto": null,
+      "streetViewHeading": "271.8236787344803",
+      "streetViewLocation": "https://www.google.com/maps/@?api=1&map_action=pano&pano=Bcll9qZyfKh94zsiqPxvuA&viewpoint=-31.95136037747826,115.8502678088444&heading=271.8236787344803&pitch=-5.8391759351094095",
+      "rates": [],
+      "fromText": "From",
+      "fromPrice": "9",
+      "location": {
+        "longitude": 115.850221210832,
+        "latitude": -31.9524483246732,
+        "zoom": 13,
+        "address": "256 St Georges Terrace, Perth",
+        "region": {
+          "name": "Perth CBD",
+          "longitude": 115.86034952911382,
+          "latitude": -31.954708170013102,
+          "status": "",
+          "state": {
+            "name": "Western Australia",
+            "abbreviation": "WA",
+            "country": "Australia",
+            "longitude": 123.41536223888397,
+            "latitude": -25.833723163507287,
+            "status": ""
+          }
+        }
+      },
+      "openingTimes": [
+        {
+          "day_TimePeriod": "Monthly",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Monday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "05:00",
+          "closing": "21:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Tuesday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "05:00",
+          "closing": "21:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Wednesday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "05:00",
+          "closing": "21:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Thursday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "05:00",
+          "closing": "21:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Friday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "05:00",
+          "closing": "21:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Saturday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "05:00",
+          "closing": "21:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Sunday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "05:00",
+          "closing": "21:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Public Holiday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "05:00",
+          "closing": "21:00",
+          "note": null
+        }
+      ],
+      "url": "/parking-locations/western-australia/perth-cbd/256-st-georges-tce-barrack-arch-car-park2/",
+      "serviceConfiguration": {
+        "canBookABay": false,
+        "bookABayIconLabel": "Prepay Online",
+        "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
+        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingIconLabel": "Monthly Subscription",
+        "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
+        "isWilsonOne": false,
+        "wilsonOneIconLabel": "Parking Card",
+        "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
+        "disabledParkingIsAvailable": false,
+        "disabledParkingIconLabel": "Disabled Parking",
+        "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
+        "evChargerIsAvailable": false,
+        "evChargerIconLabel": "EV Charging",
+        "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
+        "additionalServices": [
+          {
+            "label": null,
+            "icon": null
+          }
+        ]
+      },
+      "state": "WA",
+      "imgUrl": "/contentassets/516f07261fea4a1488c5e6d84a84acf9/20230418_105604.jpg",
+      "price": "",
+      "status": "",
+      "cpmsCarparkCode": null,
+      "externalCarParkInfo": null,
+      "featuredIndex": 0
+    },
+    {
       "name": "Capital Square Car Park",
       "bookText": null,
       "canBookABay": true,
@@ -94388,7 +94536,6 @@
         "Weekend Parking",
         "Book a Bay",
         "Wilson One",
-        "Epark",
         "Disabled Parking"
       ],
       "services": [
@@ -94483,7 +94630,7 @@
         }
       ],
       "fromText": "From",
-      "fromPrice": "9",
+      "fromPrice": "10",
       "location": {
         "longitude": 115.849931106325,
         "latitude": -31.9519710138258,
@@ -94595,12 +94742,7 @@
         "evChargerIsAvailable": false,
         "evChargerIconLabel": "EV Charging",
         "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "additionalServices": [
-          {
-            "label": null,
-            "icon": null
-          }
-        ]
+        "additionalServices": []
       },
       "state": "WA",
       "imgUrl": "/contentassets/1592543cba2c4b818f7b11ee2a5f31b4/20230418_105604.jpg",
