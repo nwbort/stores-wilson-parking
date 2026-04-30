@@ -30,7 +30,7 @@
       ],
       "carParkName": "25 Martin Place Car Park",
       "carParkNumber": 2078,
-      "carParkPhoto": "/siteassets/parking-location-images/nsw/syd078.jpg",
+      "carParkPhoto": "/siteassets/parking-location-images/nsw/syd078.gif",
       "category": "",
       "costCenter": 1002078,
       "direction": null,
@@ -219,7 +219,7 @@
         ]
       },
       "state": "NSW",
-      "imgUrl": "/siteassets/parking-location-images/nsw/syd078.jpg",
+      "imgUrl": "/siteassets/parking-location-images/nsw/syd078.gif",
       "price": "",
       "status": "",
       "cpmsCarparkCode": null,
@@ -1043,7 +1043,7 @@
       ],
       "carParkName": "George Place Car Park",
       "carParkNumber": 2417,
-      "carParkPhoto": null,
+      "carParkPhoto": "/siteassets/parking-location-images/nsw/syd417.gif",
       "category": "",
       "costCenter": 1002417,
       "direction": "Entry via 24 York Street, Sydney",
@@ -1212,7 +1212,7 @@
         ]
       },
       "state": "NSW",
-      "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
+      "imgUrl": "/siteassets/parking-location-images/nsw/syd417.gif",
       "price": "",
       "status": "",
       "cpmsCarparkCode": null,
@@ -1688,23 +1688,23 @@
             },
             {
               "timeSpan": "0.5 - 1.0 hrs",
-              "price": 29.0
+              "price": 30.0
             },
             {
               "timeSpan": "1.0 - 2.0 hrs",
-              "price": 59.0
+              "price": 60.0
             },
             {
               "timeSpan": "2.0 - 3.0 hrs",
-              "price": 69.0
+              "price": 70.0
             },
             {
               "timeSpan": "3.0 - 4.0 hrs",
-              "price": 79.0
+              "price": 80.0
             },
             {
               "timeSpan": "4.0 + hrs",
-              "price": 85.0
+              "price": 90.0
             },
             {
               "timeSpan": "Valet Parking, add an additional charge of",
@@ -1718,7 +1718,7 @@
           "rates": [
             {
               "timeSpan": "Mon - Fri",
-              "price": 35.0
+              "price": 36.0
             }
           ]
         },
@@ -5047,7 +5047,7 @@
       ],
       "carParkName": "Cathedral Street Car Park",
       "carParkNumber": 2422,
-      "carParkPhoto": null,
+      "carParkPhoto": "/siteassets/parking-location-images/nsw/syd422.gif",
       "category": "",
       "costCenter": 1002422,
       "direction": "Entry via 2 Cathedral Street",
@@ -5227,7 +5227,7 @@
         ]
       },
       "state": null,
-      "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
+      "imgUrl": "/siteassets/parking-location-images/nsw/syd422.gif",
       "price": "",
       "status": "",
       "cpmsCarparkCode": null,
@@ -12412,7 +12412,7 @@
         }
       ],
       "fromText": "From",
-      "fromPrice": "6",
+      "fromPrice": "10",
       "location": {
         "longitude": 151.20921671390533,
         "latitude": -33.840572473782473,
@@ -13298,13 +13298,13 @@
           "rates": [
             {
               "timeSpan": "Sat - Sun",
-              "price": 10.0
+              "price": 12.0
             }
           ]
         }
       ],
       "fromText": "From",
-      "fromPrice": "10",
+      "fromPrice": "12",
       "location": {
         "longitude": 151.209250699925,
         "latitude": -33.8396748607844,
@@ -14387,7 +14387,7 @@
         }
       ],
       "fromText": "From",
-      "fromPrice": "7",
+      "fromPrice": "8.75",
       "location": {
         "longitude": 151.20787560939789,
         "latitude": -33.837210631980291,
@@ -15212,13 +15212,13 @@
           "rates": [
             {
               "timeSpan": "Sat - Sun",
-              "price": 10.0
+              "price": 12.0
             }
           ]
         }
       ],
       "fromText": "From",
-      "fromPrice": "7",
+      "fromPrice": "7.75",
       "location": {
         "longitude": 151.20766907930374,
         "latitude": -33.836025378555938,
@@ -15981,13 +15981,13 @@
           "rates": [
             {
               "timeSpan": "Sat - Sun",
-              "price": 5.0
+              "price": 6.0
             }
           ]
         }
       ],
       "fromText": "From",
-      "fromPrice": "4",
+      "fromPrice": "4.75",
       "location": {
         "longitude": 151.19750618934631,
         "latitude": -33.825386324898204,
@@ -39592,6 +39592,154 @@
             "icon": null
           }
         ]
+      },
+      "state": "ACT",
+      "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
+      "price": "",
+      "status": "",
+      "cpmsCarparkCode": null,
+      "externalCarParkInfo": null,
+      "featuredIndex": 0
+    },
+    {
+      "name": "Eastbourne Car park",
+      "bookText": null,
+      "canBookABay": false,
+      "selectedFeatures": "",
+      "carParkFeature": [],
+      "services": [],
+      "carParkName": "Eastbourne Car park",
+      "carParkNumber": 1162,
+      "carParkPhoto": null,
+      "category": "",
+      "costCenter": 1001162,
+      "direction": "Entry via Wendouree Dr. Parkes",
+      "heightRestriction": 0.0,
+      "information": "<p>Wilson Parking offer affordable &amp; reliable parking at Eastbourne Car Park, located at 62 Constitution Ave Parkes&nbsp;in the heart of Canberra CBD. Eastbourne car park is conveniently located near Commonwealth Park, Canberra Olympic Pool, Australian War Memorial, Sebel Hotel Canberra.&nbsp;</p>\n<p>Offering Casual, Hourly, Night Parking options. The Eastbourne Car Park will meet all your parking needs.</p>",
+      "isWilsonOne": false,
+      "legacyID": 1162,
+      "monthlyParkingServiceIsAvailable": false,
+      "evChargerIsAvailable": false,
+      "disabledParkingIsAvailable": false,
+      "phoneNumber": "1800 PARKING (727 546)",
+      "products": [],
+      "staticMapPhoto": null,
+      "streetViewHeading": null,
+      "streetViewLocation": "https://www.google.com/maps/@?api=1&map_action=pano&pano=aFR78h__HYnT5NsRPRe1Bg&viewpoint=-35.291712251083894,149.14300463006808&heading=300.18279769245447&pitch=-11.64482254103352&zoom=1.0000000000000002",
+      "rates": [
+        {
+          "rateType": "Hourly",
+          "notes": "<p>Rates apply Monday to Friday<br />Rates charged from 6am daily</p>",
+          "rates": [
+            {
+              "timeSpan": "0.0 - 1.0 hrs",
+              "price": 4.0
+            },
+            {
+              "timeSpan": "1.0 - 2.0 hrs",
+              "price": 8.0
+            },
+            {
+              "timeSpan": "2.0 - 3.0 hrs",
+              "price": 12.0
+            },
+            {
+              "timeSpan": "3.0 - 4.0 hrs",
+              "price": 16.0
+            },
+            {
+              "timeSpan": "4.0 - 5.0 hrs",
+              "price": 20.0
+            },
+            {
+              "timeSpan": "5.0 + hrs",
+              "price": 24.0
+            }
+          ]
+        }
+      ],
+      "fromText": "From",
+      "fromPrice": "4",
+      "location": {
+        "longitude": 149.141713537319,
+        "latitude": -35.2903758351224,
+        "zoom": 13,
+        "address": "62 Constitution Ave Parkes",
+        "region": {
+          "name": "Canberra CBD",
+          "longitude": 149.12678718566895,
+          "latitude": -35.280449666148527,
+          "status": "",
+          "state": {
+            "name": "Australian Capital Territory",
+            "abbreviation": "ACT",
+            "country": "Australia",
+            "longitude": 149.12884712219238,
+            "latitude": 35.281991116036352,
+            "status": ""
+          }
+        }
+      },
+      "openingTimes": [
+        {
+          "day_TimePeriod": "Monday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "06:00",
+          "closing": "00:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Tuesday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "06:00",
+          "closing": "00:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Wednesday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "06:00",
+          "closing": "00:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Thursday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "06:00",
+          "closing": "00:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Friday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "06:00",
+          "closing": "00:00",
+          "note": null
+        }
+      ],
+      "url": "/parking-locations/australian-capital-territory/canberra-cbd/eastbourne-car-park/",
+      "serviceConfiguration": {
+        "canBookABay": false,
+        "bookABayIconLabel": "Prepay Online",
+        "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
+        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingIconLabel": "Monthly Subscription",
+        "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
+        "isWilsonOne": false,
+        "wilsonOneIconLabel": "Parking Card",
+        "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
+        "disabledParkingIsAvailable": false,
+        "disabledParkingIconLabel": "Disabled Parking",
+        "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
+        "evChargerIsAvailable": false,
+        "evChargerIconLabel": "EV Charging",
+        "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
+        "additionalServices": []
       },
       "state": "ACT",
       "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
@@ -64402,7 +64550,7 @@
         }
       ],
       "fromText": "From",
-      "fromPrice": "10",
+      "fromPrice": "9.75",
       "location": {
         "longitude": 144.94457960128784,
         "latitude": -37.819255633667431,
