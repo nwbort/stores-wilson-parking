@@ -712,7 +712,7 @@
           "notes": "<p>Flat Rate: per exit, per day</p>\n<p>Online rates include transaction fee. Click the <strong>Prepay&nbsp;now</strong> link below to get started</p>\n<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Prepay Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the <strong>Prepay Now</strong> link below to get started.<br />Rates shown include transaction fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>",
           "rates": [
             {
-              "timeSpan": "Sat - Sun & Public Holiday varies from $35.00 - $37.00, depending on demand",
+              "timeSpan": "Sat - Sun & Public Holiday varies from $34.75 - $37.75, depending on demand",
               "price": 40.0
             }
           ]
@@ -1225,14 +1225,12 @@
       "canBookABay": false,
       "selectedFeatures": "",
       "carParkFeature": [
-        "Monthly Parking",
         "Night Parking",
         "Weekend Parking",
         "Wilson One"
       ],
       "services": [
-        "wilson one",
-        "monthly"
+        "wilson one"
       ],
       "carParkName": "71 York St Car Park",
       "carParkNumber": 2271,
@@ -1244,7 +1242,7 @@
       "information": "<p>Wilson Parking offer affordable &amp; secure parking at 71 York St Car Park, located at 71 York St, Sydney in the heart of the Sydney CBD. Nearby to King St Wharf, Pitt St Mall, Barangaroo, Crown Casino &amp; Restaurant Precinct, this car park is open until midnight, 7 days a week. Offering Hourly, Night and Weekend Parking, the&nbsp;71 York St Car Park suits all your leisure and commuter parking needs.</p>\n<p>Enjoy unlimited 24/7 access when you subscribe to monthly parking; or pay as you go with the queue-less, contact free Wilson Parking Card.</p>",
       "isWilsonOne": true,
       "legacyID": 412,
-      "monthlyParkingServiceIsAvailable": true,
+      "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
       "phoneNumber": "1800 PARKING",
@@ -1397,7 +1395,7 @@
         "canBookABay": false,
         "bookABayIconLabel": "Prepay Online",
         "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": true,
+        "monthlyParkingServiceIsAvailable": false,
         "monthlyParkingIconLabel": "Monthly Subscription",
         "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
         "isWilsonOne": true,
@@ -10536,7 +10534,7 @@
         },
         {
           "rateType": "Weekend",
-          "notes": "<p>&nbsp;</p>\n<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>\n<p>&nbsp;</p>",
+          "notes": "<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>\n<p>&nbsp;</p>",
           "rates": [
             {
               "timeSpan": "Weekend varies from $28.75 - $32.75, depending on demand",
@@ -12337,7 +12335,6 @@
       "canBookABay": true,
       "selectedFeatures": "",
       "carParkFeature": [
-        "Monthly Parking",
         "Weekend Parking",
         "Early Bird Parking",
         "Book a Bay",
@@ -12348,7 +12345,6 @@
       "services": [
         "book a bay",
         "wilson one",
-        "monthly",
         "disabled parking"
       ],
       "carParkName": "1 Pacific Highway Car Park",
@@ -12361,7 +12357,7 @@
       "information": "<p>Wilson Parking offer affordable &amp; secure parking at 1 Pacific Hwy Car Park which is located at Little Walker St in the heart of North Sydney.</p>\n<p>1 Pacific Hwy Car Park suits all your leisure and business parking needs. With Casual Hourly, Night and Weekend Parking options available, Prepay Online or use your Wilson Parking Card and pay as you go.</p>",
       "isWilsonOne": true,
       "legacyID": 230,
-      "monthlyParkingServiceIsAvailable": true,
+      "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": true,
       "phoneNumber": "1800 PARKING (1800 727 546)",
@@ -12512,7 +12508,7 @@
         "canBookABay": true,
         "bookABayIconLabel": "Prepay Online",
         "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": true,
+        "monthlyParkingServiceIsAvailable": false,
         "monthlyParkingIconLabel": "Monthly Subscription",
         "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
         "isWilsonOne": true,
@@ -13902,7 +13898,8 @@
         "Flexi Parking",
         "Footy Parking",
         "Elevate",
-        "LPR"
+        "LPR",
+        "Spott Saver"
       ],
       "services": [
         "book a bay",
@@ -40161,12 +40158,8 @@
       "bookText": null,
       "canBookABay": false,
       "selectedFeatures": "",
-      "carParkFeature": [
-        "Monthly Parking"
-      ],
-      "services": [
-        "monthly"
-      ],
+      "carParkFeature": [],
+      "services": [],
       "carParkName": "64 Allara Street Car Park",
       "carParkNumber": 1078,
       "carParkPhoto": null,
@@ -40177,7 +40170,7 @@
       "information": "<p>Wilson Parking offer affordable parking at 64 Allara Street, Canberra. Located in the heart of Canberra, near the ACT Human Rights Commission, Casino Canberra, the ACT Auditor General's Office, and many other Canberra businesses, the undercover 64 Allara St car park offers monthly parking to suit all your Canberra parking needs.&nbsp;</p>\n<p>This is a monthly parking only car park. Apply now to enjoy the convenience of unlimited 24/7 access to the car park.</p>",
       "isWilsonOne": false,
       "legacyID": 653,
-      "monthlyParkingServiceIsAvailable": true,
+      "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
       "phoneNumber": "1800 727 546",
@@ -40223,7 +40216,7 @@
         "canBookABay": false,
         "bookABayIconLabel": "Prepay Online",
         "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": true,
+        "monthlyParkingServiceIsAvailable": false,
         "monthlyParkingIconLabel": "Monthly Subscription",
         "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
         "isWilsonOne": false,
@@ -50343,46 +50336,42 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>0.0 - 3.0 Hours FREE&nbsp;</p>\n<p>Max Daily Rate $35</p>\n<p>&nbsp;</p>",
+          "notes": "<p>0.0 - 3.0 hrs FREE&nbsp;</p>\n<p>Max Daily Rate $35.00</p>\n<p>&nbsp;</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 3.0 Hours",
+              "timeSpan": "0.0 - 3.0 hrs",
               "price": 0.0
             },
             {
-              "timeSpan": "3.0 - 3.5 Hours",
-              "price": 4.0
-            },
-            {
-              "timeSpan": "3.5 - 4.0 Hours",
+              "timeSpan": "3.0 - 3.5 hrs",
               "price": 5.0
             },
             {
-              "timeSpan": "4.0 - 4.5 Hours",
+              "timeSpan": "3.5 - 4.0 hrs",
               "price": 8.0
             },
             {
-              "timeSpan": "4.5 - 5.0 Hours",
-              "price": 10.0
-            },
-            {
-              "timeSpan": "5.0 - 5.5 Hours",
+              "timeSpan": "4.0 - 4.5 hrs",
               "price": 12.0
             },
             {
-              "timeSpan": "5.5 - 6.0 Hours",
-              "price": 15.0
+              "timeSpan": "4.5 - 5.0 hrs",
+              "price": 16.0
             },
             {
-              "timeSpan": "6.0 - 6.5 Hours",
+              "timeSpan": "5.0 - 5.5 hrs",
+              "price": 20.0
+            },
+            {
+              "timeSpan": "5.5 - 6.0 hrs",
               "price": 25.0
             },
             {
-              "timeSpan": "6.5 - 7.0 Hours",
+              "timeSpan": "6.0 - 7.0 hrs",
               "price": 30.0
             },
             {
-              "timeSpan": "7.0 + Hours",
+              "timeSpan": "7.0 + hrs",
               "price": 35.0
             }
           ]
@@ -53114,7 +53103,9 @@
         "Daily Pass Bundles",
         "Special Event Parking",
         "Super Saver",
-        "Event"
+        "Event",
+        "Elevate",
+        "LPR"
       ],
       "services": [
         "book a bay",
@@ -53151,22 +53142,14 @@
             },
             {
               "timeSpan": "1.0 - 2.0 Hours",
-              "price": 39.0
+              "price": 36.0
             },
             {
               "timeSpan": "2.0 - 3.0 Hours",
-              "price": 56.0
+              "price": 54.0
             },
             {
-              "timeSpan": "3.0 - 4.0 Hours",
-              "price": 63.0
-            },
-            {
-              "timeSpan": "4.0 - 5.0 Hours",
-              "price": 69.0
-            },
-            {
-              "timeSpan": "5.0+ Hours",
+              "timeSpan": "3.0+ Hours",
               "price": 72.0
             }
           ]
@@ -54309,7 +54292,7 @@
         },
         {
           "rateType": "Night",
-          "notes": "<p>Entry after 4:00 pm and exit before 6:00 am.</p>\n<p>Online rate shown includes transaction fee. Click the Prepay now link below to get started.</p>\n<p><span style=\"color: #ff1e25;\"><strong>Event parking</strong></span></p>\n<p>Event Rate may be applicable on peak precinct event days.</p>\n<p>Online Night Rate will not be available. Flexi Saver rates will apply at these times.</p>\n<p>All event parking is onlne only. No drive up night rates will be availiable on peak precinct event days.&nbsp;</p>",
+          "notes": "<p>Entry after 4:00 pm and exit before 6:00 am.</p>\n<p>Online rate shown includes transaction fee. Click the Prepay now link below to get started.</p>\n<p><span style=\"color: #ff1e25;\"><strong>Event parking</strong></span></p>\n<p>Event Rate may be applicable on peak precinct event days.</p>\n<p>Online Night Rate will not be available. Flexi Saver rates will apply at these times.</p>\n<p>All event parking is onlne only. No drive up night rates will be availiable on peak precinct event days.</p>",
           "rates": [
             {
               "timeSpan": "Mon - Thurs",
@@ -54337,7 +54320,7 @@
         }
       ],
       "fromText": "From",
-      "fromPrice": "10",
+      "fromPrice": "9.75",
       "location": {
         "longitude": 144.97618460658487,
         "latitude": -37.811711443098872,
@@ -58691,23 +58674,19 @@
           "notes": "<p>Rates apply Monday - Friday</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 0.5 Hours",
+              "timeSpan": "0.0 - 0.5 hrs",
               "price": 14.0
             },
             {
-              "timeSpan": "0.5 - 1.0 Hours",
-              "price": 25.0
+              "timeSpan": "0.5 - 1.0 hrs",
+              "price": 28.0
             },
             {
-              "timeSpan": "1.0 - 2.0 Hours",
-              "price": 49.0
+              "timeSpan": "1.0 - 2.0 hrs",
+              "price": 56.0
             },
             {
-              "timeSpan": "2.0 - 3.0 Hours",
-              "price": 73.0
-            },
-            {
-              "timeSpan": "3.0 + Hours",
+              "timeSpan": "2.0 + hrs",
               "price": 80.0
             }
           ]
@@ -59840,31 +59819,23 @@
           "rates": [
             {
               "timeSpan": "0.0 - 0.5 hrs",
-              "price": 12.0
+              "price": 13.0
             },
             {
               "timeSpan": "0.5 - 1.0 hrs",
-              "price": 23.0
+              "price": 26.0
             },
             {
-              "timeSpan": "1.0 - 1.5 hrs",
-              "price": 34.0
+              "timeSpan": "1.0 - 2.0 hrs",
+              "price": 52.0
             },
             {
-              "timeSpan": "1.5 - 2.0 hrs",
-              "price": 45.0
-            },
-            {
-              "timeSpan": "2.0 - 2.5 hrs",
-              "price": 56.0
-            },
-            {
-              "timeSpan": "2.5 - 3.0 hrs",
-              "price": 67.0
+              "timeSpan": "2.0 - 3.0 hrs",
+              "price": 78.0
             },
             {
               "timeSpan": "3.0 + hrs",
-              "price": 78.0
+              "price": 81.0
             }
           ]
         },
@@ -59894,7 +59865,7 @@
         }
       ],
       "fromText": "From",
-      "fromPrice": "12",
+      "fromPrice": "13",
       "location": {
         "longitude": 144.9600226153442,
         "latitude": -37.814265840524229,
@@ -63657,7 +63628,6 @@
       "canBookABay": true,
       "selectedFeatures": "",
       "carParkFeature": [
-        "Monthly Parking",
         "Early Bird Parking",
         "Book a Bay",
         "Wilson One",
@@ -63666,8 +63636,7 @@
       ],
       "services": [
         "book a bay",
-        "wilson one",
-        "monthly"
+        "wilson one"
       ],
       "carParkName": "5 Queens Road Car Park",
       "carParkNumber": 3323,
@@ -63679,7 +63648,7 @@
       "information": "<p>Wilson Parking offer affordable &amp; secure parking at 5 Queens Road Car Park&nbsp; located in the heart of St Kilda. With Early Bird and casual parking, the 5 Queens Road Car Park will meet all of your parking needs.</p>\n<p><strong>This car park accepts Credit Card payments only.</strong></p>",
       "isWilsonOne": true,
       "legacyID": 545,
-      "monthlyParkingServiceIsAvailable": true,
+      "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
       "phoneNumber": "1800 PARKING (727 546)",
@@ -63824,7 +63793,7 @@
         "canBookABay": true,
         "bookABayIconLabel": "Prepay Online",
         "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": true,
+        "monthlyParkingServiceIsAvailable": false,
         "monthlyParkingIconLabel": "Monthly Subscription",
         "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
         "isWilsonOne": true,
@@ -68093,7 +68062,7 @@
       "costCenter": 1004356,
       "direction": "Entry off Little Cribb Street",
       "heightRestriction": 2.2,
-      "information": "<p><span style=\"color: #ff1e25;\">Event Parking is available at this car park on the following dates: 1, 2, 7, 8, 14, 15, 16 ,17 May.<br /></span></p>\n<p>Wilson Parking offers affordable &amp; secure parking at Milton Green&nbsp;car park, located at 19 Little Cribb Street&nbsp;in the heart of Milton. Open 7 days, this undercover car park provides convenient access to nearby Suncorp Stadium and surrounding entertainment and retail precinct. Offering hourly, night and weekend parking options with discounts when you prepay online, permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the Milton Green&nbsp;car park will meet all your business and leisure parking needs.&nbsp;</p>",
+      "information": "<p><span style=\"color: #ff1e25;\">Event Parking is available at this car park on the following dates: 7, 8, 14, 15, 16 ,17, 29, 31 May.<br /></span></p>\n<p>Wilson Parking offers affordable &amp; secure parking at Milton Green&nbsp;car park, located at 19 Little Cribb Street&nbsp;in the heart of Milton. Open 7 days, this undercover car park provides convenient access to nearby Suncorp Stadium and surrounding entertainment and retail precinct. Offering hourly, night and weekend parking options with discounts when you prepay online, permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the Milton Green&nbsp;car park will meet all your business and leisure parking needs.&nbsp;</p>",
       "isWilsonOne": true,
       "legacyID": 1004356,
       "monthlyParkingServiceIsAvailable": true,
@@ -70469,12 +70438,8 @@
       "bookText": null,
       "canBookABay": false,
       "selectedFeatures": "",
-      "carParkFeature": [
-        "Monthly Parking"
-      ],
-      "services": [
-        "monthly"
-      ],
+      "carParkFeature": [],
+      "services": [],
       "carParkName": "143 Turbot Street",
       "carParkNumber": 4170,
       "carParkPhoto": "/siteassets/parking-location-images/qld/bne170.gif",
@@ -70485,7 +70450,7 @@
       "information": "<p>Wilson Parking offers affordable and secure parking at 143 Turbot Street car park, located off Roma Street, Brisbane. Boasting convenient access to the Brisbane CBD, and offering 24/7 access for monthly parkers, the 143 Turbot Street car park will meet all your monthly parking needs.</p>\n<p>This is a monthly parking only car park. Subscribe to monthly parking for convenient 24/7 access.&nbsp;</p>",
       "isWilsonOne": false,
       "legacyID": 579,
-      "monthlyParkingServiceIsAvailable": true,
+      "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
       "phoneNumber": "1800 PARKING",
@@ -70531,7 +70496,7 @@
         "canBookABay": false,
         "bookABayIconLabel": "Prepay Online",
         "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": true,
+        "monthlyParkingServiceIsAvailable": false,
         "monthlyParkingIconLabel": "Monthly Subscription",
         "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
         "isWilsonOne": false,
@@ -71531,7 +71496,7 @@
       "costCenter": 1004298,
       "direction": "Entry via Dowse Street",
       "heightRestriction": 2.3,
-      "information": "<p><span style=\"color: #ff1e25;\">Event Parking is available at this car park on the following dates:</span><span style=\"color: #ff1e25;\">&nbsp;1, 2, 7, 8, 14, 15, 16 ,17 May.</span></p>\n<p>Wilson Parking offers affordable and secure parking at&nbsp;Darling &amp; Co car park, located in the heart of Paddington. Open 7 days, this undercover car park provides convenient access to Lang Park (Suncorp Stadium). Offering casual and night parking, and exclusive discounts when you pay via the Wilson Parking app, the&nbsp;Darling &amp; Co car park will meet all your business and leisure parking needs.</p>\n<p>Car park closes at 11pm on event nights.</p>",
+      "information": "<p><span style=\"color: #ff1e25;\">Event Parking is available at this car park on the following dates:</span><span style=\"color: #ff1e25;\"> 7, 8, 14, 15, 16 ,17, 29, 31 May.</span></p>\n<p>Wilson Parking offers affordable and secure parking at&nbsp;Darling &amp; Co car park, located in the heart of Paddington. Open 7 days, this undercover car park provides convenient access to Lang Park (Suncorp Stadium). Offering casual and night parking, and exclusive discounts when you pay via the Wilson Parking app, the&nbsp;Darling &amp; Co car park will meet all your business and leisure parking needs.</p>\n<p>Car park closes at 11pm on event nights.</p>",
       "isWilsonOne": false,
       "legacyID": 4298,
       "monthlyParkingServiceIsAvailable": true,
@@ -78243,12 +78208,9 @@
       "canBookABay": false,
       "selectedFeatures": "",
       "carParkFeature": [
-        "Monthly Parking",
         "Entry height at least 2"
       ],
-      "services": [
-        "monthly"
-      ],
+      "services": [],
       "carParkName": "Moger Lane",
       "carParkNumber": 5156,
       "carParkPhoto": null,
@@ -78259,13 +78221,11 @@
       "information": "<p>Wilson Parking offer affordable &amp; secure parking at Moger Lane car park, located at 12 Moger Lane in the heart of the Adelaide CBD. This car park is available for monthly parking only, enjoy unlimited 24/7 access when you subscribe to monthly parking.</p>",
       "isWilsonOne": false,
       "legacyID": 5156,
-      "monthlyParkingServiceIsAvailable": true,
+      "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
       "phoneNumber": "1800 PARKING (1800 727 5464)",
-      "products": [
-        "Monthly Parking"
-      ],
+      "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": null,
       "streetViewLocation": null,
@@ -78307,7 +78267,7 @@
         "canBookABay": false,
         "bookABayIconLabel": "Prepay Online",
         "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": true,
+        "monthlyParkingServiceIsAvailable": false,
         "monthlyParkingIconLabel": "Monthly Subscription",
         "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
         "isWilsonOne": false,
@@ -80321,7 +80281,6 @@
       "disabledParkingIsAvailable": false,
       "phoneNumber": "1800 PARKING (1800 727 5464)",
       "products": [
-        "Monthly Parking",
         "Night Parking",
         "Weekend Parking"
       ],
@@ -82752,7 +82711,7 @@
       "openingTimes": [
         {
           "day_TimePeriod": "Monthly",
-          "is24_7": false,
+          "is24_7": true,
           "closed": false,
           "opening": "06:00",
           "closing": "18:00",
