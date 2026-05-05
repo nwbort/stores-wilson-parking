@@ -52603,7 +52603,7 @@
             },
             {
               "timeSpan": "5.0+ hrs",
-              "price": 18.0
+              "price": 19.0
             }
           ]
         }
@@ -53301,6 +53301,10 @@
         "evChargerIconLabel": "EV Charging",
         "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
         "additionalServices": [
+          {
+            "label": null,
+            "icon": null
+          },
           {
             "label": null,
             "icon": null
@@ -54252,7 +54256,7 @@
       "costCenter": 1003195,
       "direction": "Entry & exit via St Andrews Place",
       "heightRestriction": 2.1,
-      "information": "<p><span style=\"color: #ff1e25;\"><strong><u>Event Dates April 2026:<br /></u></strong>24th, 30th from 4:00pm</span><br /><span style=\"color: #ff1e25;\"><em>Event rates will apply. Drive up only.<br />On event dates, please allow additional time to exit.</em></span></p>\n<p>Wilson Parking offer affordable &amp; secure parking at Park Hyatt Car Park, located at St Andrews Place&nbsp;in the heart of East Melbourne. Open 7 days, this undercover car park provides convenient access to Princess Theatre, Comedy Theatre, Parliament House and with 24 hour access is perfect for restaurant and hotel parking. Offering Hourly, Early Bird, Weekend and Night Parking options with exclusive discounts when you prepay online, permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the Park Hyatt Car Park will meet all your business and leisure parking needs.&nbsp;</p>\n<p>This car park accepts credit card payment only. Download the Wilson Parking App to plan your journey and access parking discounts when you prepay online;&nbsp;enjoy unlimited 24/7 access when you subscribe to monthly parking; pay as you go on one convenient monthly invoice when you use your Wilson Parking Card to access the car park.&nbsp;</p>",
+      "information": "<p>Wilson Parking offer affordable &amp; secure parking at Park Hyatt Car Park, located at St Andrews Place&nbsp;in the heart of East Melbourne. Open 7 days, this undercover car park provides convenient access to Princess Theatre, Comedy Theatre, Parliament House and with 24 hour access is perfect for restaurant and hotel parking. Offering Hourly, Early Bird, Weekend and Night Parking options with exclusive discounts when you prepay online, permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the Park Hyatt Car Park will meet all your business and leisure parking needs.&nbsp;</p>\n<p>This car park accepts credit card payment only. Download the Wilson Parking App to plan your journey and access parking discounts when you prepay online;&nbsp;enjoy unlimited 24/7 access when you subscribe to monthly parking; pay as you go on one convenient monthly invoice when you use your Wilson Parking Card to access the car park.&nbsp;</p>",
       "isWilsonOne": true,
       "legacyID": 120,
       "monthlyParkingServiceIsAvailable": true,
@@ -62712,19 +62716,11 @@
               "price": 30.0
             },
             {
-              "timeSpan": "1.0 - 1.5 Hours\t",
-              "price": 45.0
-            },
-            {
-              "timeSpan": "1.5 - 2.0 Hours",
+              "timeSpan": "1.0 - 2.0 Hours",
               "price": 60.0
             },
             {
-              "timeSpan": "2.0 - 2.5 Hours",
-              "price": 75.0
-            },
-            {
-              "timeSpan": "2.5 + Hours",
+              "timeSpan": "2.0 + Hours",
               "price": 90.0
             }
           ]
@@ -67852,7 +67848,7 @@
       ],
       "carParkName": "126 Margaret Street",
       "carParkNumber": 4049,
-      "carParkPhoto": "/contentassets/d720235a1e814911a55ae86b357e62b9/photo_2021-12-14_13-33-34-480.png",
+      "carParkPhoto": "/siteassets/parking-location-images/qld/bne049_2.jpg",
       "category": "",
       "costCenter": 1004049,
       "direction": "Enter via Margaret Street",
@@ -68026,7 +68022,7 @@
         "additionalServices": []
       },
       "state": "QLD",
-      "imgUrl": "/contentassets/d720235a1e814911a55ae86b357e62b9/photo_2021-12-14_13-33-34-480.png",
+      "imgUrl": "/siteassets/parking-location-images/qld/bne049_2.jpg",
       "price": "",
       "status": "",
       "cpmsCarparkCode": null,
@@ -76153,7 +76149,7 @@
             },
             {
               "timeSpan": "2.0 + hrs",
-              "price": 5.0
+              "price": 6.0
             },
             {
               "timeSpan": "Event Rate",
@@ -89328,7 +89324,7 @@
       ],
       "services": [],
       "carParkName": "517 Hay Street (Kings Complex) Motorbikes only",
-      "carParkNumber": 6113,
+      "carParkNumber": 61131,
       "carParkPhoto": "/contentassets/9324ab3291044efbbd2e12849cb91a3c/per113c.jpg",
       "category": "",
       "costCenter": 1006113,
@@ -91325,7 +91321,7 @@
       ],
       "services": [],
       "carParkName": "Raine Square Motorcycle Only",
-      "carParkNumber": 6161,
+      "carParkNumber": 61611,
       "carParkPhoto": "/contentassets/8c420045b3fa4f2980dcb9f026d034fe/resized.jpg",
       "category": "",
       "costCenter": 1006161,
@@ -91941,7 +91937,7 @@
       ],
       "services": [],
       "carParkName": "Queen Street Motorcycle only",
-      "carParkNumber": 6114,
+      "carParkNumber": 61141,
       "carParkPhoto": "/contentassets/fc7fddc9ed754dde9d866f08e225e0ae/per114.jpg",
       "category": "",
       "costCenter": 1006114,
@@ -94306,7 +94302,7 @@
       ],
       "services": [],
       "carParkName": "256 St Georges Tce (Barrack Arch) Motorbikes Only",
-      "carParkNumber": 6063,
+      "carParkNumber": 60631,
       "carParkPhoto": "/contentassets/516f07261fea4a1488c5e6d84a84acf9/20230418_105604.jpg",
       "category": "",
       "costCenter": 1006063,
