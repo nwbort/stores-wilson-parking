@@ -8993,6 +8993,7 @@
       "canBookABay": true,
       "selectedFeatures": "",
       "carParkFeature": [
+        "Monthly Parking",
         "Night Parking",
         "Early Bird Parking",
         "Book a Bay",
@@ -9008,6 +9009,7 @@
       ],
       "services": [
         "book a bay",
+        "monthly",
         "disabled parking",
         "ev charging"
       ],
@@ -9021,7 +9023,7 @@
       "information": "<p>Wilson Parking offer affordable &amp; secure parking at Harbourside Car Park at 100 Murray St in the heart of the Darling Harbour.</p>\n<p>Near the Harbourside Shopping Centre, and popular restaurants and bars, Cockle Bay Wharf, the International Convention Centre (ICC), Darling Harbour, China Town, Shopping &amp; Hotel Precincts, this undercover car park is open 24 hours, 7 days a week.</p>\n<p>Offering Hourly and Night parking, with exclusive discounts&nbsp;when you prepay&nbsp;online, the Harbourside Car Park will suit all your business&nbsp;and leisure parking&nbsp;needs.&nbsp;</p>",
       "isWilsonOne": false,
       "legacyID": 91,
-      "monthlyParkingServiceIsAvailable": false,
+      "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": true,
       "disabledParkingIsAvailable": true,
       "phoneNumber": "1800 PARKING",
@@ -9182,7 +9184,7 @@
         "canBookABay": true,
         "bookABayIconLabel": "Prepay Online",
         "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingServiceIsAvailable": true,
         "monthlyParkingIconLabel": "Monthly Subscription",
         "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
         "isWilsonOne": false,
@@ -58246,7 +58248,7 @@
       "costCenter": 1003204,
       "direction": "Entry via La Trobe and A'Beckett Street",
       "heightRestriction": 2.0,
-      "information": "<p>Wilson Parking offers affordable &amp; secure parking at 300 La Trobe St Car Park,&nbsp; located at 300 La Trobe Street, Melbourne. Nearby to Melbourne Central, Melbourne Institue of Technology and other local attractions, this undercover car park offers casual, Hourly, Night and Weekend parking, with additional savings when you prepay online. Regular parkers can enjoy unlimited access with the best parking value when you subscribe to monthly parking. The 300 La Trobe St Car Park will meet all of your parking needs.</p>\n<p>This car park accepts Credit Card payments only.&nbsp;</p>\n<p>Pay as you go with a Wilson Parking card, or enjoy 24/7 unlimited access when you subscribe to Monthly Parking.</p>",
+      "information": "<p>Wilson Parking offers affordable &amp; reliable parking at 300 La Trobe St Car Park,&nbsp; located at 300 La Trobe Street, Melbourne. Nearby to Melbourne Central,&nbsp;VCAT, Melbourne Institute of Technology and other local attractions, this undercover car park offers casual, Hourly, Night and Weekend parking, with additional savings when you prepay online. Regular parkers can enjoy unlimited access with the best parking value when you subscribe to monthly parking. The 300 La Trobe St Car Park will meet all of your parking needs.</p>\n<p>This car park accepts Credit Card payments only.&nbsp;</p>\n<p>Pay as you go with a Wilson Parking card, or enjoy 24/7 unlimited access when you subscribe to Monthly Parking.</p>",
       "isWilsonOne": true,
       "legacyID": 20,
       "monthlyParkingServiceIsAvailable": true,
@@ -59822,7 +59824,8 @@
         "Daily Pass Bundles",
         "Special Event Parking",
         "Elevate",
-        "LPR"
+        "LPR",
+        "Spott Saver"
       ],
       "services": [
         "book a bay",
@@ -64483,7 +64486,7 @@
       "costCenter": 1003225,
       "direction": "Entry via Enterprize Way. Car park is on the right.",
       "heightRestriction": 2.0,
-      "information": "<p><span style=\"color: #ff1e25;\"><em><strong><u>Event Dates May 2026:<br /></u></strong>1st, 16th, 28th, 30th from 5:00pm<br />2nd, 9th, 10th, 23rd from 10:00am<br />17th, 24th from 12:00pm (Midday)<br />Event rates will apply. Drive up only.<br />On event dates, please allow additional time to exit.<br /><br /></em></span>Wilson Parking offer affordable parking at 800 Bourke St Car Park, located at Enterprize Way, Docklands. This car park, located on the Yarra River,&nbsp; is nearby to Marvel Stadium, Docklands Park and other Docklands attractions. Offering Hourly, Weekend and night parking, as well as discount online parking options, the 800 Bourke St Car Park will meet all of your parking needs.</p>\n<p>Experience the convenience of&nbsp;pay as you go with a Wilson Parking card, or enjoy 24/7 unlimited access when you subscribe to Monthly Parking.</p>",
+      "information": "<p><span style=\"color: #ff1e25;\"><em><strong><u>Event Dates May 2026:<br /></u></strong>9th, 10th, 23rd from 10:00am<br />16th, 28th, 30th from 5:00pm<br />17th, 24th from 12:00pm (Midday)<br />Event rates will apply. Drive up only.<br />On event dates, please allow additional time to exit.<br /><br /></em></span>Wilson Parking offer affordable parking at 800 Bourke St Car Park, located at Enterprize Way, Docklands. This car park, located on the Yarra River,&nbsp; is nearby to Marvel Stadium, Docklands Park and other Docklands attractions. Offering Hourly, Weekend and night parking, as well as discount online parking options, the 800 Bourke St Car Park will meet all of your parking needs.</p>\n<p>Experience the convenience of&nbsp;pay as you go with a Wilson Parking card, or enjoy 24/7 unlimited access when you subscribe to Monthly Parking.</p>",
       "isWilsonOne": true,
       "legacyID": 41,
       "monthlyParkingServiceIsAvailable": true,
@@ -75562,6 +75565,96 @@
         "pageUrl": "",
         "content": "<p>This is an Interpark carpark with LOGO</p>"
       },
+      "featuredIndex": 0
+    },
+    {
+      "name": "Geelong Convention Centre",
+      "bookText": null,
+      "canBookABay": true,
+      "selectedFeatures": "",
+      "carParkFeature": [
+        "Book a Bay",
+        "Entry height at least 2"
+      ],
+      "services": [
+        "book a bay"
+      ],
+      "carParkName": "Geelong Convention Centre",
+      "carParkNumber": 3352,
+      "carParkPhoto": null,
+      "category": "",
+      "costCenter": 1003352,
+      "direction": "CAR PARK COMING SOON\n\nEntry via 7 Cavendish St, Geelong\n",
+      "heightRestriction": 2.1,
+      "information": "<p><span style=\"color: #ff1e25;\">CAR PARK COMING SOON</span></p>\n<p>Wilson Parking offers affordable &amp; reliable parking at the Geelong Convention Centre&nbsp;Car Park, located 80 Western Beach Rd, entry via 7 Cavendish St&nbsp;in the heart of Geelong. Open 7 days, this undercover car park provides convenient access to nearby Convention Centre, Western Beach precinct cafes, restaurants and Cunningham Pier.</p>",
+      "isWilsonOne": false,
+      "legacyID": 3352,
+      "monthlyParkingServiceIsAvailable": false,
+      "evChargerIsAvailable": false,
+      "disabledParkingIsAvailable": false,
+      "phoneNumber": "1800 PARKING (1800 757 546)",
+      "products": [],
+      "staticMapPhoto": null,
+      "streetViewHeading": null,
+      "streetViewLocation": "https://www.google.com/maps/@?api=1&map_action=pano&pano=QMcvtPB4_0qHZLJuHki_tQ&viewpoint=-38.14205331441988,144.35754049911728&heading=158.8287743776949&pitch=-2.939609340152117&zoom=0.9999999999999997",
+      "rates": [],
+      "fromText": "From",
+      "fromPrice": "0",
+      "location": {
+        "longitude": 144.357709251343,
+        "latitude": -38.14210583976,
+        "zoom": 13,
+        "address": "7 Cavendish St, Geelong",
+        "region": {
+          "name": "Geelong",
+          "longitude": 144.36249107619631,
+          "latitude": -38.150356829232159,
+          "status": "",
+          "state": {
+            "name": "Victoria",
+            "abbreviation": "VIC",
+            "country": "Australia",
+            "longitude": 145.08864104747772,
+            "latitude": -36.438262107088946,
+            "status": ""
+          }
+        }
+      },
+      "openingTimes": [
+        {
+          "day_TimePeriod": "Friday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "14:00",
+          "closing": "23:30",
+          "note": null
+        }
+      ],
+      "url": "/parking-locations/victoria/geelong/geelong-convention-centre/",
+      "serviceConfiguration": {
+        "canBookABay": true,
+        "bookABayIconLabel": "Prepay Online",
+        "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
+        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingIconLabel": "Monthly Subscription",
+        "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
+        "isWilsonOne": false,
+        "wilsonOneIconLabel": "Parking Card",
+        "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
+        "disabledParkingIsAvailable": false,
+        "disabledParkingIconLabel": "Disabled Parking",
+        "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
+        "evChargerIsAvailable": false,
+        "evChargerIconLabel": "EV Charging",
+        "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
+        "additionalServices": []
+      },
+      "state": "VIC",
+      "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
+      "price": "",
+      "status": "",
+      "cpmsCarparkCode": null,
+      "externalCarParkInfo": null,
       "featuredIndex": 0
     },
     {
