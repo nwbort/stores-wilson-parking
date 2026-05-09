@@ -3906,7 +3906,9 @@
         "Vivid",
         "Overnight Parking",
         "Flexi Parking",
-        "Entry height at least 2"
+        "Entry height at least 2",
+        "Elevate",
+        "LPR"
       ],
       "services": [
         "book a bay",
@@ -4089,6 +4091,10 @@
         "evChargerIconLabel": "EV Charging",
         "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
         "additionalServices": [
+          {
+            "label": null,
+            "icon": null
+          },
           {
             "label": null,
             "icon": null
@@ -4389,7 +4395,9 @@
         "Weekend Parking",
         "Book a Bay",
         "Wilson One",
-        "Flexi Parking"
+        "Flexi Parking",
+        "Elevate",
+        "LPR"
       ],
       "services": [
         "book a bay",
@@ -4571,7 +4579,12 @@
         "evChargerIsAvailable": false,
         "evChargerIconLabel": "EV Charging",
         "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "additionalServices": []
+        "additionalServices": [
+          {
+            "label": null,
+            "icon": null
+          }
+        ]
       },
       "state": "NSW",
       "imgUrl": "/siteassets/parking-location-images/nsw/syd269.gif",
@@ -64297,7 +64310,10 @@
         "Book a Bay",
         "Wilson One",
         "Daily Pass Bundles",
-        "Summer Sale"
+        "Summer Sale",
+        "Elevate",
+        "LPR",
+        "Spott Saver"
       ],
       "services": [
         "book a bay",
@@ -64447,7 +64463,12 @@
         "evChargerIsAvailable": false,
         "evChargerIconLabel": "EV Charging",
         "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "additionalServices": []
+        "additionalServices": [
+          {
+            "label": null,
+            "icon": null
+          }
+        ]
       },
       "state": "VIC",
       "imgUrl": "/contentassets/570d32eb9e3b4b009ff4ea16d9ab0cf6/750-collins.jpg",
@@ -64472,7 +64493,8 @@
         "Overnight Parking",
         "Flexi Parking",
         "Elevate",
-        "LPR"
+        "LPR",
+        "Spott Saver"
       ],
       "services": [
         "book a bay",
@@ -64670,7 +64692,12 @@
         "evChargerIsAvailable": false,
         "evChargerIconLabel": "EV Charging",
         "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "additionalServices": []
+        "additionalServices": [
+          {
+            "label": null,
+            "icon": null
+          }
+        ]
       },
       "state": "VIC",
       "imgUrl": "/contentassets/f87d068c7b4e43b3a1e5d8b0d2cf57ec/800.jpg",
@@ -64690,7 +64717,10 @@
         "Early Bird Parking",
         "Book a Bay",
         "Wilson One",
-        "Flexi Parking"
+        "Flexi Parking",
+        "Elevate",
+        "LPR",
+        "Spott Saver"
       ],
       "services": [
         "book a bay",
@@ -64857,6 +64887,10 @@
         "evChargerIconLabel": "EV Charging",
         "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
         "additionalServices": [
+          {
+            "label": null,
+            "icon": null
+          },
           {
             "label": null,
             "icon": null
