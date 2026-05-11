@@ -40061,19 +40061,19 @@
             },
             {
               "timeSpan": "2.0 - 3.0 hrs",
-              "price": 9.0
+              "price": 10.0
             },
             {
               "timeSpan": "3.0 - 4.0 hrs",
-              "price": 12.0
-            },
-            {
-              "timeSpan": "4.0 - 5.0 hrs",
               "price": 15.0
             },
             {
+              "timeSpan": "4.0 - 5.0 hrs",
+              "price": 20.0
+            },
+            {
               "timeSpan": "5.0 + hrs",
-              "price": 18.0
+              "price": 24.0
             }
           ]
         }
@@ -61935,7 +61935,7 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Monday to Friday - Rates charged from 6am daily</p>\n<p>$15.00 per 30 Mins - Max Daily Rate of $90.00</p>",
+          "notes": "<p>Monday to Friday - Rates charged from 6am daily</p>",
           "rates": [
             {
               "timeSpan": "0.0 - 0.5 hrs ",
@@ -61946,19 +61946,11 @@
               "price": 30.0
             },
             {
-              "timeSpan": "1.0 - 1.5 hrs ",
-              "price": 45.0
-            },
-            {
-              "timeSpan": "1.5 - 2.0 hrs ",
+              "timeSpan": "1.0 - 2.0 hrs",
               "price": 60.0
             },
             {
-              "timeSpan": "2.0 - 2.5 hrs ",
-              "price": 75.0
-            },
-            {
-              "timeSpan": "2.5 + hrs  (Daily Max)",
+              "timeSpan": "2.0 + hrs (Daily Max)",
               "price": 90.0
             }
           ]
@@ -68133,7 +68125,7 @@
       "costCenter": 1004356,
       "direction": "Entry off Little Cribb Street",
       "heightRestriction": 2.2,
-      "information": "<p><span style=\"color: #ff1e25;\">Event Parking is available at this car park on the following dates: 7, 8, 14, 15, 16 ,17, 29, 31 May.<br /></span></p>\n<p>Wilson Parking offers affordable &amp; secure parking at Milton Green&nbsp;car park, located at 19 Little Cribb Street&nbsp;in the heart of Milton. Open 7 days, this undercover car park provides convenient access to nearby Suncorp Stadium and surrounding entertainment and retail precinct. Offering hourly, night and weekend parking options with discounts when you prepay online, permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the Milton Green&nbsp;car park will meet all your business and leisure parking needs.&nbsp;</p>",
+      "information": "<p><span style=\"color: #ff1e25;\">Event Parking is available at this car park on the following dates: 14, 15, 16, 17, 29, 31 May. 6 June.<br /></span></p>\n<p>Wilson Parking offers affordable &amp; secure parking at Milton Green&nbsp;car park, located at 19 Little Cribb Street&nbsp;in the heart of Milton. Open 7 days, this undercover car park provides convenient access to nearby Suncorp Stadium and surrounding entertainment and retail precinct. Offering hourly, night and weekend parking options with discounts when you prepay online, permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the Milton Green&nbsp;car park will meet all your business and leisure parking needs.&nbsp;</p>",
       "isWilsonOne": true,
       "legacyID": 1004356,
       "monthlyParkingServiceIsAvailable": true,
@@ -71567,7 +71559,7 @@
       "costCenter": 1004298,
       "direction": "Entry via Dowse Street",
       "heightRestriction": 2.3,
-      "information": "<p><span style=\"color: #ff1e25;\">Event Parking is available at this car park on the following dates:</span><span style=\"color: #ff1e25;\"> 7, 8, 14, 15, 16 ,17, 29, 31 May.</span></p>\n<p>Wilson Parking offers affordable and secure parking at&nbsp;Darling &amp; Co car park, located in the heart of Paddington. Open 7 days, this undercover car park provides convenient access to Lang Park (Suncorp Stadium). Offering casual and night parking, and exclusive discounts when you pay via the Wilson Parking app, the&nbsp;Darling &amp; Co car park will meet all your business and leisure parking needs.</p>\n<p>Car park closes at 11pm on event nights.</p>",
+      "information": "<p><span style=\"color: #ff1e25;\">Event Parking is available at this car park on the following dates:</span><span style=\"color: #ff1e25;\">&nbsp;14, 15, 16, 17, 29, 31 May. 6 June.</span></p>\n<p>Wilson Parking offers affordable and secure parking at&nbsp;Darling &amp; Co car park, located in the heart of Paddington. Open 7 days, this undercover car park provides convenient access to Lang Park (Suncorp Stadium). Offering casual and night parking, and exclusive discounts when you pay via the Wilson Parking app, the&nbsp;Darling &amp; Co car park will meet all your business and leisure parking needs.</p>\n<p>Car park closes at 11pm on event nights.</p>",
       "isWilsonOne": false,
       "legacyID": 4298,
       "monthlyParkingServiceIsAvailable": true,
@@ -75656,11 +75648,59 @@
       },
       "openingTimes": [
         {
+          "day_TimePeriod": "Monday",
+          "is24_7": false,
+          "closed": true,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Tuesday",
+          "is24_7": false,
+          "closed": true,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Wednesday",
+          "is24_7": false,
+          "closed": true,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Thursday",
+          "is24_7": false,
+          "closed": true,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
           "day_TimePeriod": "Friday",
           "is24_7": false,
           "closed": false,
           "opening": "14:00",
           "closing": "23:30",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Saturday",
+          "is24_7": false,
+          "closed": true,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Sunday",
+          "is24_7": false,
+          "closed": true,
+          "opening": "",
+          "closing": "",
           "note": null
         }
       ],
@@ -82985,7 +83025,7 @@
       "carParkPhoto": null,
       "category": "",
       "costCenter": 1005180,
-      "direction": "Coming Soon! This car park will open 16 February, 2026.<br>\nLeft entry from Port Rd",
+      "direction": "Left entry from Port Rd",
       "heightRestriction": 0.0,
       "information": "<p>Wilson Parking offer affordable, reliable parking at 47 Port Rd Car Park, located at 47 Port Rd in the heart of Thebarton. This open air car park is conveniently located across from Bonython Park, and is a short walk to the Entertainment Centre and the New Womens and Childrens Hospital. Open all day, 7 days a week, easily pay for and manage your parking when you Pay by App in the Wilson Parking App. The 47 Port Rd Car Park will suit all your parking needs.</p>\n<p>Whether you're catching a show or cheering on the 36ers or the Thunderbirds, our carpark at 47 Port Rd lands you right in the middle of the action.</p>",
       "isWilsonOne": false,
@@ -88271,7 +88311,7 @@
       ],
       "services": [],
       "carParkName": "130-144 Stirling Street (Hatch) Motorcycle parking",
-      "carParkNumber": 6119,
+      "carParkNumber": 61191,
       "carParkPhoto": "/contentassets/1a8e69ef7e3042178adef6a801999cf8/per119.jpg",
       "category": "",
       "costCenter": 1006119,
