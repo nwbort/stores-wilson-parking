@@ -1239,7 +1239,7 @@
       "costCenter": 1002271,
       "direction": null,
       "heightRestriction": 1.8,
-      "information": "<p>Wilson Parking offer affordable &amp; secure parking at 71 York St Car Park, located at 71 York St, Sydney in the heart of the Sydney CBD. Nearby to King St Wharf, Pitt St Mall, Barangaroo, Crown Casino &amp; Restaurant Precinct, this car park is open until midnight, 7 days a week. Offering Hourly, Night and Weekend Parking, the&nbsp;71 York St Car Park suits all your leisure and commuter parking needs.</p>\n<p>Enjoy unlimited 24/7 access when you subscribe to monthly parking; or pay as you go with the queue-less, contact free Wilson Parking Card.</p>",
+      "information": "<p>Wilson Parking offer affordable &amp; secure parking at 71 York St Car Park, located at 71 York St, Sydney in the heart of the Sydney CBD. Nearby to King St Wharf, Pitt St Mall, Barangaroo, Crown Casino &amp; Restaurant Precinct, this car park is open until midnight, 7 days a week. Offering Hourly, Night and Weekend Parking, the&nbsp;71 York St Car Park suits all your leisure and commuter parking needs.</p>\n<p>Enjoy unlimited 24/7 access when you subscribe; or pay as you go with the queue-less, contact free Wilson Parking Card.</p>",
       "isWilsonOne": true,
       "legacyID": 412,
       "monthlyParkingServiceIsAvailable": false,
@@ -1253,7 +1253,7 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Rates apply Monday to Friday<br />Large vehicle surcharge of $20 applies if vehicle cannot park on level B2<br />Public Holidays: Weekend Rates Apply</p>",
+          "notes": "<p>Rates apply Monday to Friday<br />Public Holidays: Weekend Rates Apply</p>",
           "rates": [
             {
               "timeSpan": "0.0 - 1.0  hrs   ",
@@ -1317,14 +1317,6 @@
         }
       },
       "openingTimes": [
-        {
-          "day_TimePeriod": "Monthly",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        },
         {
           "day_TimePeriod": "Monday",
           "is24_7": false,
@@ -3908,7 +3900,8 @@
         "Flexi Parking",
         "Entry height at least 2",
         "Elevate",
-        "LPR"
+        "LPR",
+        "Spott Saver"
       ],
       "services": [
         "book a bay",
@@ -4397,7 +4390,8 @@
         "Wilson One",
         "Flexi Parking",
         "Elevate",
-        "LPR"
+        "LPR",
+        "Spott Saver"
       ],
       "services": [
         "book a bay",
@@ -54919,34 +54913,26 @@
               "price": 16.0
             },
             {
-              "timeSpan": "1.0 - 1.5 Hours",
-              "price": 24.0
+              "timeSpan": "1.0 - 2.0 Hours",
+              "price": 32.0
             },
             {
-              "timeSpan": "1.5 - 2.0 Hours",
-              "price": 30.0
+              "timeSpan": "2.0 - 3.0 Hours",
+              "price": 48.0
             },
             {
-              "timeSpan": "2.0 - 2.5 Hours",
-              "price": 37.0
-            },
-            {
-              "timeSpan": "2.5 - 3.0 Hours",
-              "price": 45.0
-            },
-            {
-              "timeSpan": "3.0 + Hours ",
-              "price": 52.0
+              "timeSpan": "3.0 + Hours",
+              "price": 54.0
             }
           ]
         },
         {
           "rateType": "Early Bird",
-          "notes": "<p>Entry between 6am &amp; 10am. Exit before 6pm.</p>\n<p>*Online rate only available when you pay with your phone via the Wilson Parking App and includes booking fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\" target=\"_blank\" rel=\"noopener\" aria-label=\"Link Click here\">Click here</a>&nbsp;to download the Wilson Parking App</p>",
+          "notes": "<p>Entry between 6am &amp; 9:30am.</p>\n<p>Exit between 2pm &amp; close 12pm (midnight).</p>\n<p>*Online rate only available when you pay with your phone via the Wilson Parking App and includes booking fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\" target=\"_blank\" rel=\"noopener\" aria-label=\"Link Click here\">Click here</a>&nbsp;to download the Wilson Parking App</p>",
           "rates": [
             {
               "timeSpan": "Mon - Fri",
-              "price": 24.0
+              "price": 22.0
             }
           ]
         },
@@ -54956,11 +54942,11 @@
           "rates": [
             {
               "timeSpan": "Mon - Thurs",
-              "price": 12.0
+              "price": 13.0
             },
             {
               "timeSpan": "Fri",
-              "price": 17.0
+              "price": 16.0
             }
           ]
         },
@@ -54970,7 +54956,7 @@
           "rates": [
             {
               "timeSpan": "Sat - Sun & Public Holidays",
-              "price": 17.0
+              "price": 16.0
             }
           ]
         }
@@ -57388,7 +57374,7 @@
       "costCenter": 1003169,
       "direction": "Entry via Flinders St or 195 Flinders Lane",
       "heightRestriction": 2.0,
-      "information": "<p><strong style=\"color: #ff1e25;\"><u>Event Dates May 2026:<br /></u></strong><span style=\"color: #ff1e25;\">9th, 22nd, 29th from 5:00pm to 11:59pm.<br />16th from 1:00pm to 11:59pm.<br />23rd from 2:00pm to 11:59pm.<br />Event rates will apply.<br /><em>On event dates, please allow additional time to exit.</em></span></p>\n<p>Wilson Parking offers affordable &amp; convenient parking at Flinders Gate Car Park, located at 172-192 Flinders Street, Melbourne. This car park is nearby to many Melbourne attractions including St Paul's Cathedral, The Ian Potter Centre and Flinders St Station.</p>\n<p>Offering online discounts for Flexi Saver, Night, Overnight and Weekend parking as well as competitive drive up rates, the Flinders Gate car park will meet all of your parking needs when visiting the Melbourne CBD.</p>\n<p><strong>This car park accepts Credit Card payments only.</strong></p>\n<p>Pay as you go with a Wilson Parking Card, or enjoy unlimited 24/7 access when you subscribe to a Monthly parking account.</p>\n<p><em>Site can be affected by road closures. Please refer to the <a title=\"https://www.melbourne.vic.gov.au/parking-and-transport/roads/Pages/road-closures.aspx\" href=\"https://www.melbourne.vic.gov.au/parking-and-transport/roads/Pages/road-closures.aspx\" target=\"_blank\" rel=\"noopener\">City of Melbourne website</a> for more information.</em></p>",
+      "information": "<p><strong style=\"color: #ff1e25;\"><u>Event Dates May 2026:<br /></u></strong><span style=\"color: #ff1e25;\">9th, 22nd, 29th from 5:00pm to 11:59pm.<br />16th from 1:00pm to 11:59pm.<br />23rd from 2:00pm to 11:59pm.<br />Event rates will apply.<br /><em>On event dates, please allow additional time to exit.</em></span></p>\n<p><span style=\"color: #ff1e25;\"><strong style=\"color: #ff1e25;\"><u>Event Dates June 2026:<br /></u></strong>5th, 20th from 5:00pm to 11:59pm.<br />7th, 17th from 4:00pm to 11:59pm.<br />8th from 12:00pm to 11:59pm.<br />Event rates will apply.<br /><em>On event dates, please allow additional time to exit.</em></span></p>\n<p>Wilson Parking offers affordable &amp; convenient parking at Flinders Gate Car Park, located at 172-192 Flinders Street, Melbourne. This car park is nearby to many Melbourne attractions including St Paul's Cathedral, The Ian Potter Centre and Flinders St Station.</p>\n<p>Offering online discounts for Flexi Saver, Night, Overnight and Weekend parking as well as competitive drive up rates, the Flinders Gate car park will meet all of your parking needs when visiting the Melbourne CBD.</p>\n<p><strong>This car park accepts Credit Card payments only.</strong></p>\n<p>Pay as you go with a Wilson Parking Card, or enjoy unlimited 24/7 access when you subscribe to a Monthly parking account.</p>\n<p><em>Site can be affected by road closures. Please refer to the <a title=\"https://www.melbourne.vic.gov.au/parking-and-transport/roads/Pages/road-closures.aspx\" href=\"https://www.melbourne.vic.gov.au/parking-and-transport/roads/Pages/road-closures.aspx\" target=\"_blank\" rel=\"noopener\">City of Melbourne website</a> for more information.</em></p>",
       "isWilsonOne": true,
       "legacyID": 253,
       "monthlyParkingServiceIsAvailable": true,
@@ -63672,7 +63658,9 @@
         "Book a Bay",
         "Wilson One",
         "Flexi Parking",
-        "Daily Pass Bundles"
+        "Daily Pass Bundles",
+        "Elevate",
+        "LPR"
       ],
       "services": [
         "book a bay",
@@ -63699,7 +63687,7 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Enter after 10:00 AM and exit before 7:00 PM.</p>\n<p>Payment via credit card only on entry.</p>",
+          "notes": "<p>Enter after 6:00 AM and exit before 7:00 PM.</p>\n<p>Payment via credit card only on entry.</p>",
           "rates": [
             {
               "timeSpan": "0 - 0.5 hrs",
@@ -63845,7 +63833,12 @@
         "evChargerIsAvailable": false,
         "evChargerIconLabel": "EV Charging",
         "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "additionalServices": []
+        "additionalServices": [
+          {
+            "label": null,
+            "icon": null
+          }
+        ]
       },
       "state": "VIC",
       "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
@@ -67578,7 +67571,9 @@
         "Monthly Parking",
         "Book a Bay",
         "Wilson One",
-        "Flexi Parking"
+        "Flexi Parking",
+        "Elevate",
+        "LPR"
       ],
       "services": [
         "book a bay",
@@ -67712,7 +67707,12 @@
         "evChargerIsAvailable": false,
         "evChargerIconLabel": "EV Charging",
         "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "additionalServices": []
+        "additionalServices": [
+          {
+            "label": null,
+            "icon": null
+          }
+        ]
       },
       "state": "QLD",
       "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
@@ -91678,7 +91678,6 @@
       "canBookABay": true,
       "selectedFeatures": "",
       "carParkFeature": [
-        "Monthly Parking",
         "Night Parking",
         "Weekend Parking",
         "Book a Bay",
@@ -91691,7 +91690,6 @@
       "services": [
         "book a bay",
         "wilson one",
-        "monthly",
         "disabled parking"
       ],
       "carParkName": "Raine Square Car Park",
@@ -91704,7 +91702,7 @@
       "information": "<p>Wilson Parking offer affordable parking at the Raine Square Car Park, located at 551 Wellington St, Perth. Open 7 days, and late on weekends, this undercover car park is situated in a central CBD location, close to office towers and the Murray Street &amp; Hay Street Malls. Offering casual Hourly, Night and Weekend Parking, with discount parking when you prepay online, and permanent monthly parking for regular parkers, the Raine Square car park will meet all your Perth CBD Parking needs.</p>\n<p>Download the Wilson Parking app to plan your journey and access exclusive discount parking offers when you prepay ahead; subscribe to monthly parking and enjoy unlimited access during the operational hours of the car park; or pay as you go on one monthly invoice when you access the car park with your Wilson Parking Card.</p>",
       "isWilsonOne": true,
       "legacyID": 533,
-      "monthlyParkingServiceIsAvailable": true,
+      "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": true,
       "phoneNumber": "1800 PARKING",
@@ -91909,7 +91907,7 @@
         "canBookABay": true,
         "bookABayIconLabel": "Prepay Online",
         "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": true,
+        "monthlyParkingServiceIsAvailable": false,
         "monthlyParkingIconLabel": "Monthly Subscription",
         "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
         "isWilsonOne": true,
