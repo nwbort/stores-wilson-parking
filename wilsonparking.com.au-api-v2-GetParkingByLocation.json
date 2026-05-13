@@ -7781,7 +7781,9 @@
         "Overnight Parking",
         "Flexi Parking",
         "Entry height at least 2",
-        "Footy Parking"
+        "Footy Parking",
+        "Elevate",
+        "LPR"
       ],
       "services": [
         "book a bay",
@@ -7968,6 +7970,10 @@
         "evChargerIconLabel": "EV Charging",
         "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
         "additionalServices": [
+          {
+            "label": null,
+            "icon": null
+          },
           {
             "label": null,
             "icon": null
@@ -10505,7 +10511,9 @@
         "Disabled Parking",
         "Daily Pass Bundles",
         "Footy Parking",
-        "Summer Sale"
+        "Summer Sale",
+        "Elevate",
+        "LPR"
       ],
       "services": [
         "book a bay",
@@ -10667,6 +10675,10 @@
         "evChargerIconLabel": "EV Charging",
         "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
         "additionalServices": [
+          {
+            "label": null,
+            "icon": null
+          },
           {
             "label": null,
             "icon": null
@@ -54294,7 +54306,7 @@
       "costCenter": 1003195,
       "direction": "Entry & exit via St Andrews Place",
       "heightRestriction": 2.1,
-      "information": "<p>Wilson Parking offer affordable &amp; secure parking at Park Hyatt Car Park, located at St Andrews Place&nbsp;in the heart of East Melbourne. Open 7 days, this undercover car park provides convenient access to Princess Theatre, Comedy Theatre, Parliament House and with 24 hour access is perfect for restaurant and hotel parking. Offering Hourly, Early Bird, Weekend and Night Parking options with exclusive discounts when you prepay online, permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the Park Hyatt Car Park will meet all your business and leisure parking needs.&nbsp;</p>\n<p>This car park accepts credit card payment only. Download the Wilson Parking App to plan your journey and access parking discounts when you prepay online;&nbsp;enjoy unlimited 24/7 access when you subscribe to monthly parking; pay as you go on one convenient monthly invoice when you use your Wilson Parking Card to access the car park.&nbsp;</p>",
+      "information": "<p><span style=\"color: #ff1e25;\"><strong><u>Event Dates May 2026:<br /></u></strong>16th, 23rd from 1:00pm</span><br /><span style=\"color: #ff1e25;\">17th from 12:00pm</span><br /><span style=\"color: #ff1e25;\">22nd, 29th from 4:00pm</span><br /><span style=\"color: #ff1e25;\"><em>Event rates will apply. Drive up only.<br />On event dates, please allow additional time to exit.</em></span></p>\n<p><span style=\"color: #ff1e25;\"><strong><u>Event Dates June 2026:<br /></u></strong>5th, 20th from 5:00pm<br /></span><span style=\"color: #ff1e25;\">7th, 17th from from 4:00pm<br />8th from 8:00pm<br /></span><span style=\"color: #ff1e25;\"><em>Event rates will apply. Drive up only.<br />On event dates, please allow additional time to exit.</em></span></p>\n<p>Wilson Parking offer affordable &amp; secure parking at Park Hyatt Car Park, located at St Andrews Place&nbsp;in the heart of East Melbourne. Open 7 days, this undercover car park provides convenient access to Princess Theatre, Comedy Theatre, Parliament House and with 24 hour access is perfect for restaurant and hotel parking. Offering Hourly, Early Bird, Weekend and Night Parking options with exclusive discounts when you prepay online, permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the Park Hyatt Car Park will meet all your business and leisure parking needs.&nbsp;</p>\n<p>This car park accepts credit card payment only. Download the Wilson Parking App to plan your journey and access parking discounts when you prepay online;&nbsp;enjoy unlimited 24/7 access when you subscribe to monthly parking; pay as you go on one convenient monthly invoice when you use your Wilson Parking Card to access the car park.&nbsp;</p>",
       "isWilsonOne": true,
       "legacyID": 120,
       "monthlyParkingServiceIsAvailable": true,
@@ -55200,7 +55212,7 @@
       "costCenter": 1003300,
       "direction": null,
       "heightRestriction": 2.05,
-      "information": "<p><span style=\"color: #ff1e25;\"><strong><u>Event Dates May 2026:<br /></u></strong>9th, 22nd, 29th from 5:00pm to 11:59pm.</span><br /><span style=\"color: #ff1e25;\">16th, 23rd from 2:00pm to 11:59pm.</span><br /><span style=\"color: #ff1e25;\">Event rates will apply.</span><br /><span style=\"color: #ff1e25;\"><em>On event dates, please allow additional time to exit.<br /><br /></em></span>Wilson Parking offers affordable &amp; secure parking at 11 Exhibition St&nbsp;Car Park, located at 11 Exhibition St in the heart of East End. Open 7 days, this undercover car park provides convenient access to nearby the MCG, Federation Square, Birrarung Marr, Melbourne Park and many other popular attractions. This car park offers flat rate parking at the times you need when you prepay online a Flexi Saver rate online. Casual Hourly, Weekend and Night Parking options are also available, with permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the 11 Exhibition St Car Park will meet all your business and leisure parking needs.&nbsp;</p>\n<p>This car park accepts Credit Card payments only.&nbsp;Download the Wilson Parking App to plan your journey and access the best parking value when you prepay online; enjoy unlimited 24/7 access when you subscribe to monthly parking; pay as you go on one convenient monthly invoice when you use your Wilson Parking Card to access the car park.</p>",
+      "information": "<p><span style=\"color: #ff1e25;\"><strong><u>Event Dates May 2026:<br /></u></strong>9th, 22nd, 29th from 5:00pm to 11:59pm.</span><br /><span style=\"color: #ff1e25;\">16th, 23rd from 2:00pm to 11:59pm.</span><br /><span style=\"color: #ff1e25;\">Event rates will apply.</span><br /><span style=\"color: #ff1e25;\"><em>On event dates, please allow additional time to exit.<br /><u></u></em></span></p>\n<p><span style=\"color: #ff1e25;\"><strong><u>Event Dates June 2026:<br /></u></strong>5th, 20th from 5:00pm to 11:59pm.<br />7th, 17th from 4:00pm to 11:59pm.<br />8th from 12:00pm to 11:59pm.<em><br /></em>Event rates will apply.<em><br /><em style=\"color: #ff1e25;\">On event dates, please allow additional time to exit.</em></em></span></p>\n<p>Wilson Parking offers affordable &amp; secure parking at 11 Exhibition St&nbsp;Car Park, located at 11 Exhibition St in the heart of East End. Open 7 days, this undercover car park provides convenient access to nearby the MCG, Federation Square, Birrarung Marr, Melbourne Park and many other popular attractions. This car park offers flat rate parking at the times you need when you prepay online a Flexi Saver rate online. Casual Hourly, Weekend and Night Parking options are also available, with permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the 11 Exhibition St Car Park will meet all your business and leisure parking needs.&nbsp;</p>\n<p>This car park accepts Credit Card payments only.&nbsp;Download the Wilson Parking App to plan your journey and access the best parking value when you prepay online; enjoy unlimited 24/7 access when you subscribe to monthly parking; pay as you go on one convenient monthly invoice when you use your Wilson Parking Card to access the car park.</p>",
       "isWilsonOne": true,
       "legacyID": 497,
       "monthlyParkingServiceIsAvailable": true,
@@ -59462,7 +59474,7 @@
         }
       ],
       "fromText": "From",
-      "fromPrice": "16",
+      "fromPrice": "15.75",
       "location": {
         "longitude": 144.96624112129211,
         "latitude": -37.820406137602674,
@@ -64336,7 +64348,7 @@
         }
       ],
       "fromText": "From",
-      "fromPrice": "22",
+      "fromPrice": "21.75",
       "location": {
         "longitude": 144.94911924004555,
         "latitude": -37.819607355005637,
@@ -64493,7 +64505,7 @@
       "costCenter": 1003225,
       "direction": "Entry via Enterprize Way. Car park is on the right.",
       "heightRestriction": 2.0,
-      "information": "<p><span style=\"color: #ff1e25;\"><em><strong><u>Event Dates May 2026:<br /></u></strong>9th, 10th, 23rd from 10:00am<br />16th, 28th, 30th from 5:00pm<br />17th, 24th from 12:00pm (Midday)<br />Event rates will apply. Drive up only.<br />On event dates, please allow additional time to exit.<br /><br /></em></span>Wilson Parking offer affordable parking at 800 Bourke St Car Park, located at Enterprize Way, Docklands. This car park, located on the Yarra River,&nbsp; is nearby to Marvel Stadium, Docklands Park and other Docklands attractions. Offering Hourly, Weekend and night parking, as well as discount online parking options, the 800 Bourke St Car Park will meet all of your parking needs.</p>\n<p>Experience the convenience of&nbsp;pay as you go with a Wilson Parking card, or enjoy 24/7 unlimited access when you subscribe to Monthly Parking.</p>",
+      "information": "<p><span style=\"color: #ff1e25;\"><strong><u>Event Dates May 2026:<br /></u></strong>9th, 10th, 23rd from 10:00am<br />16th, 28th, 30th from 5:00pm<br />17th, 24th from 12:00pm<em><br />Event rates will apply. Drive up only.<br />On event dates, please allow additional time to exit.</em></span></p>\n<p><span style=\"color: #ff1e25;\"><strong><u>Event Dates June 2026:<br /></u></strong>11th from 5:00pm<br />14th, 21st from 12:00pm<br /></span><span style=\"color: #ff1e25;\"><em>Event rates will apply. Drive up only.<br />On event dates, please allow additional time to exit.<br /><br /></em></span>Wilson Parking offer affordable parking at 800 Bourke St Car Park, located at Enterprize Way, Docklands. This car park, located on the Yarra River,&nbsp; is nearby to Marvel Stadium, Docklands Park and other Docklands attractions. Offering Hourly, Weekend and night parking, as well as discount online parking options, the 800 Bourke St Car Park will meet all of your parking needs.</p>\n<p>Experience the convenience of&nbsp;pay as you go with a Wilson Parking card, or enjoy 24/7 unlimited access when you subscribe to Monthly Parking.</p>",
       "isWilsonOne": true,
       "legacyID": 41,
       "monthlyParkingServiceIsAvailable": true,
@@ -75594,7 +75606,7 @@
       "featuredIndex": 0
     },
     {
-      "name": "Geelong Convention Centre",
+      "name": "Nyaal Banyul - Geelong Convention & Event Centre",
       "bookText": null,
       "canBookABay": true,
       "selectedFeatures": "",
@@ -75605,14 +75617,14 @@
       "services": [
         "book a bay"
       ],
-      "carParkName": "Geelong Convention Centre",
+      "carParkName": "Nyaal Banyul - Geelong Convention & Event Centre",
       "carParkNumber": 3352,
       "carParkPhoto": null,
       "category": "",
       "costCenter": 1003352,
       "direction": "CAR PARK COMING SOON\n\nEntry via 7 Cavendish St, Geelong\n",
       "heightRestriction": 2.1,
-      "information": "<p><span style=\"color: #ff1e25;\">CAR PARK COMING SOON</span></p>\n<p>Wilson Parking offers affordable &amp; reliable parking at the Geelong Convention Centre&nbsp;Car Park, located 80 Western Beach Rd, entry via 7 Cavendish St&nbsp;in the heart of Geelong. Open 7 days, this undercover car park provides convenient access to nearby Convention Centre, Western Beach precinct cafes, restaurants and Cunningham Pier.</p>",
+      "information": "<p><span style=\"color: #ff1e25;\">CAR PARK COMING SOON</span></p>\n<p>Wilson Parking offers affordable &amp; reliable parking at the Nyaal Banyul - Geelong Convention &amp; Event Centre&nbsp;Car Park, located 80 Western Beach Rd, entry via 7 Cavendish St&nbsp;in the heart of Geelong. Open 7 days, this undercover car park provides convenient access to nearby Nyaal Banyul Geelong Convention &amp; Event Centre, Western Beach precinct cafes, restaurants and Cunningham Pier.</p>",
       "isWilsonOne": false,
       "legacyID": 3352,
       "monthlyParkingServiceIsAvailable": false,
@@ -75704,7 +75716,7 @@
           "note": null
         }
       ],
-      "url": "/parking-locations/victoria/geelong/geelong-convention-centre/",
+      "url": "/parking-locations/victoria/geelong/nyaal-banyul-geelong-convention-event-centre/",
       "serviceConfiguration": {
         "canBookABay": true,
         "bookABayIconLabel": "Prepay Online",
