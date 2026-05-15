@@ -1893,7 +1893,7 @@
       "costCenter": 1002001,
       "direction": "255 Pitt St, Sydney<p>\n2nd driveway under the blue Hilton sign",
       "heightRestriction": 1.9,
-      "information": "<p>Wilson Parking offers affordable &amp; secure parking at 255 Pitt St Car Park which is located in the heart of Sydney CBD, close to Town Hall, Hyde Park, Pitt St Mall and China Town shopping precincts, along with access direct to Hilton Hotel Sydney.</p>\n<p>The 255 Pitt St car parks has the parking to suit your needs, including Prepay Online options, casual Drive up, pay as you go with a Wilson Parking Card or subscribe to monthly parking for more regular users.</p>\n<p>Providing undercover parking for customers visiting or staying at Hilton Sydney, or other nearby locations, 255 Pitt St Car Park will suit all your parking needs.&nbsp;</p>",
+      "information": "<p>Wilson Parking offers affordable &amp; secure parking at 255 Pitt St Car Park which is located in the heart of Sydney CBD, close to Town Hall, Hyde Park, Pitt St Mall and China Town shopping precincts, along with access direct to Hilton Hotel Sydney.</p>\n<p>The 255 Pitt St car parks has the parking to suit your needs, including Prepay Online options, casual Drive up, pay as you go with a Wilson Parking Card or subscribe to monthly parking for more regular users. Providing undercover parking for customers visiting or staying at Hilton Sydney, or other nearby locations, 255 Pitt St Car Park will suit all your parking needs.&nbsp;</p>",
       "isWilsonOne": true,
       "legacyID": 1002001,
       "monthlyParkingServiceIsAvailable": true,
@@ -7168,7 +7168,7 @@
       "carParkPhoto": "/siteassets/parking-location-images/nsw/syd239.jpg",
       "category": "",
       "costCenter": 1002239,
-      "direction": "Entry via Reiby Place\n\n\n",
+      "direction": "Entry via Reiby Place\n\nRoad closures in the area during Vivid Festival 2026, from 22 May to 13 June 2026. Access may be affected by road closures.\n",
       "heightRestriction": 2.0,
       "information": "<p>Wilson Parking offer affordable &amp; secure parking at The Gateway St at 25 Reiby Place in the heart of The Rocks. Close to Circular Quay, the Sydney Opera House, International Cruise Ship Terminal, Restaurants and Bar Precincts, and open to midnight every day, the car park is perfect for business or leisure parking. Offering casual Hourly, Night, Weekend and Overnight Parking with exclusive discounts available when you prepay online, The Gateway Car Park will meet all your parking needs.&nbsp;</p>\n<p>Download the Wilson Parking App to plan your journey and access exclusive discounts when you prepay online; or pay as you go with a convenient monthly invoice when you use your Wilson Parking Card.</p>",
       "isWilsonOne": true,
@@ -7574,7 +7574,7 @@
       "carParkPhoto": "/siteassets/parking-location-images/nsw/syd176.jpg",
       "category": "",
       "costCenter": 1002176,
-      "direction": null,
+      "direction": "Vivid Parking Notice\n\nRoad closures in the area during Vivid Festival 2026, from 22 May to 13 June 2026. Access may be affected by road closures.",
       "heightRestriction": 2.0,
       "information": "<p>Wilson Parking offer affordable &amp; secure parking at Quay West Car Park, located at 111 Harrington St, Sydney in the heart of The Rocks&nbsp;Circular Quay. The car park is nearby the International Cruise Ship Terminal, Shopping, Restaurant &amp; Bar precincts and is close to many hotels overlooking Sydney Harbour and the famous BridgeClimb tourist attaction. Offering&nbsp;Casual Hourly, Night and Weekend Parking, as well as online discount parking options, this car park will suit every parking need when visiting your favourite restaurant or tourist destination as well as commuter parking needs.</p>\n<p>Save when you prepay your parking online or with the Wilson Parking App; enjoy unlimited 24/7 access when you subscriber to monthly parking; or pay as you go with the convenient queue-less, contact free Wilson Parking Card.</p>",
       "isWilsonOne": true,
@@ -7795,7 +7795,7 @@
       "carParkPhoto": "/siteassets/parking-location-images/nsw/syd155.jpg",
       "category": "",
       "costCenter": 1002155,
-      "direction": null,
+      "direction": "Due to planned road closures for the duration of Vivid festival, customers will be unable to exit the car park after 5pm from 22 May to 13 June 2026. ",
       "heightRestriction": 2.0,
       "information": "<p>Wilson Parking offer affordable &amp; secure parking at 155 George St Sydney, in the heart of The Rocks Circular Quay, close to the Sydney Opera House, International Cruise Ship Terminal, Restaurants and Bar Precincts. Offering Hourly, Night and Weekend Parking, as well as online discount parking, the 155 George St Car Park will suit your parking needs when visiting your favourite restaurant or tourist destination in addition to business parking needs.</p>\n<p>Save when you prepay your parking online or with the Wilson Parking App; enjoy unlimited 24/7 access when you subscribe to monthly parking; or pay as you go with the convenient queue-less, contact free Wilson Parking Card.</p>",
       "isWilsonOne": true,
@@ -8245,7 +8245,7 @@
       "carParkPhoto": "/siteassets/parking-location-images/nsw/syd186.jpg",
       "category": "",
       "costCenter": 1002186,
-      "direction": "Entry via 55 Harrington Street\n\nExit via Argyle Street",
+      "direction": "Entry via 55 Harrington Street\n\nExit via Argyle Street\n\nDue to planned road closures for the duration of Vivid festival, customers will be unable to exit the car park after 5pm from 22 May to 13 June 2026. ",
       "heightRestriction": 2.0,
       "information": "<p>Wilson Parking offer affordable &amp; secure parking at Clocktower Car Park which is located at 55 Harrigton St, Sydney in the heart of The Rocks in Circular Quay. Near the International Cruise Ship Terminal, Shopping, Restaurant &amp; Bar precints.</p>\n<p>The car park exits on to Arglye St.&nbsp;</p>\n<p>Offering casual Hourly, Night and Weekend Parking, with exclusive discounts when you prepay online and permanent Monthly Parking for regular parkers, the Clocktower Car Park will suit all The Rocks Parking needs.&nbsp;</p>\n<p>Download the Wilson Parking App to plan your journey and access exclusive discounts when you prepay online; enjoy unlimited 24/7 access when you subscribe to monthly parking; or pay as you go with a monthly invoice when you use your Wilson Parking Card to access the car park.</p>\n<p>&nbsp;</p>",
       "isWilsonOne": true,
@@ -14337,7 +14337,10 @@
         "Vivid",
         "Flexi Parking",
         "Disabled Parking",
-        "Daily Pass Bundles"
+        "Daily Pass Bundles",
+        "Elevate",
+        "LPR",
+        "Spott Saver"
       ],
       "services": [
         "book a bay",
@@ -14525,6 +14528,10 @@
         "evChargerIconLabel": "EV Charging",
         "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
         "additionalServices": [
+          {
+            "label": null,
+            "icon": null
+          },
           {
             "label": null,
             "icon": null
@@ -40075,19 +40082,19 @@
             },
             {
               "timeSpan": "2.0 - 3.0 hrs",
-              "price": 10.0
+              "price": 9.0
             },
             {
               "timeSpan": "3.0 - 4.0 hrs",
-              "price": 15.0
+              "price": 12.0
             },
             {
               "timeSpan": "4.0 - 5.0 hrs",
-              "price": 20.0
+              "price": 15.0
             },
             {
               "timeSpan": "5.0 + hrs",
-              "price": 24.0
+              "price": 21.0
             }
           ]
         }
@@ -55288,7 +55295,7 @@
         }
       ],
       "fromText": "From",
-      "fromPrice": "11",
+      "fromPrice": "11.75",
       "location": {
         "longitude": 144.97185073068852,
         "latitude": -37.815462254081872,
@@ -58775,7 +58782,7 @@
         }
       ],
       "fromText": "From",
-      "fromPrice": "12",
+      "fromPrice": "11.75",
       "location": {
         "longitude": 144.96277570724487,
         "latitude": -37.815763755015745,
@@ -59922,7 +59929,7 @@
         }
       ],
       "fromText": "From",
-      "fromPrice": "13",
+      "fromPrice": "12.75",
       "location": {
         "longitude": 144.9600226153442,
         "latitude": -37.814265840524229,
@@ -61766,11 +61773,11 @@
           "notes": "<p>Entry via 15 William St</p>\n<p>Flat rate per exit, per day</p>\n<p>Saturday, Sunday &amp; Public Holidays</p>\n<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>",
           "rates": [
             {
-              "timeSpan": "Sat varies from $13 - $14, depending on demand",
+              "timeSpan": "Sat varies from $12.75 - $13.75, depending on demand",
               "price": 15.0
             },
             {
-              "timeSpan": "Sun & Public Holiday varies from $13.00 - $14.00, depending on demand",
+              "timeSpan": "Sun & Public Holiday varies from $12.75 - $13.75, depending on demand",
               "price": 15.0
             }
           ]
@@ -63676,7 +63683,8 @@
         "Flexi Parking",
         "Daily Pass Bundles",
         "Elevate",
-        "LPR"
+        "LPR",
+        "Spott Saver"
       ],
       "services": [
         "book a bay",
@@ -64928,7 +64936,7 @@
       "costCenter": 1003248,
       "direction": "Entry via Convention Centre place only.  Normanby Rd closed for construction works.",
       "heightRestriction": 2.05,
-      "information": "<p>Wilson Parking offer affordable &amp; secure parking at South Wharf Retail Car Park, located at 20 Convention Centre Pl,&nbsp;in the heart of Southbank. Open 7 days, this car park provides convenient access to nearby DFO Outlet Centre, Melbourne Exhibition Centre and South Wharf Promenade. Offering&nbsp;Hourly, All Day, Weekend and Night Parking options with exclusive discounts when you prepay online, permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the South Wharf Retail&nbsp;Car Park will meet all your business and leisure parking needs.&nbsp;</p>\n<p>Download the Wilson Parking App to plan your journey and access parking discounts when you prepay online; enjoy unlimited 24/7 access when you subscribe to monthly parking; pay as you go on one convenient monthly invoice when you use your Wilson Parking Card to access the car park.</p>",
+      "information": "<p><span style=\"color: #ff1e25;\"><strong>DFO Car Park works entry/exit closure notification</strong></span><br />Normanby Rd entry/exit will not be accessible from <strong>Monday 18th May to Friday 5th June 2026</strong>.<br />Munro St entry/exit will not be accessible from <strong>Tuesday 9th June to Friday 26th June 2026.<br /></strong>Convention Centre Place will be open throughout the works.</p>\n<p>Wilson Parking offer affordable &amp; secure parking at South Wharf Retail Car Park, located at 20 Convention Centre Pl,&nbsp;in the heart of Southbank. Open 7 days, this car park provides convenient access to nearby DFO Outlet Centre, Melbourne Exhibition Centre and South Wharf Promenade. Offering&nbsp;Hourly, All Day, Weekend and Night Parking options with exclusive discounts when you prepay online, permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the South Wharf Retail&nbsp;Car Park will meet all your business and leisure parking needs.&nbsp;</p>\n<p>Download the Wilson Parking App to plan your journey and access parking discounts when you prepay online; enjoy unlimited 24/7 access when you subscribe to monthly parking; pay as you go on one convenient monthly invoice when you use your Wilson Parking Card to access the car park.</p>",
       "isWilsonOne": true,
       "legacyID": 127,
       "monthlyParkingServiceIsAvailable": false,
@@ -92348,27 +92356,27 @@
           "rates": [
             {
               "timeSpan": "0.0 - 0.5 hrs",
-              "price": 6.0
+              "price": 7.0
             },
             {
               "timeSpan": "0.5 - 1.0 hrs",
-              "price": 12.0
+              "price": 13.0
             },
             {
               "timeSpan": "1.0 - 1.5 hrs",
-              "price": 17.0
+              "price": 18.0
             },
             {
               "timeSpan": "1.5 - 2.0 hrs",
-              "price": 22.0
+              "price": 23.0
             },
             {
               "timeSpan": "2.0 - 3.0 hrs",
-              "price": 27.0
+              "price": 28.0
             },
             {
               "timeSpan": "3.0 + hrs",
-              "price": 32.0
+              "price": 33.0
             }
           ]
         },
@@ -100108,7 +100116,7 @@
             },
             {
               "timeSpan": "4.0 - 12.0 hrs",
-              "price": 13.0
+              "price": 15.0
             }
           ]
         }
