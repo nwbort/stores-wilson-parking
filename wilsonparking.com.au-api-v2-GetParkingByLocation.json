@@ -55284,11 +55284,11 @@
           "notes": "<p>Enter after 6:00 am, Exit before close.&nbsp;</p>\n<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>",
           "rates": [
             {
-              "timeSpan": "Sat varies from $26.00 - $29.00, depending on demand",
+              "timeSpan": "Sat varies from $25.75 - $28.75, depending on demand",
               "price": 30.0
             },
             {
-              "timeSpan": "Sun & Public Holiday varies from $26.00 - $29.00, depending on demand",
+              "timeSpan": "Sun & Public Holiday varies from $25.75 - $28.75, depending on demand",
               "price": 30.0
             }
           ]
@@ -56560,7 +56560,9 @@
         "Flexi Parking",
         "Epark",
         "Entry height at least 2",
-        "Disabled Parking"
+        "Disabled Parking",
+        "Elevate",
+        "LPR"
       ],
       "services": [
         "book a bay",
@@ -56743,7 +56745,12 @@
         "evChargerIsAvailable": false,
         "evChargerIconLabel": "EV Charging",
         "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "additionalServices": []
+        "additionalServices": [
+          {
+            "label": null,
+            "icon": null
+          }
+        ]
       },
       "state": "VIC",
       "imgUrl": "/siteassets/parking-location-images/vic/mel042_480.jpg",
@@ -59922,7 +59929,7 @@
           "notes": "<p>Enter after 6:00 am Exit before close.</p>\n<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>",
           "rates": [
             {
-              "timeSpan": "Sat - Sun & Public Holiday varies from $17.00 - $18.00, depending on demand",
+              "timeSpan": "Sat - Sun & Public Holiday varies from $16.75 - $17.75, depending on demand",
               "price": 19.0
             }
           ]
@@ -62159,7 +62166,7 @@
           "notes": "<p>Flat rate per exit, per day.</p>\n<p>Saturday, Sunday &amp; Public Holidays</p>\n<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>",
           "rates": [
             {
-              "timeSpan": "Sat - Sun & Public Holiday varies from $13.00 - $14.00, depending on demand",
+              "timeSpan": "Sat - Sun & Public Holiday varies from $12.75 - $13.75, depending on demand",
               "price": 15.0
             }
           ]
