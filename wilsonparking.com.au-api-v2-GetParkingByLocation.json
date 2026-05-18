@@ -7359,8 +7359,7 @@
         "Early Bird Parking",
         "Book a Bay",
         "Wilson One",
-        "Flexi Parking",
-        "Daily Pass Bundles"
+        "Flexi Parking"
       ],
       "services": [
         "book a bay",
@@ -10704,7 +10703,6 @@
         "Weekend Parking",
         "Early Bird Parking",
         "Book a Bay",
-        "Vivid",
         "Entry height at least 2",
         "Disabled Parking",
         "Daily Pass Bundles"
@@ -56786,7 +56784,7 @@
       "costCenter": 1003250,
       "direction": "Entry via Russell St (Extension) or off Batman Ave (at Tennis Centre)\nOn event dates and busy periods, please use the Batman Ave Exit from Level 1 and allow additional time to exit. ",
       "heightRestriction": 2.1,
-      "information": "<p><strong style=\"color: #ff1e25;\"><u>Event Dates May 2026:<br /></u></strong><span style=\"color: #ff1e25;\">13th, 22nd, 24th, 27th and 29th&nbsp;</span><span style=\"color: #ff1e25;\">from 4:00pm to 11:59pm<br /></span><span style=\"color: #ff1e25;\">16th</span><span style=\"color: #ff1e25;\">&nbsp;and 23rd</span><span style=\"color: #ff1e25;\">&nbsp;from 1:00pm to 11:59pm<br /></span><span style=\"color: #ff1e25;\">17th&nbsp;from 11:00am to 11:59pm<br /></span><span style=\"color: #ff1e25;\">30th and 31st from 12:00pm to 11:59pm<br /></span><span style=\"color: #ff1e25;\">Event rates will apply.<br /></span><em style=\"color: #ff1e25;\"><span><em>On event dates, please allow additional time to exit.<br /><br /></em></span></em>Wilson Parking offers affordable &amp; secure parking at Federation Square Car Park, located on Russell St (Extension) in the Melbourne CBD. This car park is nearby to many popular attractions, including Federation Square, Flinders St Station, Birrarung Marr, Rod Laver Arena and Melbourne Park. Offering casual Early Bird, Hourly, Night and Weekend parking, with exclusive discounts when you prepay online, the Federation Square Car Park will meet all of your parking needs.</p>\n<p><span style=\"color: #000000;\"><strong>On event dates and busy periods, please use the Batman Avenue Exit from Level 1 and allow additional time to exit.</strong></span></p>\n<p>Download the Wilson Parking App to plan your journey and access exclusive discounts when you prepay online; pay as you go with one convenient monthly invoice when you use your Wilson Parking Card; enjoy 24/7 unlimited access when you subscribe to Monthly Parking; or just drive up to pay with a credit card at the car park.</p>",
+      "information": "<p><strong style=\"color: #ff1e25;\"><u>Event Dates May 2026:<br /></u></strong><span style=\"color: #ff1e25;\">22nd, 24th, 27th and 29th&nbsp;</span><span style=\"color: #ff1e25;\">from 4:00pm to 11:59pm<br /></span><span style=\"color: #ff1e25;\">23rd</span><span style=\"color: #ff1e25;\">&nbsp;from 1:00pm to 11:59pm<br /></span><span style=\"color: #ff1e25;\">30th and 31st from 12:00pm to 11:59pm<br /></span><span style=\"color: #ff1e25;\">Event rates will apply.<br /></span><em style=\"color: #ff1e25;\"><em>On event dates, please allow additional time to exit.</em></em></p>\n<p><span style=\"color: #ff1e25;\"><strong><u>Event Dates June 2026:<br /></u></strong>4th, 5th, 7th, 16th, 17th and 20th from 4:00pm to 11:59pm</span><br /><span style=\"color: #ff1e25;\">13th, 14th and 21st from 11:00am to 11:59pm</span><em style=\"color: #ff1e25;\"><em><br /><span style=\"color: #ff1e25;\">Event rates will apply.</span><br /><span style=\"color: #ff1e25;\">On event dates, please allow additional time to exit.</span><br /><br /></em></em>Wilson Parking offers affordable &amp; secure parking at Federation Square Car Park, located on Russell St (Extension) in the Melbourne CBD. This car park is nearby to many popular attractions, including Federation Square, Flinders St Station, Birrarung Marr, Rod Laver Arena and Melbourne Park. Offering casual Early Bird, Hourly, Night and Weekend parking, with exclusive discounts when you prepay online, the Federation Square Car Park will meet all of your parking needs.</p>\n<p><span style=\"color: #000000;\"><strong>On event dates and busy periods, please use the Batman Avenue Exit from Level 1 and allow additional time to exit.</strong></span></p>\n<p>Download the Wilson Parking App to plan your journey and access exclusive discounts when you prepay online; pay as you go with one convenient monthly invoice when you use your Wilson Parking Card; enjoy 24/7 unlimited access when you subscribe to Monthly Parking; or just drive up to pay with a credit card at the car park.</p>",
       "isWilsonOne": true,
       "legacyID": 94,
       "monthlyParkingServiceIsAvailable": true,
@@ -67937,7 +67935,10 @@
         "Wilson One",
         "Flexi Parking",
         "Special Event Parking",
-        "Riverfire"
+        "Elevate",
+        "LPR",
+        "Riverfire",
+        "Spott Saver"
       ],
       "services": [
         "book a bay",
@@ -68117,7 +68118,12 @@
         "evChargerIsAvailable": false,
         "evChargerIconLabel": "EV Charging",
         "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "additionalServices": []
+        "additionalServices": [
+          {
+            "label": null,
+            "icon": null
+          }
+        ]
       },
       "state": "QLD",
       "imgUrl": "/siteassets/parking-location-images/qld/bne049_2.jpg",
@@ -68156,7 +68162,7 @@
       "costCenter": 1004356,
       "direction": "Entry off Little Cribb Street",
       "heightRestriction": 2.2,
-      "information": "<p><span style=\"color: #ff1e25;\">Event Parking is available at this car park on the following dates: 14, 15, 16, 17, 29, 31 May. 6 June.<br /></span></p>\n<p>Wilson Parking offers affordable &amp; secure parking at Milton Green&nbsp;car park, located at 19 Little Cribb Street&nbsp;in the heart of Milton. Open 7 days, this undercover car park provides convenient access to nearby Suncorp Stadium and surrounding entertainment and retail precinct. Offering hourly, night and weekend parking options with discounts when you prepay online, permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the Milton Green&nbsp;car park will meet all your business and leisure parking needs.&nbsp;</p>",
+      "information": "<p><span style=\"color: #ff1e25;\">Event Parking is available at this car park on the following dates: 29, 31 May. 6, 12 June.<br /></span></p>\n<p>Wilson Parking offers affordable &amp; secure parking at Milton Green&nbsp;car park, located at 19 Little Cribb Street&nbsp;in the heart of Milton. Open 7 days, this undercover car park provides convenient access to nearby Suncorp Stadium and surrounding entertainment and retail precinct. Offering hourly, night and weekend parking options with discounts when you prepay online, permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the Milton Green&nbsp;car park will meet all your business and leisure parking needs.&nbsp;</p>",
       "isWilsonOne": true,
       "legacyID": 1004356,
       "monthlyParkingServiceIsAvailable": true,
@@ -70678,15 +70684,7 @@
               "price": 69.0
             },
             {
-              "timeSpan": "3 - 4 hrs",
-              "price": 79.0
-            },
-            {
-              "timeSpan": "4 - 5 hrs",
-              "price": 79.0
-            },
-            {
-              "timeSpan": "5 + hrs (daily maximum)",
+              "timeSpan": "3+ hrs",
               "price": 79.0
             },
             {
@@ -71590,7 +71588,7 @@
       "costCenter": 1004298,
       "direction": "Entry via Dowse Street",
       "heightRestriction": 2.3,
-      "information": "<p><span style=\"color: #ff1e25;\">Event Parking is available at this car park on the following dates:</span><span style=\"color: #ff1e25;\">&nbsp;14, 15, 16, 17, 29, 31 May. 6 June.</span></p>\n<p>Wilson Parking offers affordable and secure parking at&nbsp;Darling &amp; Co car park, located in the heart of Paddington. Open 7 days, this undercover car park provides convenient access to Lang Park (Suncorp Stadium). Offering casual and night parking, and exclusive discounts when you pay via the Wilson Parking app, the&nbsp;Darling &amp; Co car park will meet all your business and leisure parking needs.</p>\n<p>Car park closes at 11pm on event nights.</p>",
+      "information": "<p><span style=\"color: #ff1e25;\">Event Parking is available at this car park on the following dates:</span><span style=\"color: #ff1e25;\">&nbsp;29, 31 May. 6, 12 June.</span></p>\n<p>Wilson Parking offers affordable and secure parking at&nbsp;Darling &amp; Co car park, located in the heart of Paddington. Open 7 days, this undercover car park provides convenient access to Lang Park (Suncorp Stadium). Offering casual and night parking, and exclusive discounts when you pay via the Wilson Parking app, the&nbsp;Darling &amp; Co car park will meet all your business and leisure parking needs.</p>\n<p>Car park closes at 11pm on event nights.</p>",
       "isWilsonOne": false,
       "legacyID": 4298,
       "monthlyParkingServiceIsAvailable": true,
