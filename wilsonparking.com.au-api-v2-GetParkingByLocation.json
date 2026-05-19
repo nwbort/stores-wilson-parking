@@ -7575,7 +7575,7 @@
       "costCenter": 1002176,
       "direction": "Vivid Parking Notice\n\nRoad closures in the area during Vivid Festival 2026, from 22 May to 13 June 2026. Access may be affected by road closures.",
       "heightRestriction": 2.0,
-      "information": "<p>Wilson Parking offer affordable &amp; secure parking at Quay West Car Park, located at 111 Harrington St, Sydney in the heart of The Rocks&nbsp;Circular Quay. The car park is nearby the International Cruise Ship Terminal, Shopping, Restaurant &amp; Bar precincts and is close to many hotels overlooking Sydney Harbour and the famous BridgeClimb tourist attaction. Offering&nbsp;Casual Hourly, Night and Weekend Parking, as well as online discount parking options, this car park will suit every parking need when visiting your favourite restaurant or tourist destination as well as commuter parking needs.</p>\n<p>Save when you prepay your parking online or with the Wilson Parking App; enjoy unlimited 24/7 access when you subscriber to monthly parking; or pay as you go with the convenient queue-less, contact free Wilson Parking Card.</p>",
+      "information": "<p>Wilson Parking offer affordable &amp; secure parking at Quay West Car Park, located at 111 Harrington St, Sydney in the heart of The Rocks&nbsp;Circular Quay. The car park is nearby the International Cruise Ship Terminal, Shopping, Restaurant &amp; Bar precincts and is close to many hotels overlooking Sydney Harbour and the famous BridgeClimb tourist attaction. Offering&nbsp;Casual Hourly, Night and Weekend Parking, as well as online discount parking options, this car park will suit every parking need when visiting your favourite restaurant or tourist destination as well as commuter parking needs.</p>\n<p><span style=\"color: #05bd83;\">Spott is now available at the Quay West Car Park. Download the Wilson Parking App to enjoy easy, stress free, automatic parking using advanced vehicle recognition (LPR) and QR code technology at this car park. </span></p>\n<p>Come here often? Enjoy unlimited 24/7 access when you subscribe to monthly parking, or download the Wilson Parking App to purchase a bundle of daily passes for a better daily parking rate&nbsp;</p>",
       "isWilsonOne": true,
       "legacyID": 162,
       "monthlyParkingServiceIsAvailable": true,
@@ -9259,7 +9259,7 @@
       "costCenter": 1002139,
       "direction": null,
       "heightRestriction": 2.2,
-      "information": "<p>Wilson Parking offer affordable &amp; secure parking at Sydney Opera House Car Park located at 2A Macquarie St in the heart of Sydney CBD. The car park is nearby to Circular Quay, Ferry terminals, close to the Botanical Gardens, International Cruise Ship Terminal, Restaurants and Bar Precincts, with 24 hour access, 7 days a week. Offering Hourly, Night and Weekend Parking, as well as online discount parking, the Sydney Opera House Car Park will suit every parking need when visiting your favourite restaurant or tourist destination in addition to commuter parking needs.</p>\n<p>Save when you prepay your parking online or with the Wilson Parking App; enjoy unlimited 24/7 access when you subscribe to monthly parking; or pay as you go with the convenient queue-less, contact free Wilson Parking App.</p>",
+      "information": "<p>Wilson Parking offer affordable &amp; secure parking at Sydney Opera House Car Park located at 2A Macquarie St in the heart of Sydney CBD. The car park is nearby to Circular Quay, Ferry terminals, close to the Botanical Gardens, International Cruise Ship Terminal, Restaurants and Bar Precincts, with 24 hour access, 7 days a week. Offering Hourly, Night and Weekend Parking, as well as excvlusive discounts when you prepay online, the Sydney Opera House Car Park will suit every parking need when visiting your favourite restaurant or tourist destination in addition to commuter parking needs.</p>\n<p><span style=\"color: #05bd83;\">Spott is now available at the Sydney Opera House Car Park. Download the Wilson Parking App to enjoy easy, stress free, automatic parking using advanced vehicle recognition (LPR) and QR code technology at this car park. </span></p>\n<p>Come here often? Enjoy unlimited 24/7 access when you subscribe to monthly parking, or download the Wilson Parking App to purchase a bundle of daily passes for a better daily parking rate&nbsp;</p>",
       "isWilsonOne": true,
       "legacyID": 143,
       "monthlyParkingServiceIsAvailable": true,
@@ -40470,208 +40470,6 @@
       "featuredIndex": 0
     },
     {
-      "name": "New Acton Precinct",
-      "bookText": null,
-      "canBookABay": false,
-      "selectedFeatures": "",
-      "carParkFeature": [
-        "Weekend Parking",
-        "Early Bird Parking",
-        "Epark",
-        "Entry height at least 2"
-      ],
-      "services": [],
-      "carParkName": "New Acton Precinct",
-      "carParkNumber": 1009,
-      "carParkPhoto": null,
-      "category": "",
-      "costCenter": 1012009,
-      "direction": null,
-      "heightRestriction": 0.0,
-      "information": "<p>Wilson Parking offer affordable parking at the New Acton Precinct Car Park, located at 1 Phillip Law St, Canberra. Open 7 days, this car park offers&nbsp;casual Hourly, Early Bird and Weekend Parking and the convenience of payment from your phone with the Wilson Parking app.&nbsp;The New Acton Precinct&nbsp;Car Park will meet all your business and leisure parking needs.&nbsp;</p>\n<p>Download the Wilson Parking App to plan your journey and access parking discounts when you prepay online.</p>",
-      "isWilsonOne": false,
-      "legacyID": 805,
-      "monthlyParkingServiceIsAvailable": false,
-      "evChargerIsAvailable": false,
-      "disabledParkingIsAvailable": false,
-      "phoneNumber": "1800 727 546",
-      "products": [],
-      "staticMapPhoto": null,
-      "streetViewHeading": "149.1232074892382",
-      "streetViewLocation": "https://www.google.com/maps/@?api=1&map_action=pano&pano=l_QQe_RX661Jjfmx0SKimg&viewpoint=-35.28495840716857,149.1232074892382&heading=0&pitch=0",
-      "rates": [
-        {
-          "rateType": "Hourly",
-          "notes": "<p>Rates apply Monday - Saturday</p>\n<p>Including Public Holidays</p>",
-          "rates": [
-            {
-              "timeSpan": "0.0 - 1.0 hr",
-              "price": 5.5
-            },
-            {
-              "timeSpan": "1.0 - 2.0 hrs",
-              "price": 7.5
-            },
-            {
-              "timeSpan": "2.0 - 3.0 hrs",
-              "price": 10.5
-            },
-            {
-              "timeSpan": "3.0 - 4.0 hrs",
-              "price": 13.5
-            },
-            {
-              "timeSpan": "4.0 + hrs",
-              "price": 23.5
-            }
-          ]
-        },
-        {
-          "rateType": "Early Bird",
-          "notes": "<p>Enter before 9am</p>",
-          "rates": [
-            {
-              "timeSpan": "Early Bird",
-              "price": 21.0
-            },
-            {
-              "timeSpan": "Weekly Rate",
-              "price": 85.0
-            }
-          ]
-        },
-        {
-          "rateType": "Weekend",
-          "notes": "<p>Saturdays as per casual hours</p>\n<p>Sunday - Flat Rate, per exit per day</p>",
-          "rates": [
-            {
-              "timeSpan": "Sunday",
-              "price": 6.0
-            }
-          ]
-        }
-      ],
-      "fromText": "From",
-      "fromPrice": "5",
-      "location": {
-        "longitude": 149.123585365842,
-        "latitude": -35.285273281836,
-        "zoom": 13,
-        "address": "1 Phillip Law Canberra",
-        "region": {
-          "name": "Canberra CBD",
-          "longitude": 149.12678718566895,
-          "latitude": -35.280449666148527,
-          "status": "",
-          "state": {
-            "name": "Australian Capital Territory",
-            "abbreviation": "ACT",
-            "country": "Australia",
-            "longitude": 149.12884712219238,
-            "latitude": 35.281991116036352,
-            "status": ""
-          }
-        }
-      },
-      "openingTimes": [
-        {
-          "day_TimePeriod": "Monday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "06:00",
-          "closing": "19:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Tuesday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "06:00",
-          "closing": "19:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Wednesday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "06:00",
-          "closing": "19:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Thursday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "06:00",
-          "closing": "19:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Friday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "06:00",
-          "closing": "19:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Saturday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "06:00",
-          "closing": "19:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Sunday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "06:00",
-          "closing": "19:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Public Holiday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "06:00",
-          "closing": "19:00",
-          "note": null
-        }
-      ],
-      "url": "/parking-locations/australian-capital-territory/canberra-cbd/new-acton-precinct/",
-      "serviceConfiguration": {
-        "canBookABay": false,
-        "bookABayIconLabel": "Prepay Online",
-        "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": false,
-        "monthlyParkingIconLabel": "Monthly Subscription",
-        "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
-        "isWilsonOne": false,
-        "wilsonOneIconLabel": "Parking Card",
-        "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
-        "disabledParkingIsAvailable": false,
-        "disabledParkingIconLabel": "Disabled Parking",
-        "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
-        "evChargerIsAvailable": false,
-        "evChargerIconLabel": "EV Charging",
-        "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "additionalServices": [
-          {
-            "label": null,
-            "icon": null
-          }
-        ]
-      },
-      "state": "ACT",
-      "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
-      "price": "",
-      "status": "",
-      "cpmsCarparkCode": null,
-      "externalCarParkInfo": null,
-      "featuredIndex": 0
-    },
-    {
       "name": "Nishi Car Park",
       "bookText": null,
       "canBookABay": false,
@@ -53426,18 +53224,14 @@
               "price": 14.0
             },
             {
-              "timeSpan": "2.0 - 3.0 hrs",
+              "timeSpan": "2.0 + hrs",
               "price": 19.0
-            },
-            {
-              "timeSpan": "3 + hrs",
-              "price": 29.0
             }
           ]
         },
         {
           "rateType": "Night",
-          "notes": "<p>Availabe for entry after 4:00 pm - 6:00 am the next day.</p>\n<p>*Night rates not applicable on Sunday.</p>\n<p>Online rate shown includes transaction fee.</p>\n<p>Click the<strong> Prepay now</strong> link below to get started.</p>",
+          "notes": "<p>Availabe for entry after 4pm, exit before car park close.</p>\n<p>*Night rates not applicable on Sunday.</p>\n<p>Online rate shown includes transaction fee.</p>\n<p>Click the<strong> Prepay now</strong> link below to get started.</p>",
           "rates": [
             {
               "timeSpan": "Mon - Thurs",
@@ -53505,58 +53299,58 @@
       "openingTimes": [
         {
           "day_TimePeriod": "Monday",
-          "is24_7": true,
+          "is24_7": false,
           "closed": false,
-          "opening": "",
-          "closing": "",
+          "opening": "06:00",
+          "closing": "00:00",
           "note": null
         },
         {
           "day_TimePeriod": "Tuesday",
-          "is24_7": true,
+          "is24_7": false,
           "closed": false,
-          "opening": "",
-          "closing": "",
+          "opening": "06:00",
+          "closing": "00:00",
           "note": null
         },
         {
           "day_TimePeriod": "Wednesday",
-          "is24_7": true,
+          "is24_7": false,
           "closed": false,
-          "opening": "",
-          "closing": "",
+          "opening": "06:00",
+          "closing": "00:00",
           "note": null
         },
         {
           "day_TimePeriod": "Thursday",
-          "is24_7": true,
+          "is24_7": false,
           "closed": false,
-          "opening": "",
-          "closing": "",
+          "opening": "06:00",
+          "closing": "01:00",
           "note": null
         },
         {
           "day_TimePeriod": "Friday",
-          "is24_7": true,
+          "is24_7": false,
           "closed": false,
-          "opening": "",
-          "closing": "",
+          "opening": "06:00",
+          "closing": "01:00",
           "note": null
         },
         {
           "day_TimePeriod": "Saturday",
-          "is24_7": true,
+          "is24_7": false,
           "closed": false,
-          "opening": "",
-          "closing": "",
+          "opening": "06:00",
+          "closing": "01:00",
           "note": null
         },
         {
           "day_TimePeriod": "Sunday",
-          "is24_7": true,
+          "is24_7": false,
           "closed": false,
-          "opening": "",
-          "closing": "",
+          "opening": "06:00",
+          "closing": "00:00",
           "note": null
         }
       ],
@@ -82917,7 +82711,7 @@
       "streetViewLocation": "https://www.google.com/maps/@?api=1&map_action=pano&pano=JOvUhX9PkLd4l1GNgsfvWw&viewpoint=-34.91999777487774,138.577831198322&heading=317.2104864487611&pitch=-2.1151827119708742851667404",
       "rates": [],
       "fromText": "From",
-      "fromPrice": "1",
+      "fromPrice": "5",
       "location": {
         "longitude": 138.57812851667404,
         "latitude": -34.919653014881455,
@@ -82949,7 +82743,7 @@
         },
         {
           "day_TimePeriod": "Monday",
-          "is24_7": false,
+          "is24_7": true,
           "closed": false,
           "opening": "06:00",
           "closing": "18:00",
@@ -82957,7 +82751,7 @@
         },
         {
           "day_TimePeriod": "Tuesday",
-          "is24_7": false,
+          "is24_7": true,
           "closed": false,
           "opening": "06:00",
           "closing": "18:00",
@@ -82965,7 +82759,7 @@
         },
         {
           "day_TimePeriod": "Wednesday",
-          "is24_7": false,
+          "is24_7": true,
           "closed": false,
           "opening": "06:00",
           "closing": "18:00",
@@ -82973,7 +82767,7 @@
         },
         {
           "day_TimePeriod": "Thursday",
-          "is24_7": false,
+          "is24_7": true,
           "closed": false,
           "opening": "06:00",
           "closing": "18:00",
@@ -82981,7 +82775,7 @@
         },
         {
           "day_TimePeriod": "Friday",
-          "is24_7": false,
+          "is24_7": true,
           "closed": false,
           "opening": "06:00",
           "closing": "18:00",
@@ -82989,7 +82783,7 @@
         },
         {
           "day_TimePeriod": "Saturday",
-          "is24_7": false,
+          "is24_7": true,
           "closed": false,
           "opening": "06:00",
           "closing": "18:00",
@@ -82997,7 +82791,7 @@
         },
         {
           "day_TimePeriod": "Sunday",
-          "is24_7": false,
+          "is24_7": true,
           "closed": false,
           "opening": "06:00",
           "closing": "18:00",
