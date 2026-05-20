@@ -6950,7 +6950,12 @@
         "evChargerIsAvailable": false,
         "evChargerIconLabel": "EV Charging",
         "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "additionalServices": []
+        "additionalServices": [
+          {
+            "label": null,
+            "icon": null
+          }
+        ]
       },
       "state": "NSW",
       "imgUrl": "/siteassets/parking-location-images/nsw/syd055-update.jpeg",
@@ -14560,7 +14565,9 @@
         "Flexi Parking",
         "Disabled Parking",
         "Daily Pass Bundles",
-        "Summer Sale"
+        "Summer Sale",
+        "Elevate",
+        "LPR"
       ],
       "services": [
         "book a bay",
@@ -14760,6 +14767,10 @@
         "evChargerIconLabel": "EV Charging",
         "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
         "additionalServices": [
+          {
+            "label": null,
+            "icon": null
+          },
           {
             "label": null,
             "icon": null
@@ -56578,7 +56589,7 @@
       "costCenter": 1003250,
       "direction": "Entry via Russell St (Extension) or off Batman Ave (at Tennis Centre)\nOn event dates and busy periods, please use the Batman Ave Exit from Level 1 and allow additional time to exit. ",
       "heightRestriction": 2.1,
-      "information": "<p><strong style=\"color: #ff1e25;\"><u>Event Dates May 2026:<br /></u></strong><span style=\"color: #ff1e25;\">22nd, 24th, 27th and 29th&nbsp;</span><span style=\"color: #ff1e25;\">from 4:00pm to 11:59pm<br /></span><span style=\"color: #ff1e25;\">23rd</span><span style=\"color: #ff1e25;\">&nbsp;from 1:00pm to 11:59pm<br /></span><span style=\"color: #ff1e25;\">30th and 31st from 12:00pm to 11:59pm<br /></span><span style=\"color: #ff1e25;\">Event rates will apply.<br /></span><em style=\"color: #ff1e25;\"><em>On event dates, please allow additional time to exit.</em></em></p>\n<p><span style=\"color: #ff1e25;\"><strong><u>Event Dates June 2026:<br /></u></strong>4th, 5th, 7th, 16th, 17th and 20th from 4:00pm to 11:59pm</span><br /><span style=\"color: #ff1e25;\">13th, 14th and 21st from 11:00am to 11:59pm</span><em style=\"color: #ff1e25;\"><em><br /><span style=\"color: #ff1e25;\">Event rates will apply.</span><br /><span style=\"color: #ff1e25;\">On event dates, please allow additional time to exit.</span><br /><br /></em></em>Wilson Parking offers affordable &amp; secure parking at Federation Square Car Park, located on Russell St (Extension) in the Melbourne CBD. This car park is nearby to many popular attractions, including Federation Square, Flinders St Station, Birrarung Marr, Rod Laver Arena and Melbourne Park. Offering casual Early Bird, Hourly, Night and Weekend parking, with exclusive discounts when you prepay online, the Federation Square Car Park will meet all of your parking needs.</p>\n<p><span style=\"color: #000000;\"><strong>On event dates and busy periods, please use the Batman Avenue Exit from Level 1 and allow additional time to exit.</strong></span></p>\n<p>Download the Wilson Parking App to plan your journey and access exclusive discounts when you prepay online; pay as you go with one convenient monthly invoice when you use your Wilson Parking Card; enjoy 24/7 unlimited access when you subscribe to Monthly Parking; or just drive up to pay with a credit card at the car park.</p>",
+      "information": "<p><strong style=\"color: #ff1e25;\"><u>Event Dates May 2026:<br /></u></strong><span style=\"color: #ff1e25;\">22nd, 24th, 27th and 29th&nbsp;</span><span style=\"color: #ff1e25;\">from 4:00pm to 11:59pm<br /></span><span style=\"color: #ff1e25;\">23rd</span><span style=\"color: #ff1e25;\">&nbsp;from 1:00pm to 11:59pm<br /></span><span style=\"color: #ff1e25;\">30th and 31st from 12:00pm to 11:59pm<br /></span><span style=\"color: #ff1e25;\">Event rates will apply.<br /></span><em style=\"color: #ff1e25;\"><em>On event dates, please allow additional time to exit.</em></em></p>\n<p><span style=\"color: #ff1e25;\"><strong><u>Event Dates June 2026:<br /></u></strong>4th, 5th, 7th, 16th, 17th, 20th and 26th from 4:00pm to 11:59pm</span><br /><span style=\"color: #ff1e25;\">13th, 14th, 21st and 27th from 11:00am to 11:59pm</span><em style=\"color: #ff1e25;\"><em><br /><span style=\"color: #ff1e25;\">Event rates will apply.</span><br /><span style=\"color: #ff1e25;\">On event dates, please allow additional time to exit.</span><br /><br /></em></em>Wilson Parking offers affordable &amp; secure parking at Federation Square Car Park, located on Russell St (Extension) in the Melbourne CBD. This car park is nearby to many popular attractions, including Federation Square, Flinders St Station, Birrarung Marr, Rod Laver Arena and Melbourne Park. Offering casual Early Bird, Hourly, Night and Weekend parking, with exclusive discounts when you prepay online, the Federation Square Car Park will meet all of your parking needs.</p>\n<p><span style=\"color: #000000;\"><strong>On event dates and busy periods, please use the Batman Avenue Exit from Level 1 and allow additional time to exit.</strong></span></p>\n<p>Download the Wilson Parking App to plan your journey and access exclusive discounts when you prepay online; pay as you go with one convenient monthly invoice when you use your Wilson Parking Card; enjoy 24/7 unlimited access when you subscribe to Monthly Parking; or just drive up to pay with a credit card at the car park.</p>",
       "isWilsonOne": true,
       "legacyID": 94,
       "monthlyParkingServiceIsAvailable": true,
@@ -64316,7 +64327,7 @@
       "costCenter": 1003225,
       "direction": "Entry via Enterprize Way. Car park is on the right.",
       "heightRestriction": 2.0,
-      "information": "<p><span style=\"color: #ff1e25;\"><strong><u>Event Dates May 2026:<br /></u></strong>9th, 10th, 23rd from 10:00am<br />16th, 28th, 30th from 5:00pm<br />17th, 24th from 12:00pm<em><br />Event rates will apply. Drive up only.<br />On event dates, please allow additional time to exit.</em></span></p>\n<p><span style=\"color: #ff1e25;\"><strong><u>Event Dates June 2026:<br /></u></strong>11th from 5:00pm<br />14th, 21st from 12:00pm<br /></span><span style=\"color: #ff1e25;\"><em>Event rates will apply. Drive up only.<br />On event dates, please allow additional time to exit.<br /><br /></em></span>Wilson Parking offer affordable parking at 800 Bourke St Car Park, located at Enterprize Way, Docklands. This car park, located on the Yarra River,&nbsp; is nearby to Marvel Stadium, Docklands Park and other Docklands attractions. Offering Hourly, Weekend and night parking, as well as discount online parking options, the 800 Bourke St Car Park will meet all of your parking needs.</p>\n<p>Experience the convenience of&nbsp;pay as you go with a Wilson Parking card, or enjoy 24/7 unlimited access when you subscribe to Monthly Parking.</p>",
+      "information": "<p><span style=\"color: #ff1e25;\"><strong><u>Event Dates May 2026:<br /></u></strong>23rd from 10:00am<br />24th from 12:00pm<br />28th, 30th from 5:00pm<em><br />Event rates will apply. Drive up only.<br />On event dates, please allow additional time to exit.</em></span></p>\n<p><span style=\"color: #ff1e25;\"><strong><u>Event Dates June 2026:<br /></u></strong>11th from 5:00pm<br />14th, 21st from 12:00pm<br /></span><span style=\"color: #ff1e25;\"><em>Event rates will apply. Drive up only.<br />On event dates, please allow additional time to exit.<br /><br /></em></span>Wilson Parking offer affordable parking at 800 Bourke St Car Park, located at Enterprize Way, Docklands. This car park, located on the Yarra River,&nbsp; is nearby to Marvel Stadium, Docklands Park and other Docklands attractions. Offering Hourly, Weekend and night parking, as well as discount online parking options, the 800 Bourke St Car Park will meet all of your parking needs.</p>\n<p>Experience the convenience of&nbsp;pay as you go with a Wilson Parking card, or enjoy 24/7 unlimited access when you subscribe to Monthly Parking.</p>",
       "isWilsonOne": true,
       "legacyID": 41,
       "monthlyParkingServiceIsAvailable": true,
@@ -67510,6 +67521,22 @@
           "closed": false,
           "opening": "06:00",
           "closing": "19:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Saturday",
+          "is24_7": false,
+          "closed": true,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Sunday",
+          "is24_7": false,
+          "closed": true,
+          "opening": "",
+          "closing": "",
           "note": null
         }
       ],
@@ -71741,6 +71768,8 @@
         "Flexi Parking",
         "Entry height at least 2",
         "Summer Sale",
+        "Elevate",
+        "LPR",
         "Riverfire"
       ],
       "services": [
@@ -71926,7 +71955,12 @@
         "evChargerIsAvailable": false,
         "evChargerIconLabel": "EV Charging",
         "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "additionalServices": []
+        "additionalServices": [
+          {
+            "label": null,
+            "icon": null
+          }
+        ]
       },
       "state": "QLD",
       "imgUrl": "/siteassets/parking-location-images/qld/bne095_1.gif",
@@ -74448,54 +74482,54 @@
           "day_TimePeriod": "Monday",
           "is24_7": false,
           "closed": false,
-          "opening": "06:00",
-          "closing": "20:30",
+          "opening": "05:45",
+          "closing": "19:00",
           "note": null
         },
         {
           "day_TimePeriod": "Tuesday",
           "is24_7": false,
           "closed": false,
-          "opening": "06:00",
-          "closing": "20:30",
+          "opening": "05:45",
+          "closing": "19:00",
           "note": null
         },
         {
           "day_TimePeriod": "Wednesday",
           "is24_7": false,
           "closed": false,
-          "opening": "06:00",
-          "closing": "20:30",
+          "opening": "05:45",
+          "closing": "19:00",
           "note": null
         },
         {
           "day_TimePeriod": "Thursday",
           "is24_7": false,
           "closed": false,
-          "opening": "06:00",
-          "closing": "20:30",
+          "opening": "05:45",
+          "closing": "19:00",
           "note": null
         },
         {
           "day_TimePeriod": "Friday",
           "is24_7": false,
           "closed": false,
-          "opening": "06:00",
-          "closing": "20:30",
+          "opening": "05:45",
+          "closing": "19:00",
           "note": null
         },
         {
           "day_TimePeriod": "Saturday",
           "is24_7": false,
           "closed": false,
-          "opening": "06:00",
-          "closing": "20:30",
+          "opening": "08:00",
+          "closing": "15:00",
           "note": null
         },
         {
           "day_TimePeriod": "Sunday",
           "is24_7": false,
-          "closed": false,
+          "closed": true,
           "opening": "06:00",
           "closing": "20:30",
           "note": null
@@ -75422,21 +75456,26 @@
       "canBookABay": true,
       "selectedFeatures": "",
       "carParkFeature": [
+        "Night Parking",
+        "Weekend Parking",
         "Book a Bay",
+        "Wilson One",
+        "Flexi Parking",
         "Entry height at least 2"
       ],
       "services": [
-        "book a bay"
+        "book a bay",
+        "wilson one"
       ],
       "carParkName": "Nyaal Banyul - Geelong Convention & Event Centre",
       "carParkNumber": 3352,
-      "carParkPhoto": null,
+      "carParkPhoto": "/siteassets/parking-location-images/vic/mel352.png",
       "category": "",
       "costCenter": 1003352,
-      "direction": "CAR PARK COMING SOON\n\nEntry via 7 Cavendish St, Geelong\n",
+      "direction": "CAR PARK OPENS MAY 23, 2026\n\nEntry via 7 Cavendish St, Geelong\n",
       "heightRestriction": 2.1,
-      "information": "<p><span style=\"color: #ff1e25;\">CAR PARK COMING SOON</span></p>\n<p>Wilson Parking offers affordable &amp; reliable parking at the Nyaal Banyul - Geelong Convention &amp; Event Centre&nbsp;Car Park, located 80 Western Beach Rd, entry via 7 Cavendish St&nbsp;in the heart of Geelong. Open 7 days, this undercover car park provides convenient access to nearby Nyaal Banyul Geelong Convention &amp; Event Centre, Western Beach precinct cafes, restaurants and Cunningham Pier.</p>",
-      "isWilsonOne": false,
+      "information": "<p><span style=\"color: #ff1e25;\">CAR PARK OPENS SATURDAY 23rd MAY 2026</span></p>\n<p>Wilson Parking offers affordable &amp; reliable parking at the Nyaal Banyul - Geelong Convention &amp; Event Centre&nbsp;Car Park, located 80 Western Beach Rd, entry via 7 Cavendish St&nbsp;in the heart of Geelong. Open 7 days, this undercover car park provides convenient access to nearby Nyaal Banyul Geelong Convention &amp; Event Centre, Western Beach precinct cafes, restaurants and Cunningham Pier.</p>\n<p>Offering casual Hourly, Night and Weekend parking, with exclusive discounts when you prepay online, or the convenience of unlimited 24/7 access for regular user who subscribe to monthly parking, the Nyaal Banyul - Geelong Convention &amp; Event Centre Car Park will meet all of your parking needs.</p>",
+      "isWilsonOne": true,
       "legacyID": 3352,
       "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
@@ -75446,9 +75485,68 @@
       "staticMapPhoto": null,
       "streetViewHeading": null,
       "streetViewLocation": "https://www.google.com/maps/@?api=1&map_action=pano&pano=QMcvtPB4_0qHZLJuHki_tQ&viewpoint=-38.14205331441988,144.35754049911728&heading=158.8287743776949&pitch=-2.939609340152117&zoom=0.9999999999999997",
-      "rates": [],
+      "rates": [
+        {
+          "rateType": "Hourly",
+          "notes": "<p>Rates apply Monday to Friday<br />Rates charged from 6am daily</p>",
+          "rates": [
+            {
+              "timeSpan": "0.0 - 0.5 hrs",
+              "price": 4.0
+            },
+            {
+              "timeSpan": "0.5 - 1.0 hrs",
+              "price": 8.0
+            },
+            {
+              "timeSpan": "1.0 - 1.5 hrs",
+              "price": 12.0
+            },
+            {
+              "timeSpan": "1.5 - 2.0 hrs",
+              "price": 16.0
+            },
+            {
+              "timeSpan": "2.0 - 2.5 hrs",
+              "price": 20.0
+            },
+            {
+              "timeSpan": "2.5 - 3.0 hrs",
+              "price": 24.0
+            },
+            {
+              "timeSpan": "3.0 + hrs",
+              "price": 28.0
+            },
+            {
+              "timeSpan": "Lost ticket",
+              "price": 28.0
+            }
+          ]
+        },
+        {
+          "rateType": "Night",
+          "notes": "<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"1akcde78-0-0\"><span data-offset-key=\"1akcde78-0-0\">Entry after 5pm, exit before 6am the following day.</span></div>",
+          "rates": [
+            {
+              "timeSpan": "Mon - Fri",
+              "price": 5.0
+            }
+          ]
+        },
+        {
+          "rateType": "Weekend",
+          "notes": "<p><span style=\"color: #ff1e25;\">Prepay online for the best parking rate - coming soon to this car park</span></p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>",
+          "rates": [
+            {
+              "timeSpan": "Sat - Sun",
+              "price": 15.0
+            }
+          ]
+        }
+      ],
       "fromText": "From",
-      "fromPrice": "0",
+      "fromPrice": "4",
       "location": {
         "longitude": 144.357709251343,
         "latitude": -38.14210583976,
@@ -75472,56 +75570,56 @@
       "openingTimes": [
         {
           "day_TimePeriod": "Monday",
-          "is24_7": false,
-          "closed": true,
+          "is24_7": true,
+          "closed": false,
           "opening": "",
           "closing": "",
           "note": null
         },
         {
           "day_TimePeriod": "Tuesday",
-          "is24_7": false,
-          "closed": true,
+          "is24_7": true,
+          "closed": false,
           "opening": "",
           "closing": "",
           "note": null
         },
         {
           "day_TimePeriod": "Wednesday",
-          "is24_7": false,
-          "closed": true,
+          "is24_7": true,
+          "closed": false,
           "opening": "",
           "closing": "",
           "note": null
         },
         {
           "day_TimePeriod": "Thursday",
-          "is24_7": false,
-          "closed": true,
+          "is24_7": true,
+          "closed": false,
           "opening": "",
           "closing": "",
           "note": null
         },
         {
           "day_TimePeriod": "Friday",
-          "is24_7": false,
+          "is24_7": true,
           "closed": false,
-          "opening": "14:00",
-          "closing": "23:30",
+          "opening": "",
+          "closing": "",
           "note": null
         },
         {
           "day_TimePeriod": "Saturday",
-          "is24_7": false,
-          "closed": true,
+          "is24_7": true,
+          "closed": false,
           "opening": "",
           "closing": "",
           "note": null
         },
         {
           "day_TimePeriod": "Sunday",
-          "is24_7": false,
-          "closed": true,
+          "is24_7": true,
+          "closed": false,
           "opening": "",
           "closing": "",
           "note": null
@@ -75535,7 +75633,7 @@
         "monthlyParkingServiceIsAvailable": false,
         "monthlyParkingIconLabel": "Monthly Subscription",
         "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
-        "isWilsonOne": false,
+        "isWilsonOne": true,
         "wilsonOneIconLabel": "Parking Card",
         "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
         "disabledParkingIsAvailable": false,
@@ -75547,7 +75645,7 @@
         "additionalServices": []
       },
       "state": "VIC",
-      "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
+      "imgUrl": "/siteassets/parking-location-images/vic/mel352.png",
       "price": "",
       "status": "",
       "cpmsCarparkCode": null,
@@ -85849,7 +85947,7 @@
       "carParkPhoto": "/contentassets/ca151af77ba848a8a7950e6de5610cf5/capture.jpg",
       "category": "",
       "costCenter": 1006212,
-      "direction": "<b>**Car Park only operational on selected event days**</b><br>\n\n</b><br>7th May -  AFL Fremantle Dockers Vs Hawks<b>\n</b><br>(Gate opens at 4:30pm and closes at 10:30pm sharp)<b>\n\n</b><br>17th May -  AFL West Coast Eagles Vs GWS Giants<b>\n</b><br>(Gate opens at 2:30pm and closes at 8:30pm sharp)<b>\n\n</b><br>22nd May -  AFL Fremantle Dockers Vs St Kilda<b>\n</b><br>(Gate opens at 5:00pm and closes at 11:00pm sharp)<b>\n\n</b><br>31st May -  AFL West Coast Eagles Vs Essendon<b>\n</b><br>(Gate opens at 3:30pm and closes at 10:00pm sharp)<b>\n\n</b><br>18th June -  AFL Fremantle Dockers Vs Geelong Cats <b>\n</b><br>(Gate opens at 4:30pm and closes at 10:00pm sharp) <b>",
+      "direction": "<b>**Car Park only operational on selected event days**</b><br>\n\n</b><br>22nd May -  AFL Fremantle Dockers Vs St Kilda<b>\n</b><br>(Gate opens at 5:00pm and closes at 11:00pm sharp)<b>\n\n</b><br>31st May -  AFL West Coast Eagles Vs Essendon<b>\n</b><br>(Gate opens at 3:30pm and closes at 10:00pm sharp)<b>\n\n</b><br>18th June -  AFL Fremantle Dockers Vs Geelong Cats <b>\n</b><br>(Gate opens at 4:30pm and closes at 10:00pm sharp) <b>",
       "heightRestriction": 0.0,
       "information": "<p>Wilson Parking offers affordable parking at Belmont Racecourse Car Park for Optus Stadium event parking only. Located a short walk from Optus Stadium, this car park is the perfect location for footy, cricket, concerts and other Optus Stadium events. Operational days are shown under the parking rates to the left.</p>\n<p>Parking must be prepaid in advance through the Wilson Parking App or website. No payments can be taken at the gate. Must present prepaid confirmation to access car park.</p>",
       "isWilsonOne": false,
