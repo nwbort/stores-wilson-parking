@@ -71562,6 +71562,8 @@
         "Special Event Parking",
         "Summer Sale",
         "Dine BNE",
+        "Elevate",
+        "LPR",
         "Riverfire"
       ],
       "services": [
@@ -71744,7 +71746,12 @@
         "evChargerIsAvailable": false,
         "evChargerIconLabel": "EV Charging",
         "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "additionalServices": []
+        "additionalServices": [
+          {
+            "label": null,
+            "icon": null
+          }
+        ]
       },
       "state": "QLD",
       "imgUrl": "/siteassets/parking-location-images/qld/bne165.jpeg",
@@ -72378,7 +72385,7 @@
       "category": "",
       "costCenter": 1004082,
       "direction": "Entry via Ramsgate Street",
-      "heightRestriction": 2.3,
+      "heightRestriction": 2.2,
       "information": "<p>Wilson Parking offers affordable &amp; secure parking at Urban Village Kelvin Grove, located at 57 Musk Avenue, Kelvin Grove. Nearby to QUT Kelvin Grove Campus and McCaskie Park, this car park is perfectly located to get you where you need to go. Offering hourly and night parking options, with your first two hours free, the Urban Village Kelvin Grove car park will meet all of your parking needs.</p>",
       "isWilsonOne": false,
       "legacyID": 291,
@@ -74411,7 +74418,7 @@
       "category": "",
       "costCenter": 1004223,
       "direction": "Entry off Wagner Road",
-      "heightRestriction": 0.0,
+      "heightRestriction": 2.3,
       "information": "<p>Wilson Parking offer affordable and secure parking at the College Junction car park, located at 695 Sandgate Road, Clayfield. The car park is nearby to many essential services in the heart of Clayfield, and offers hourly parking, 7 days a week. With your first 3 hours parking free, the College Junction, 695 Sandgate Road Car Park will meet all your parking needs.</p>",
       "isWilsonOne": false,
       "legacyID": 704,
@@ -75526,7 +75533,7 @@
         },
         {
           "rateType": "Night",
-          "notes": "<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"1akcde78-0-0\"><span data-offset-key=\"1akcde78-0-0\">Entry after 5pm, exit before 6am the following day.</span></div>",
+          "notes": "<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"1akcde78-0-0\"><span data-offset-key=\"1akcde78-0-0\">Entry after 4pm, exit before 6am the following day.</span></div>",
           "rates": [
             {
               "timeSpan": "Mon - Fri",
@@ -78210,7 +78217,7 @@
       "streetViewLocation": "https://www.google.com/maps/@?api=1&map_action=pano&pano=gk2BPk8_TmH4SAgnHZZTHw&viewpoint=-34.92669863523928,138.6091598960273&heading=335.70090023453264&pitch=-15.611300239377982",
       "rates": [],
       "fromText": "From",
-      "fromPrice": "17",
+      "fromPrice": "16.75",
       "location": {
         "longitude": 138.60962109325408,
         "latitude": -34.927107084580534,
@@ -82498,7 +82505,7 @@
         },
         {
           "rateType": "Weekend",
-          "notes": "<p>*Event rates may apply.</p>\n<div class=\"\" data-block=\"true\" data-editor=\"3bhv2\" data-offset-key=\"1akcde78-0-0\">\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"1akcde78-0-0\">&nbsp;</div>\n</div>\n<p>Select the&nbsp;<strong>Prepay now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>\n<div class=\"\" data-block=\"true\" data-editor=\"3bhv2\" data-offset-key=\"8pskg444-0-0\">\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"8pskg444-0-0\">&nbsp;</div>\n</div>",
+          "notes": "<p>*Event rates may apply.</p>\n<p>Select the&nbsp;<strong>Prepay now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>\n<div class=\"\" data-block=\"true\" data-editor=\"3bhv2\" data-offset-key=\"8pskg444-0-0\">\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"8pskg444-0-0\">&nbsp;</div>\n</div>",
           "rates": [
             {
               "timeSpan": "Sat - Sun",
