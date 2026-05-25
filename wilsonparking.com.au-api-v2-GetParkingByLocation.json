@@ -41045,6 +41045,154 @@
       "featuredIndex": 0
     },
     {
+      "name": "Eastedge Car Park",
+      "bookText": null,
+      "canBookABay": false,
+      "selectedFeatures": "",
+      "carParkFeature": [
+        "Epark"
+      ],
+      "services": [],
+      "carParkName": "Eastedge Car Park",
+      "carParkNumber": 2099,
+      "carParkPhoto": "/contentassets/d7c067344742476c92ab9110d2ca9218/photo-22-4-2026-12-11-27-pm.jpg",
+      "category": "",
+      "costCenter": 1002099,
+      "direction": "Entry via Faulding St & Wormald St",
+      "heightRestriction": 0.0,
+      "information": "<div>\n<p>&nbsp;</p>\n<p>Wilson Parking offer affordable &amp; reliable parking at Eastegde Car Park, located at 2 Faulding Street, Symonston&nbsp;in the heart of the Symonston region. Open 7 days, this undercover car park provides convenient access to nearby major attractions and venues including Geoscience Australia, Mugga‑Mugga Cottage, Canberra Miniature Railway, and is just a short drive to key Canberra landmarks such as Parliament House, the Australian War Memorial, Lake Burley Griffin, Questacon and the National Museum of Australia.</p>\n<p>Offering casual and hourly parking options with exclusive discounts when you prepay online, permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the Eastedge Car Park&nbsp;will meet all your parking needs.</p>\n</div>\n<p>&nbsp;</p>",
+      "isWilsonOne": false,
+      "legacyID": 2099,
+      "monthlyParkingServiceIsAvailable": false,
+      "evChargerIsAvailable": false,
+      "disabledParkingIsAvailable": false,
+      "phoneNumber": "1800 PARKING (1800 727 546)",
+      "products": [],
+      "staticMapPhoto": null,
+      "streetViewHeading": null,
+      "streetViewLocation": "https://www.google.com/maps/place/Zone+3+Eastedge/@-35.3350727,149.1643848,818m/data=!3m2!1e3!4b1!4m6!3m5!1s0x6b164c43dc1e93bd:0x1891c6bba0b42fe3!8m2!3d-35.3350771!4d149.1669597!16s%2Fg%2F11tg25vq8l?entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+      "rates": [],
+      "fromText": "From",
+      "fromPrice": "0",
+      "location": {
+        "longitude": 149.166938238649,
+        "latitude": -35.3350814489054,
+        "zoom": 13,
+        "address": "2 Faulding St, Symonston",
+        "region": {
+          "name": "Symonston",
+          "longitude": 149.17786383068849,
+          "latitude": -35.346607779303092,
+          "status": "",
+          "state": {
+            "name": "Australian Capital Territory",
+            "abbreviation": "ACT",
+            "country": "Australia",
+            "longitude": 149.12884712219238,
+            "latitude": 35.281991116036352,
+            "status": ""
+          }
+        }
+      },
+      "openingTimes": [
+        {
+          "day_TimePeriod": "Monday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Tuesday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Wednesday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Thursday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Friday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Saturday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Sunday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Public Holiday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        }
+      ],
+      "url": "/parking-locations/australian-capital-territory/symonston/eastedge-car-park/",
+      "serviceConfiguration": {
+        "canBookABay": false,
+        "bookABayIconLabel": "Prepay Online",
+        "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
+        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingIconLabel": "Monthly Subscription",
+        "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
+        "isWilsonOne": false,
+        "wilsonOneIconLabel": "Parking Card",
+        "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
+        "disabledParkingIsAvailable": false,
+        "disabledParkingIconLabel": "Disabled Parking",
+        "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
+        "evChargerIsAvailable": false,
+        "evChargerIconLabel": "EV Charging",
+        "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
+        "additionalServices": [
+          {
+            "label": null,
+            "icon": null
+          }
+        ]
+      },
+      "state": "ACT",
+      "imgUrl": "/contentassets/d7c067344742476c92ab9110d2ca9218/photo-22-4-2026-12-11-27-pm.jpg",
+      "price": "",
+      "status": "",
+      "cpmsCarparkCode": null,
+      "externalCarParkInfo": null,
+      "featuredIndex": 0
+    },
+    {
       "name": "9 Chandler St Car Park",
       "bookText": null,
       "canBookABay": false,
@@ -54120,7 +54268,7 @@
       "costCenter": 1003195,
       "direction": "Entry & exit via St Andrews Place",
       "heightRestriction": 2.1,
-      "information": "<p><span style=\"color: #ff1e25;\"><strong><u>Event Dates May 2026:<br /></u></strong>16th, 23rd from 1:00pm</span><br /><span style=\"color: #ff1e25;\">17th from 12:00pm</span><br /><span style=\"color: #ff1e25;\">22nd, 29th from 4:00pm</span><br /><span style=\"color: #ff1e25;\"><em>Event rates will apply. Drive up only.<br />On event dates, please allow additional time to exit.</em></span></p>\n<p><span style=\"color: #ff1e25;\"><strong><u>Event Dates June 2026:<br /></u></strong>5th, 20th from 5:00pm<br /></span><span style=\"color: #ff1e25;\">7th, 17th from from 4:00pm<br />8th from 8:00pm<br /></span><span style=\"color: #ff1e25;\"><em>Event rates will apply. Drive up only.<br />On event dates, please allow additional time to exit.</em></span></p>\n<p>Wilson Parking offer affordable &amp; secure parking at Park Hyatt Car Park, located at St Andrews Place&nbsp;in the heart of East Melbourne. Open 7 days, this undercover car park provides convenient access to Princess Theatre, Comedy Theatre, Parliament House and with 24 hour access is perfect for restaurant and hotel parking. Offering Hourly, Early Bird, Weekend and Night Parking options with exclusive discounts when you prepay online, permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the Park Hyatt Car Park will meet all your business and leisure parking needs.&nbsp;</p>\n<p>This car park accepts credit card payment only. Download the Wilson Parking App to plan your journey and access parking discounts when you prepay online;&nbsp;enjoy unlimited 24/7 access when you subscribe to monthly parking; pay as you go on one convenient monthly invoice when you use your Wilson Parking Card to access the car park.&nbsp;</p>",
+      "information": "<p><span style=\"color: #ff1e25;\"><strong><u>Event Dates May 2026:</u></strong></span><br /><span style=\"color: #ff1e25;\">29th from 4:00pm</span><br /><span style=\"color: #ff1e25;\"><em>Event rates will apply. Drive up only.<br />On event dates, please allow additional time to exit.</em></span></p>\n<p><span style=\"color: #ff1e25;\"><strong><u>Event Dates June 2026:<br /></u></strong>5th, 20th from 5:00pm<br /></span><span style=\"color: #ff1e25;\">7th, 17th from from 4:00pm<br />8th from 8:00pm<br /></span><span style=\"color: #ff1e25;\"><em>Event rates will apply. Drive up only.<br />On event dates, please allow additional time to exit.</em></span></p>\n<p>Wilson Parking offer affordable &amp; secure parking at Park Hyatt Car Park, located at St Andrews Place&nbsp;in the heart of East Melbourne. Open 7 days, this undercover car park provides convenient access to Princess Theatre, Comedy Theatre, Parliament House and with 24 hour access is perfect for restaurant and hotel parking. Offering Hourly, Early Bird, Weekend and Night Parking options with exclusive discounts when you prepay online, permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the Park Hyatt Car Park will meet all your business and leisure parking needs.&nbsp;</p>\n<p>This car park accepts credit card payment only. Download the Wilson Parking App to plan your journey and access parking discounts when you prepay online;&nbsp;enjoy unlimited 24/7 access when you subscribe to monthly parking; pay as you go on one convenient monthly invoice when you use your Wilson Parking Card to access the car park.&nbsp;</p>",
       "isWilsonOne": true,
       "legacyID": 120,
       "monthlyParkingServiceIsAvailable": true,
@@ -60195,7 +60343,7 @@
       "costCenter": 5003529,
       "direction": "Entry off Little Collins St",
       "heightRestriction": 1.9,
-      "information": "<p>Affordable &amp; secure parking is available at the 140&nbsp;William St Car Park. Located at 140 William St Melbourne, with entry off Little Collins St, this car park is conveniently located nearby to Southern Cross Station, Federation Square, Melbourne Town Hall, Regent Theatre, Melbourne CBD and restaurants and shopping. Open Monday - Friday and offering Hourly, Early Bird and Afternoon/Night parking, the 140 William St Car Park will meet all your leisure and business parking needs.</p>",
+      "information": "<p>Affordable &amp; secure parking is available at the 140&nbsp;William St Car Park. Located at 140 William St Melbourne, with entry off Little Collins St, this car park is conveniently located nearby to Southern Cross Station, Federation Square, Melbourne Town Hall, Regent Theatre, Melbourne CBD and restaurants and shopping. Open Monday - Friday and offering Hourly, Early Bird, Night and Weekend parking, the 140 William St Car Park will meet all your leisure and business parking needs.</p>",
       "isWilsonOne": false,
       "legacyID": 5003529,
       "monthlyParkingServiceIsAvailable": false,
@@ -60239,7 +60387,7 @@
           "rates": [
             {
               "timeSpan": "Mon - Fri",
-              "price": 29.0
+              "price": 26.0
             }
           ]
         },
@@ -75481,7 +75629,7 @@
       "costCenter": 1003352,
       "direction": "CAR PARK OPENS MAY 23, 2026\n\nEntry via 7 Cavendish St, Geelong\n",
       "heightRestriction": 2.1,
-      "information": "<p><span style=\"color: #ff1e25;\">CAR PARK OPENS SATURDAY 23rd MAY 2026</span></p>\n<p>Wilson Parking offers affordable &amp; reliable parking at the Nyaal Banyul - Geelong Convention &amp; Event Centre&nbsp;Car Park, located 80 Western Beach Rd, entry via 7 Cavendish St&nbsp;in the heart of Geelong. Open 7 days, this undercover car park provides convenient access to nearby Nyaal Banyul Geelong Convention &amp; Event Centre, Western Beach precinct cafes, restaurants and Cunningham Pier.</p>\n<p>Offering casual Hourly, Night and Weekend parking, with exclusive discounts when you prepay online, or the convenience of unlimited 24/7 access for regular user who subscribe to monthly parking, the Nyaal Banyul - Geelong Convention &amp; Event Centre Car Park will meet all of your parking needs.</p>",
+      "information": "<p>Wilson Parking offers affordable &amp; reliable parking at the Nyaal Banyul - Geelong Convention &amp; Event Centre&nbsp;Car Park, located 80 Western Beach Rd, entry via 7 Cavendish St&nbsp;in the heart of Geelong. Open 7 days, this undercover car park provides convenient access to nearby Nyaal Banyul Geelong Convention &amp; Event Centre, Western Beach precinct cafes, restaurants and Cunningham Pier.</p>\n<p>Offering casual Hourly, Night and Weekend parking, with exclusive discounts when you prepay online, or the convenience of unlimited 24/7 access for regular user who subscribe to monthly parking, the Nyaal Banyul - Geelong Convention &amp; Event Centre Car Park will meet all of your parking needs.</p>",
       "isWilsonOne": true,
       "legacyID": 3352,
       "monthlyParkingServiceIsAvailable": false,
@@ -75696,19 +75844,19 @@
           "rates": [
             {
               "timeSpan": "0.0 - 1.0 Hours",
-              "price": 4.0
+              "price": 5.0
             },
             {
               "timeSpan": "1.0 - 2.0 Hours",
-              "price": 8.0
+              "price": 10.0
             },
             {
               "timeSpan": "2.0 - 3.0 Hours",
-              "price": 12.0
+              "price": 15.0
             },
             {
               "timeSpan": "3.0 - 4.0 Hours",
-              "price": 19.0
+              "price": 20.0
             },
             {
               "timeSpan": "4.0 + Hours",
@@ -75718,7 +75866,7 @@
         }
       ],
       "fromText": "From",
-      "fromPrice": "4",
+      "fromPrice": "5",
       "location": {
         "longitude": 144.359514081647,
         "latitude": -38.1458379378892,
@@ -87223,7 +87371,7 @@
       "carParkPhoto": "/contentassets/9f1d5e176d5a4271a7e40ae8a4640371/20230418_102044_resized.jpg",
       "category": "",
       "costCenter": 1006199,
-      "direction": "Entry to the car park via Bennett Street\n</br></br>HBF Run 2026</br>\n</br></br>Please note that there will be no access or egress to the car park on 24th May from 8:30am to 12pm. </br>\n</br></br>Police will reopen the roads at their discretion when it is safe to do so.</br>\n",
+      "direction": "Entry to the car park via Bennett Street\n\n",
       "heightRestriction": 2.1,
       "information": "<p>Wilson Parking offer affordable parking at the Bennett Street Car Park which is located at 6-8 Bennett Street, East Perth. This undercover car park is open 7 days and offers convenient parking for Langley Park and WACA Events. Offering casual Hourly, Early Bird, Online Flexi Saver, Night and Weekend parking, or permanent monthly parking for regular parkers, the Bennett St car park will meet all your East Perth parking needs.&nbsp;</p>\n<p>Enjoy unlimited 24/7 access to the car park when you subscribe to monthly parking, or pay as you go on one monthly invoice when you access the car park with your Wilson Parking Card. We also offer a Motorcycle rate when purchased through the Wilson Parking App.</p>\n<p>&nbsp;</p>",
       "isWilsonOne": true,
@@ -90379,7 +90527,7 @@
       "carParkPhoto": "/contentassets/ddf4bf3205d44eef81bcebe995e639d1/per215-car-park-photo.jpg",
       "category": "",
       "costCenter": 1006215,
-      "direction": "Entry is via the east-bound lanes of The Esplanade only. \n\n</br></br>If travelling from the east, please proceed onto St Georges Terrace west-bound, and then turn left down Howard St to reach The Esplanade.</br>\n\n</br></br>HBF Run 2026</br>\n</br></br>Please note that there will be no access or egress to the car park on 24th May from 4am to 9am. </br>\n</br></br>Police will reopen the roads at their discretion when it is safe to do so.</br>",
+      "direction": "Entry is via the east-bound lanes of The Esplanade only. \n\n</br></br>If travelling from the east, please proceed onto St Georges Terrace west-bound, and then turn left down Howard St to reach The Esplanade.</br>",
       "heightRestriction": 2.1,
       "information": "<p>Wilson Parking offer affordable parking at The Quay Car Park, located at 18 The Esplanade, in the middle of the Perth CBD. Open 24/7, this undercover car park provides convenient parking access for Elizabeth Quay, Barrack Square &amp; the Bell Tower, with direct access to Allendale Square and St Georges Terrace from level 4 of the car park.&nbsp;Entry to the car park is via the east-bound lanes of The Esplanade only. If travelling from the east, please proceed onto St Georges Terrace west-bound, and then turn left down Howard St to reach The Esplanade.</p>\n<p>Offering casual Hourly, Night and Weekend Parking, as well as permanent monthly parking options, the Quay Car Park will meet all your Perth CBD Parking needs.&nbsp;</p>\n<p>Subscribe to monthly parking and enjoy the convenience of unlimited 24/7 car park access, or pay as you go with the Wilson Parking Card.</p>",
       "isWilsonOne": true,
@@ -90845,7 +90993,7 @@
       "carParkPhoto": "/contentassets/68b15f3654ce44d7a76f8ad67f645ea7/per226a.jpg",
       "category": "",
       "costCenter": 1006226,
-      "direction": "Entry off The Esplanade\n</br></br>HBF Run 2026</br>\n</br></br>Please note that there will be no access or egress to the car park on 24th May from 4am to 9am. </br>\n</br></br>Police will reopen the roads at their discretion when it is safe to do so.</br>",
+      "direction": "Entry off The Esplanade",
       "heightRestriction": 1.95,
       "information": "<p>Wilson Parking offer affordable parking at 40 The Esplanade Car Park, located at 40 The Esplanade Perth. Open Monday - Friday, this undercover car park provides convenient parking for Elizabeth Quay, Barrack Square &amp; The Bell Tower. Offering casual Hourly Parking options, and the convenience of pay as you go when you use the Wilson Parking card to access the car park, the 40 The Esplanade Car Park will meet all your parking needs.&nbsp;</p>\n<p>&nbsp;</p>",
       "isWilsonOne": true,
@@ -91885,7 +92033,7 @@
       "carParkPhoto": "/contentassets/5a47d081969e4fc9a70c33b1399db02c/per082.jpg",
       "category": "",
       "costCenter": 1006082,
-      "direction": "Entry via Mounts Bay Rd.\n\n</br></br>HBF Run 2026</br>\n</br></br>Please note that there will be no access or egress to the car park on 24th May from 4am to 9am. </br>\n</br></br>Police will reopen the roads at their discretion when it is safe to do so.</br>",
+      "direction": "Entry via Mounts Bay Rd.\n\n",
       "heightRestriction": 2.1,
       "information": "<p>Wilson Parking offer affordable parking at The Quadrant Car Park, located at 1 William Street, Perth, with entry from Mounts Bay Rd. Open Monday - Friday, this undercover car park provides all day or hourly parking options for visitors to The Quadrant, Perth and is ideally located for those visiting the nearby Elizabeth Quay. Offering casual Hourly and Early Bird parking, with the added convenience of payment through the Wilson Parking App, The Quadrant Car Park will meet all of your Perth parking needs.</p>\n<p>Download the Wilson Parking App to easily pay for your parking from your phone.&nbsp;</p>",
       "isWilsonOne": false,
@@ -92477,7 +92625,7 @@
       "carParkPhoto": "/contentassets/811a0e785cd7426680280998c5e8b5db/per097c.jpg",
       "category": "",
       "costCenter": 1006097,
-      "direction": "Entry from St Georges Terrace (Eastbound), just before William Street, below Central Park Offices.\n</br></br>HBF Run 2026</br>\n</br></br>Please note that there will be no access or egress to the car park on 23rd May from 9pm till 1pm on 24th May.</br>\n</br></br>Police will reopen the roads at their discretion when it is safe to do so.</br>",
+      "direction": "Entry from St Georges Terrace (Eastbound), just before William Street, below Central Park Offices.\n",
       "heightRestriction": 1.95,
       "information": "<p>Wilson Parking offer affordable parking at Central Park Car Park, located at 152-158 St Georges Terrace, Perth. Open 7 days until late, this car park is ideally located for visitors to the Central Park Offices, and surrounding Perth businesses. Offering casual Hourly, Online Early Bird Flexi, Night and Weekend Parking as well as exclusive discounts available when you prepay online or with the Wilson Parking App, the Central Park Car Park will meet all of your parking needs.</p>\n<p>Entry to the car park is on St Georges Terrace, travelling Eastbound, just before William St, below Central Park Offices.</p>\n<p>Download the Wilson Parking App to prepay your parking in advance and access exclusive discounts, or simply drive up and pay with your credit card, pay as you go with a Wilson Parking card, or enjoy unlimited access during the operational hours of the car park when you subscribe to Monthly Parking.</p>",
       "isWilsonOne": true,
@@ -92700,7 +92848,7 @@
       "carParkPhoto": "/contentassets/4faae83752104baa985fa2f50b062667/20230419_151728.jpg",
       "category": "",
       "costCenter": 1006059,
-      "direction": "Entry via Mounts Bay Road\n\n</br></br>HBF Run 2026</br>\n</br></br>Please note that there will be no access or egress to the car park on 24th May from 4am to 9am. </br>\n</br></br>Police will reopen the roads at their discretion when it is safe to do so.</br>",
+      "direction": "Entry via Mounts Bay Road\n\n",
       "heightRestriction": 2.1,
       "information": "<p>Wilson Parking offer affordable and convenient parking at Westralia Square, located at 24 Mounts Bay Rd, Perth. Open 7 days, and late on Friday and Saturday, this car park is ideal for visitors to Elizabeth Quay and other surrounding Perth businesses. Offering casual Hourly, Early Bird, Night and Weekend, as well as exclusive savings when you prepay online or with the Wilson Parking App,&nbsp;the Westralia Square Car Park will meet all of your parking needs.</p>\n<p>Download the Wilson Parking App to plan your journey, prepay ahead and access exclusive savings, or just drive up, pay with your credit card, pay as you go with the Wilson Parking Card.</p>",
       "isWilsonOne": true,
@@ -93564,7 +93712,7 @@
       "carParkPhoto": "/contentassets/22318f08920649f0838ed611f22a070e/per031a.jpg",
       "category": "",
       "costCenter": 1006031,
-      "direction": "Entry off Murray Street next to Tiger Lil's.\n\n</br></br>HBF Run 2026</br>\n</br></br>Please note that there will be no access or egress to the car park on 24th May from 4am to 9am. </br>\n</br></br>Police will reopen the roads at their discretion when it is safe to do so.</br>",
+      "direction": "Entry off Murray Street next to Tiger Lil's.\n",
       "heightRestriction": 2.08,
       "information": "<p>Wilson Parking offer affordable parking at Citipark Perth Car Park, located at 427-437 Murray Street, Perth. Open 24/7, this undercover car park provides parking for nearby venues including His Majestys Theatre, RAC Arena and Comedy Theatre, as well as visitors to nearby businesses in the Perth CBD. Offering casual Hourly, Early Bird, Night and Weekend Parking, with exclusive discounts when you prepay online, and Monthly Parking for regular users, the Citipark Perth Car Park will meet all of your parking needs.</p>\n<p>Download the Wilson Parking App to plan your journey and access exclusive discounts when you prepay ahead; enjoy unlimited access within the operational hours of the car park when you subscribe to Monthly Parking; or pay as you go when you access the car park with your Wilson Parking Card.&nbsp;</p>",
       "isWilsonOne": true,
@@ -95227,7 +95375,7 @@
       "carParkPhoto": "/contentassets/692c778ce69244f7a0bcd2f1610d04f2/per120.jpg",
       "category": "",
       "costCenter": 1006120,
-      "direction": "</br></br>HBF Run 2026</br>\n</br></br>Please note that there will be no access or egress to the car park on 24th May from 4am to 9am. </br>\n</br></br>Police will reopen the roads at their discretion when it is safe to do so.</br>",
+      "direction": null,
       "heightRestriction": 2.2,
       "information": "<p>Wilson Parking offer affordable parking at Old Swan Brewery Car Park, located at 173 Mounts Bay Road, Kings Park. Open 24/7, this undercover car park is nearby to Kings Park and Botanic Gardens on the Swan River. Offering casual Hourly, Early Bird, Weekend and Night Parking, the Old Swan Brewery Car Park will meet all of your Kings Park parking needs.</p>\n<p>Pay as you go when you use your Wilson Parking Card for contact free, queue-less access to the car park.</p>",
       "isWilsonOne": true,
