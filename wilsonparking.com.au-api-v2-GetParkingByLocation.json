@@ -476,10 +476,10 @@
         },
         {
           "rateType": "Weekend",
-          "notes": "<p>Rates charged from 6am daily.</p>\n<p>Overnight rate is charged in addition to Hourly &amp; Weekend rates, for all vehicles left in the car park past 6am the following day.&nbsp;</p>",
+          "notes": "<p>Rates charged from 6am daily.</p>\n<p>Overnight rate is charged in addition to Hourly &amp; Weekend rates, for all vehicles left in the car park past 6am the following day.&nbsp;</p>\n<p>&nbsp;</p>\n<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>",
           "rates": [
             {
-              "timeSpan": "Sat - Sun",
+              "timeSpan": "Weekend varies from $25.75 - $27.75, depending on demand",
               "price": 30.0
             },
             {
@@ -1090,10 +1090,10 @@
         },
         {
           "rateType": "Weekend",
-          "notes": "<p>Saturday, Sunday and Holidays&nbsp;</p>\n<p>Flat Rate: per exit, per day</p>",
+          "notes": "<p>&nbsp;</p>\n<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>\n<p>&nbsp;</p>",
           "rates": [
             {
-              "timeSpan": "Sat - Sun",
+              "timeSpan": "Weekend varies from $24.75 - $26.75, depending on demand",
               "price": 29.0
             }
           ]
@@ -1939,10 +1939,10 @@
         },
         {
           "rateType": "Weekend",
-          "notes": "<p>Saturday, Sunday and Holidays</p>\n<p>Flat rate: per exit per day - Charged from 6am daily</p>",
+          "notes": "<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>\n<p>&nbsp;</p>",
           "rates": [
             {
-              "timeSpan": "Sat - Sun",
+              "timeSpan": "Weekend varies from $23.75- $25.75, depending on demand",
               "price": 29.0
             }
           ]
@@ -3746,10 +3746,10 @@
         },
         {
           "rateType": "Weekend",
-          "notes": "<p>Flat Rate: per exit, per day</p>\n<p>Online rate shown includes transaction fee. Click the Prepay now link below to get started.</p>\n<p>&nbsp;</p>",
+          "notes": "<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>",
           "rates": [
             {
-              "timeSpan": "Sat - Sun",
+              "timeSpan": "Weekend varies from $29.75- $31.75, depending on demand",
               "price": 35.0
             }
           ]
@@ -5108,7 +5108,7 @@
         },
         {
           "rateType": "Weekend",
-          "notes": "<p>Saturday, Sunday and Public Holidays</p>\n<p>Closed Good Friday and Christmas Day</p>",
+          "notes": "<p>&nbsp;</p>\n<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>\n<p>&nbsp;</p>",
           "rates": [
             {
               "timeSpan": "0.0 – 1.0 hr",
@@ -6205,10 +6205,10 @@
         },
         {
           "rateType": "Weekend",
-          "notes": "<p>Flat Rate: Per exit, per day</p>\n<p>&nbsp;</p>",
+          "notes": "<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>\n<p>&nbsp;</p>",
           "rates": [
             {
-              "timeSpan": "Sat or Sun from",
+              "timeSpan": "Weekend varies from $34.75- $36.75, depending on demand",
               "price": 39.0
             }
           ]
@@ -11189,7 +11189,7 @@
         },
         {
           "rateType": "Weekend",
-          "notes": "<p>Weekend Day and Night rates apply Saturday to Sunday, and Public Holidays.</p>\n<p>Rates are charged per exit, per day from 6am daily.</p>",
+          "notes": "<p>&nbsp;</p>\n<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
           "rates": [
             {
               "timeSpan": "Day Rate: Enter after 6am, exit before 5pm",
@@ -11789,7 +11789,7 @@
         }
       ],
       "fromText": "From",
-      "fromPrice": "20.75",
+      "fromPrice": "22.75",
       "location": {
         "longitude": 151.209126014121,
         "latitude": -33.8862333566564,
@@ -13992,10 +13992,10 @@
         },
         {
           "rateType": "Weekend",
-          "notes": "Flat Rate: per exit, per day",
+          "notes": "<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>",
           "rates": [
             {
-              "timeSpan": "Sat - Sun",
+              "timeSpan": "Weekend varies from $6.75 - $7.75, depending on demand",
               "price": 9.0
             }
           ]
@@ -15449,17 +15449,17 @@
         },
         {
           "rateType": "Weekend",
-          "notes": "<p>Rates are charged from 6am daily</p>",
+          "notes": "<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>",
           "rates": [
             {
-              "timeSpan": "Sat - Sun",
+              "timeSpan": "Weekend varies from $9.75 - $10.75, depending on demand",
               "price": 15.0
             }
           ]
         }
       ],
       "fromText": "From",
-      "fromPrice": "10",
+      "fromPrice": "9.75",
       "location": {
         "longitude": 151.24951958656311,
         "latitude": -33.890870675695517,
@@ -15830,17 +15830,17 @@
         },
         {
           "rateType": "Weekend",
-          "notes": "<p>Rates are charged from 6am daily</p>",
+          "notes": "<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>",
           "rates": [
             {
-              "timeSpan": "Sat - Sun",
+              "timeSpan": "Weekend varies from $9.75 - $10.75, depending on demand",
               "price": 15.0
             }
           ]
         }
       ],
       "fromText": "From",
-      "fromPrice": "10",
+      "fromPrice": "9.75",
       "location": {
         "longitude": 151.25155806541443,
         "latitude": -33.89069700814656,
@@ -17368,17 +17368,17 @@
         },
         {
           "rateType": "Weekend",
-          "notes": "<p>Flat Rate: per exit, per day</p>\n<p>Online rate shown includes transaction fee. Click the Prepay now link below to get started.</p>",
+          "notes": "<p>&nbsp;</p>\n<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
           "rates": [
             {
-              "timeSpan": "Sat - Sun",
+              "timeSpan": "Weekend varies from $4.75 - $5.75, depending on demand",
               "price": 5.0
             }
           ]
         }
       ],
       "fromText": "From",
-      "fromPrice": "4",
+      "fromPrice": "4.75",
       "location": {
         "longitude": 151.19090261104509,
         "latitude": -33.820429610963146,
@@ -56737,7 +56737,7 @@
       "costCenter": 1003250,
       "direction": "Entry via Russell St (Extension) or off Batman Ave (at Tennis Centre)\nOn event dates and busy periods, please use the Batman Ave Exit from Level 1 and allow additional time to exit. ",
       "heightRestriction": 2.1,
-      "information": "<p><strong style=\"color: #ff1e25;\"><u>Event Dates May 2026:<br /></u></strong><span style=\"color: #ff1e25;\">22nd, 24th, 27th and 29th&nbsp;</span><span style=\"color: #ff1e25;\">from 4:00pm to 11:59pm<br /></span><span style=\"color: #ff1e25;\">23rd</span><span style=\"color: #ff1e25;\">&nbsp;from 1:00pm to 11:59pm<br /></span><span style=\"color: #ff1e25;\">30th and 31st from 12:00pm to 11:59pm<br /></span><span style=\"color: #ff1e25;\">Event rates will apply.<br /></span><em style=\"color: #ff1e25;\"><em>On event dates, please allow additional time to exit.</em></em></p>\n<p><span style=\"color: #ff1e25;\"><strong><u>Event Dates June 2026:<br /></u></strong>4th, 5th, 7th, 16th, 17th and 26th from 4:00pm to 11:59pm<br />20th from 4:00am to 11:59pm<br /></span><span style=\"color: #ff1e25;\">13th, 14th, 21st and 27th from 11:00am to 11:59pm</span><em style=\"color: #ff1e25;\"><em><br /><span style=\"color: #ff1e25;\">Event rates will apply.</span><br /><span style=\"color: #ff1e25;\">On event dates, please allow additional time to exit.</span><br /><br /></em></em>Wilson Parking offers affordable &amp; secure parking at Federation Square Car Park, located on Russell St (Extension) in the Melbourne CBD. This car park is nearby to many popular attractions, including Federation Square, Flinders St Station, Birrarung Marr, Rod Laver Arena and Melbourne Park. Offering casual Early Bird, Hourly, Night and Weekend parking, with exclusive discounts when you prepay online, the Federation Square Car Park will meet all of your parking needs.</p>\n<p><span style=\"color: #000000;\"><strong>On event dates and busy periods, please use the Batman Avenue Exit from Level 1 and allow additional time to exit.</strong></span></p>\n<p>Download the Wilson Parking App to plan your journey and access exclusive discounts when you prepay online; pay as you go with one convenient monthly invoice when you use your Wilson Parking Card; enjoy 24/7 unlimited access when you subscribe to Monthly Parking; or just drive up to pay with a credit card at the car park.</p>",
+      "information": "<p><strong style=\"color: #ff1e25;\"><u>Event Dates May 2026:<br /></u></strong><span style=\"color: #ff1e25;\">27th and 29th&nbsp;</span><span style=\"color: #ff1e25;\">from 4:00pm to 11:59pm</span><span style=\"color: #ff1e25;\"><br /></span><span style=\"color: #ff1e25;\">30th and 31st from 12:00pm to 11:59pm<br /></span><span style=\"color: #ff1e25;\">Event rates will apply.<br /></span><em style=\"color: #ff1e25;\"><em>On event dates, please allow additional time to exit.</em></em></p>\n<p><span style=\"color: #ff1e25;\"><strong><u>Event Dates June 2026:<br /></u></strong>4th, 5th, 7th, 16th, 17th and 26th from 4:00pm to 11:59pm<br />20th from 4:00am to 11:59pm<br /></span><span style=\"color: #ff1e25;\">13th, 14th, 21st and 27th from 11:00am to 11:59pm</span><em style=\"color: #ff1e25;\"><em><br /><span style=\"color: #ff1e25;\">Event rates will apply.</span><br /><span style=\"color: #ff1e25;\">On event dates, please allow additional time to exit.</span><br /><br /></em></em>Wilson Parking offers affordable &amp; secure parking at Federation Square Car Park, located on Russell St (Extension) in the Melbourne CBD. This car park is nearby to many popular attractions, including Federation Square, Flinders St Station, Birrarung Marr, Rod Laver Arena and Melbourne Park. Offering casual Early Bird, Hourly, Night and Weekend parking, with exclusive discounts when you prepay online, the Federation Square Car Park will meet all of your parking needs.</p>\n<p><span style=\"color: #000000;\"><strong>On event dates and busy periods, please use the Batman Avenue Exit from Level 1 and allow additional time to exit.</strong></span></p>\n<p>Download the Wilson Parking App to plan your journey and access exclusive discounts when you prepay online; pay as you go with one convenient monthly invoice when you use your Wilson Parking Card; enjoy 24/7 unlimited access when you subscribe to Monthly Parking; or just drive up to pay with a credit card at the car park.</p>",
       "isWilsonOne": true,
       "legacyID": 94,
       "monthlyParkingServiceIsAvailable": true,
@@ -60679,7 +60679,9 @@
         "Disabled Parking",
         "Daily Pass Bundles",
         "Special Event Parking",
-        "Festive"
+        "Festive",
+        "Elevate",
+        "LPR"
       ],
       "services": [
         "book a bay",
@@ -68784,17 +68786,17 @@
         },
         {
           "rateType": "Weekend",
-          "notes": "<p>Per exit, per day</p>\n<p>Flat rate per exit, per day.</p>\n<p>Including public holidays</p>\n<p><br />Enter after 6:00am and exit before 6:00am next day.<br /><em>Overnight parking is only available online. Valid Friday and Saturday nights. Enter after 5:00pm and exit before 2:00pm the following day</em></p>\n<p>Online rates include transaction fee. Click the <strong>Prepay&nbsp;now</strong> link below to get started.</p>",
+          "notes": "<p>&nbsp;</p>\n<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>\n<p>&nbsp;</p>",
           "rates": [
             {
-              "timeSpan": "Sat - Sun",
+              "timeSpan": "Weekend varies from $17.75 - $19.75, depending on demand",
               "price": 22.0
             }
           ]
         }
       ],
       "fromText": "From",
-      "fromPrice": "15",
+      "fromPrice": "15.75",
       "location": {
         "longitude": 153.02734136581421,
         "latitude": -27.470929531734246,
@@ -68986,17 +68988,17 @@
         },
         {
           "rateType": "Weekend",
-          "notes": null,
+          "notes": "<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>",
           "rates": [
             {
-              "timeSpan": "Weekend (Sat or Sun) from",
+              "timeSpan": "Weekend varies from $9.75 - $11.75, depending on demand",
               "price": 15.0
             }
           ]
         }
       ],
       "fromText": "From",
-      "fromPrice": "10",
+      "fromPrice": "9.75",
       "location": {
         "longitude": 153.029356348807,
         "latitude": -27.4709714511238,
@@ -69190,17 +69192,17 @@
         },
         {
           "rateType": "Weekend",
-          "notes": "<p>Per exit, per day.</p>\n<p>Including public holidays</p>\n<p>Entry after 5:00am, exit before midnight.</p>\n<p>Online rates include transaction fee. Click the <strong>Prepay now</strong> link below to get started.</p>",
+          "notes": "<p>&nbsp;</p>\n<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>\n<p>&nbsp;</p>",
           "rates": [
             {
-              "timeSpan": "Sat - Sun",
+              "timeSpan": "Weekend varies from $12.75 - $14.75, depending on demand",
               "price": 18.0
             }
           ]
         }
       ],
       "fromText": "From",
-      "fromPrice": "14",
+      "fromPrice": "12.75",
       "location": {
         "longitude": 153.02616027486874,
         "latitude": -27.470194798869642,
@@ -69721,17 +69723,17 @@
         },
         {
           "rateType": "Weekend",
-          "notes": "<p>Per day, per exit.</p>\n<p>Including public holidays</p>",
+          "notes": "<p>&nbsp;</p>\n<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>\n<p>&nbsp;</p>",
           "rates": [
             {
-              "timeSpan": "Sat or Sun from",
+              "timeSpan": "Weekend varies from $9.75 - $11.75, depending on demand",
               "price": 16.0
             }
           ]
         }
       ],
       "fromText": "From",
-      "fromPrice": "10",
+      "fromPrice": "9.75",
       "location": {
         "longitude": 153.0296287,
         "latitude": -27.4703134,
@@ -70912,6 +70914,8 @@
         "Flexi Parking",
         "Special Event Parking",
         "Summer Sale",
+        "Elevate",
+        "LPR",
         "Riverfire"
       ],
       "services": [
@@ -70984,17 +70988,17 @@
         },
         {
           "rateType": "Weekend",
-          "notes": "<p>Flat rate per exit, per day. Includes public holidays</p>\n<p>Enter after 9:00am and exit before 10:00pm.</p>\n<p>Online rates include transaction fee. Click the <strong>Prepay&nbsp;now</strong> link below to get started.</p>",
+          "notes": "<p>&nbsp;</p>\n<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>\n<p>&nbsp;</p>",
           "rates": [
             {
-              "timeSpan": "Weekends",
+              "timeSpan": "Weekend varies from $9.75 - $11.75, depending on demand",
               "price": 16.0
             }
           ]
         }
       ],
       "fromText": "From",
-      "fromPrice": "10",
+      "fromPrice": "9.75",
       "location": {
         "longitude": 153.02976470244676,
         "latitude": -27.467345895810308,
@@ -71200,17 +71204,17 @@
         },
         {
           "rateType": "Weekend",
-          "notes": "<p>Flat rate per exit, per day.<br />Enter after 5:00am and exit before 5:00am next day.</p>\n<p>Online rates include transaction fee. Click the <strong>Prepay now</strong> link below to get started.</p>",
+          "notes": "<p>&nbsp;</p>\n<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>\n<p>&nbsp;</p>",
           "rates": [
             {
-              "timeSpan": "Sat - Sun",
+              "timeSpan": "Weekend varies from $13.75 - $15.75, depending on demand",
               "price": 16.0
             }
           ]
         }
       ],
       "fromText": "From",
-      "fromPrice": "14",
+      "fromPrice": "13.75",
       "location": {
         "longitude": 153.03020591534425,
         "latitude": -27.467323930928696,
@@ -71407,17 +71411,17 @@
         },
         {
           "rateType": "Weekend",
-          "notes": "<p>Per exit, per day. Includes public holidays.</p>",
+          "notes": "<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>",
           "rates": [
             {
-              "timeSpan": "Sat or Sunday from",
+              "timeSpan": "Weekend varies from $9.75 - $11.75, depending on demand",
               "price": 16.0
             }
           ]
         }
       ],
       "fromText": "From",
-      "fromPrice": "10",
+      "fromPrice": "9.75",
       "location": {
         "longitude": 153.029505230989,
         "latitude": -27.4669079833259,
@@ -71772,17 +71776,17 @@
         },
         {
           "rateType": "Weekend",
-          "notes": "<p>Per exit, per day.</p>\n<p>Enter after 6:00am and exit before 11:00pm.</p>\n<p>Including public holidays</p>\n<p>Online rates inlcude transaction fee. Click the <strong>Prepay&nbsp;now</strong> link below to get started.</p>",
+          "notes": "<p>&nbsp;</p>\n<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>\n<p>&nbsp;</p>",
           "rates": [
             {
-              "timeSpan": "Sat - Sun from",
+              "timeSpan": "Weekend varies from $8.75 - $10.75, depending on demand",
               "price": 14.0
             }
           ]
         }
       ],
       "fromText": "From",
-      "fromPrice": "9",
+      "fromPrice": "8.75",
       "location": {
         "longitude": 153.03008861839771,
         "latitude": -27.464898418032249,
@@ -71988,17 +71992,17 @@
         },
         {
           "rateType": "Weekend",
-          "notes": "<p>Entry after 7am and exit before 10pm.</p>\n<p>Online rates include transaction fee. Click the <strong>Prepay now</strong> link below to get started.</p>",
+          "notes": "<p>&nbsp;</p>\n<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>\n<p>&nbsp;</p>",
           "rates": [
             {
-              "timeSpan": "Sat - Sun from",
+              "timeSpan": "Weekend varies from $8.75 - $10.75, depending on demand",
               "price": 14.0
             }
           ]
         }
       ],
       "fromText": "From",
-      "fromPrice": "9",
+      "fromPrice": "8.75",
       "location": {
         "longitude": 153.02976608276367,
         "latitude": -27.464680061370483,
@@ -72203,25 +72207,25 @@
         },
         {
           "rateType": "Weekend",
-          "notes": "<p>Per exit, per day.</p>\n<p>Including public holidays</p>",
+          "notes": "<p>&nbsp;</p>\n<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>\n<p>&nbsp;</p>",
           "rates": [
             {
-              "timeSpan": "Per day",
+              "timeSpan": "Weekend varies from $10.75 - $12.75, depending on demand",
               "price": 14.0
             }
           ]
         },
         {
           "rateType": "Prepay Online",
-          "notes": "<div>\n<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Flexi Saver Rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The flexi saver price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n</div>\n<div>Discount parking available online</div>\n<div>Select the <strong>Prepay Now</strong> link below to get started.</div>\n<div>Rates shown include transaction fee.</div>\n<div>&nbsp;</div>\n<div><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></div>",
+          "notes": "<div>\n<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Flexi Saver &amp; Weekend Rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The flexi saver price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n</div>\n<div>Discount parking available online</div>\n<div>Select the <strong>Prepay Now</strong> link below to get started.</div>\n<div>Rates shown include transaction fee.</div>\n<div>&nbsp;</div>\n<div><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></div>",
           "rates": [
             {
               "timeSpan": "Night from",
-              "price": 13.0
+              "price": 14.0
             },
             {
-              "timeSpan": "Weekend from",
-              "price": 13.0
+              "timeSpan": "Weekend varies from $10.75 - $12.75, depending on demand",
+              "price": 14.0
             }
           ]
         }
@@ -75429,18 +75433,14 @@
             },
             {
               "timeSpan": "1.0 - 2.0 hrs",
-              "price": 7.0
+              "price": 8.0
             },
             {
               "timeSpan": "2.0 - 3.0 hrs",
-              "price": 9.0
-            },
-            {
-              "timeSpan": "3.0 - 4.0 hrs",
               "price": 12.0
             },
             {
-              "timeSpan": "4.0 + hrs",
+              "timeSpan": "3.0 hrs +",
               "price": 16.0
             }
           ]
@@ -75450,16 +75450,12 @@
           "notes": "<p>Available per day Saturday, Sunday &amp; Public Holiday</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 1.0 hrs",
+              "timeSpan": "0.0 - 1.0 hr",
               "price": 4.0
             },
             {
-              "timeSpan": "1.0 - 2.0 hrs",
-              "price": 5.0
-            },
-            {
-              "timeSpan": "2.0 + hrs",
-              "price": 6.0
+              "timeSpan": "1.0 hrs +",
+              "price": 8.0
             }
           ]
         },
