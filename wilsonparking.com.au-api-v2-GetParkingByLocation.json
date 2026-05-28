@@ -11766,7 +11766,7 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Rates apply Monday - Sunday</p>\n<p>Online rate shown includes transaction fee. Click the Prepay now link below to get started.</p>",
+          "notes": "<p>Rates apply Monday - Friday</p>\n<p>&nbsp;</p>",
           "rates": [
             {
               "timeSpan": "0.0 - 1.0 hrs",
@@ -11795,8 +11795,18 @@
           "notes": "<p>Rates apply all days - Monday to Sunday<br />Entry after 5pm, exit before 6am the following day</p>\n<p><em>Online rate includes transaction fee<br />Click the </em><strong><em>Prepay now</em></strong><em> link below to get started</em></p>",
           "rates": [
             {
-              "timeSpan": "All Days",
-              "price": 28.0
+              "timeSpan": "Mon - Fri",
+              "price": 30.0
+            }
+          ]
+        },
+        {
+          "rateType": "Weekend",
+          "notes": "<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>",
+          "rates": [
+            {
+              "timeSpan": "Weekend varies from $29.75 - $32.75, depending on demand",
+              "price": 39.0
             }
           ]
         }
@@ -17385,7 +17395,7 @@
           "rates": [
             {
               "timeSpan": "Weekend varies from $4.75 - $5.75, depending on demand",
-              "price": 5.0
+              "price": 7.0
             }
           ]
         }
@@ -40120,7 +40130,7 @@
             },
             {
               "timeSpan": "5.0 + hrs",
-              "price": 21.0
+              "price": 18.0
             }
           ]
         }
@@ -55191,7 +55201,7 @@
       "costCenter": 1003300,
       "direction": null,
       "heightRestriction": 2.05,
-      "information": "<p><span style=\"color: #ff1e25;\"><strong><u>Event Dates May 2026:<br /></u></strong>9th, 22nd, 29th from 5:00pm to 11:59pm.</span><br /><span style=\"color: #ff1e25;\">16th, 23rd from 2:00pm to 11:59pm.</span><br /><span style=\"color: #ff1e25;\">Event rates will apply.</span><br /><span style=\"color: #ff1e25;\"><em>On event dates, please allow additional time to exit.<br /><u></u></em></span></p>\n<p><span style=\"color: #ff1e25;\"><strong><u>Event Dates June 2026:<br /></u></strong>5th, 20th from 5:00pm to 11:59pm.<br />7th, 17th from 4:00pm to 11:59pm.<br />8th from 12:00pm to 11:59pm.<em><br /></em>Event rates will apply.<em><br /><em style=\"color: #ff1e25;\">On event dates, please allow additional time to exit.</em></em></span></p>\n<p>Wilson Parking offers affordable &amp; secure parking at 11 Exhibition St&nbsp;Car Park, located at 11 Exhibition St in the heart of East End. Open 7 days, this undercover car park provides convenient access to nearby the MCG, Federation Square, Birrarung Marr, Melbourne Park and many other popular attractions. This car park offers flat rate parking at the times you need when you prepay online a Flexi Saver rate online. Casual Hourly, Weekend and Night Parking options are also available, with permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the 11 Exhibition St Car Park will meet all your business and leisure parking needs.&nbsp;</p>\n<p>This car park accepts Credit Card payments only.&nbsp;Download the Wilson Parking App to plan your journey and access the best parking value when you prepay online; enjoy unlimited 24/7 access when you subscribe to monthly parking; pay as you go on one convenient monthly invoice when you use your Wilson Parking Card to access the car park.</p>",
+      "information": "<p><span style=\"color: #ff1e25;\"><strong><u>Event Dates May 2026:<br /></u></strong>29th from 5:00pm to 11:59pm.</span><br /><span style=\"color: #ff1e25;\">Event rates will apply.</span><br /><span style=\"color: #ff1e25;\"><em>On event dates, please allow additional time to exit.<br /><u></u></em></span></p>\n<p><span style=\"color: #ff1e25;\"><strong><u>Event Dates June 2026:<br /></u></strong>5th, 20th from 5:00pm to 11:59pm.<br />7th, 17th from 4:00pm to 11:59pm.<br />8th from 12:00pm to 11:59pm.<em><br /></em>Event rates will apply.<em><br /><em style=\"color: #ff1e25;\">On event dates, please allow additional time to exit.</em></em></span></p>\n<p>Wilson Parking offers affordable &amp; secure parking at 11 Exhibition St&nbsp;Car Park, located at 11 Exhibition St in the heart of East End. Open 7 days, this undercover car park provides convenient access to nearby the MCG, Federation Square, Birrarung Marr, Melbourne Park and many other popular attractions. This car park offers flat rate parking at the times you need when you prepay online a Flexi Saver rate online. Casual Hourly, Weekend and Night Parking options are also available, with permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the 11 Exhibition St Car Park will meet all your business and leisure parking needs.&nbsp;</p>\n<p>This car park accepts Credit Card payments only.&nbsp;Download the Wilson Parking App to plan your journey and access the best parking value when you prepay online; enjoy unlimited 24/7 access when you subscribe to monthly parking; pay as you go on one convenient monthly invoice when you use your Wilson Parking Card to access the car park.</p>",
       "isWilsonOne": true,
       "legacyID": 497,
       "monthlyParkingServiceIsAvailable": true,
@@ -57380,7 +57390,7 @@
       "costCenter": 1003169,
       "direction": "Entry via Flinders St or 195 Flinders Lane",
       "heightRestriction": 2.0,
-      "information": "<p><strong style=\"color: #ff1e25;\"><u>Event Dates May 2026:<br /></u></strong><span style=\"color: #ff1e25;\">9th, 22nd, 29th from 5:00pm to 11:59pm.<br />16th from 1:00pm to 11:59pm.<br />23rd from 2:00pm to 11:59pm.<br />Event rates will apply.<br /><em>On event dates, please allow additional time to exit.</em></span></p>\n<p><span style=\"color: #ff1e25;\"><strong style=\"color: #ff1e25;\"><u>Event Dates June 2026:<br /></u></strong>5th, 20th from 5:00pm to 11:59pm.<br />7th, 17th from 4:00pm to 11:59pm.<br />8th from 12:00pm to 11:59pm.<br />Event rates will apply.<br /><em>On event dates, please allow additional time to exit.</em></span></p>\n<p>Wilson Parking offers affordable &amp; convenient parking at Flinders Gate Car Park, located at 172-192 Flinders Street, Melbourne. This car park is nearby to many Melbourne attractions including St Paul's Cathedral, The Ian Potter Centre and Flinders St Station.</p>\n<p>Offering online discounts for Flexi Saver, Night, Overnight and Weekend parking as well as competitive drive up rates, the Flinders Gate car park will meet all of your parking needs when visiting the Melbourne CBD.</p>\n<p><strong>This car park accepts Credit Card payments only.</strong></p>\n<p>Pay as you go with a Wilson Parking Card, or enjoy unlimited 24/7 access when you subscribe to a Monthly parking account.</p>\n<p><em>Site can be affected by road closures. Please refer to the <a title=\"https://www.melbourne.vic.gov.au/parking-and-transport/roads/Pages/road-closures.aspx\" href=\"https://www.melbourne.vic.gov.au/parking-and-transport/roads/Pages/road-closures.aspx\" target=\"_blank\" rel=\"noopener\">City of Melbourne website</a> for more information.</em></p>",
+      "information": "<p><strong style=\"color: #ff1e25;\"><u>Event Dates May 2026:<br /></u></strong><span style=\"color: #ff1e25;\">29th from 5:00pm to 11:59pm.<br />Event rates will apply.<br /><em>On event dates, please allow additional time to exit.</em></span></p>\n<p><span style=\"color: #ff1e25;\"><strong style=\"color: #ff1e25;\"><u>Event Dates June 2026:<br /></u></strong>5th, 20th from 5:00pm to 11:59pm.<br />7th, 17th from 4:00pm to 11:59pm.<br />8th from 12:00pm to 11:59pm.<br />Event rates will apply.<br /><em>On event dates, please allow additional time to exit.</em></span></p>\n<p>Wilson Parking offers affordable &amp; convenient parking at Flinders Gate Car Park, located at 172-192 Flinders Street, Melbourne. This car park is nearby to many Melbourne attractions including St Paul's Cathedral, The Ian Potter Centre and Flinders St Station.</p>\n<p>Offering online discounts for Flexi Saver, Night, Overnight and Weekend parking as well as competitive drive up rates, the Flinders Gate car park will meet all of your parking needs when visiting the Melbourne CBD.</p>\n<p><strong>This car park accepts Credit Card payments only.</strong></p>\n<p>Pay as you go with a Wilson Parking Card, or enjoy unlimited 24/7 access when you subscribe to a Monthly parking account.</p>\n<p><em>Site can be affected by road closures. Please refer to the <a title=\"https://www.melbourne.vic.gov.au/parking-and-transport/roads/Pages/road-closures.aspx\" href=\"https://www.melbourne.vic.gov.au/parking-and-transport/roads/Pages/road-closures.aspx\" target=\"_blank\" rel=\"noopener\">City of Melbourne website</a> for more information.</em></p>",
       "isWilsonOne": true,
       "legacyID": 253,
       "monthlyParkingServiceIsAvailable": true,
@@ -68747,7 +68757,9 @@
         "Wilson One",
         "Overnight Parking",
         "Entry height at least 2",
-        "Dine BNE"
+        "Dine BNE",
+        "Elevate",
+        "LPR"
       ],
       "services": [
         "book a bay",
@@ -68929,7 +68941,12 @@
         "evChargerIsAvailable": false,
         "evChargerIconLabel": "EV Charging",
         "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "additionalServices": []
+        "additionalServices": [
+          {
+            "label": null,
+            "icon": null
+          }
+        ]
       },
       "state": "QLD",
       "imgUrl": "/siteassets/parking-location-images/qld/bne126.jpg",
@@ -90856,16 +90873,6 @@
               "price": 20.0
             }
           ]
-        },
-        {
-          "rateType": "Early Bird",
-          "notes": "<p>Entry between 5am - 9am. Valid for 12hrs from time of purchase.</p>\n<p>*Online rate only available when purchasing through the Wilson Parking App. Online rates includes Transaction fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a> to download the Wilson Parking App</p>",
-          "rates": [
-            {
-              "timeSpan": "Monday - Friday",
-              "price": 17.0
-            }
-          ]
         }
       ],
       "fromText": "From",
@@ -94972,7 +94979,7 @@
       "carParkPhoto": "/contentassets/1592543cba2c4b818f7b11ee2a5f31b4/20230418_105604.jpg",
       "category": "",
       "costCenter": 1006063,
-      "direction": "Entry via St Georges Terrace or Hay Street\n<br>Motorbike parking must be paid for using the 256 St Georges Tce (Barrack Arch) - Motorcycle parking location\n</br></br>Due to the scheduled works, St Georges Terrace entry to the car park will be closed. Please use Hat Street to enter the car park on 6th of May. </br>\n</br></br>We apologise for the inconvenience. </br>",
+      "direction": "Entry via St Georges Terrace or Hay Street\n<br>Motorbike parking must be paid for using the 256 St Georges Tce (Barrack Arch) - Motorcycle parking location\n</br></br>Due to the scheduled works, St Georges Terrace entry to the car park will be closed. Please use Hay Street to enter the car park on 6th of June. </br>",
       "heightRestriction": 2.1,
       "information": "<p>Wilson Parking offer affordable parking at 256 St Georges Tce (Barrack Arch) Car Park, located at 256 St Georges Terrace, Perth. With entrances from both St Georges Terrace and Hay St, this undercover car park is open 7 days until midnight, providing parking for visitors to QV1 plaza, Barracks Arch and nearby businesses in the Perth CBD. Offering casual Hourly, Night and Weekend Parking with exclusive discounts when you prepay online, and permanent monthly parking for regular parkers, the 256 St Georges Tce (Barrack Arch) Car Park will meet all of your parking needs.</p>\n<p>Download the Wilson Parking App to plan your journey and access exclusive discounts when you prepay ahead; enjoy 24/7 access when you subscribe to monthly parking; or pay as you go when you access the car park using your Wilson Parking card.&nbsp;</p>",
       "isWilsonOne": true,
