@@ -63076,15 +63076,22 @@
     {
       "name": "500 La Trobe St Car Park",
       "bookText": null,
-      "canBookABay": false,
+      "canBookABay": true,
       "selectedFeatures": "",
       "carParkFeature": [
         "Night Parking",
         "Weekend Parking",
+        "Early Bird Parking",
+        "Book a Bay",
+        "Flexi Parking",
         "Entry height at least 2",
-        "Elevate"
+        "Elevate",
+        "LPR",
+        "Spott Saver"
       ],
-      "services": [],
+      "services": [
+        "book a bay"
+      ],
       "carParkName": "500 La Trobe St Car Park",
       "carParkNumber": 3348,
       "carParkPhoto": "/siteassets/parking-location-images/vic/mel348.jpg",
@@ -63092,7 +63099,7 @@
       "costCenter": 1003348,
       "direction": "500 La Trobe St",
       "heightRestriction": 0.0,
-      "information": "<p>Wilson Parking offer affordable &amp; secure parking at 500 La Trobe St&nbsp;Car Park, located at 500 La Trobe St, West Melbourne. Open 7 days, this open air car park provides convenient access to nearby Flagstaff Gardens, popular restaurants, shops and Melbourne businesses.&nbsp;Offering casual Hourly, Weekend and Night Parking, the car park name&nbsp;500 La Trobe St Car Park will meet all your business and leisure parking needs.&nbsp;</p>\n<p>&nbsp;</p>",
+      "information": "<p>Wilson Parking offer affordable &amp; secure parking at 500 La Trobe St&nbsp;Car Park, located at 500 La Trobe St, West Melbourne. Open 7 days, this open air car park provides convenient access to nearby Flagstaff Gardens, popular restaurants, shops and Melbourne businesses.<br /><br />Offering casual Hourly, Night and Weekend Parking, with exclusive discounts when you prepay online, the 500 La Trobe St Car Park will meet all of your parking needs.</p>\n<p>&nbsp;</p>",
       "isWilsonOne": false,
       "legacyID": 793,
       "monthlyParkingServiceIsAvailable": false,
@@ -63106,7 +63113,7 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Rates apply Monday - Friday</p>\n<p>&nbsp;</p>",
+          "notes": "<p>Rates apply Monday - Friday</p>",
           "rates": [
             {
               "timeSpan": "0.0 - 1.0 Hours",
@@ -63121,24 +63128,24 @@
               "price": 39.0
             },
             {
-              "timeSpan": "3.0 + hours ",
+              "timeSpan": "3.0 + Hours",
               "price": 52.0
             }
           ]
         },
         {
           "rateType": "Night",
-          "notes": "<p>Available Monday - Friday</p>\n<p>Enter after 4pm, Exit before 6am the next day</p>",
+          "notes": "<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"1akcde78-0-0\"><span data-offset-key=\"1akcde78-0-0\">Entry after 4pm, exit before 6am the following day.</span></div>\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"1akcde78-0-0\"><span data-offset-key=\"1akcde78-0-0\">If conditions not met, Hourly rates apply from time of entry.<br /><br /></span>Select the <strong>Prepay now</strong> link below to get started.<br />Rates shown include transaction fee.</div>",
           "rates": [
             {
-              "timeSpan": "Monday - Friday",
+              "timeSpan": "Mon - Fri",
               "price": 11.0
             }
           ]
         },
         {
           "rateType": "Weekend",
-          "notes": "<p>Rates Apply Saturday - Sunday &amp; Public Holidays<br />Rates are charged per exit per day</p>\n<p>&nbsp;</p>",
+          "notes": "<p>Rates Apply Saturday - Sunday &amp; Public Holidays<br />Rates are charged per exit per day</p>",
           "rates": [
             {
               "timeSpan": "Saturday - Sunday & Public Holidays",
@@ -63158,7 +63165,7 @@
         }
       ],
       "fromText": "From",
-      "fromPrice": "11",
+      "fromPrice": "9.75",
       "location": {
         "longitude": 144.952309794512,
         "latitude": -37.8129376333334,
@@ -63247,7 +63254,7 @@
       ],
       "url": "/parking-locations/victoria/melbourne-cbd/500-la-trobe-st-car-park/",
       "serviceConfiguration": {
-        "canBookABay": false,
+        "canBookABay": true,
         "bookABayIconLabel": "Prepay Online",
         "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
         "monthlyParkingServiceIsAvailable": false,
