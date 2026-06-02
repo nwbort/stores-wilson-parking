@@ -10193,7 +10193,7 @@
           "notes": "<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>",
           "rates": [
             {
-              "timeSpan": "Weekend varies from $21.75- $23.75, depending on demand",
+              "timeSpan": "Weekend varies from $22.75- $24.75, depending on demand",
               "price": 25.0
             }
           ]
@@ -64100,7 +64100,7 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Rates apply Monday - Friday &amp; Public Holidays</p>",
+          "notes": "<p>Rates apply Monday - Friday</p>",
           "rates": [
             {
               "timeSpan": "0 - 0.5 hrs",
@@ -64170,6 +64170,10 @@
           "rates": [
             {
               "timeSpan": "Sat - Sun",
+              "price": 26.0
+            },
+            {
+              "timeSpan": "Kings Birthday Public Holiday",
               "price": 26.0
             }
           ]
@@ -94380,7 +94384,7 @@
       "carParkPhoto": "/siteassets/parking-location-images/wa/per055.gif",
       "category": "",
       "costCenter": 1006055,
-      "direction": "Entry off Spring Street.\n</br></br>Due to scheduled works there will be no access to the car park via Forrest Centre. Please use St Georges Square to enter the car park on 30th of May.</br>\n\n</br></br>We apologise for this inconvenience.</br>",
+      "direction": "Entry off Spring Street.\n",
       "heightRestriction": 2.0,
       "information": "<p>Wilson Parking offer affordable &amp; convenient parking at our St Georges Square Car Park, located at 225 St Georges Tce, Perth, with the entry of Spring St. Open 7 days until late, this undercover car park is conveniently located in the Perth CBD, offering all day parking for visitors to nearby Perth businesses. Offering casual Hourly, Night and Weekend Parking and exclusive discounts when you prepay online or with the Wilson Parking App, the St Georges Square Car Park will meet all your Perth parking needs.&nbsp;</p>\n<p>Download the Wilson Parking App or prepay online to plan ahead and access exclusive discounts, or just drive up and pay with your credit card,&nbsp;pay as you go with a Wilson Parking card, or enjoy unlimited access within the operational hours of the car park when you subscribe to Monthly Parking. &nbsp;</p>",
       "isWilsonOne": true,
@@ -94968,7 +94972,7 @@
       "carParkPhoto": "/contentassets/1592543cba2c4b818f7b11ee2a5f31b4/20230418_105604.jpg",
       "category": "",
       "costCenter": 1006063,
-      "direction": "Entry via St Georges Terrace or Hay Street\n<br>Motorbike parking must be paid for using the 256 St Georges Tce (Barrack Arch) - Motorcycle parking location\n</br></br>Due to the scheduled works, St Georges Terrace entry to the car park will be closed. Please use Hay Street to enter the car park on 6th of June. </br>",
+      "direction": "Entry via St Georges Terrace or Hay Street\n<br>Motorbike parking must be paid for using the 256 St Georges Tce (Barrack Arch) - Motorcycle parking location</br>\n",
       "heightRestriction": 2.1,
       "information": "<p>Wilson Parking offer affordable parking at 256 St Georges Tce (Barrack Arch) Car Park, located at 256 St Georges Terrace, Perth. With entrances from both St Georges Terrace and Hay St, this undercover car park is open 7 days until midnight, providing parking for visitors to QV1 plaza, Barracks Arch and nearby businesses in the Perth CBD. Offering casual Hourly, Night and Weekend Parking with exclusive discounts when you prepay online, and permanent monthly parking for regular parkers, the 256 St Georges Tce (Barrack Arch) Car Park will meet all of your parking needs.</p>\n<p>Download the Wilson Parking App to plan your journey and access exclusive discounts when you prepay ahead; enjoy 24/7 access when you subscribe to monthly parking; or pay as you go when you access the car park using your Wilson Parking card.&nbsp;</p>",
       "isWilsonOne": true,
