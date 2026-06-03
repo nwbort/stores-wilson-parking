@@ -895,25 +895,21 @@
           "rates": [
             {
               "timeSpan": "0.0 - 1.0 hrs",
-              "price": 29.0
+              "price": 30.0
             },
             {
               "timeSpan": "1.0 - 2.0 hrs",
-              "price": 59.0
+              "price": 60.0
             },
             {
-              "timeSpan": "2.0 - 3.0 hrs",
-              "price": 79.0
-            },
-            {
-              "timeSpan": "3.0+ hrs",
-              "price": 89.0
+              "timeSpan": "2.0 + hrs",
+              "price": 90.0
             }
           ]
         }
       ],
       "fromText": "From",
-      "fromPrice": "29",
+      "fromPrice": "30",
       "location": {
         "longitude": 151.20791759793,
         "latitude": -33.8708094823034,
@@ -3016,8 +3012,8 @@
           "notes": "<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>",
           "rates": [
             {
-              "timeSpan": "Weekend varies from $27.75 - $29.75, depending on demand",
-              "price": 32.0
+              "timeSpan": "Weekend varies from $29.75 - $32.75, depending on demand",
+              "price": 35.0
             }
           ]
         }
@@ -5299,7 +5295,7 @@
           "rates": [
             {
               "timeSpan": "Mon - Fri",
-              "price": 38.0
+              "price": 40.0
             }
           ]
         }
@@ -5739,8 +5735,8 @@
         "Overnight Parking",
         "Flexi Parking",
         "Daily Pass Bundles",
-        "Festive",
-        "Summer Sale"
+        "LPR",
+        "Elevate Only"
       ],
       "services": [
         "book a bay",
@@ -5923,6 +5919,10 @@
         "evChargerIconLabel": "EV Charging",
         "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
         "additionalServices": [
+          {
+            "label": null,
+            "icon": null
+          },
           {
             "label": null,
             "icon": null
@@ -26063,13 +26063,10 @@
       "canBookABay": false,
       "selectedFeatures": "",
       "carParkFeature": [
-        "Monthly Parking",
         "Epark",
         "Entry height at least 2"
       ],
-      "services": [
-        "monthly"
-      ],
+      "services": [],
       "carParkName": "35 Hunter Street Car Park",
       "carParkNumber": 2358,
       "carParkPhoto": null,
@@ -26080,7 +26077,7 @@
       "information": "<p>Wilson Parking offer affordable &amp; secure parking 35 Hunter St Car Park which is located in the heart of Parramatta.</p>\n<p>35 Hunter St Car Park suits all your leisure and business parking needs. With Casual parking Monday to Sunday.</p>",
       "isWilsonOne": false,
       "legacyID": 786,
-      "monthlyParkingServiceIsAvailable": true,
+      "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
       "phoneNumber": "1800 PARKING",
@@ -26182,7 +26179,7 @@
         "canBookABay": false,
         "bookABayIconLabel": "Prepay Online",
         "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": true,
+        "monthlyParkingServiceIsAvailable": false,
         "monthlyParkingIconLabel": "Monthly Subscription",
         "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
         "isWilsonOne": false,
@@ -34459,7 +34456,8 @@
       "carParkFeature": [
         "Monthly Parking",
         "Weekend Parking",
-        "Book a Bay"
+        "Book a Bay",
+        "Spott Saver"
       ],
       "services": [
         "book a bay",
@@ -37122,15 +37120,12 @@
       "canBookABay": false,
       "selectedFeatures": "",
       "carParkFeature": [
-        "Monthly Parking",
         "Night Parking",
         "Weekend Parking",
         "Early Bird Parking",
         "Epark"
       ],
-      "services": [
-        "monthly"
-      ],
+      "services": [],
       "carParkName": "8 Cape Street Car Park",
       "carParkNumber": 1125,
       "carParkPhoto": "/contentassets/bed1d39d968043cea29235ca84d96160/front-of-building-photo.jpg",
@@ -37141,7 +37136,7 @@
       "information": "<p>Wilson Parking offer affordable parking at 8 Cape Street Car Park, located at 8 Cape Street in the heart of Dickson. Open 7 days, this car park is&nbsp;conveniently located near many popular Dickson restaurants and businesses. Offering casual Hourly and Early Bird, and Monthly parking, and the ease of payments with the Wilson Parking App, the 8 Cape Street Car Park will meet all of your business and leisure parking needs.</p>\n<p>Download the Wilson Parking App to plan your journey and access parking discounts when you prepay online.</p>\n<p>Enjoy unlimited 24/7 access when you subscribe to Monthly Subscription parking.</p>",
       "isWilsonOne": false,
       "legacyID": 1125,
-      "monthlyParkingServiceIsAvailable": true,
+      "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
       "phoneNumber": "1800 PARKING (1800 727 5464)",
@@ -37266,7 +37261,7 @@
         "canBookABay": false,
         "bookABayIconLabel": "Prepay Online",
         "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": true,
+        "monthlyParkingServiceIsAvailable": false,
         "monthlyParkingIconLabel": "Monthly Subscription",
         "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
         "isWilsonOne": false,
@@ -55165,7 +55160,7 @@
       "costCenter": 1003300,
       "direction": null,
       "heightRestriction": 2.05,
-      "information": "<p><span style=\"color: #ff1e25;\"><strong><u>Event Dates May 2026:<br /></u></strong>29th from 5:00pm to 11:59pm.</span><br /><span style=\"color: #ff1e25;\">Event rates will apply.</span><br /><span style=\"color: #ff1e25;\"><em>On event dates, please allow additional time to exit.<br /><u></u></em></span></p>\n<p><span style=\"color: #ff1e25;\"><strong><u>Event Dates June 2026:<br /></u></strong>5th, 20th from 5:00pm to 11:59pm.<br />7th, 17th from 4:00pm to 11:59pm.<br />8th from 12:00pm to 11:59pm.<em><br /></em>Event rates will apply.<em><br /><em style=\"color: #ff1e25;\">On event dates, please allow additional time to exit.</em></em></span></p>\n<p>Wilson Parking offers affordable &amp; secure parking at 11 Exhibition St&nbsp;Car Park, located at 11 Exhibition St in the heart of East End. Open 7 days, this undercover car park provides convenient access to nearby the MCG, Federation Square, Birrarung Marr, Melbourne Park and many other popular attractions. This car park offers flat rate parking at the times you need when you prepay online a Flexi Saver rate online. Casual Hourly, Weekend and Night Parking options are also available, with permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the 11 Exhibition St Car Park will meet all your business and leisure parking needs.&nbsp;</p>\n<p>This car park accepts Credit Card payments only.&nbsp;Download the Wilson Parking App to plan your journey and access the best parking value when you prepay online; enjoy unlimited 24/7 access when you subscribe to monthly parking; pay as you go on one convenient monthly invoice when you use your Wilson Parking Card to access the car park.</p>",
+      "information": "<p><span style=\"color: #ff1e25;\"><strong><u>Event Dates June 2026:<br /></u></strong>5th, 20th from 5:00pm to 11:59pm.<br />7th, 17th from 4:00pm to 11:59pm.<br />8th from 12:00pm to 11:59pm.<em><br /></em>Event rates will apply.<em><br /><em style=\"color: #ff1e25;\">On event dates, please allow additional time to exit.</em></em></span></p>\n<p>Wilson Parking offers affordable &amp; secure parking at 11 Exhibition St&nbsp;Car Park, located at 11 Exhibition St in the heart of East End. Open 7 days, this undercover car park provides convenient access to nearby the MCG, Federation Square, Birrarung Marr, Melbourne Park and many other popular attractions. This car park offers flat rate parking at the times you need when you prepay online a Flexi Saver rate online. Casual Hourly, Weekend and Night Parking options are also available, with permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the 11 Exhibition St Car Park will meet all your business and leisure parking needs.&nbsp;</p>\n<p>This car park accepts Credit Card payments only.&nbsp;Download the Wilson Parking App to plan your journey and access the best parking value when you prepay online; enjoy unlimited 24/7 access when you subscribe to monthly parking; pay as you go on one convenient monthly invoice when you use your Wilson Parking Card to access the car park.</p>",
       "isWilsonOne": true,
       "legacyID": 497,
       "monthlyParkingServiceIsAvailable": true,
@@ -56728,7 +56723,7 @@
       "costCenter": 1003250,
       "direction": "Entry via Russell St (Extension) or off Batman Ave (at Tennis Centre)\nOn event dates and busy periods, please use the Batman Ave Exit from Level 1 and allow additional time to exit. ",
       "heightRestriction": 2.1,
-      "information": "<p><strong style=\"color: #ff1e25;\"><u>Event Dates May 2026:<br /></u></strong><span style=\"color: #ff1e25;\">27th and 29th&nbsp;</span><span style=\"color: #ff1e25;\">from 4:00pm to 11:59pm</span><span style=\"color: #ff1e25;\"><br /></span><span style=\"color: #ff1e25;\">30th and 31st from 12:00pm to 11:59pm<br /></span><span style=\"color: #ff1e25;\">Event rates will apply.<br /></span><em style=\"color: #ff1e25;\"><em>On event dates, please allow additional time to exit.</em></em></p>\n<p><span style=\"color: #ff1e25;\"><strong><u>Event Dates June 2026:<br /></u></strong>4th, 5th, 7th, 16th, 17th and 26th from 4:00pm to 11:59pm<br />20th from 4:00am to 11:59pm<br /></span><span style=\"color: #ff1e25;\">13th, 14th, 21st and 27th from 11:00am to 11:59pm</span><em style=\"color: #ff1e25;\"><em><br /><span style=\"color: #ff1e25;\">Event rates will apply.</span><br /><span style=\"color: #ff1e25;\">On event dates, please allow additional time to exit.</span><br /><br /></em></em>Wilson Parking offers affordable &amp; secure parking at Federation Square Car Park, located on Russell St (Extension) in the Melbourne CBD. This car park is nearby to many popular attractions, including Federation Square, Flinders St Station, Birrarung Marr, Rod Laver Arena and Melbourne Park. Offering casual Early Bird, Hourly, Night and Weekend parking, with exclusive discounts when you prepay online, the Federation Square Car Park will meet all of your parking needs.</p>\n<p><span style=\"color: #000000;\"><strong>On event dates and busy periods, please use the Batman Avenue Exit from Level 1 and allow additional time to exit.</strong></span></p>\n<p>Download the Wilson Parking App to plan your journey and access exclusive discounts when you prepay online; pay as you go with one convenient monthly invoice when you use your Wilson Parking Card; enjoy 24/7 unlimited access when you subscribe to Monthly Parking; or just drive up to pay with a credit card at the car park.</p>",
+      "information": "<p><span style=\"color: #ff1e25;\"><strong><u>Event Dates June 2026:<br /></u></strong>4th, 5th, 7th, 16th, 17th and 26th from 4:00pm to 11:59pm<br />20th from 4:00am to 11:59pm<br /></span><span style=\"color: #ff1e25;\">13th, 14th, 21st and 27th from 11:00am to 11:59pm</span><em style=\"color: #ff1e25;\"><em><br /><span style=\"color: #ff1e25;\">Event rates will apply.</span><br /><span style=\"color: #ff1e25;\">On event dates, please allow additional time to exit.</span></em></em><u></u></p>\n<p>Wilson Parking offers affordable &amp; secure parking at Federation Square Car Park, located on Russell St (Extension) in the Melbourne CBD. This car park is nearby to many popular attractions, including Federation Square, Flinders St Station, Birrarung Marr, Rod Laver Arena and Melbourne Park. Offering casual Early Bird, Hourly, Night and Weekend parking, with exclusive discounts when you prepay online, the Federation Square Car Park will meet all of your parking needs.</p>\n<p><span style=\"color: #000000;\"><strong>On event dates and busy periods, please use the Batman Avenue Exit from Level 1 and allow additional time to exit.</strong></span></p>\n<p>Download the Wilson Parking App to plan your journey and access exclusive discounts when you prepay online; pay as you go with one convenient monthly invoice when you use your Wilson Parking Card; enjoy 24/7 unlimited access when you subscribe to Monthly Parking; or just drive up to pay with a credit card at the car park.</p>",
       "isWilsonOne": true,
       "legacyID": 94,
       "monthlyParkingServiceIsAvailable": true,
@@ -68759,7 +68754,8 @@
         "Entry height at least 2",
         "Dine BNE",
         "Elevate",
-        "LPR"
+        "LPR",
+        "Spott Saver"
       ],
       "services": [
         "book a bay",
@@ -70950,7 +70946,8 @@
         "Summer Sale",
         "Elevate",
         "LPR",
-        "Riverfire"
+        "Riverfire",
+        "Spott Saver"
       ],
       "services": [
         "book a bay",
@@ -71755,7 +71752,8 @@
         "Dine BNE",
         "Elevate",
         "LPR",
-        "Riverfire"
+        "Riverfire",
+        "Spott Saver"
       ],
       "services": [
         "book a bay",
@@ -71968,7 +71966,8 @@
         "Summer Sale",
         "Elevate",
         "LPR",
-        "Riverfire"
+        "Riverfire",
+        "Spott Saver"
       ],
       "services": [
         "book a bay",
