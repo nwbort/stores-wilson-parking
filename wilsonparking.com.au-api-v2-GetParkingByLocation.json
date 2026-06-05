@@ -3686,7 +3686,9 @@
         "Night Parking",
         "Weekend Parking",
         "Book a Bay",
-        "Wilson One"
+        "Wilson One",
+        "Elevate",
+        "LPR"
       ],
       "services": [
         "book a bay",
@@ -3873,6 +3875,10 @@
         "evChargerIconLabel": "EV Charging",
         "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
         "additionalServices": [
+          {
+            "label": null,
+            "icon": null
+          },
           {
             "label": null,
             "icon": null
@@ -5736,8 +5742,9 @@
         "Overnight Parking",
         "Flexi Parking",
         "Daily Pass Bundles",
+        "Elevate",
         "LPR",
-        "Elevate Only"
+        "Spott Saver"
       ],
       "services": [
         "book a bay",
@@ -15990,7 +15997,10 @@
         "Wilson One",
         "Disabled Parking",
         "Daily Pass Bundles",
-        "Summer Sale"
+        "Summer Sale",
+        "Elevate",
+        "LPR",
+        "Spott Saver"
       ],
       "services": [
         "book a bay",
@@ -16155,6 +16165,10 @@
           {
             "label": null,
             "icon": null
+          },
+          {
+            "label": null,
+            "icon": null
           }
         ]
       },
@@ -16179,7 +16193,9 @@
         "Flexi Parking",
         "Disabled Parking",
         "Daily Pass Bundles",
-        "Footy Parking"
+        "Elevate",
+        "LPR",
+        "Spott Saver"
       ],
       "services": [
         "book a bay",
@@ -16335,6 +16351,10 @@
         "evChargerIconLabel": "EV Charging",
         "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
         "additionalServices": [
+          {
+            "label": null,
+            "icon": null
+          },
           {
             "label": null,
             "icon": null
@@ -54257,7 +54277,7 @@
       "costCenter": 1003195,
       "direction": "Entry & exit via St Andrews Place",
       "heightRestriction": 2.1,
-      "information": "<p><span style=\"color: #ff1e25;\"><strong><u>Event Dates June 2026:<br /></u></strong>5th, 20th from 5:00pm<br /></span><span style=\"color: #ff1e25;\">7th, 17th from from 4:00pm<br />8th from 8:00pm<br /></span><span style=\"color: #ff1e25;\"><em>Event rates will apply. Drive up only.<br />On event dates, please allow additional time to exit.</em></span></p>\n<p>Wilson Parking offer affordable &amp; secure parking at Park Hyatt Car Park, located at St Andrews Place&nbsp;in the heart of East Melbourne. Open 7 days, this undercover car park provides convenient access to Princess Theatre, Comedy Theatre, Parliament House and with 24 hour access is perfect for restaurant and hotel parking. Offering Hourly, Early Bird, Weekend and Night Parking options with exclusive discounts when you prepay online, permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the Park Hyatt Car Park will meet all your business and leisure parking needs.&nbsp;</p>\n<p>This car park accepts credit card payment only. Download the Wilson Parking App to plan your journey and access parking discounts when you prepay online;&nbsp;enjoy unlimited 24/7 access when you subscribe to monthly parking; pay as you go on one convenient monthly invoice when you use your Wilson Parking Card to access the car park.&nbsp;</p>",
+      "information": "<p><span style=\"color: #ff1e25;\"><strong><u>Event Dates June 2026:<br /></u></strong>5th, 20th from 5:00pm<br /></span><span style=\"color: #ff1e25;\">7th, 17th from from 4:00pm<br />8th from 8:00pm<br /></span><span style=\"color: #ff1e25;\"><em>Event rates will apply. Drive up only.<br />On event dates, please allow additional time to exit.</em></span></p>\n<p><span style=\"color: #ff1e25;\"><strong><u>Event Dates July 2026:<br /></u></strong>4th, 11th, 18th, 24th and 30th from 5:00pm<em><br />Event rates will apply. Drive up only.<br />On event dates, please allow additional time to exit.</em></span></p>\n<p>Wilson Parking offer affordable &amp; secure parking at Park Hyatt Car Park, located at St Andrews Place&nbsp;in the heart of East Melbourne. Open 7 days, this undercover car park provides convenient access to Princess Theatre, Comedy Theatre, Parliament House and with 24 hour access is perfect for restaurant and hotel parking. Offering Hourly, Early Bird, Weekend and Night Parking options with exclusive discounts when you prepay online, permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the Park Hyatt Car Park will meet all your business and leisure parking needs.&nbsp;</p>\n<p>This car park accepts credit card payment only. Download the Wilson Parking App to plan your journey and access parking discounts when you prepay online;&nbsp;enjoy unlimited 24/7 access when you subscribe to monthly parking; pay as you go on one convenient monthly invoice when you use your Wilson Parking Card to access the car park.&nbsp;</p>",
       "isWilsonOne": true,
       "legacyID": 120,
       "monthlyParkingServiceIsAvailable": true,
@@ -55163,7 +55183,7 @@
       "costCenter": 1003300,
       "direction": null,
       "heightRestriction": 2.05,
-      "information": "<p><span style=\"color: #ff1e25;\"><strong><u>Event Dates June 2026:<br /></u></strong>5th, 20th from 5:00pm to 11:59pm.<br />7th, 17th from 4:00pm to 11:59pm.<br />8th from 12:00pm to 11:59pm.<em><br /></em>Event rates will apply.<em><br /><em style=\"color: #ff1e25;\">On event dates, please allow additional time to exit.</em></em></span></p>\n<p>Wilson Parking offers affordable &amp; secure parking at 11 Exhibition St&nbsp;Car Park, located at 11 Exhibition St in the heart of East End. Open 7 days, this undercover car park provides convenient access to nearby the MCG, Federation Square, Birrarung Marr, Melbourne Park and many other popular attractions. This car park offers flat rate parking at the times you need when you prepay online a Flexi Saver rate online. Casual Hourly, Weekend and Night Parking options are also available, with permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the 11 Exhibition St Car Park will meet all your business and leisure parking needs.&nbsp;</p>\n<p>This car park accepts Credit Card payments only.&nbsp;Download the Wilson Parking App to plan your journey and access the best parking value when you prepay online; enjoy unlimited 24/7 access when you subscribe to monthly parking; pay as you go on one convenient monthly invoice when you use your Wilson Parking Card to access the car park.</p>",
+      "information": "<p><span style=\"color: #ff1e25;\"><strong><u>Event Dates June 2026:<br /></u></strong>5th, 20th from 5:00pm to 11:59pm.<br />7th, 17th from 4:00pm to 11:59pm.<br />8th from 12:00pm to 11:59pm.<em><br /></em>Event rates will apply.<em><br />On event dates, please allow additional time to exit.</em></span></p>\n<p><span style=\"color: #ff1e25;\"><strong><u>Event Dates July 2026:<br /></u></strong>4th, 11th, 18th, 24th, 30th from 5:00pm<em><br /></em>Event rates will apply.<em><br /><em style=\"color: #ff1e25;\">On event dates, please allow additional time to exit.</em></em></span></p>\n<p>Wilson Parking offers affordable &amp; secure parking at 11 Exhibition St&nbsp;Car Park, located at 11 Exhibition St in the heart of East End. Open 7 days, this undercover car park provides convenient access to nearby the MCG, Federation Square, Birrarung Marr, Melbourne Park and many other popular attractions. This car park offers flat rate parking at the times you need when you prepay online a Flexi Saver rate online. Casual Hourly, Weekend and Night Parking options are also available, with permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the 11 Exhibition St Car Park will meet all your business and leisure parking needs.&nbsp;</p>\n<p>This car park accepts Credit Card payments only.&nbsp;Download the Wilson Parking App to plan your journey and access the best parking value when you prepay online; enjoy unlimited 24/7 access when you subscribe to monthly parking; pay as you go on one convenient monthly invoice when you use your Wilson Parking Card to access the car park.</p>",
       "isWilsonOne": true,
       "legacyID": 497,
       "monthlyParkingServiceIsAvailable": true,
@@ -64510,7 +64530,7 @@
       "costCenter": 1003225,
       "direction": "Entry via Enterprize Way. Car park is on the right.",
       "heightRestriction": 2.0,
-      "information": "<p><span style=\"color: #ff1e25;\"><strong><u>Event Dates June 2026:<br /></u></strong>11th from 5:00pm<br />14th, 21st from 12:00pm<br /></span><span style=\"color: #ff1e25;\"><em>Event rates will apply. Drive up only.<br />On event dates, please allow additional time to exit.<br /><br /></em></span>Wilson Parking offer affordable parking at 800 Bourke St Car Park, located at Enterprize Way, Docklands. This car park, located on the Yarra River,&nbsp; is nearby to Marvel Stadium, Docklands Park and other Docklands attractions. Offering Hourly, Weekend and night parking, as well as discount online parking options, the 800 Bourke St Car Park will meet all of your parking needs.</p>\n<p>Experience the convenience of&nbsp;pay as you go with a Wilson Parking card, or enjoy 24/7 unlimited access when you subscribe to Monthly Parking.</p>",
+      "information": "<p><span style=\"color: #ff1e25;\"><strong><u>Event Dates June 2026:<br /></u></strong>11th from 5:00pm<br />14th, 21st from 12:00pm<br /></span><span style=\"color: #ff1e25;\"><em>Event rates will apply. Drive up only.<br />On event dates, please allow additional time to exit.<br /><strong><u><br /></u></strong></em><strong><u>Event Dates July 2026:</u></strong><strong><u><br /></u></strong>26th from 12:00pm<br />10th from 5:00pm<br />11th, 12th, 25th from 10:00am<br />18th from 1:00pm<br /></span><span style=\"color: #ff1e25;\">19th from 2:00pm<em><br />Event rates will apply. Drive up only.<br />On event dates, please allow additional time to exit.<br /><br /></em></span>Wilson Parking offer affordable parking at 800 Bourke St Car Park, located at Enterprize Way, Docklands. This car park, located on the Yarra River,&nbsp; is nearby to Marvel Stadium, Docklands Park and other Docklands attractions. Offering Hourly, Weekend and night parking, as well as discount online parking options, the 800 Bourke St Car Park will meet all of your parking needs.</p>\n<p>Experience the convenience of&nbsp;pay as you go with a Wilson Parking card, or enjoy 24/7 unlimited access when you subscribe to Monthly Parking.</p>",
       "isWilsonOne": true,
       "legacyID": 41,
       "monthlyParkingServiceIsAvailable": true,
@@ -67582,7 +67602,6 @@
       "canBookABay": true,
       "selectedFeatures": "",
       "carParkFeature": [
-        "Monthly Parking",
         "Book a Bay",
         "Wilson One",
         "Flexi Parking",
@@ -67591,8 +67610,7 @@
       ],
       "services": [
         "book a bay",
-        "wilson one",
-        "monthly"
+        "wilson one"
       ],
       "carParkName": "339 Coronation Drive",
       "carParkNumber": 4033,
@@ -67604,7 +67622,7 @@
       "information": "<p>Wilson Parking offers affordable &amp; secure parking at 339 Coronation Drive car park (John Oxley Centre), located at 339 Coronation Drive, Milton.&nbsp;Offering casual Hourly parking options with exclusive discounts when you prepay for Flexi Saver online.</p>\n<p>Featuring undercover parking in the heart of Milton, nearby The Wesley Hospital, the 339 Coronation Drive car park will meet all of your parking needs.</p>",
       "isWilsonOne": true,
       "legacyID": 198,
-      "monthlyParkingServiceIsAvailable": true,
+      "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
       "phoneNumber": "1800 PARKING",
@@ -67725,7 +67743,7 @@
         "canBookABay": true,
         "bookABayIconLabel": "Prepay Online",
         "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": true,
+        "monthlyParkingServiceIsAvailable": false,
         "monthlyParkingIconLabel": "Monthly Subscription",
         "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
         "isWilsonOne": true,
@@ -79630,6 +79648,14 @@
           "opening": "09:45",
           "closing": "18:00",
           "note": null
+        },
+        {
+          "day_TimePeriod": "Public Holiday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "10:30",
+          "closing": "19:00",
+          "note": null
         }
       ],
       "url": "/parking-locations/south-australia/adelaide-cbd/centrepoint-car-park/",
@@ -81096,12 +81122,8 @@
       "bookText": null,
       "canBookABay": false,
       "selectedFeatures": "",
-      "carParkFeature": [
-        "Monthly Parking"
-      ],
-      "services": [
-        "monthly"
-      ],
+      "carParkFeature": [],
+      "services": [],
       "carParkName": "Holland Street",
       "carParkNumber": 58,
       "carParkPhoto": null,
@@ -81112,7 +81134,7 @@
       "information": "<p>Wilson Parking offer affordable &amp; secure parking at the Holland St Car Park, located at 27 Holland St, Adelaide. Offering convenient unlimited weekday entry Monthly Parking, the Holland St car park will meet your permanent parking needs when visiting the Adelaide CBD.</p>\n<p>Monthly Parking only</p>",
       "isWilsonOne": false,
       "legacyID": 756,
-      "monthlyParkingServiceIsAvailable": true,
+      "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
       "phoneNumber": "1800 PARKING",
@@ -81206,7 +81228,7 @@
         "canBookABay": false,
         "bookABayIconLabel": "Prepay Online",
         "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": true,
+        "monthlyParkingServiceIsAvailable": false,
         "monthlyParkingIconLabel": "Monthly Subscription",
         "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
         "isWilsonOne": false,
