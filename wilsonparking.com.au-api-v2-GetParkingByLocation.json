@@ -9082,11 +9082,11 @@
             },
             {
               "timeSpan": "2.0 - 3.0 hrs",
-              "price": 35.0
+              "price": 39.0
             },
             {
               "timeSpan": "3.0 + hrs",
-              "price": 42.0
+              "price": 45.0
             },
             {
               "timeSpan": "Motorcycle",
@@ -14814,7 +14814,9 @@
         "Book a Bay",
         "Wilson One",
         "Disabled Parking",
-        "Daily Pass Bundles"
+        "Daily Pass Bundles",
+        "Elevate",
+        "LPR"
       ],
       "services": [
         "book a bay",
@@ -86159,7 +86161,7 @@
       "carParkPhoto": "/contentassets/ca151af77ba848a8a7950e6de5610cf5/capture.jpg",
       "category": "",
       "costCenter": 1006212,
-      "direction": "<b>**Car Park only operational on selected event days**</b><br>\n\n</b><br>22nd May -  AFL Fremantle Dockers Vs St Kilda<b>\n</b><br>(Gate opens at 5:00pm and closes at 11:00pm sharp)<b>\n\n</b><br>31st May -  AFL West Coast Eagles Vs Essendon<b>\n</b><br>(Gate opens at 3:30pm and closes at 10:00pm sharp)<b>\n\n</b><br>18th June -  AFL Fremantle Dockers Vs Geelong Cats <b>\n</b><br>(Gate opens at 4:30pm and closes at 10:00pm sharp) <b>",
+      "direction": "<b>**Car Park only operational on selected event days**</b><br>\n\n</b><br>18th June -  AFL Fremantle Dockers Vs Geelong Cats <b>\n</b><br>(Gate opens at 4:30pm and closes at 10:00pm sharp) <b>\n\n</b><br>28th June -  AFL Fremantle Dockers Vs Gold Coast SUNS<b>\n</b><br>(Gate opens at 1:30pm and closes at 7:30pm sharp)<b>",
       "heightRestriction": 0.0,
       "information": "<p>Wilson Parking offers affordable parking at Belmont Racecourse Car Park for Optus Stadium event parking only. Located a short walk from Optus Stadium, this car park is the perfect location for footy, cricket, concerts and other Optus Stadium events. Operational days are shown under the parking rates to the left.</p>\n<p>Parking must be prepaid in advance through the Wilson Parking App or website. No payments can be taken at the gate. Must present prepaid confirmation to access car park.</p>",
       "isWilsonOne": false,
