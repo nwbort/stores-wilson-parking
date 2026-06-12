@@ -1236,7 +1236,9 @@
       "carParkFeature": [
         "Night Parking",
         "Weekend Parking",
-        "Wilson One"
+        "Wilson One",
+        "LPR",
+        "Spott"
       ],
       "services": [
         "wilson one"
@@ -1250,7 +1252,7 @@
       "heightRestriction": 1.8,
       "information": "<p>Wilson Parking offer affordable &amp; secure parking at 71 York St Car Park, located at 71 York St, Sydney in the heart of the Sydney CBD. Nearby to King St Wharf, Pitt St Mall, Barangaroo, Crown Casino &amp; Restaurant Precinct, this car park is open until midnight, 7 days a week. Offering Hourly, Night and Weekend Parking, the&nbsp;71 York St Car Park suits all your leisure and commuter parking needs.</p>\n<p>Enjoy unlimited 24/7 access when you subscribe; or pay as you go with the queue-less, contact free Wilson Parking Card.</p>",
       "isWilsonOne": true,
-      "spottIsAvailable": false,
+      "spottIsAvailable": true,
       "legacyID": 412,
       "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
@@ -1305,7 +1307,7 @@
         }
       ],
       "fromText": "From",
-      "fromPrice": "35",
+      "fromPrice": "28",
       "location": {
         "longitude": 151.20587736368179,
         "latitude": -33.868290929691966,
@@ -1409,7 +1411,7 @@
         "evChargerIsAvailable": false,
         "evChargerIconLabel": "EV Charging",
         "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "spottIsAvailable": false,
+        "spottIsAvailable": true,
         "spottIconLabel": "Spott",
         "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
         "additionalServices": [
@@ -5814,7 +5816,7 @@
       "costCenter": 1002303,
       "direction": "St Mary's Road, Sydney",
       "heightRestriction": 1.9,
-      "information": "<p style=\"text-align: left;\"><span style=\"color: #ff1e25;\">Please note that one of the lifts at The Domain Car Park is currently out of order. We apologise for any inconvenience this may cause. For those with accessibility needs, please park on Ground level and access the car park via Sir John Young Crescent.</span></p>\n<p>Wilson Parking offer affordable &amp; secure parking at The Domain Car Park which is located at St Mary&rsquo;s Rd in the heart of Sydney. The Domain is home of Music Festivals, Carols in the Domain, Concerts &amp; Marathon events. Offering Hourly, Night and Weekend parking as well as discount online parking options, and open 24 hours a day, The Domain Car Park suits all your leisure and business parking needs.</p>\n<p>Save when you prepay for your parking online or with the Wilson Parking App; enjoy unlimited 24/7 access when you subscribe to monthly parking; or pay as you go with the convenient queue-less, contact free Wilson Parking Card.</p>",
+      "information": "<p style=\"text-align: left;\"><span style=\"color: #ff1e25;\">Please note that one of the lifts at The Domain Car Park is currently out of order. We apologise for any inconvenience this may cause. For those with accessibility needs, please park on Ground level and access the car park via Sir John Young Crescent.</span></p>\n<p>Affordable &amp; secure parking is available at The Domain Car Park which is located at St Mary&rsquo;s Rd in the heart of Sydney. The Domain is home of Music Festivals, Carols in the Domain, Concerts &amp; Marathon events. Offering Hourly, Night and Weekend parking as well as discount online parking options, and open 24 hours a day, The Domain Car Park suits all your parking needs.</p>\n<p><strong>Spott is now available at The Domain Car Park. Download the Wilson Parking App to enjoy easy, stress free, automatic parking using advanced vehicle recognition (LPR) and QR code technology at this car park.</strong></p>\n<p>Save when you prepay for your parking online or with the Wilson Parking App or enjoy unlimited 24/7 access when you subscribe to monthly parking if you visit frequently.&nbsp;</p>",
       "isWilsonOne": true,
       "spottIsAvailable": true,
       "legacyID": 562,
@@ -5998,7 +6000,13 @@
       "price": "",
       "status": "",
       "cpmsCarparkCode": null,
-      "externalCarParkInfo": null,
+      "externalCarParkInfo": {
+        "name": "The Domain",
+        "pinUrl": "/siteassets/parking-stock-images/icons/pin-blue.png",
+        "logoUrl": "/siteassets/logos/the-domain-logo-jun26_for-web.jpg",
+        "pageUrl": "",
+        "content": ""
+      },
       "featuredIndex": 0
     },
     {
@@ -42574,8 +42582,12 @@
               "price": 3.0
             },
             {
-              "timeSpan": "1.0 - 24hrs",
+              "timeSpan": "1.0 - 2hrs",
               "price": 6.0
+            },
+            {
+              "timeSpan": "2 + hrs",
+              "price": 9.0
             }
           ]
         }
@@ -42936,18 +42948,14 @@
           "rates": [
             {
               "timeSpan": "0.0 - 1.0 hrs",
-              "price": 2.0
+              "price": 3.0
             },
             {
               "timeSpan": "1.0 - 2.0 hrs",
-              "price": 4.0
-            },
-            {
-              "timeSpan": "2.0 - 3.0 hrs",
               "price": 6.0
             },
             {
-              "timeSpan": "3.0 + hrs",
+              "timeSpan": "2.0 + hrs",
               "price": 9.0
             }
           ]
@@ -42964,7 +42972,7 @@
         }
       ],
       "fromText": "From",
-      "fromPrice": "2",
+      "fromPrice": "3",
       "location": {
         "longitude": 149.072650807282,
         "latitude": -35.2426033432179,
@@ -56497,8 +56505,7 @@
         "Super Saver",
         "Elevate",
         "LPR",
-        "Spott Saver",
-        "Spott"
+        "Spott Saver"
       ],
       "services": [
         "book a bay",
@@ -56514,7 +56521,7 @@
       "heightRestriction": 2.0,
       "information": "<p>Wilson Parking offer affordable &amp; secure parking at 222 Russell St Car Park, located at 222 Russell Street in the Melbourne CBD. This car park is nearby to many Melbourne attractions, including Chinatown and is perfect for restaurant parking. Offering casual Night and Weekend parking with exclusive discounts when you prepay online, or permanent monthly parking for regular parkers, the 222 Russell St Car Park will meet all of your parking needs.</p>\n<p>Download the Wilson Parking App to plan your journey and access exclusive discounts when you prepay online; pay as you go with one monthly invoice when you use your Wilson Parking Card; enjoy unlimited 24/7 access when you subscribe to Monthly Parking; or drive up and pay with your credit card only at the car park.</p>",
       "isWilsonOne": true,
-      "spottIsAvailable": true,
+      "spottIsAvailable": false,
       "legacyID": 215,
       "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
@@ -56689,10 +56696,14 @@
         "evChargerIsAvailable": false,
         "evChargerIconLabel": "EV Charging",
         "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "spottIsAvailable": true,
+        "spottIsAvailable": false,
         "spottIconLabel": "Spott",
         "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
         "additionalServices": [
+          {
+            "label": null,
+            "icon": null
+          },
           {
             "label": null,
             "icon": null
@@ -60525,8 +60536,7 @@
         "Festive",
         "Elevate",
         "LPR",
-        "Spott Saver",
-        "Spott"
+        "Spott Saver"
       ],
       "services": [
         "book a bay",
@@ -60542,7 +60552,7 @@
       "heightRestriction": 2.0,
       "information": "<p>Wilson Parking offer affordable &amp; secure parking at Southgate Ave Car Park, located in the heart of Melbourne's Southbank. With Prepay Online, Monthly, Early Bird, Night and Weekend parking options the Southgate Ave Car Park will meet all of your parking needs.</p>\n<p>Enjoy the convenience of 24/7 access, and subscribe to monthly parking or sign up for a Wilson Parking Card and pay as you go.</p>\n<p>We're contactless. Simply use your credit, debit or Wilson Parking Card for payment.</p>",
       "isWilsonOne": true,
-      "spottIsAvailable": true,
+      "spottIsAvailable": false,
       "legacyID": 338,
       "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
@@ -60713,10 +60723,14 @@
         "evChargerIsAvailable": false,
         "evChargerIconLabel": "EV Charging",
         "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "spottIsAvailable": true,
+        "spottIsAvailable": false,
         "spottIconLabel": "Spott",
         "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
         "additionalServices": [
+          {
+            "label": null,
+            "icon": null
+          },
           {
             "label": null,
             "icon": null
@@ -62135,7 +62149,7 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "Mon - Fri. Casual parking from Level 3 down as highlighted by red line marking. Credit card payments only.",
+          "notes": "<p>Monday - Friday</p>\n<p>Casual parking from Level 3 down as highlighted by red line marking.</p>\n<p>Credit card payments only.</p>",
           "rates": [
             {
               "timeSpan": "0.0 - 0.5 hrs",
@@ -62146,15 +62160,11 @@
               "price": 32.0
             },
             {
-              "timeSpan": "1.0 - 1.5 hrs",
-              "price": 48.0
-            },
-            {
-              "timeSpan": "1.5 - 2.0 hrs",
+              "timeSpan": "1.0 - 2.0 hrs",
               "price": 64.0
             },
             {
-              "timeSpan": "2.0 hrs + ",
+              "timeSpan": "2.0 + hrs",
               "price": 80.0
             }
           ]
@@ -64890,8 +64900,7 @@
         "Daily Pass Bundles",
         "Elevate",
         "LPR",
-        "Spott Saver",
-        "Spott"
+        "Spott Saver"
       ],
       "services": [
         "book a bay",
@@ -64906,7 +64915,7 @@
       "heightRestriction": 0.0,
       "information": "<p>Wilson Parking offer affordable &amp; secure parking at 5 Queens Road Car Park&nbsp; located in the heart of St Kilda. With Early Bird and casual parking, the 5 Queens Road Car Park will meet all of your parking needs.</p>\n<p><strong>This car park accepts Credit Card payments only.</strong></p>",
       "isWilsonOne": true,
-      "spottIsAvailable": true,
+      "spottIsAvailable": false,
       "legacyID": 545,
       "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
@@ -65053,10 +65062,15 @@
         "evChargerIsAvailable": false,
         "evChargerIconLabel": "EV Charging",
         "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "spottIsAvailable": true,
+        "spottIsAvailable": false,
         "spottIconLabel": "Spott",
         "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
-        "additionalServices": []
+        "additionalServices": [
+          {
+            "label": null,
+            "icon": null
+          }
+        ]
       },
       "state": "VIC",
       "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
@@ -65720,7 +65734,7 @@
       "costCenter": 1003225,
       "direction": "Entry via Enterprize Way. Car park is on the right.",
       "heightRestriction": 2.0,
-      "information": "<p><span style=\"color: #ff1e25;\"><strong><u>Event Dates June 2026:<br /></u></strong>11th from 5:00pm<br />14th, 21st from 12:00pm<br /></span><span style=\"color: #ff1e25;\"><em>Event rates will apply. Drive up only.<br />On event dates, please allow additional time to exit.<br /><strong><u><br /></u></strong></em><strong><u>Event Dates July 2026:</u></strong><strong><u><br /></u></strong>26th from 12:00pm<br />10th from 5:00pm<br />11th, 12th, 25th from 10:00am<br />18th from 1:00pm<br /></span><span style=\"color: #ff1e25;\">19th from 2:00pm<em><br />Event rates will apply. Drive up only.<br />On event dates, please allow additional time to exit.<br /><br /></em></span>Wilson Parking offer affordable parking at 800 Bourke St Car Park, located at Enterprize Way, Docklands. This car park, located on the Yarra River,&nbsp; is nearby to Marvel Stadium, Docklands Park and other Docklands attractions. Offering Hourly, Weekend and night parking, as well as discount online parking options, the 800 Bourke St Car Park will meet all of your parking needs.</p>\n<p>Experience the convenience of&nbsp;pay as you go with a Wilson Parking card, or enjoy 24/7 unlimited access when you subscribe to Monthly Parking.</p>",
+      "information": "<p><span style=\"color: #ff1e25;\"><strong><u>Event Dates June 2026:<br /></u></strong>11th from 5:00pm<br /></span><span style=\"color: #ff1e25;\">27th from 10:00am<br /></span><span style=\"color: #ff1e25;\">14th, 21st, 28th from 12:00pm<br /></span><span style=\"color: #ff1e25;\"><em>Event rates will apply. Drive up only.<br />On event dates, please allow additional time to exit.<br /><strong><u><br /></u></strong></em><strong><u>Event Dates July 2026:</u></strong><strong><u><br /></u></strong>26th from 12:00pm<br />10th from 5:00pm<br />11th, 12th, 25th from 10:00am<br />18th from 1:00pm<br /></span><span style=\"color: #ff1e25;\">19th from 2:00pm<em><br />Event rates will apply. Drive up only.<br />On event dates, please allow additional time to exit.<br /><br /></em></span>Wilson Parking offer affordable parking at 800 Bourke St Car Park, located at Enterprize Way, Docklands. This car park, located on the Yarra River,&nbsp; is nearby to Marvel Stadium, Docklands Park and other Docklands attractions. Offering Hourly, Weekend and night parking, as well as discount online parking options, the 800 Bourke St Car Park will meet all of your parking needs.</p>\n<p>Experience the convenience of&nbsp;pay as you go with a Wilson Parking card, or enjoy 24/7 unlimited access when you subscribe to Monthly Parking.</p>",
       "isWilsonOne": true,
       "spottIsAvailable": true,
       "legacyID": 41,
@@ -94129,7 +94143,7 @@
       "carParkPhoto": "/contentassets/9a5141f3b44a485ab0e62e75f8296298/per114.jpg",
       "category": "",
       "costCenter": 1006114,
-      "direction": "Entry via Queen Street (one way)\nPedestrian access 24hrs.<br>\nMotorbike parking must be paid for using the Queen St - Motorcycle parking location",
+      "direction": "Entry via Queen Street (one way)\nPedestrian access 24hrs.<br>\nMotorbike parking must be paid for using the Queen St - Motorcycle parking location\n</br></br>**Dear Customers**</br>\n</br></br>Due to scheduled works there will be no access to the car park on 15th June 5pm until 16th June 6am. </br>",
       "heightRestriction": 2.0,
       "information": "<p>Wilson Parking offer affordable parking at Queen Street Car Park, located at the Corner of Wellington Street and Queen Street, Perth. Open 7 days until late, this undercover car park is ideally located for local restaurants and businesses, as well as His Majesty's Theatre. Offering casual Hourly, Online Flexi Saver, Night and Weekend Parking as well as exclusive discounts when you prepay online or with the Wilson Parking App, the Queen Street Car Park will meet all of your Perth parking needs.&nbsp;</p>\n<p>Download the Wilson Parking App or prepay online to plan your journey and access exclusive discounts or simply drive up and pay with your Credit Card,&nbsp;pay as you go with a Wilson Parking card, or enjoy unlimited access during the operational hours of the car park when you subscribe to Monthly Parking.</p>",
       "isWilsonOne": true,
