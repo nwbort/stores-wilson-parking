@@ -2562,7 +2562,9 @@
         "Overnight Parking",
         "Flexi Parking",
         "Entry height at least 2",
-        "Summer Sale"
+        "Summer Sale",
+        "LPR",
+        "Spott"
       ],
       "services": [
         "book a bay",
@@ -2578,7 +2580,7 @@
       "heightRestriction": 2.2,
       "information": "<p>Wilson Parking offer affordable &amp; secure parking at Sofitel Sydney Wentworth Car Park, located at 2 Bligh St in the heart of Sydney CBD. Conveniently positioned at the Sofitel Sydney Wentworth hotels, the car park offers parking for restaurant guests as well as those visiting Sydney Opera House, Circular Quay, nearby restaurants and hotels and general Sydney CBD visitors. Open to midnight 7 days a week, and offering Hourly, Night and Weekend parking, as well as discount online parking options, the Sofitel Sydney Wentworth Car Park suits all your leisure and business parking needs.&nbsp;</p>\n<p>Save when you prepay your parking in advance online or with the Wilson Parking App; enjoy unlimited car park access when you subscribe to monthly parking; or pay as you go with the queue-less contact free Wilson Parking Card.</p>",
       "isWilsonOne": true,
-      "spottIsAvailable": false,
+      "spottIsAvailable": true,
       "legacyID": 529,
       "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
@@ -2761,7 +2763,7 @@
         "evChargerIsAvailable": false,
         "evChargerIconLabel": "EV Charging",
         "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "spottIsAvailable": false,
+        "spottIsAvailable": true,
         "spottIconLabel": "Spott",
         "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
         "additionalServices": [
@@ -2773,189 +2775,6 @@
       },
       "state": "NSW",
       "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
-      "price": "",
-      "status": "",
-      "cpmsCarparkCode": null,
-      "externalCarParkInfo": null,
-      "featuredIndex": 0
-    },
-    {
-      "name": "1 Bligh St Car Park",
-      "bookText": null,
-      "canBookABay": false,
-      "selectedFeatures": "",
-      "carParkFeature": [
-        "Monthly Parking",
-        "Wilson One",
-        "Elevate Only"
-      ],
-      "services": [
-        "wilson one",
-        "monthly"
-      ],
-      "carParkName": "1 Bligh St Car Park",
-      "carParkNumber": 2240,
-      "carParkPhoto": "/siteassets/parking-location-images/nsw/syd240.jpg",
-      "category": "",
-      "costCenter": 1002240,
-      "direction": "Entry via 4 O'Connell Street",
-      "heightRestriction": 2.1,
-      "information": "<p>Wilson Parking offer affordable &amp; secure parking at 1 Bligh St Car Park, located at 4 O'Connell St in the heart of Sydney CBD. Offering Hourly and Weekend Parking and in walking distance to many popular attractions, and businesses in Sydney,&nbsp;1 Bligh St Car Park will meet all your commuter and leisure parking needs.</p>\n<p>Enjoy unlimited 24/7 access when you subscribe to Monthly Parking, or pay as you as go with the queue-less, contact free Wilson Parking Card.</p>",
-      "isWilsonOne": true,
-      "spottIsAvailable": false,
-      "legacyID": 305,
-      "monthlyParkingServiceIsAvailable": true,
-      "evChargerIsAvailable": false,
-      "disabledParkingIsAvailable": false,
-      "phoneNumber": "1800 PARKING",
-      "products": [],
-      "staticMapPhoto": null,
-      "streetViewHeading": "158.12638656328448",
-      "streetViewLocation": "https://www.google.com/maps/@?api=1&map_action=pano&pano=HqFESBUeC5l5gb5_xkDVag&viewpoint=-33.86475324549523,151.2100636752673&heading=158.12638656328448&pitch=3.1016036107524343",
-      "rates": [
-        {
-          "rateType": "Hourly",
-          "notes": "<p><u>Note for Level B1-B3</u>: No Parking, tenant occupants only. <strong>Additional fee of <span style=\"text-decoration: underline;\">$140</span> will apply if parking on wrong level</strong></p>",
-          "rates": [
-            {
-              "timeSpan": "0.0 - 0.5 hrs",
-              "price": 35.0
-            },
-            {
-              "timeSpan": "0.5 - 1.0 hrs",
-              "price": 55.0
-            },
-            {
-              "timeSpan": "1.0 - 2.0 hrs",
-              "price": 75.0
-            },
-            {
-              "timeSpan": "2.0 + hrs",
-              "price": 95.0
-            }
-          ]
-        }
-      ],
-      "fromText": "From",
-      "fromPrice": "35",
-      "location": {
-        "longitude": 151.2099677324295,
-        "latitude": -33.86495913203175,
-        "zoom": 13,
-        "address": "O'Connell Street, Sydney",
-        "region": {
-          "name": "Sydney CBD",
-          "longitude": 151.20743036270142,
-          "latitude": -33.866264250082345,
-          "status": "",
-          "state": {
-            "name": "New South Wales",
-            "abbreviation": "NSW",
-            "country": "Australia",
-            "longitude": 151.207430362701,
-            "latitude": -33.8662642500823,
-            "status": ""
-          }
-        }
-      },
-      "openingTimes": [
-        {
-          "day_TimePeriod": "Monthly",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Monday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "06:00",
-          "closing": "19:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Tuesday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "06:00",
-          "closing": "19:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Wednesday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "06:00",
-          "closing": "19:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Thursday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "06:00",
-          "closing": "19:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Friday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "06:00",
-          "closing": "19:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Saturday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "11:00",
-          "closing": "14:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Sunday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "11:00",
-          "closing": "14:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Public Holiday",
-          "is24_7": false,
-          "closed": true,
-          "opening": "",
-          "closing": "",
-          "note": null
-        }
-      ],
-      "url": "/parking-locations/new-south-wales/sydney-cbd/1-bligh-st-car-park/",
-      "serviceConfiguration": {
-        "canBookABay": false,
-        "bookABayIconLabel": "Prepay Online",
-        "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": true,
-        "monthlyParkingIconLabel": "Monthly Subscription",
-        "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
-        "isWilsonOne": true,
-        "wilsonOneIconLabel": "Parking Card",
-        "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
-        "disabledParkingIsAvailable": false,
-        "disabledParkingIconLabel": "Disabled Parking",
-        "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
-        "evChargerIsAvailable": false,
-        "evChargerIconLabel": "EV Charging",
-        "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "spottIsAvailable": false,
-        "spottIconLabel": "Spott",
-        "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
-        "additionalServices": []
-      },
-      "state": "NSW",
-      "imgUrl": "/siteassets/parking-location-images/nsw/syd240.jpg",
       "price": "",
       "status": "",
       "cpmsCarparkCode": null,
@@ -3000,7 +2819,7 @@
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": "132.95590677593583",
-      "streetViewLocation": "https://www.google.com/maps/@?api=1&map_action=pano&pano=pDBMQKE8Ekccm5SrfZM62A&viewpoint=-33.86481091718731,151.2099981433543&heading=132.95590677593583&pitch=-6.748077839706397",
+      "streetViewLocation": "https://www.google.com/maps/@?api=1&map_action=pano&pano=5dD82cGFIzn0i0G6r8hmGQ&viewpoint=-33.86482643143349,151.21003619490776&heading=183.41406605204907&pitch=-2.957703319878206&zoom=0.9999999999999997",
       "rates": [
         {
           "rateType": "Hourly",
@@ -3166,6 +2985,189 @@
       },
       "state": "NSW",
       "imgUrl": "/siteassets/parking-location-images/nsw/syd371.jpg",
+      "price": "",
+      "status": "",
+      "cpmsCarparkCode": null,
+      "externalCarParkInfo": null,
+      "featuredIndex": 0
+    },
+    {
+      "name": "1 Bligh St Car Park",
+      "bookText": null,
+      "canBookABay": false,
+      "selectedFeatures": "",
+      "carParkFeature": [
+        "Monthly Parking",
+        "Wilson One",
+        "Elevate Only"
+      ],
+      "services": [
+        "wilson one",
+        "monthly"
+      ],
+      "carParkName": "1 Bligh St Car Park",
+      "carParkNumber": 2240,
+      "carParkPhoto": "/siteassets/parking-location-images/nsw/syd240.jpg",
+      "category": "",
+      "costCenter": 1002240,
+      "direction": "Entry via 4 O'Connell Street",
+      "heightRestriction": 2.1,
+      "information": "<p>Wilson Parking offer affordable &amp; secure parking at 1 Bligh St Car Park, located at 4 O'Connell St in the heart of Sydney CBD. Offering Hourly and Weekend Parking and in walking distance to many popular attractions, and businesses in Sydney,&nbsp;1 Bligh St Car Park will meet all your commuter and leisure parking needs.</p>\n<p>Enjoy unlimited 24/7 access when you subscribe to Monthly Parking, or pay as you as go with the queue-less, contact free Wilson Parking Card.</p>",
+      "isWilsonOne": true,
+      "spottIsAvailable": false,
+      "legacyID": 305,
+      "monthlyParkingServiceIsAvailable": true,
+      "evChargerIsAvailable": false,
+      "disabledParkingIsAvailable": false,
+      "phoneNumber": "1800 PARKING",
+      "products": [],
+      "staticMapPhoto": null,
+      "streetViewHeading": "158.12638656328448",
+      "streetViewLocation": "https://www.google.com/maps/@?api=1&map_action=pano&pano=HqFESBUeC5l5gb5_xkDVag&viewpoint=-33.86475324549523,151.2100636752673&heading=158.12638656328448&pitch=3.1016036107524343",
+      "rates": [
+        {
+          "rateType": "Hourly",
+          "notes": "<p><u>Note for Level B1-B3</u>: No Parking, tenant occupants only. <strong>Additional fee of <span style=\"text-decoration: underline;\">$140</span> will apply if parking on wrong level</strong></p>",
+          "rates": [
+            {
+              "timeSpan": "0.0 - 0.5 hrs",
+              "price": 35.0
+            },
+            {
+              "timeSpan": "0.5 - 1.0 hrs",
+              "price": 55.0
+            },
+            {
+              "timeSpan": "1.0 - 2.0 hrs",
+              "price": 75.0
+            },
+            {
+              "timeSpan": "2.0 + hrs",
+              "price": 95.0
+            }
+          ]
+        }
+      ],
+      "fromText": "From",
+      "fromPrice": "35",
+      "location": {
+        "longitude": 151.210184051577,
+        "latitude": -33.8647789348547,
+        "zoom": 13,
+        "address": "O'Connell Street, Sydney",
+        "region": {
+          "name": "Sydney CBD",
+          "longitude": 151.20743036270142,
+          "latitude": -33.866264250082345,
+          "status": "",
+          "state": {
+            "name": "New South Wales",
+            "abbreviation": "NSW",
+            "country": "Australia",
+            "longitude": 151.207430362701,
+            "latitude": -33.8662642500823,
+            "status": ""
+          }
+        }
+      },
+      "openingTimes": [
+        {
+          "day_TimePeriod": "Monthly",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Monday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "06:00",
+          "closing": "19:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Tuesday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "06:00",
+          "closing": "19:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Wednesday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "06:00",
+          "closing": "19:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Thursday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "06:00",
+          "closing": "19:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Friday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "06:00",
+          "closing": "19:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Saturday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "11:00",
+          "closing": "14:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Sunday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "11:00",
+          "closing": "14:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Public Holiday",
+          "is24_7": false,
+          "closed": true,
+          "opening": "",
+          "closing": "",
+          "note": null
+        }
+      ],
+      "url": "/parking-locations/new-south-wales/sydney-cbd/1-bligh-st-car-park/",
+      "serviceConfiguration": {
+        "canBookABay": false,
+        "bookABayIconLabel": "Prepay Online",
+        "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
+        "monthlyParkingServiceIsAvailable": true,
+        "monthlyParkingIconLabel": "Monthly Subscription",
+        "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
+        "isWilsonOne": true,
+        "wilsonOneIconLabel": "Parking Card",
+        "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
+        "disabledParkingIsAvailable": false,
+        "disabledParkingIconLabel": "Disabled Parking",
+        "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
+        "evChargerIsAvailable": false,
+        "evChargerIconLabel": "EV Charging",
+        "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
+        "spottIsAvailable": false,
+        "spottIconLabel": "Spott",
+        "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
+        "additionalServices": []
+      },
+      "state": "NSW",
+      "imgUrl": "/siteassets/parking-location-images/nsw/syd240.jpg",
       "price": "",
       "status": "",
       "cpmsCarparkCode": null,
@@ -39854,7 +39856,6 @@
       "canBookABay": false,
       "selectedFeatures": "",
       "carParkFeature": [
-        "Monthly Parking",
         "Night Parking",
         "Weekend Parking",
         "Early Bird Parking",
@@ -39863,7 +39864,6 @@
         "EV Charging"
       ],
       "services": [
-        "monthly",
         "disabled parking",
         "ev charging"
       ],
@@ -39878,7 +39878,7 @@
       "isWilsonOne": false,
       "spottIsAvailable": false,
       "legacyID": 1128,
-      "monthlyParkingServiceIsAvailable": true,
+      "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": true,
       "disabledParkingIsAvailable": true,
       "phoneNumber": "1800 PARKING (1800 727 546)",
@@ -40075,7 +40075,7 @@
         "canBookABay": false,
         "bookABayIconLabel": "Prepay Online",
         "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": true,
+        "monthlyParkingServiceIsAvailable": false,
         "monthlyParkingIconLabel": "Monthly Subscription",
         "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
         "isWilsonOne": false,
@@ -45954,13 +45954,10 @@
       "canBookABay": false,
       "selectedFeatures": "",
       "carParkFeature": [
-        "Monthly Parking",
         "Early Bird Parking",
         "Epark"
       ],
-      "services": [
-        "monthly"
-      ],
+      "services": [],
       "carParkName": "Forrest Tennis Club Car Park",
       "carParkNumber": 1126,
       "carParkPhoto": null,
@@ -45972,7 +45969,7 @@
       "isWilsonOne": false,
       "spottIsAvailable": false,
       "legacyID": 1126,
-      "monthlyParkingServiceIsAvailable": true,
+      "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
       "phoneNumber": "1800 PARKING (1800 727 5464)",
@@ -46074,7 +46071,7 @@
         "canBookABay": false,
         "bookABayIconLabel": "Prepay Online",
         "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": true,
+        "monthlyParkingServiceIsAvailable": false,
         "monthlyParkingIconLabel": "Monthly Subscription",
         "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
         "isWilsonOne": false,
@@ -54424,7 +54421,9 @@
         "Weekend Parking",
         "Book a Bay",
         "Overnight Parking",
-        "Disabled Parking"
+        "Disabled Parking",
+        "LPR",
+        "Spott"
       ],
       "services": [
         "book a bay",
@@ -54439,7 +54438,7 @@
       "heightRestriction": 2.0,
       "information": "<p>The Carlton Clocktower Car Park is located at 249 Drummond St, Carlton. Close to many popular restaurants and attractions, including Lygon Court, Melbourne University, Melbourne Museum, Royal Exhibition Building and Clocktower Apartment Hotel and open to 24/7, this undercover car park is in the ideal location when looking for parking in Carlton.&nbsp;</p>\n<p>Offering Hourly, Night and Weekend Parking options, the Carlton Clocktower Car Park will meet all your parking needs.&nbsp;</p>\n<p>This car park accepts credit card and cash payments.</p>",
       "isWilsonOne": false,
-      "spottIsAvailable": false,
+      "spottIsAvailable": true,
       "legacyID": 5003214,
       "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
@@ -54448,7 +54447,7 @@
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": null,
-      "streetViewLocation": "https://www.google.com/maps/@-37.8001929,144.9684688,3a,75y,310.91h,88.59t/data=!3m7!1e1!3m5!1s_j9EM62cEICrjuNUKQDVfw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3D_j9EM62cEICrjuNUKQDVfw%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D220.6836%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?entry=ttu",
+      "streetViewLocation": "https://www.google.com/maps/@?api=1&map_action=pano&pano=_j9EM62cEICrjuNUKQDVfw&viewpoint=-37.80019396172667,144.96846942241316&heading=306.48457551389635&pitch=-12.149629904648734&zoom=0.9999999999999997",
       "rates": [
         {
           "rateType": "Hourly",
@@ -54614,7 +54613,7 @@
         "evChargerIsAvailable": false,
         "evChargerIconLabel": "EV Charging",
         "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "spottIsAvailable": false,
+        "spottIsAvailable": true,
         "spottIconLabel": "Spott",
         "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
         "additionalServices": []
@@ -60534,9 +60533,9 @@
         "Melbourne Train Delays",
         "Special Event Parking",
         "Festive",
-        "Elevate",
         "LPR",
-        "Spott Saver"
+        "Spott Saver",
+        "Spott"
       ],
       "services": [
         "book a bay",
@@ -60552,7 +60551,7 @@
       "heightRestriction": 2.0,
       "information": "<p>Wilson Parking offer affordable &amp; secure parking at Southgate Ave Car Park, located in the heart of Melbourne's Southbank. With Prepay Online, Monthly, Early Bird, Night and Weekend parking options the Southgate Ave Car Park will meet all of your parking needs.</p>\n<p>Enjoy the convenience of 24/7 access, and subscribe to monthly parking or sign up for a Wilson Parking Card and pay as you go.</p>\n<p>We're contactless. Simply use your credit, debit or Wilson Parking Card for payment.</p>",
       "isWilsonOne": true,
-      "spottIsAvailable": false,
+      "spottIsAvailable": true,
       "legacyID": 338,
       "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
@@ -60723,7 +60722,7 @@
         "evChargerIsAvailable": false,
         "evChargerIconLabel": "EV Charging",
         "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "spottIsAvailable": false,
+        "spottIsAvailable": true,
         "spottIconLabel": "Spott",
         "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
         "additionalServices": [
@@ -61417,8 +61416,12 @@
       "bookText": null,
       "canBookABay": false,
       "selectedFeatures": "",
-      "carParkFeature": [],
-      "services": [],
+      "carParkFeature": [
+        "Monthly Parking"
+      ],
+      "services": [
+        "monthly"
+      ],
       "carParkName": "31 Queen Street Private Car Park",
       "carParkNumber": 3328,
       "carParkPhoto": "/contentassets/edb6745d350f4a338ea296d2c5afe9d9/mel328.jpg",
@@ -61430,7 +61433,7 @@
       "isWilsonOne": false,
       "spottIsAvailable": false,
       "legacyID": 3328,
-      "monthlyParkingServiceIsAvailable": false,
+      "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
       "phoneNumber": "1800 PARKING (727 546)",
@@ -61476,7 +61479,7 @@
         "canBookABay": false,
         "bookABayIconLabel": "Prepay Online",
         "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingServiceIsAvailable": true,
         "monthlyParkingIconLabel": "Monthly Subscription",
         "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
         "isWilsonOne": false,
@@ -63265,14 +63268,12 @@
         "Monthly Parking",
         "Night Parking",
         "Weekend Parking",
-        "Early Bird Parking",
         "Book a Bay",
         "Wilson One",
         "Overnight Parking",
         "Flexi Parking",
         "Daily Pass Bundles",
         "Summer Sale",
-        "Elevate",
         "LPR",
         "Spott Saver",
         "Spott"
@@ -71672,14 +71673,12 @@
       "canBookABay": true,
       "selectedFeatures": "",
       "carParkFeature": [
-        "Monthly Parking",
         "Book a Bay",
         "Flexi Parking",
         "Entry height at least 2"
       ],
       "services": [
-        "book a bay",
-        "monthly"
+        "book a bay"
       ],
       "carParkName": "145 Ann St - King George Central Car Park",
       "carParkNumber": 4121,
@@ -71692,7 +71691,7 @@
       "isWilsonOne": false,
       "spottIsAvailable": false,
       "legacyID": 286,
-      "monthlyParkingServiceIsAvailable": true,
+      "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
       "phoneNumber": "1800 PARKING",
@@ -71825,7 +71824,7 @@
         "canBookABay": true,
         "bookABayIconLabel": "Prepay Online",
         "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": true,
+        "monthlyParkingServiceIsAvailable": false,
         "monthlyParkingIconLabel": "Monthly Subscription",
         "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
         "isWilsonOne": false,
