@@ -15416,7 +15416,9 @@
         "Book a Bay",
         "Wilson One",
         "Vivid",
-        "Daily Pass Bundles"
+        "Daily Pass Bundles",
+        "LPR",
+        "Spott"
       ],
       "services": [
         "book a bay",
@@ -15432,7 +15434,7 @@
       "heightRestriction": 1.95,
       "information": "<p>Wilson Parking offer affordable &amp; secure parking at 213 Miller Car Park which is located at 213 Miller St in the heart of North Sydney.</p>\n<p>213 Miller St Car Park suits all your leisure and business parking needs. With Monthly, Night and Weekend Parking options available via Prepay online,&nbsp;drive up, or use your Wilson Parking Card and pay as you go.</p>",
       "isWilsonOne": true,
-      "spottIsAvailable": false,
+      "spottIsAvailable": true,
       "legacyID": 608,
       "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
@@ -15599,7 +15601,7 @@
         "evChargerIsAvailable": false,
         "evChargerIconLabel": "EV Charging",
         "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "spottIsAvailable": false,
+        "spottIsAvailable": true,
         "spottIconLabel": "Spott",
         "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
         "additionalServices": [
@@ -16639,7 +16641,7 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Rates apply All Days - Monday to Sunday</p>\n<p>After Hours Charge:&nbsp;Charged in additional to Casual rates for all vehicles left in car park past close (12.30am Monday to Saturay, 10.30pm Sunday &amp; Public Holidays</p>\n<p><span style=\"text-decoration: underline;\">2 Hours Free Parking - available with Retail Validation Only</span>: Parkers need to have their vehicle rego validated in store to obtain free 2 hour parking period</p>",
+          "notes": "<p>Rates apply All Days - Monday to Friday</p>\n<p>After Hours Charge:&nbsp;Charged in additional to Casual rates for all vehicles left in car park past close (12.30am Monday to Saturay, 10.30pm Sunday &amp; Public Holidays</p>\n<p><span style=\"text-decoration: underline;\">2 Hours Free Parking - available with Retail Validation Only</span>: Parkers need to have their vehicle rego validated in store to obtain free 2 hour parking period</p>",
           "rates": [
             {
               "timeSpan": "0.0 - 2.0 hrs (With Retail Validation)",
@@ -16682,6 +16684,16 @@
             {
               "timeSpan": "Monday - Friday",
               "price": 30.0
+            }
+          ]
+        },
+        {
+          "rateType": "Weekend",
+          "notes": null,
+          "rates": [
+            {
+              "timeSpan": "2.0 + hrs",
+              "price": 8.0
             }
           ]
         }
@@ -17027,7 +17039,7 @@
           "rates": [
             {
               "timeSpan": "Mon - Sun",
-              "price": 16.0
+              "price": 17.0
             }
           ]
         },
@@ -59358,7 +59370,7 @@
       "costCenter": 1003391,
       "direction": "Entry via 312 Lonsdale Street",
       "heightRestriction": 2.0,
-      "information": "<p><span style=\"color: #000000;\">Wilson Parking offer affordable &amp; secure parking at St Francis Church Car Park, located at 312 Lonsdale Street, Melbourne&nbsp;in the heart of Melbourne CBD. Open 7 days, this undercover car park provides convenient access to many nearby attractions including St Francis Church, Melbourne Central and the State Library of Victoria. </span></p>\n<p><span style=\"color: #000000;\">Offering Casual, Hourly, Weekend and Night Parking options, the St Francis Church Car Park will meet all your parking needs.&nbsp;</span></p>\n<p><span style=\"color: #000000;\">Pay as you go with a Wilson Parking Card, Prepay or enjoy unlimited 24/7 access when you subscribe to a Monthly Parking account.</span></p>",
+      "information": "<p><span style=\"color: #ff1e25;\"><em>Notice: The car park will not be accessible&nbsp;from 5pm Sat 27th to 5am Sun 28th June 2026 due to Melbourne Central expansion works on Lonsdale St. Pedestrian access and vehicle egress will be avaible via traffic management.<br /><br /></em></span><span style=\"color: #000000;\">Wilson Parking offer affordable &amp; secure parking at St Francis Church Car Park, located at 312 Lonsdale Street, Melbourne&nbsp;in the heart of Melbourne CBD. Open 7 days, this undercover car park provides convenient access to many nearby attractions including St Francis Church, Melbourne Central and the State Library of Victoria. </span></p>\n<p><span style=\"color: #000000;\">Offering Casual, Hourly, Weekend and Night Parking options, the St Francis Church Car Park will meet all your parking needs.&nbsp;</span></p>\n<p><span style=\"color: #000000;\">Pay as you go with a Wilson Parking Card, Prepay or enjoy unlimited 24/7 access when you subscribe to a Monthly Parking account.</span></p>",
       "isWilsonOne": true,
       "spottIsAvailable": true,
       "legacyID": 1003391,
@@ -70453,7 +70465,9 @@
         "Weekend Parking",
         "Book a Bay",
         "Flexi Parking",
-        "Daily Pass Bundles"
+        "Daily Pass Bundles",
+        "LPR",
+        "Spott"
       ],
       "services": [
         "book a bay",
@@ -70468,7 +70482,7 @@
       "heightRestriction": 1.9,
       "information": "<p>Wilson Parking offer affordable, reliable parking at 60 Edward St Car Park, located in the heart of Brisbane. This undercover car park provides convenient access to the Brisbane Botanical Gardens, Riverstage, nearby businesses, hotels and restaurants. Open 7 days, until late, the 60 Edward St car park will&nbsp; offer casual hourly, night and weekend rates, and more flexibility and value when you prepay online. Also offering Permanent Monthly Subscription Parking for regular parkers with unlimited access, the 60 Edward St Car Park will suit all your parking needs.</p>",
       "isWilsonOne": false,
-      "spottIsAvailable": false,
+      "spottIsAvailable": true,
       "legacyID": 1004365,
       "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
@@ -70619,7 +70633,7 @@
         "evChargerIsAvailable": false,
         "evChargerIconLabel": "EV Charging",
         "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "spottIsAvailable": false,
+        "spottIsAvailable": true,
         "spottIconLabel": "Spott",
         "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
         "additionalServices": []
