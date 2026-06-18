@@ -11891,7 +11891,9 @@
         "Vivid",
         "Overnight Parking",
         "Daily Pass Bundles",
-        "Summer Sale"
+        "Summer Sale",
+        "LPR",
+        "Spott"
       ],
       "services": [
         "book a bay",
@@ -11907,7 +11909,7 @@
       "heightRestriction": 2.1,
       "information": "<p>Wilson Parking offer affordable &amp; secure parking at 55 Holt St Car Park, located at 55 Holt St in Surry Hills in the South of the Sydney CBD.&nbsp;Open until midnight 7 days a week, this undercover car park provides convenient access to nearby stores, restaurants and other Surry Hills businesses.&nbsp;Offering casual Hourly, Weekend and Night Parking with exclusive discounts when you prepay online and permanent monthly parking for regular parkers,&nbsp;the 55 Holt St&nbsp;Car Park will meet all your business and leisure parking needs.&nbsp;</p>\n<p>Download the Wilson Parking App to plan your journey and access parking discounts when you prepay online;&nbsp;enjoy unlimited 24/7 access when you subscribe to monthly parking; or&nbsp;pay as you go on one convenient monthly invoice when you use your Wilson Parking Card to access the car park.</p>",
       "isWilsonOne": true,
-      "spottIsAvailable": false,
+      "spottIsAvailable": true,
       "legacyID": 802,
       "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
@@ -12070,7 +12072,7 @@
         "evChargerIsAvailable": false,
         "evChargerIconLabel": "EV Charging",
         "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "spottIsAvailable": false,
+        "spottIsAvailable": true,
         "spottIconLabel": "Spott",
         "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
         "additionalServices": [
@@ -17607,7 +17609,9 @@
         "Flexi Parking",
         "Daily Pass Bundles",
         "Footy Parking",
-        "EV Charging"
+        "EV Charging",
+        "LPR",
+        "Spott"
       ],
       "services": [
         "book a bay",
@@ -17624,7 +17628,7 @@
       "heightRestriction": 1.9,
       "information": "<p>Wilson Parking offers affordable parking at North Shore Health Hub Car Park which is located at the Corner of Westbourne Street and Reserve Road, St Leonards. With Prepay online, Monthly, Flexi and Weekend parking the North Shore Health Hub Car Park will meet all of your parking needs.&nbsp;</p>",
       "isWilsonOne": true,
-      "spottIsAvailable": false,
+      "spottIsAvailable": true,
       "legacyID": 790,
       "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": true,
@@ -17789,7 +17793,7 @@
         "evChargerIsAvailable": true,
         "evChargerIconLabel": "EV Charging",
         "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "spottIsAvailable": false,
+        "spottIsAvailable": true,
         "spottIconLabel": "Spott",
         "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
         "additionalServices": [
@@ -18158,16 +18162,14 @@
     {
       "name": "The Hub Shopping Centre Car Park",
       "bookText": null,
-      "canBookABay": true,
+      "canBookABay": false,
       "selectedFeatures": "",
       "carParkFeature": [
-        "Book a Bay",
         "Wilson One",
         "Entry height at least 2",
         "Melbourne Train Delays"
       ],
       "services": [
-        "book a bay",
         "wilson one"
       ],
       "carParkName": "The Hub Shopping Centre Car Park",
@@ -18319,7 +18321,7 @@
       ],
       "url": "/parking-locations/new-south-wales/eastern-suburbs/the-hub-shopping-centre-car-park/",
       "serviceConfiguration": {
-        "canBookABay": true,
+        "canBookABay": false,
         "bookABayIconLabel": "Prepay Online",
         "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
         "monthlyParkingServiceIsAvailable": false,
@@ -56495,7 +56497,7 @@
       "costCenter": 1003300,
       "direction": null,
       "heightRestriction": 2.05,
-      "information": "<p><span style=\"color: #ff1e25;\"><u></u><strong><u>Event Dates June 2026:<br /></u></strong>20th from 5:00pm to 11:59pm.<br />17th from 4:00pm to 11:59pm.<br /></span><span style=\"color: #ff1e25;\"><strong><u>Event Dates July 2026:<br /></u></strong>4th, 11th, 18th, 24th, 30th from 5:00pm to 11:59pm.<em><br />Event rates will apply.</em><br /><em>On event dates, please allow additional time to exit.</em></span></p>\n<p>Wilson Parking offers affordable &amp; secure parking at 11 Exhibition St&nbsp;Car Park, located at 11 Exhibition St in the heart of East End. Open 7 days, this undercover car park provides convenient access to nearby the MCG, Federation Square, Birrarung Marr, Melbourne Park and many other popular attractions. This car park offers flat rate parking at the times you need when you prepay online a Flexi Saver rate online. Casual Hourly, Weekend and Night Parking options are also available, with permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the 11 Exhibition St Car Park will meet all your business and leisure parking needs.&nbsp;</p>\n<p>This car park accepts Credit Card payments only.&nbsp;Download the Wilson Parking App to plan your journey and access the best parking value when you prepay online; enjoy unlimited 24/7 access when you subscribe to monthly parking; pay as you go on one convenient monthly invoice when you use your Wilson Parking Card to access the car park.</p>",
+      "information": "<p><span style=\"color: #ff1e25;\"><u></u><strong><u>Event Dates June 2026:<br /></u></strong>20th from 5:00pm to 11:59pm.<br /></span><span style=\"color: #ff1e25;\"><strong><u>Event Dates July 2026:<br /></u></strong>4th, 11th, 18th, 24th, 30th from 5:00pm to 11:59pm.<em><br />Event rates will apply.</em><br /><em>On event dates, please allow additional time to exit.</em></span></p>\n<p>Wilson Parking offers affordable &amp; secure parking at 11 Exhibition St&nbsp;Car Park, located at 11 Exhibition St in the heart of East End. Open 7 days, this undercover car park provides convenient access to nearby the MCG, Federation Square, Birrarung Marr, Melbourne Park and many other popular attractions. This car park offers flat rate parking at the times you need when you prepay online a Flexi Saver rate online. Casual Hourly, Weekend and Night Parking options are also available, with permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the 11 Exhibition St Car Park will meet all your business and leisure parking needs.&nbsp;</p>\n<p>This car park accepts Credit Card payments only.&nbsp;Download the Wilson Parking App to plan your journey and access the best parking value when you prepay online; enjoy unlimited 24/7 access when you subscribe to monthly parking; pay as you go on one convenient monthly invoice when you use your Wilson Parking Card to access the car park.</p>",
       "isWilsonOne": true,
       "spottIsAvailable": true,
       "legacyID": 497,
@@ -58071,7 +58073,7 @@
       "costCenter": 1003250,
       "direction": "Entry via Russell St (Extension) or off Batman Ave (at Tennis Centre)\nOn event dates and busy periods, please use the Batman Ave Exit from Level 1 and allow additional time to exit. ",
       "heightRestriction": 2.1,
-      "information": "<p><span style=\"color: #ff1e25;\"><strong><u>Event Dates June 2026:<br /></u></strong>16th, 17th and 26th from 4:00pm to 11:59pm<br />20th from 4:00am to 11:59pm<br /></span><span style=\"color: #ff1e25;\">21st and 27th from 11:00am to 11:59pm</span><em style=\"color: #ff1e25;\"><em><br /></em></em><em><span style=\"color: #ff1e25;\">Event rates will apply.</span></em><br /><em><span style=\"color: #ff1e25;\">On event dates, please allow additional time to exit.</span></em></p>\n<p><span style=\"color: #ff1e25;\"><strong><u>Socceroos Event Fed Square:</u></strong></span><em><span style=\"color: #ff1e25;\"><strong><u><br /></u></strong></span></em><span style=\"color: #ff1e25;\">Please note due to expected crowds for the Socceroos Watch Party at Fed Square,&nbsp;<strong>Russell St Extension</strong>&nbsp;will be closed for entry and exit during the below periods:<em><br /></em></span><br /><span style=\"color: #ff1e25;\">Friday 19th June -&nbsp;Saturday 20th June (10:00pm &ndash; 10:00am)</span><br /><span style=\"color: #ff1e25;\">Friday 26th June (5:00am &ndash; 5:00pm)<br /><em class=\"ql-color-#ff1e25\"><br /></em><em>We apologise for any inconvenience caused and remind guests to use Batman Avenue (Level 1) during these periods.</em></span></p>\n<p>Wilson Parking offers affordable &amp; secure parking at Federation Square Car Park, located on Russell St (Extension) in the Melbourne CBD. This car park is nearby to many popular attractions, including Federation Square, Flinders St Station, Birrarung Marr, Rod Laver Arena and Melbourne Park. Offering casual Early Bird, Hourly, Night and Weekend parking, with exclusive discounts when you prepay online, the Federation Square Car Park will meet all of your parking needs.</p>\n<p><span style=\"color: #000000;\"><strong>On event dates and busy periods, please use the Batman Avenue Exit from Level 1 and allow additional time to exit.</strong></span></p>\n<p>Download the Wilson Parking App to plan your journey and access exclusive discounts when you prepay online; pay as you go with one convenient monthly invoice when you use your Wilson Parking Card; enjoy 24/7 unlimited access when you subscribe to Monthly Parking; or just drive up to pay with a credit card at the car park.</p>",
+      "information": "<p><span style=\"color: #ff1e25;\"><strong><u>Event Dates June 2026:<br /></u></strong>26th from 4:00pm to 11:59pm<br />20th from 4:00am to 11:59pm<br /></span><span style=\"color: #ff1e25;\">21st and 27th from 11:00am to 11:59pm</span><em style=\"color: #ff1e25;\"><em><br /></em></em><em><span style=\"color: #ff1e25;\">Event rates will apply.</span></em><br /><em><span style=\"color: #ff1e25;\">On event dates, please allow additional time to exit.</span></em></p>\n<p>Wilson Parking offers affordable &amp; secure parking at Federation Square Car Park, located on Russell St (Extension) in the Melbourne CBD. This car park is nearby to many popular attractions, including Federation Square, Flinders St Station, Birrarung Marr, Rod Laver Arena and Melbourne Park. Offering casual Early Bird, Hourly, Night and Weekend parking, with exclusive discounts when you prepay online, the Federation Square Car Park will meet all of your parking needs.</p>\n<p><span style=\"color: #000000;\"><strong>On event dates and busy periods, please use the Batman Avenue Exit from Level 1 and allow additional time to exit.</strong></span></p>\n<p>Download the Wilson Parking App to plan your journey and access exclusive discounts when you prepay online; pay as you go with one convenient monthly invoice when you use your Wilson Parking Card; enjoy 24/7 unlimited access when you subscribe to Monthly Parking; or just drive up to pay with a credit card at the car park.</p>",
       "isWilsonOne": true,
       "spottIsAvailable": false,
       "legacyID": 94,
@@ -58709,7 +58711,7 @@
       "costCenter": 1003169,
       "direction": "Entry via Flinders St or 195 Flinders Lane",
       "heightRestriction": 2.0,
-      "information": "<p><span style=\"color: #ff1e25;\"><strong style=\"color: #ff1e25;\"><u>Event Dates June 2026:<br /></u></strong>17th from 4:00pm to 11:59pm.<br />20th from 5:00pm to 11:59pm.<br /></span><span style=\"color: #ff1e25;\"><strong><u>Event Dates July 2026:<br /></u></strong>4th, 11th, 18th, 24th and 30th from 4:00pm to 11:59pm<em><em style=\"color: #ff1e25;\"><br /></em>Event rates will apply.<br />On event dates, please allow additional time to exit.</em></span></p>\n<p>Wilson Parking offers affordable &amp; convenient parking at Flinders Gate Car Park, located at 172-192 Flinders Street, Melbourne. This car park is nearby to many Melbourne attractions including St Paul's Cathedral, The Ian Potter Centre and Flinders St Station.</p>\n<p>Offering online discounts for Flexi Saver, Night, Overnight and Weekend parking as well as competitive drive up rates, the Flinders Gate car park will meet all of your parking needs when visiting the Melbourne CBD.</p>\n<p><strong>This car park accepts Credit Card payments only.</strong></p>\n<p>Pay as you go with a Wilson Parking Card, or enjoy unlimited 24/7 access when you subscribe to a Monthly parking account.</p>\n<p><em>Site can be affected by road closures. Please refer to the <a title=\"https://www.melbourne.vic.gov.au/parking-and-transport/roads/Pages/road-closures.aspx\" href=\"https://www.melbourne.vic.gov.au/parking-and-transport/roads/Pages/road-closures.aspx\" target=\"_blank\" rel=\"noopener\">City of Melbourne website</a> for more information.</em></p>",
+      "information": "<p><span style=\"color: #ff1e25;\"><strong style=\"color: #ff1e25;\"><u>Event Dates June 2026:<br /></u></strong>20th from 5:00pm to 11:59pm.<br /></span><span style=\"color: #ff1e25;\"><strong><u>Event Dates July 2026:<br /></u></strong>4th, 11th, 18th, 24th and 30th from 4:00pm to 11:59pm<em><em style=\"color: #ff1e25;\"><br /></em>Event rates will apply.<br />On event dates, please allow additional time to exit.</em></span></p>\n<p>Wilson Parking offers affordable &amp; convenient parking at Flinders Gate Car Park, located at 172-192 Flinders Street, Melbourne. This car park is nearby to many Melbourne attractions including St Paul's Cathedral, The Ian Potter Centre and Flinders St Station.</p>\n<p>Offering online discounts for Flexi Saver, Night, Overnight and Weekend parking as well as competitive drive up rates, the Flinders Gate car park will meet all of your parking needs when visiting the Melbourne CBD.</p>\n<p><strong>This car park accepts Credit Card payments only.</strong></p>\n<p>Pay as you go with a Wilson Parking Card, or enjoy unlimited 24/7 access when you subscribe to a Monthly parking account.</p>\n<p><em>Site can be affected by road closures. Please refer to the <a title=\"https://www.melbourne.vic.gov.au/parking-and-transport/roads/Pages/road-closures.aspx\" href=\"https://www.melbourne.vic.gov.au/parking-and-transport/roads/Pages/road-closures.aspx\" target=\"_blank\" rel=\"noopener\">City of Melbourne website</a> for more information.</em></p>",
       "isWilsonOne": true,
       "spottIsAvailable": true,
       "legacyID": 253,
@@ -59370,7 +59372,7 @@
       "costCenter": 1003391,
       "direction": "Entry via 312 Lonsdale Street",
       "heightRestriction": 2.0,
-      "information": "<p><span style=\"color: #ff1e25;\"><em>Notice: The car park will not be accessible&nbsp;from 5pm Sat 27th to 5am Sun 28th June 2026 due to Melbourne Central expansion works on Lonsdale St. Pedestrian access and vehicle egress will be avaible via traffic management.<br /><br /></em></span><span style=\"color: #000000;\">Wilson Parking offer affordable &amp; secure parking at St Francis Church Car Park, located at 312 Lonsdale Street, Melbourne&nbsp;in the heart of Melbourne CBD. Open 7 days, this undercover car park provides convenient access to many nearby attractions including St Francis Church, Melbourne Central and the State Library of Victoria. </span></p>\n<p><span style=\"color: #000000;\">Offering Casual, Hourly, Weekend and Night Parking options, the St Francis Church Car Park will meet all your parking needs.&nbsp;</span></p>\n<p><span style=\"color: #000000;\">Pay as you go with a Wilson Parking Card, Prepay or enjoy unlimited 24/7 access when you subscribe to a Monthly Parking account.</span></p>",
+      "information": "<p><span style=\"color: #ff1e25;\"><strong>Important Notice: Carpark Closure &ndash; Crane Works<br /></strong></span><span style=\"color: #ff1e25;\">Due to crane works on Lonsdale St for the Melbourne Central expansion, the car park will not&nbsp;be accessible from&nbsp;5:00pm Saturday 27th to 11:30am Sunday 28th June 2026.<br /></span><em style=\"color: #ff1e25;\"><u>No pedestrian access after 5pm. Vehicle egress will be available with the help of traffic management.</u></em></p>\n<p><span style=\"color: #000000;\">Wilson Parking offer affordable &amp; secure parking at St Francis Church Car Park, located at 312 Lonsdale Street, Melbourne&nbsp;in the heart of Melbourne CBD. Open 7 days, this undercover car park provides convenient access to many nearby attractions including St Francis Church, Melbourne Central and the State Library of Victoria. </span></p>\n<p><span style=\"color: #000000;\">Offering Casual, Hourly, Weekend and Night Parking options, the St Francis Church Car Park will meet all your parking needs.&nbsp;</span></p>\n<p><span style=\"color: #000000;\">Pay as you go with a Wilson Parking Card, Prepay or enjoy unlimited 24/7 access when you subscribe to a Monthly Parking account.</span></p>",
       "isWilsonOne": true,
       "spottIsAvailable": true,
       "legacyID": 1003391,
@@ -59836,28 +59838,16 @@
               "price": 12.0
             },
             {
-              "timeSpan": "1.0 - 1.5 Hours ",
-              "price": 18.0
-            },
-            {
-              "timeSpan": "1.5 - 2.0 Hours",
+              "timeSpan": "1.0 - 2.0 Hours ",
               "price": 24.0
             },
             {
-              "timeSpan": "2.0 - 2.5 Hours\t\t",
-              "price": 30.0
-            },
-            {
-              "timeSpan": "2.5 - 3.0 Hours",
+              "timeSpan": "2.0 - 3.0 Hours",
               "price": 36.0
             },
             {
-              "timeSpan": "3.0-3.5 Hours",
-              "price": 42.0
-            },
-            {
-              "timeSpan": "3.5 + Hours",
-              "price": 43.0
+              "timeSpan": "3.0 + Hours",
+              "price": 45.0
             }
           ]
         },
@@ -80192,9 +80182,12 @@
       "canBookABay": false,
       "selectedFeatures": "",
       "carParkFeature": [
+        "Monthly Parking",
         "Entry height at least 2"
       ],
-      "services": [],
+      "services": [
+        "monthly"
+      ],
       "carParkName": "Moger Lane",
       "carParkNumber": 5156,
       "carParkPhoto": null,
@@ -80206,7 +80199,7 @@
       "isWilsonOne": false,
       "spottIsAvailable": false,
       "legacyID": 5156,
-      "monthlyParkingServiceIsAvailable": false,
+      "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
       "phoneNumber": "1800 PARKING (1800 727 5464)",
@@ -80252,7 +80245,7 @@
         "canBookABay": false,
         "bookABayIconLabel": "Prepay Online",
         "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingServiceIsAvailable": true,
         "monthlyParkingIconLabel": "Monthly Subscription",
         "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
         "isWilsonOne": false,
@@ -84002,9 +83995,12 @@
       "canBookABay": false,
       "selectedFeatures": "",
       "carParkFeature": [
+        "Monthly Parking",
         "Entry height at least 2"
       ],
-      "services": [],
+      "services": [
+        "monthly"
+      ],
       "carParkName": "11 Russell St Car Park",
       "carParkNumber": 5096,
       "carParkPhoto": "/contentassets/e2c4b55a89d34bdcb8470202e54014ca/ade126-resized.jpg",
@@ -84016,7 +84012,7 @@
       "isWilsonOne": false,
       "spottIsAvailable": false,
       "legacyID": 531,
-      "monthlyParkingServiceIsAvailable": false,
+      "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
       "phoneNumber": "1800 PARKING",
@@ -84126,7 +84122,7 @@
         "canBookABay": false,
         "bookABayIconLabel": "Prepay Online",
         "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingServiceIsAvailable": true,
         "monthlyParkingIconLabel": "Monthly Subscription",
         "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
         "isWilsonOne": false,
@@ -94349,7 +94345,7 @@
       "carParkPhoto": "/contentassets/9a5141f3b44a485ab0e62e75f8296298/per114.jpg",
       "category": "",
       "costCenter": 1006114,
-      "direction": "Entry via Queen Street (one way)\nPedestrian access 24hrs.<br>\nMotorbike parking must be paid for using the Queen St - Motorcycle parking location\n</br></br>**Dear Customers**</br>\n</br></br>Due to scheduled works there will be no access to the car park on 15th June 5pm until 16th June 6am. </br>",
+      "direction": "Entry via Queen Street (one way)\nPedestrian access 24hrs.<br>\nMotorbike parking must be paid for using the Queen St - Motorcycle parking location\n",
       "heightRestriction": 2.0,
       "information": "<p>Wilson Parking offer affordable parking at Queen Street Car Park, located at the Corner of Wellington Street and Queen Street, Perth. Open 7 days until late, this undercover car park is ideally located for local restaurants and businesses, as well as His Majesty's Theatre. Offering casual Hourly, Online Flexi Saver, Night and Weekend Parking as well as exclusive discounts when you prepay online or with the Wilson Parking App, the Queen Street Car Park will meet all of your Perth parking needs.&nbsp;</p>\n<p>Download the Wilson Parking App or prepay online to plan your journey and access exclusive discounts or simply drive up and pay with your Credit Card,&nbsp;pay as you go with a Wilson Parking card, or enjoy unlimited access during the operational hours of the car park when you subscribe to Monthly Parking.</p>",
       "isWilsonOne": true,
@@ -94589,7 +94585,7 @@
       "costCenter": 1006097,
       "direction": "Entry from St Georges Terrace (Eastbound), just before William Street, below Central Park Offices.\n",
       "heightRestriction": 1.95,
-      "information": "<p>Wilson Parking offer affordable parking at Central Park Car Park, located at 152-158 St Georges Terrace, Perth. Open 7 days until late, this car park is ideally located for visitors to the Central Park Offices, and surrounding Perth businesses. Offering casual Hourly, Online Early Bird Flexi, Night and Weekend Parking as well as exclusive discounts available when you prepay online or with the Wilson Parking App, the Central Park Car Park will meet all of your parking needs.</p>\n<p>Entry to the car park is on St Georges Terrace, travelling Eastbound, just before William St, below Central Park Offices.</p>\n<p>Download the Wilson Parking App to prepay your parking in advance and access exclusive discounts, or simply drive up and pay with your credit card, pay as you go with a Wilson Parking card, or enjoy unlimited access during the operational hours of the car park when you subscribe to Monthly Parking.</p>",
+      "information": "<p>Wilson Parking offer affordable parking at Central Park Car Park, located at 152-158 St Georges Terrace, Perth. Open 7 days until late, this car park is ideally located for visitors to the Central Park Offices, Hay St Mall, Murray St Mall and surrounding Perth businesses, including the Apple Store an dOffice Works. Offering casual Hourly, Online Early Bird, Night and Weekend Parking as well as exclusive discounts available when you prepay online or with the Wilson Parking App, the Central Park Car Park will meet all of your parking needs.</p>\n<p>Entry to the car park is on St Georges Terrace, travelling Eastbound, just before William St, below Central Park Offices.</p>\n<p>Download the Wilson Parking App to prepay your parking in advance and access exclusive discounts, or simply drive up and pay with your credit card, pay as you go with a Wilson Parking card, or enjoy unlimited access during the operational hours of the car park when you subscribe to Monthly Parking.</p>",
       "isWilsonOne": true,
       "spottIsAvailable": true,
       "legacyID": 51,
@@ -95034,7 +95030,7 @@
       "carParkPhoto": "/contentassets/417ff33164ff44ecb8fe4160973f9f5d/20230421_090610_resized.jpg",
       "category": "",
       "costCenter": 1006060,
-      "direction": "Entry via King Street",
+      "direction": "Entry via King Street\nDear Customers\n</br></br>Please note there will be scheduled cleaning work on 21st June from 6PM till 22nd June 6AM. The car park will remain operational.</br>",
       "heightRestriction": 1.95,
       "information": "<p>Wilson Parking offer affordable parking at The Atrium Car Park, located at 168 St Georges Terrace, Perth (entry via King Street). Open 7 days until late, this car park is ideally located for visitors to The Atrium, and surrounding Perth businesses. Offering casual Hourly, Night and Weekend Parking, the Atrium Car Park will meet all of your parking needs. This car park is credit card only.</p>\n<p>&nbsp;</p>",
       "isWilsonOne": false,
