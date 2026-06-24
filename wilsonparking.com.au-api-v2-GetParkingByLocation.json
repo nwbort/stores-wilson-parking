@@ -23290,7 +23290,7 @@
       "costCenter": 1002345,
       "direction": "Entry via Oaks Avenue or Howard Avenue",
       "heightRestriction": 2.2,
-      "information": "<p>Wilson Parking offer affordable parking at Meriton Lighthouse Car Park which is located at 14 Oaks Ave, Dee Why</p>\n<p>Meriton Lighthouse Car Park suits all your leisure and business parking needs. With Casual parking options available 7 days.&nbsp;</p>",
+      "information": "<p>Wilson Parking offer affordable parking at Meriton Lighthouse Car Park which is located at 14 Oaks Ave, Dee Why</p>\n<p>With Casual parking options available 7 days, Meriton Lighthouse Car Park suits all your parking needs.&nbsp;</p>\n<p>For monthly parking availbility please <a href=\"https://www.meriton.com.au/parking/888-pittwater-rd-dee-why-nsw-2099/\" target=\"_blank\" rel=\"noopener\">click here</a></p>",
       "isWilsonOne": false,
       "spottIsAvailable": false,
       "legacyID": 735,
@@ -23434,7 +23434,12 @@
         "spottIsAvailable": false,
         "spottIconLabel": "Spott",
         "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
-        "additionalServices": []
+        "additionalServices": [
+          {
+            "label": null,
+            "icon": null
+          }
+        ]
       },
       "state": "NSW",
       "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
@@ -57709,7 +57714,7 @@
         },
         {
           "rateType": "Early Bird",
-          "notes": "<p>Enter the car park before 10am, and exit between 2:30pm and 7:00pm on the same day.</p>\n<p>Must follow signage to park on Level B2.</p>\n<p>Credit card payments only.</p>",
+          "notes": "<p>Enter the car park before 10am, and exit between 2:30pm and 6:30pm on the same day.</p>\n<p>Must follow signage to park on Level B2.</p>\n<p>Credit card payments only.</p>",
           "rates": [
             {
               "timeSpan": "Mon - Fri",
@@ -87962,7 +87967,7 @@
       "carParkPhoto": "/contentassets/ca151af77ba848a8a7950e6de5610cf5/capture.jpg",
       "category": "",
       "costCenter": 1006212,
-      "direction": "<b>**Car Park only operational on selected event days**</b><br>\n\n</b><br>18th June -  AFL Fremantle Dockers Vs Geelong Cats <b>\n</b><br>(Gate opens at 4:30pm and closes at 10:00pm sharp) <b>\n\n</b><br>28th June -  AFL Fremantle Dockers Vs Gold Coast SUNS<b>\n</b><br>(Gate opens at 1:30pm and closes at 7:30pm sharp)<b>",
+      "direction": "<b>**Car Park only operational on selected event days**</b><br>\n\n</b><br>28th June -  AFL Fremantle Dockers Vs Gold Coast SUNS<b>\n</b><br>(Gate opens at 1:30pm and closes at 7:30pm sharp)<b>",
       "heightRestriction": 0.0,
       "information": "<p>Wilson Parking offers affordable parking at Belmont Racecourse Car Park for Optus Stadium event parking only. Located a short walk from Optus Stadium, this car park is the perfect location for footy, cricket, concerts and other Optus Stadium events. Operational days are shown under the parking rates to the left.</p>\n<p>Parking must be prepaid in advance through the Wilson Parking App or website. No payments can be taken at the gate. Must present prepaid confirmation to access car park.</p>",
       "isWilsonOne": false,
@@ -88657,6 +88662,137 @@
       },
       "state": "WA",
       "imgUrl": "/contentassets/67fd2c05df6a44ac94ea659e2de3e76e/20230327_073634.jpg",
+      "price": "",
+      "status": "",
+      "cpmsCarparkCode": null,
+      "externalCarParkInfo": null,
+      "featuredIndex": 0
+    },
+    {
+      "name": "Burswood Point Car Park",
+      "bookText": null,
+      "canBookABay": false,
+      "selectedFeatures": "",
+      "carParkFeature": [
+        "Epark"
+      ],
+      "services": [],
+      "carParkName": "Burswood Point Car Park",
+      "carParkNumber": 62121,
+      "carParkPhoto": null,
+      "category": "",
+      "costCenter": 1006212,
+      "direction": null,
+      "heightRestriction": 0.0,
+      "information": "<p>Wilson Parking offers affordable all day parking at Belmont Burswood Point Car Park. Located a short walk from Optus Stadium, this car park is the perfect location for your daily parking needs.</p>\n<p>Parking must be prepaid in advance through the Wilson Parking App or website. No payments can be taken at the gate.&nbsp;</p>",
+      "isWilsonOne": false,
+      "spottIsAvailable": false,
+      "legacyID": 1006212,
+      "monthlyParkingServiceIsAvailable": false,
+      "evChargerIsAvailable": false,
+      "disabledParkingIsAvailable": false,
+      "phoneNumber": "1800 PARKING",
+      "products": [],
+      "staticMapPhoto": null,
+      "streetViewHeading": "77.51655325437714",
+      "streetViewLocation": "https://www.google.com/maps/@?api=1&map_action=pano&pano=Zm9ZU0mV3wQz9dcUhlNchw&viewpoint=-31.946513175948716,115.88978805010876&heading=283.03623488447465&pitch=-2.8135812851152764&zoom=0.9999999999999997",
+      "rates": [],
+      "fromText": "From",
+      "fromPrice": "20",
+      "location": {
+        "longitude": 115.887514,
+        "latitude": -31.945592,
+        "zoom": 13,
+        "address": "Saintly Entrance, Burswood (Turn Left)",
+        "region": {
+          "name": "Burswood",
+          "longitude": 115.89476594788721,
+          "latitude": -31.962250339218841,
+          "status": "",
+          "state": {
+            "name": "Western Australia",
+            "abbreviation": "WA",
+            "country": "Australia",
+            "longitude": 123.41536223888397,
+            "latitude": -25.833723163507287,
+            "status": ""
+          }
+        }
+      },
+      "openingTimes": [
+        {
+          "day_TimePeriod": "Monday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "6:00",
+          "closing": "18:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Tuesday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "6:00",
+          "closing": "18:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Wednesday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "6:00",
+          "closing": "18:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Thursday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "6:00",
+          "closing": "18:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Friday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "6:00",
+          "closing": "18:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Saturday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "6:00",
+          "closing": "18:00",
+          "note": null
+        }
+      ],
+      "url": "/parking-locations/western-australia/burswood/burswood-point-car-park/",
+      "serviceConfiguration": {
+        "canBookABay": false,
+        "bookABayIconLabel": "Prepay Online",
+        "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
+        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingIconLabel": "Monthly Subscription",
+        "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
+        "isWilsonOne": false,
+        "wilsonOneIconLabel": "Parking Card",
+        "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
+        "disabledParkingIsAvailable": false,
+        "disabledParkingIconLabel": "Disabled Parking",
+        "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
+        "evChargerIsAvailable": false,
+        "evChargerIconLabel": "EV Charging",
+        "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
+        "spottIsAvailable": false,
+        "spottIconLabel": "Spott",
+        "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
+        "additionalServices": []
+      },
+      "state": "WA",
+      "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
       "price": "",
       "status": "",
       "cpmsCarparkCode": null,
