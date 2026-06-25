@@ -24804,7 +24804,6 @@
       "canBookABay": true,
       "selectedFeatures": "",
       "carParkFeature": [
-        "Monthly Parking",
         "Night Parking",
         "Weekend Parking",
         "Book a Bay",
@@ -24813,8 +24812,7 @@
       ],
       "services": [
         "book a bay",
-        "wilson one",
-        "monthly"
+        "wilson one"
       ],
       "carParkName": "150 George St Car Park",
       "carParkNumber": 2388,
@@ -24827,7 +24825,7 @@
       "isWilsonOne": true,
       "spottIsAvailable": false,
       "legacyID": 2388,
-      "monthlyParkingServiceIsAvailable": true,
+      "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
       "phoneNumber": "1800 PARKING (727 546)",
@@ -24994,7 +24992,7 @@
         "canBookABay": true,
         "bookABayIconLabel": "Prepay Online",
         "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": true,
+        "monthlyParkingServiceIsAvailable": false,
         "monthlyParkingIconLabel": "Monthly Subscription",
         "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
         "isWilsonOne": true,
@@ -26801,12 +26799,9 @@
       "canBookABay": false,
       "selectedFeatures": "",
       "carParkFeature": [
-        "Monthly Parking",
         "Entry height at least 2"
       ],
-      "services": [
-        "monthly"
-      ],
+      "services": [],
       "carParkName": "Justice Precinct Car Park",
       "carParkNumber": 2426,
       "carParkPhoto": null,
@@ -26818,7 +26813,7 @@
       "isWilsonOne": false,
       "spottIsAvailable": false,
       "legacyID": 1002426,
-      "monthlyParkingServiceIsAvailable": true,
+      "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
       "phoneNumber": "1800 PARKING",
@@ -26957,7 +26952,7 @@
         "canBookABay": false,
         "bookABayIconLabel": "Prepay Online",
         "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": true,
+        "monthlyParkingServiceIsAvailable": false,
         "monthlyParkingIconLabel": "Monthly Subscription",
         "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
         "isWilsonOne": false,
@@ -66535,7 +66530,6 @@
       "canBookABay": true,
       "selectedFeatures": "",
       "carParkFeature": [
-        "Monthly Parking",
         "Night Parking",
         "Weekend Parking",
         "Book a Bay",
@@ -66543,8 +66537,7 @@
       ],
       "services": [
         "book a bay",
-        "wilson one",
-        "monthly"
+        "wilson one"
       ],
       "carParkName": "Freeway Car Park",
       "carParkNumber": 3199,
@@ -66557,7 +66550,7 @@
       "isWilsonOne": true,
       "spottIsAvailable": false,
       "legacyID": 101,
-      "monthlyParkingServiceIsAvailable": true,
+      "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
       "phoneNumber": "1800 PARKING",
@@ -66704,7 +66697,7 @@
         "canBookABay": true,
         "bookABayIconLabel": "Prepay Online",
         "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": true,
+        "monthlyParkingServiceIsAvailable": false,
         "monthlyParkingIconLabel": "Monthly Subscription",
         "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
         "isWilsonOne": true,
