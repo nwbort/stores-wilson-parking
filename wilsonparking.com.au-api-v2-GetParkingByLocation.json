@@ -1291,17 +1291,7 @@
           "rates": [
             {
               "timeSpan": "Mon - Fri",
-              "price": 35.0
-            }
-          ]
-        },
-        {
-          "rateType": "Weekend",
-          "notes": "<p>Flat rate per exit, per day</p>\n<p>&nbsp;</p>",
-          "rates": [
-            {
-              "timeSpan": "Sat - Sun",
-              "price": 40.0
+              "price": 39.0
             }
           ]
         }
@@ -9603,6 +9593,136 @@
       "carParkFeature": [],
       "services": [],
       "carParkName": "Atrium Car Park - U60",
+      "carParkNumber": 9511,
+      "carParkPhoto": null,
+      "category": "",
+      "costCenter": 5002511,
+      "direction": null,
+      "heightRestriction": 2.1,
+      "information": "<p>Atrium Car Park is located at 2 Edward St, Pyrmont. Close to many popular restaurants and attractions, including Star Casino, Lyric Theatre, Darling Harbour and open until midnight, this undercover car park is in the ideal location when looking for parking in Pyrmont.</p>\n<p>Offering Hourly, Night and Weekend Parking options, the Atrium Park will meet all your parking needs.&nbsp;</p>\n<p>This car park accepts credit card and cash payments.</p>",
+      "isWilsonOne": false,
+      "spottIsAvailable": false,
+      "legacyID": 0,
+      "monthlyParkingServiceIsAvailable": false,
+      "evChargerIsAvailable": false,
+      "disabledParkingIsAvailable": false,
+      "phoneNumber": null,
+      "products": [],
+      "staticMapPhoto": null,
+      "streetViewHeading": null,
+      "streetViewLocation": null,
+      "rates": [],
+      "fromText": "",
+      "fromPrice": "",
+      "location": {
+        "longitude": 151.196332416371,
+        "latitude": -33.8689364377346,
+        "zoom": 13,
+        "address": "2 Edward Street, Pyrmont",
+        "region": null
+      },
+      "openingTimes": [
+        {
+          "day_TimePeriod": "Sunday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "06:00",
+          "closing": "00:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Monday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "06:00",
+          "closing": "0:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Tuesday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "06:00",
+          "closing": "00:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Wednesday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "06:00",
+          "closing": "00:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Thursday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "06:00",
+          "closing": "00:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Friday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "06:00",
+          "closing": "01:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Saturday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "06:00",
+          "closing": "01:00",
+          "note": null
+        }
+      ],
+      "url": "/parking-locations/new-south-wales/cbd-sydney-north/atrium-car-park-u60/",
+      "serviceConfiguration": {
+        "canBookABay": false,
+        "bookABayIconLabel": "Prepay Online",
+        "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
+        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingIconLabel": "Monthly Subscription",
+        "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
+        "isWilsonOne": false,
+        "wilsonOneIconLabel": "Parking Card",
+        "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
+        "disabledParkingIsAvailable": false,
+        "disabledParkingIconLabel": "Disabled Parking",
+        "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
+        "evChargerIsAvailable": false,
+        "evChargerIconLabel": "EV Charging",
+        "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
+        "spottIsAvailable": false,
+        "spottIconLabel": "Spott",
+        "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
+        "additionalServices": []
+      },
+      "state": null,
+      "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
+      "price": "",
+      "status": "",
+      "cpmsCarparkCode": null,
+      "externalCarParkInfo": {
+        "name": "InterPark",
+        "pinUrl": "/globalassets/icons/interpark-icons/pin-blue.png",
+        "logoUrl": "/siteassets/parking-stock-images/interpark-icons/interpark_logo.jpg",
+        "pageUrl": "",
+        "content": "<p>This is an Interpark carpark with LOGO</p>"
+      },
+      "featuredIndex": 0
+    },
+    {
+      "name": "Atrium Car Park - U60",
+      "bookText": null,
+      "canBookABay": false,
+      "selectedFeatures": "",
+      "carParkFeature": [],
+      "services": [],
+      "carParkName": "Atrium Car Park - U60",
       "carParkNumber": 5002511,
       "carParkPhoto": null,
       "category": "",
@@ -12365,6 +12485,271 @@
       "featuredIndex": 0
     },
     {
+      "name": "The Gordon Car Park",
+      "bookText": null,
+      "canBookABay": false,
+      "selectedFeatures": "",
+      "carParkFeature": [
+        "Night Parking",
+        "Disabled Parking"
+      ],
+      "services": [
+        "disabled parking"
+      ],
+      "carParkName": "The Gordon Car Park",
+      "carParkNumber": 150,
+      "carParkPhoto": null,
+      "category": "",
+      "costCenter": 5002150,
+      "direction": "2 Newcombe Street, Paddington",
+      "heightRestriction": 2.2,
+      "information": "<p>The Gordon Car Park is located at 2 Newcombe St, Paddington. Close to many popular restaurants and attractions, including Allianz Stadium, Paddington Markets, St Vincent's Hopsital, Paddington Uniting Church, Oxford St Retail and open until midnight, this undercover car park is in the ideal location when looking for parking in Paddington.</p>\n<p>Offering Hourly, Night and Sunday Parking options, the Gordon Car Park will meet all your parking needs.&nbsp;</p>\n<p>This car park accepts credit card and cash payments.</p>",
+      "isWilsonOne": false,
+      "spottIsAvailable": false,
+      "legacyID": 0,
+      "monthlyParkingServiceIsAvailable": false,
+      "evChargerIsAvailable": false,
+      "disabledParkingIsAvailable": true,
+      "phoneNumber": null,
+      "products": [],
+      "staticMapPhoto": null,
+      "streetViewHeading": null,
+      "streetViewLocation": null,
+      "rates": [],
+      "fromText": "",
+      "fromPrice": "",
+      "location": {
+        "longitude": 151.229678157114,
+        "latitude": -33.8869878936204,
+        "zoom": 13,
+        "address": "2 Newcombe Street, Paddington",
+        "region": null
+      },
+      "openingTimes": [
+        {
+          "day_TimePeriod": "Sunday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "06:00",
+          "closing": "00:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Monday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "06:00",
+          "closing": "00:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Tuesday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "06:00",
+          "closing": "00:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Wednesday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "06:00",
+          "closing": "00:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Thursday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "06:00",
+          "closing": "0:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Friday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "06:00",
+          "closing": "00:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Saturday",
+          "is24_7": false,
+          "closed": true,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Public Holiday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "06:00",
+          "closing": "00:00",
+          "note": null
+        }
+      ],
+      "url": "/parking-locations/new-south-wales/cbd-sydney-north/the-gordon-car-park/",
+      "serviceConfiguration": {
+        "canBookABay": false,
+        "bookABayIconLabel": "Prepay Online",
+        "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
+        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingIconLabel": "Monthly Subscription",
+        "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
+        "isWilsonOne": false,
+        "wilsonOneIconLabel": "Parking Card",
+        "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
+        "disabledParkingIsAvailable": true,
+        "disabledParkingIconLabel": "Disabled Parking",
+        "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
+        "evChargerIsAvailable": false,
+        "evChargerIconLabel": "EV Charging",
+        "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
+        "spottIsAvailable": false,
+        "spottIconLabel": "Spott",
+        "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
+        "additionalServices": []
+      },
+      "state": null,
+      "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
+      "price": "",
+      "status": "",
+      "cpmsCarparkCode": null,
+      "externalCarParkInfo": {
+        "name": "InterPark",
+        "pinUrl": "/globalassets/icons/interpark-icons/pin-blue.png",
+        "logoUrl": "/siteassets/parking-stock-images/interpark-icons/interpark_logo.jpg",
+        "pageUrl": "",
+        "content": "<p>This is an Interpark carpark with LOGO</p>"
+      },
+      "featuredIndex": 0
+    },
+    {
+      "name": "Woolworths (Salvation Army) Redfern Car Park",
+      "bookText": null,
+      "canBookABay": false,
+      "selectedFeatures": "",
+      "carParkFeature": [],
+      "services": [],
+      "carParkName": "Woolworths (Salvation Army) Redfern Car Park",
+      "carParkNumber": 9107,
+      "carParkPhoto": null,
+      "category": "",
+      "costCenter": 5002107,
+      "direction": null,
+      "heightRestriction": 2.25,
+      "information": "<p>Woolworths (Salvation Army) Redfern Car Park is located at 261 &ndash; 265 Chalmers Street, Redfern. Close to Redfern Oval and open until 10pm, this car park is in the ideal location when looking for parking in Redfern.</p>\n<p>Offering Hourly, Overnight options, the Woolworths Redfern Car Park will meet all your parking needs.&nbsp;</p>\n<p>This car park accepts credit card only.</p>",
+      "isWilsonOne": false,
+      "spottIsAvailable": false,
+      "legacyID": 0,
+      "monthlyParkingServiceIsAvailable": false,
+      "evChargerIsAvailable": false,
+      "disabledParkingIsAvailable": false,
+      "phoneNumber": null,
+      "products": [],
+      "staticMapPhoto": null,
+      "streetViewHeading": null,
+      "streetViewLocation": null,
+      "rates": [],
+      "fromText": "",
+      "fromPrice": "",
+      "location": {
+        "longitude": 151.204818523475,
+        "latitude": -33.8945739474457,
+        "zoom": 13,
+        "address": "261 – 265 Chalmers Street, Redfern",
+        "region": null
+      },
+      "openingTimes": [
+        {
+          "day_TimePeriod": "Monday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "06:30",
+          "closing": "22:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Tuesday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "06:30",
+          "closing": "22:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Wednesday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "06:30",
+          "closing": "22:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Thursday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "06:30",
+          "closing": "22:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Friday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "06:30",
+          "closing": "22:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Saturday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "06:30",
+          "closing": "22:00",
+          "note": null
+        }
+      ],
+      "url": "/parking-locations/new-south-wales/cbd-sydney-south/woolworths-salvation-army-redfern-car-park/",
+      "serviceConfiguration": {
+        "canBookABay": false,
+        "bookABayIconLabel": "Prepay Online",
+        "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
+        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingIconLabel": "Monthly Subscription",
+        "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
+        "isWilsonOne": false,
+        "wilsonOneIconLabel": "Parking Card",
+        "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
+        "disabledParkingIsAvailable": false,
+        "disabledParkingIconLabel": "Disabled Parking",
+        "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
+        "evChargerIsAvailable": false,
+        "evChargerIconLabel": "EV Charging",
+        "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
+        "spottIsAvailable": false,
+        "spottIconLabel": "Spott",
+        "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
+        "additionalServices": []
+      },
+      "state": null,
+      "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
+      "price": "",
+      "status": "",
+      "cpmsCarparkCode": null,
+      "externalCarParkInfo": {
+        "name": "InterPark",
+        "pinUrl": "/globalassets/icons/interpark-icons/pin-blue.png",
+        "logoUrl": "/siteassets/parking-stock-images/interpark-icons/interpark_logo.jpg",
+        "pageUrl": "",
+        "content": "<p>This is an Interpark carpark with LOGO</p>"
+      },
+      "featuredIndex": 0
+    },
+    {
       "name": "Moore Park Golf Club Car Park",
       "bookText": null,
       "canBookABay": false,
@@ -13097,19 +13482,19 @@
           "rates": [
             {
               "timeSpan": "0.0 - 1.0 hrs",
-              "price": 25.0
+              "price": 20.0
             },
             {
               "timeSpan": "1.0 - 2.0 hrs",
-              "price": 50.0
+              "price": 40.0
             },
             {
               "timeSpan": "2.0 - 3.0 hrs",
-              "price": 75.0
+              "price": 60.0
             },
             {
               "timeSpan": "3.0 + hrs (Max Daily)",
-              "price": 80.0
+              "price": 64.0
             }
           ]
         },
@@ -13119,7 +13504,7 @@
           "rates": [
             {
               "timeSpan": "Mon - Fri",
-              "price": 10.0
+              "price": 8.0
             }
           ]
         },
@@ -15022,8 +15407,6 @@
         "Book a Bay",
         "Wilson One",
         "Disabled Parking",
-        "Daily Pass Bundles",
-        "Elevate",
         "LPR",
         "Spott"
       ],
@@ -15622,6 +16005,308 @@
       "featuredIndex": 0
     },
     {
+      "name": "Park Sydney Car Park",
+      "bookText": null,
+      "canBookABay": false,
+      "selectedFeatures": "",
+      "carParkFeature": [
+        "Disabled Parking"
+      ],
+      "services": [
+        "disabled parking"
+      ],
+      "carParkName": "Park Sydney Car Park",
+      "carParkNumber": 9142,
+      "carParkPhoto": null,
+      "category": "",
+      "costCenter": 5002142,
+      "direction": null,
+      "heightRestriction": 0.0,
+      "information": "<p>Park Sydney Car Park is located at 57 Ashmore Street, Erskineville. Close to Erskineville Oval and Woolworths Metro and operating 24/7, this car park is in the ideal location when looking for parking in Erskineville.</p>\n<p>Offering Hourly and Overnight options, the Park Sydney Car Park will meet all your parking needs.&nbsp;</p>\n<p>This car park accepts credit card and cash.</p>",
+      "isWilsonOne": false,
+      "spottIsAvailable": false,
+      "legacyID": 0,
+      "monthlyParkingServiceIsAvailable": false,
+      "evChargerIsAvailable": false,
+      "disabledParkingIsAvailable": true,
+      "phoneNumber": null,
+      "products": [],
+      "staticMapPhoto": null,
+      "streetViewHeading": null,
+      "streetViewLocation": null,
+      "rates": [],
+      "fromText": "",
+      "fromPrice": "",
+      "location": {
+        "longitude": 151.189127497264,
+        "latitude": -33.9030744355251,
+        "zoom": 13,
+        "address": null,
+        "region": null
+      },
+      "openingTimes": [
+        {
+          "day_TimePeriod": "Sunday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Monday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Tuesday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Wednesday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Thursday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Friday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Saturday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        }
+      ],
+      "url": "/parking-locations/new-south-wales/inner-west/park-sydney-car-park/",
+      "serviceConfiguration": {
+        "canBookABay": false,
+        "bookABayIconLabel": "Prepay Online",
+        "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
+        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingIconLabel": "Monthly Subscription",
+        "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
+        "isWilsonOne": false,
+        "wilsonOneIconLabel": "Parking Card",
+        "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
+        "disabledParkingIsAvailable": true,
+        "disabledParkingIconLabel": "Disabled Parking",
+        "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
+        "evChargerIsAvailable": false,
+        "evChargerIconLabel": "EV Charging",
+        "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
+        "spottIsAvailable": false,
+        "spottIconLabel": "Spott",
+        "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
+        "additionalServices": []
+      },
+      "state": null,
+      "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
+      "price": "",
+      "status": "",
+      "cpmsCarparkCode": null,
+      "externalCarParkInfo": {
+        "name": "InterPark",
+        "pinUrl": "/globalassets/icons/interpark-icons/pin-blue.png",
+        "logoUrl": "/siteassets/parking-stock-images/interpark-icons/interpark_logo.jpg",
+        "pageUrl": "",
+        "content": "<p>This is an Interpark carpark with LOGO</p>"
+      },
+      "featuredIndex": 0
+    },
+    {
+      "name": "Coles Neutral Bay Car Park",
+      "bookText": null,
+      "canBookABay": false,
+      "selectedFeatures": "",
+      "carParkFeature": [
+        "Entry height at least 2"
+      ],
+      "services": [],
+      "carParkName": "Coles Neutral Bay Car Park",
+      "carParkNumber": 9813,
+      "carParkPhoto": null,
+      "category": "",
+      "costCenter": 1009813,
+      "direction": "Entry via 43-51 Grosvenor St",
+      "heightRestriction": 2.15,
+      "information": "\n<div>The Coles Neutral Bay Car Park is located at 43&ndash;51 Grosvenor Street, Neutral Bay and is open 7 days a week. The car park offers convenient and affordable casual hourly parking for retail customers, residents, and visitors to the surrounding area. It provides easy access to Coles Neutral Bay, nearby residences, and local businesses.</div>\n<p>&nbsp;</p>",
+      "isWilsonOne": false,
+      "spottIsAvailable": false,
+      "legacyID": 9813,
+      "monthlyParkingServiceIsAvailable": false,
+      "evChargerIsAvailable": false,
+      "disabledParkingIsAvailable": false,
+      "phoneNumber": "1800 PARKING (1800 727 546)",
+      "products": [],
+      "staticMapPhoto": null,
+      "streetViewHeading": null,
+      "streetViewLocation": "https://www.google.com/maps/place/43-51+Grosvenor+St,+Neutral+Bay+NSW+2089,+Australia/@-33.8304933,151.2199639,1191m/data=!3m2!1e3!4b1!4m6!3m5!1s0x6b12aea2b03af011:0x7c982641cb7984ab!8m2!3d-33.8304978!4d151.2225388!16s%2Fg%2F11bw4hzznq?hl=en-US&entry=ttu&g_ep=EgoyMDI2MDYyMy4wIKXMDSoASAFQAw%3D%3D",
+      "rates": [
+        {
+          "rateType": "Hourly",
+          "notes": "<p>Rates avaialble 7 days</p>",
+          "rates": [
+            {
+              "timeSpan": "0.0-2.0 hrs",
+              "price": 0.0
+            },
+            {
+              "timeSpan": "2.0-3.0 hrs",
+              "price": 15.0
+            },
+            {
+              "timeSpan": "3.0-4.0 hrs",
+              "price": 19.0
+            },
+            {
+              "timeSpan": "4.0+ hrs",
+              "price": 50.0
+            }
+          ]
+        }
+      ],
+      "fromText": "From",
+      "fromPrice": "0",
+      "location": {
+        "longitude": 151.222538795403,
+        "latitude": -33.8304977732331,
+        "zoom": 13,
+        "address": "43-51 Grosvenor St, Neutral Bay",
+        "region": {
+          "name": "Neutral Bay",
+          "longitude": -33.8340611265723,
+          "latitude": 151.218309872592,
+          "status": "",
+          "state": {
+            "name": "New South Wales",
+            "abbreviation": "NSW",
+            "country": "Australia",
+            "longitude": 151.207430362701,
+            "latitude": -33.8662642500823,
+            "status": ""
+          }
+        }
+      },
+      "openingTimes": [
+        {
+          "day_TimePeriod": "Monday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "9:30",
+          "closing": "16:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Tuesday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "9:30",
+          "closing": "20:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Wednesday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "9:30",
+          "closing": "20:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Thursday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "9:30",
+          "closing": "20:30",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Friday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "9:30",
+          "closing": "20:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Saturday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "9:30",
+          "closing": "16:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Sunday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "9:30",
+          "closing": "16:00",
+          "note": null
+        }
+      ],
+      "url": "/parking-locations/new-south-wales/neutral-bay/coles-neutral-bay-car-park/",
+      "serviceConfiguration": {
+        "canBookABay": false,
+        "bookABayIconLabel": "Prepay Online",
+        "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
+        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingIconLabel": "Monthly Subscription",
+        "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
+        "isWilsonOne": false,
+        "wilsonOneIconLabel": "Parking Card",
+        "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
+        "disabledParkingIsAvailable": false,
+        "disabledParkingIconLabel": "Disabled Parking",
+        "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
+        "evChargerIsAvailable": false,
+        "evChargerIconLabel": "EV Charging",
+        "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
+        "spottIsAvailable": false,
+        "spottIconLabel": "Spott",
+        "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
+        "additionalServices": []
+      },
+      "state": "NSW",
+      "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
+      "price": "",
+      "status": "",
+      "cpmsCarparkCode": null,
+      "externalCarParkInfo": {
+        "name": "InterPark",
+        "pinUrl": "/globalassets/icons/interpark-icons/pin-blue.png",
+        "logoUrl": "/siteassets/parking-stock-images/interpark-icons/interpark_logo.jpg",
+        "pageUrl": "",
+        "content": "<p>This is an Interpark carpark with LOGO</p>"
+      },
+      "featuredIndex": 0
+    },
+    {
       "name": "Grosvenor St Car Park",
       "bookText": null,
       "canBookABay": true,
@@ -15986,6 +16671,140 @@
         "wilsonOneIconLabel": "Parking Card",
         "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
         "disabledParkingIsAvailable": false,
+        "disabledParkingIconLabel": "Disabled Parking",
+        "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
+        "evChargerIsAvailable": false,
+        "evChargerIconLabel": "EV Charging",
+        "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
+        "spottIsAvailable": false,
+        "spottIconLabel": "Spott",
+        "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
+        "additionalServices": []
+      },
+      "state": null,
+      "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
+      "price": "",
+      "status": "",
+      "cpmsCarparkCode": null,
+      "externalCarParkInfo": {
+        "name": "InterPark",
+        "pinUrl": "/globalassets/icons/interpark-icons/pin-blue.png",
+        "logoUrl": "/siteassets/parking-stock-images/interpark-icons/interpark_logo.jpg",
+        "pageUrl": "",
+        "content": "<p>This is an Interpark carpark with LOGO</p>"
+      },
+      "featuredIndex": 0
+    },
+    {
+      "name": "Chequers Car Park",
+      "bookText": null,
+      "canBookABay": false,
+      "selectedFeatures": "",
+      "carParkFeature": [
+        "Disabled Parking"
+      ],
+      "services": [
+        "disabled parking"
+      ],
+      "carParkName": "Chequers Car Park",
+      "carParkNumber": 9149,
+      "carParkPhoto": null,
+      "category": "",
+      "costCenter": 5002149,
+      "direction": null,
+      "heightRestriction": 2.0,
+      "information": "<p>Chequers Car Park is located at 272 Pacific Highway, Crows Nest. Close to Cafes and Retail and open until 7pm, this car park is in the ideal location when looking for parking in Crows Nest and next to the Pacific Highway.</p>\n<p>Offering Hourly options, Chequers Car Park will meet all your parking needs.&nbsp;</p>\n<p>This car park accepts credit card only.</p>",
+      "isWilsonOne": false,
+      "spottIsAvailable": false,
+      "legacyID": 0,
+      "monthlyParkingServiceIsAvailable": false,
+      "evChargerIsAvailable": false,
+      "disabledParkingIsAvailable": true,
+      "phoneNumber": null,
+      "products": [],
+      "staticMapPhoto": null,
+      "streetViewHeading": null,
+      "streetViewLocation": null,
+      "rates": [],
+      "fromText": "",
+      "fromPrice": "",
+      "location": {
+        "longitude": 151.200944983663,
+        "latitude": -33.8281946470508,
+        "zoom": 13,
+        "address": "272 Pacific Highway, Crows Nest",
+        "region": null
+      },
+      "openingTimes": [
+        {
+          "day_TimePeriod": "Sunday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "7:00",
+          "closing": "19:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Monday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "7:00",
+          "closing": "19:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Tuesday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "7:00",
+          "closing": "19:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Wednesday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "7:00",
+          "closing": "19:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Thursday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "7:00",
+          "closing": "19:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Friday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "7:00",
+          "closing": "19:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Saturday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "7:00",
+          "closing": "19:00",
+          "note": null
+        }
+      ],
+      "url": "/parking-locations/new-south-wales/lower-north-shore/chequers-car-park/",
+      "serviceConfiguration": {
+        "canBookABay": false,
+        "bookABayIconLabel": "Prepay Online",
+        "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
+        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingIconLabel": "Monthly Subscription",
+        "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
+        "isWilsonOne": false,
+        "wilsonOneIconLabel": "Parking Card",
+        "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
+        "disabledParkingIsAvailable": true,
         "disabledParkingIconLabel": "Disabled Parking",
         "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
         "evChargerIsAvailable": false,
@@ -19111,6 +19930,140 @@
       "featuredIndex": 0
     },
     {
+      "name": "Dan Murphy’s Coogee Car Park",
+      "bookText": null,
+      "canBookABay": false,
+      "selectedFeatures": "",
+      "carParkFeature": [
+        "Disabled Parking"
+      ],
+      "services": [
+        "disabled parking"
+      ],
+      "carParkName": "Dan Murphy’s Coogee Car Park",
+      "carParkNumber": 9123,
+      "carParkPhoto": null,
+      "category": "",
+      "costCenter": 5002123,
+      "direction": null,
+      "heightRestriction": 2.15,
+      "information": "<p>Dan Murphy's Coogee Car Park is located at 101-104 Brooke Street, Coogee. Close to Coogee Oval, Coogee Beach, Cooge Beach Club, Shopping and Retail and open until 10:30pm, this car park is in the ideal location when looking for parking in Coogee.</p>\n<p>Offering Hourly options, the Coogee Car Park will meet all your parking needs.&nbsp;</p>\n<p>This car park accepts credit card and cash.<br /><br /><span style=\"color: #ff1e25;\">For 1 Hour Free parking, receipt MUST be validated at Automatic Payment Machine.</span></p>",
+      "isWilsonOne": false,
+      "spottIsAvailable": false,
+      "legacyID": 0,
+      "monthlyParkingServiceIsAvailable": false,
+      "evChargerIsAvailable": false,
+      "disabledParkingIsAvailable": true,
+      "phoneNumber": null,
+      "products": [],
+      "staticMapPhoto": null,
+      "streetViewHeading": null,
+      "streetViewLocation": null,
+      "rates": [],
+      "fromText": "",
+      "fromPrice": "",
+      "location": {
+        "longitude": 151.254657542718,
+        "latitude": -33.919992457381,
+        "zoom": 13,
+        "address": "101-104 Brooke Street, Coogee",
+        "region": null
+      },
+      "openingTimes": [
+        {
+          "day_TimePeriod": "Sunday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "8:00",
+          "closing": "22:30",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Monday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "8:00",
+          "closing": "22:30",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Tuesday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "8:00",
+          "closing": "22:30",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Wednesday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "8:00",
+          "closing": "22:30",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Thursday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "8:00",
+          "closing": "22:30",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Friday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "8:00",
+          "closing": "22:30",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Saturday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "8:00",
+          "closing": "22:30",
+          "note": null
+        }
+      ],
+      "url": "/parking-locations/new-south-wales/eastern-suburbs/dan-murphys-coogee-car-park/",
+      "serviceConfiguration": {
+        "canBookABay": false,
+        "bookABayIconLabel": "Prepay Online",
+        "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
+        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingIconLabel": "Monthly Subscription",
+        "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
+        "isWilsonOne": false,
+        "wilsonOneIconLabel": "Parking Card",
+        "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
+        "disabledParkingIsAvailable": true,
+        "disabledParkingIconLabel": "Disabled Parking",
+        "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
+        "evChargerIsAvailable": false,
+        "evChargerIconLabel": "EV Charging",
+        "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
+        "spottIsAvailable": false,
+        "spottIconLabel": "Spott",
+        "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
+        "additionalServices": []
+      },
+      "state": null,
+      "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
+      "price": "",
+      "status": "",
+      "cpmsCarparkCode": null,
+      "externalCarParkInfo": {
+        "name": "InterPark",
+        "pinUrl": "/globalassets/icons/interpark-icons/pin-blue.png",
+        "logoUrl": "/siteassets/parking-stock-images/interpark-icons/interpark_logo.jpg",
+        "pageUrl": "",
+        "content": "<p>This is an Interpark carpark with LOGO</p>"
+      },
+      "featuredIndex": 0
+    },
+    {
       "name": "The Canopy Car Park",
       "bookText": null,
       "canBookABay": false,
@@ -20677,6 +21630,266 @@
       "featuredIndex": 0
     },
     {
+      "name": "Coles Concord Car Park",
+      "bookText": null,
+      "canBookABay": false,
+      "selectedFeatures": "",
+      "carParkFeature": [],
+      "services": [],
+      "carParkName": "Coles Concord Car Park",
+      "carParkNumber": 9205,
+      "carParkPhoto": null,
+      "category": "",
+      "costCenter": 5002205,
+      "direction": null,
+      "heightRestriction": 2.0,
+      "information": "<p>Coles Concord Car Park is located at 48-62 Majors Bay Road, Concord. Close to Cafes &amp; Restaurants and open 24 hours, this car park is in the ideal location when looking for parking in Concord.</p>\n<p>Offering Hourly options, the Coles Concord Car Park will meet all your parking needs.&nbsp;</p>\n<p>This car park accepts credit card and cash.</p>",
+      "isWilsonOne": false,
+      "spottIsAvailable": false,
+      "legacyID": 0,
+      "monthlyParkingServiceIsAvailable": false,
+      "evChargerIsAvailable": false,
+      "disabledParkingIsAvailable": false,
+      "phoneNumber": null,
+      "products": [],
+      "staticMapPhoto": null,
+      "streetViewHeading": null,
+      "streetViewLocation": null,
+      "rates": [],
+      "fromText": "",
+      "fromPrice": "",
+      "location": {
+        "longitude": 151.102981025991,
+        "latitude": -33.8569476299444,
+        "zoom": 13,
+        "address": null,
+        "region": null
+      },
+      "openingTimes": [
+        {
+          "day_TimePeriod": "Sunday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Monday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Tuesday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Wednesday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Thursday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Friday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Saturday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        }
+      ],
+      "url": "/parking-locations/new-south-wales/inner-west/coles-concord-car-park/",
+      "serviceConfiguration": {
+        "canBookABay": false,
+        "bookABayIconLabel": "Prepay Online",
+        "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
+        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingIconLabel": "Monthly Subscription",
+        "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
+        "isWilsonOne": false,
+        "wilsonOneIconLabel": "Parking Card",
+        "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
+        "disabledParkingIsAvailable": false,
+        "disabledParkingIconLabel": "Disabled Parking",
+        "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
+        "evChargerIsAvailable": false,
+        "evChargerIconLabel": "EV Charging",
+        "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
+        "spottIsAvailable": false,
+        "spottIconLabel": "Spott",
+        "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
+        "additionalServices": []
+      },
+      "state": null,
+      "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
+      "price": "",
+      "status": "",
+      "cpmsCarparkCode": null,
+      "externalCarParkInfo": {
+        "name": "InterPark",
+        "pinUrl": "/globalassets/icons/interpark-icons/pin-blue.png",
+        "logoUrl": "/siteassets/parking-stock-images/interpark-icons/interpark_logo.jpg",
+        "pageUrl": "",
+        "content": "<p>This is an Interpark carpark with LOGO</p>"
+      },
+      "featuredIndex": 0
+    },
+    {
+      "name": "Emerald Square Car Park",
+      "bookText": null,
+      "canBookABay": false,
+      "selectedFeatures": "",
+      "carParkFeature": [],
+      "services": [],
+      "carParkName": "Emerald Square Car Park",
+      "carParkNumber": 9580,
+      "carParkPhoto": null,
+      "category": "",
+      "costCenter": 5002580,
+      "direction": null,
+      "heightRestriction": 2.2,
+      "information": "<p>Emerald Square Car Park is located at 27 &ndash; 31 Belmore Street, Burwood. Close to Burwood Grand Apartments, Burwood Library, Cafes and Restaurants and open until Midnight, this car park is in the ideal location when looking for parking in Burwood.</p>\n<p>Offering Hourly, Overnight options, the Emerald Car Park will meet all your parking needs.&nbsp;</p>\n<p>This car park accepts credit card only.</p>",
+      "isWilsonOne": false,
+      "spottIsAvailable": false,
+      "legacyID": 0,
+      "monthlyParkingServiceIsAvailable": false,
+      "evChargerIsAvailable": false,
+      "disabledParkingIsAvailable": false,
+      "phoneNumber": null,
+      "products": [],
+      "staticMapPhoto": null,
+      "streetViewHeading": null,
+      "streetViewLocation": null,
+      "rates": [],
+      "fromText": "",
+      "fromPrice": "",
+      "location": {
+        "longitude": 151.102361663734,
+        "latitude": -33.8777643402378,
+        "zoom": 13,
+        "address": null,
+        "region": null
+      },
+      "openingTimes": [
+        {
+          "day_TimePeriod": "Sunday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "5:00",
+          "closing": "00:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Monday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "5:00",
+          "closing": "0:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Tuesday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "5:00",
+          "closing": "00:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Wednesday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "5:00",
+          "closing": "00:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Thursday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "5:00",
+          "closing": "00:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Friday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "5:00",
+          "closing": "00:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Saturday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "5:00",
+          "closing": "00:00",
+          "note": null
+        }
+      ],
+      "url": "/parking-locations/new-south-wales/inner-west/emerald-square-car-park/",
+      "serviceConfiguration": {
+        "canBookABay": false,
+        "bookABayIconLabel": "Prepay Online",
+        "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
+        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingIconLabel": "Monthly Subscription",
+        "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
+        "isWilsonOne": false,
+        "wilsonOneIconLabel": "Parking Card",
+        "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
+        "disabledParkingIsAvailable": false,
+        "disabledParkingIconLabel": "Disabled Parking",
+        "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
+        "evChargerIsAvailable": false,
+        "evChargerIconLabel": "EV Charging",
+        "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
+        "spottIsAvailable": false,
+        "spottIconLabel": "Spott",
+        "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
+        "additionalServices": []
+      },
+      "state": null,
+      "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
+      "price": "",
+      "status": "",
+      "cpmsCarparkCode": null,
+      "externalCarParkInfo": {
+        "name": "InterPark",
+        "pinUrl": "/globalassets/icons/interpark-icons/pin-blue.png",
+        "logoUrl": "/siteassets/parking-stock-images/interpark-icons/interpark_logo.jpg",
+        "pageUrl": "",
+        "content": "<p>This is an Interpark carpark with LOGO</p>"
+      },
+      "featuredIndex": 0
+    },
+    {
       "name": "Grande Esplanade Car Park",
       "bookText": null,
       "canBookABay": false,
@@ -21224,6 +22437,140 @@
       "status": "",
       "cpmsCarparkCode": null,
       "externalCarParkInfo": null,
+      "featuredIndex": 0
+    },
+    {
+      "name": "Campsie Centre Car Park",
+      "bookText": null,
+      "canBookABay": false,
+      "selectedFeatures": "",
+      "carParkFeature": [
+        "Disabled Parking"
+      ],
+      "services": [
+        "disabled parking"
+      ],
+      "carParkName": "Campsie Centre Car Park",
+      "carParkNumber": 9161,
+      "carParkPhoto": null,
+      "category": "",
+      "costCenter": 5002161,
+      "direction": null,
+      "heightRestriction": 0.0,
+      "information": "<p>Campsie Centre Car Park is located at 14-28 Amy St, Campsie. Close to Campsie Library, Canterbury Hospital, Campsie RSL Club, Shopping and Retail and open until 8pm, this car park is in the ideal location when looking for parking in Campsie.</p>\n<p>Offering Hourly options, the Campsie Centre will meet all your parking needs.&nbsp;</p>\n<p>This car park accepts credit card and cash.</p>",
+      "isWilsonOne": false,
+      "spottIsAvailable": false,
+      "legacyID": 0,
+      "monthlyParkingServiceIsAvailable": false,
+      "evChargerIsAvailable": false,
+      "disabledParkingIsAvailable": true,
+      "phoneNumber": null,
+      "products": [],
+      "staticMapPhoto": null,
+      "streetViewHeading": null,
+      "streetViewLocation": null,
+      "rates": [],
+      "fromText": "",
+      "fromPrice": "",
+      "location": {
+        "longitude": 151.102895424659,
+        "latitude": -33.9124410107992,
+        "zoom": 13,
+        "address": "14-28 Amy St, Campsie",
+        "region": null
+      },
+      "openingTimes": [
+        {
+          "day_TimePeriod": "Sunday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "7:00",
+          "closing": "20:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Monday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "07:00",
+          "closing": "20:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Tuesday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "7:00",
+          "closing": "20:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Wednesday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "7:00",
+          "closing": "20:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Thursday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "7:00",
+          "closing": "21:30",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Friday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "7:00",
+          "closing": "20:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Saturday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "7:00",
+          "closing": "20:00",
+          "note": null
+        }
+      ],
+      "url": "/parking-locations/new-south-wales/canterbury/campsie-centre-car-park/",
+      "serviceConfiguration": {
+        "canBookABay": false,
+        "bookABayIconLabel": "Prepay Online",
+        "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
+        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingIconLabel": "Monthly Subscription",
+        "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
+        "isWilsonOne": false,
+        "wilsonOneIconLabel": "Parking Card",
+        "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
+        "disabledParkingIsAvailable": true,
+        "disabledParkingIconLabel": "Disabled Parking",
+        "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
+        "evChargerIsAvailable": false,
+        "evChargerIconLabel": "EV Charging",
+        "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
+        "spottIsAvailable": false,
+        "spottIconLabel": "Spott",
+        "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
+        "additionalServices": []
+      },
+      "state": null,
+      "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
+      "price": "",
+      "status": "",
+      "cpmsCarparkCode": null,
+      "externalCarParkInfo": {
+        "name": "InterPark",
+        "pinUrl": "/globalassets/icons/interpark-icons/pin-blue.png",
+        "logoUrl": "/siteassets/parking-stock-images/interpark-icons/interpark_logo.jpg",
+        "pageUrl": "",
+        "content": "<p>This is an Interpark carpark with LOGO</p>"
+      },
       "featuredIndex": 0
     },
     {
@@ -23838,6 +25185,140 @@
       "status": "",
       "cpmsCarparkCode": null,
       "externalCarParkInfo": null,
+      "featuredIndex": 0
+    },
+    {
+      "name": "Little Saigon Car Park",
+      "bookText": null,
+      "canBookABay": false,
+      "selectedFeatures": "",
+      "carParkFeature": [
+        "Disabled Parking"
+      ],
+      "services": [
+        "disabled parking"
+      ],
+      "carParkName": "Little Saigon Car Park",
+      "carParkNumber": 9810,
+      "carParkPhoto": null,
+      "category": "",
+      "costCenter": 5002810,
+      "direction": null,
+      "heightRestriction": 2.2,
+      "information": "<p>Little Saigon Car Park is located at 462 Chapel Road, Bankstown. Close to Bankstown Library, Western Sydney University, St Paul's Anglican Church, restaurants and open until 11pm, this car park is in the ideal location when looking for parking in Bankstown.</p>\n<p>Offering Hourly options, the Little Saigon Car Park will meet all your parking needs.&nbsp;</p>\n<p>This car park accepts credit card and cash payments.</p>",
+      "isWilsonOne": false,
+      "spottIsAvailable": false,
+      "legacyID": 0,
+      "monthlyParkingServiceIsAvailable": false,
+      "evChargerIsAvailable": false,
+      "disabledParkingIsAvailable": true,
+      "phoneNumber": null,
+      "products": [],
+      "staticMapPhoto": null,
+      "streetViewHeading": null,
+      "streetViewLocation": null,
+      "rates": [],
+      "fromText": "",
+      "fromPrice": "",
+      "location": {
+        "longitude": 151.03466826987,
+        "latitude": -33.9133982010181,
+        "zoom": 13,
+        "address": "462 Chapel Road, Bankstown NSW",
+        "region": null
+      },
+      "openingTimes": [
+        {
+          "day_TimePeriod": "Sunday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "8:00",
+          "closing": "23:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Monday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "8:00",
+          "closing": "23:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Tuesday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "8:00",
+          "closing": "23:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Wednesday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "8:00",
+          "closing": "23:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Thursday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "8:00",
+          "closing": "23:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Friday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "8:00",
+          "closing": "23:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Saturday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "8:00",
+          "closing": "23:00",
+          "note": null
+        }
+      ],
+      "url": "/parking-locations/new-south-wales/canterbury/little-saigon-car-park/",
+      "serviceConfiguration": {
+        "canBookABay": false,
+        "bookABayIconLabel": "Prepay Online",
+        "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
+        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingIconLabel": "Monthly Subscription",
+        "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
+        "isWilsonOne": false,
+        "wilsonOneIconLabel": "Parking Card",
+        "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
+        "disabledParkingIsAvailable": true,
+        "disabledParkingIconLabel": "Disabled Parking",
+        "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
+        "evChargerIsAvailable": false,
+        "evChargerIconLabel": "EV Charging",
+        "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
+        "spottIsAvailable": false,
+        "spottIconLabel": "Spott",
+        "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
+        "additionalServices": []
+      },
+      "state": null,
+      "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
+      "price": "",
+      "status": "",
+      "cpmsCarparkCode": null,
+      "externalCarParkInfo": {
+        "name": "InterPark",
+        "pinUrl": "/globalassets/icons/interpark-icons/pin-blue.png",
+        "logoUrl": "/siteassets/parking-stock-images/interpark-icons/interpark_logo.jpg",
+        "pageUrl": "",
+        "content": "<p>This is an Interpark carpark with LOGO</p>"
+      },
       "featuredIndex": 0
     },
     {
@@ -26978,6 +28459,140 @@
       "featuredIndex": 0
     },
     {
+      "name": "Kareena Private Hospital Car Park",
+      "bookText": null,
+      "canBookABay": false,
+      "selectedFeatures": "",
+      "carParkFeature": [
+        "Disabled Parking"
+      ],
+      "services": [
+        "disabled parking"
+      ],
+      "carParkName": "Kareena Private Hospital Car Park",
+      "carParkNumber": 9571,
+      "carParkPhoto": null,
+      "category": "",
+      "costCenter": 5002571,
+      "direction": null,
+      "heightRestriction": 2.15,
+      "information": "<p>Kareena Private Hospital Car Park is located at 86 Kareena Road, Caringbah. Close to Medical Facilities and Health Services and open 24/7, this car park is in the ideal location when looking for parking in Caringbah.</p>\n<p>Offering Hourly options, the Kareena Private Hospital Car Park will meet all your parking needs.</p>\n<p>This car park accepts credit card and cash.</p>",
+      "isWilsonOne": false,
+      "spottIsAvailable": false,
+      "legacyID": 0,
+      "monthlyParkingServiceIsAvailable": false,
+      "evChargerIsAvailable": false,
+      "disabledParkingIsAvailable": true,
+      "phoneNumber": null,
+      "products": [],
+      "staticMapPhoto": null,
+      "streetViewHeading": null,
+      "streetViewLocation": null,
+      "rates": [],
+      "fromText": "",
+      "fromPrice": "",
+      "location": {
+        "longitude": 151.114173845281,
+        "latitude": -34.0348783095416,
+        "zoom": 13,
+        "address": null,
+        "region": null
+      },
+      "openingTimes": [
+        {
+          "day_TimePeriod": "Sunday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Monday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Tuesday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Wednesday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Thursday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Friday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Saturday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        }
+      ],
+      "url": "/parking-locations/new-south-wales/sutherland/kareena-private-hospital-car-park/",
+      "serviceConfiguration": {
+        "canBookABay": false,
+        "bookABayIconLabel": "Prepay Online",
+        "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
+        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingIconLabel": "Monthly Subscription",
+        "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
+        "isWilsonOne": false,
+        "wilsonOneIconLabel": "Parking Card",
+        "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
+        "disabledParkingIsAvailable": true,
+        "disabledParkingIconLabel": "Disabled Parking",
+        "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
+        "evChargerIsAvailable": false,
+        "evChargerIconLabel": "EV Charging",
+        "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
+        "spottIsAvailable": false,
+        "spottIconLabel": "Spott",
+        "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
+        "additionalServices": []
+      },
+      "state": null,
+      "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
+      "price": "",
+      "status": "",
+      "cpmsCarparkCode": null,
+      "externalCarParkInfo": {
+        "name": "InterPark",
+        "pinUrl": "/globalassets/icons/interpark-icons/pin-blue.png",
+        "logoUrl": "/siteassets/parking-stock-images/interpark-icons/interpark_logo.jpg",
+        "pageUrl": "",
+        "content": "<p>This is an Interpark carpark with LOGO</p>"
+      },
+      "featuredIndex": 0
+    },
+    {
       "name": "Sutherland Hospital Car Park",
       "bookText": null,
       "canBookABay": false,
@@ -28261,6 +29876,190 @@
       "status": "",
       "cpmsCarparkCode": null,
       "externalCarParkInfo": null,
+      "featuredIndex": 0
+    },
+    {
+      "name": "Coles Westmead Car Park",
+      "bookText": null,
+      "canBookABay": false,
+      "selectedFeatures": "",
+      "carParkFeature": [
+        "Entry height at least 2"
+      ],
+      "services": [],
+      "carParkName": "Coles Westmead Car Park",
+      "carParkNumber": 9547,
+      "carParkPhoto": null,
+      "category": "",
+      "costCenter": 1009547,
+      "direction": "Entry via 29-33 Darcy st",
+      "heightRestriction": 2.2,
+      "information": "<p>The Coles Westmead Car Park is located at 29-33 Darcy Street, Westmead and is open 7 days a week. The car park offers convenient and affordable casual hourly parking for retail customers, residents, and visitors to the surrounding area. It provides easy access to Coles Westmead, nearby residences, and local businesses.</p>",
+      "isWilsonOne": false,
+      "spottIsAvailable": false,
+      "legacyID": 9547,
+      "monthlyParkingServiceIsAvailable": false,
+      "evChargerIsAvailable": false,
+      "disabledParkingIsAvailable": false,
+      "phoneNumber": "1800 PARKING (1800 727 546)",
+      "products": [],
+      "staticMapPhoto": null,
+      "streetViewHeading": null,
+      "streetViewLocation": null,
+      "rates": [
+        {
+          "rateType": "Hourly",
+          "notes": "<p>Rates avaialble 7 days</p>",
+          "rates": [
+            {
+              "timeSpan": "0.0-2.0 hrs",
+              "price": 0.0
+            },
+            {
+              "timeSpan": "2.0-3.0 hrs",
+              "price": 8.0
+            },
+            {
+              "timeSpan": "3.0-4.0 hrs",
+              "price": 10.0
+            },
+            {
+              "timeSpan": "4.0-5.0 hrs",
+              "price": 15.0
+            },
+            {
+              "timeSpan": "5.0-6.0 hrs",
+              "price": 20.0
+            },
+            {
+              "timeSpan": "6.0+ hrs",
+              "price": 25.0
+            },
+            {
+              "timeSpan": "Overnight fee (In addition to casual rates)",
+              "price": 5.0
+            },
+            {
+              "timeSpan": "Lost Ticket",
+              "price": 25.0
+            }
+          ]
+        }
+      ],
+      "fromText": "From",
+      "fromPrice": "0",
+      "location": {
+        "longitude": 150.979569366565,
+        "latitude": -33.8039223883312,
+        "zoom": 13,
+        "address": "29-33 Darcy Street",
+        "region": {
+          "name": "Westmead",
+          "longitude": -33.8085632883366,
+          "latitude": 150.986784944822,
+          "status": "",
+          "state": {
+            "name": "New South Wales",
+            "abbreviation": "NSW",
+            "country": "Australia",
+            "longitude": 151.207430362701,
+            "latitude": -33.8662642500823,
+            "status": ""
+          }
+        }
+      },
+      "openingTimes": [
+        {
+          "day_TimePeriod": "Monday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "06:00",
+          "closing": "00:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Tuesday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "06:00",
+          "closing": "00:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Wednesday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "06:00",
+          "closing": "00:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Thursday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "06:00",
+          "closing": "00:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Friday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "06:00",
+          "closing": "00:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Saturday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "06:00",
+          "closing": "00:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Sunday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "06:00",
+          "closing": "00:00",
+          "note": null
+        }
+      ],
+      "url": "/parking-locations/new-south-wales/westmead/coles-westmead-car-park/",
+      "serviceConfiguration": {
+        "canBookABay": false,
+        "bookABayIconLabel": "Prepay Online",
+        "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
+        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingIconLabel": "Monthly Subscription",
+        "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
+        "isWilsonOne": false,
+        "wilsonOneIconLabel": "Parking Card",
+        "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
+        "disabledParkingIsAvailable": false,
+        "disabledParkingIconLabel": "Disabled Parking",
+        "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
+        "evChargerIsAvailable": false,
+        "evChargerIconLabel": "EV Charging",
+        "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
+        "spottIsAvailable": false,
+        "spottIconLabel": "Spott",
+        "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
+        "additionalServices": []
+      },
+      "state": "NSW",
+      "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
+      "price": "",
+      "status": "",
+      "cpmsCarparkCode": null,
+      "externalCarParkInfo": {
+        "name": "InterPark",
+        "pinUrl": "/globalassets/icons/interpark-icons/pin-blue.png",
+        "logoUrl": "/siteassets/parking-stock-images/interpark-icons/interpark_logo.jpg",
+        "pageUrl": "",
+        "content": "<p>This is an Interpark carpark with LOGO</p>"
+      },
       "featuredIndex": 0
     },
     {
@@ -40693,7 +42492,7 @@
           "rates": [
             {
               "timeSpan": "Per Day Weekend",
-              "price": 2.5
+              "price": 4.0
             }
           ]
         },
@@ -40713,7 +42512,7 @@
         }
       ],
       "fromText": "From",
-      "fromPrice": "2.5",
+      "fromPrice": "3",
       "location": {
         "longitude": 149.132769205109,
         "latitude": -35.2826949056172,
@@ -44835,7 +46634,7 @@
         {
           "day_TimePeriod": "Saturday",
           "is24_7": false,
-          "closed": false,
+          "closed": true,
           "opening": "07:00",
           "closing": "19:00",
           "note": null
@@ -44843,15 +46642,7 @@
         {
           "day_TimePeriod": "Sunday",
           "is24_7": false,
-          "closed": false,
-          "opening": "07:00",
-          "closing": "19:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Public Holiday",
-          "is24_7": false,
-          "closed": false,
+          "closed": true,
           "opening": "07:00",
           "closing": "19:00",
           "note": null
@@ -59147,7 +60938,7 @@
       "costCenter": 1003210,
       "direction": "Entry via Lonsdale or 211 La Trobe Street",
       "heightRestriction": 2.0,
-      "information": "<p><span style=\"color: #ff1e25;\"><strong>Important Notice: Car Park closure on Lonsdale St<br /></strong>Due to crane works on Lonsdale St for the Melbourne Central expansion, the car park will be accessible via Latrobe St entry/exit only from&nbsp;5:00pm Saturday 27th to 11:30am Sunday 28th June 2026.</span></p>\n<p>Wilson Parking offer affordable &amp; secure parking at Melbourne Central Car Park, located at 300 Lonsdale Street, Melbourne. This car park is centrally located in the Melbourne CBD, nearby to many attractions including Melbourne Central and the State Library of Victoria. Offering 24/7 unlimited access through Monthly, as well as Early Bird, Weekend and Night parking, the Melbourne Central Car Park will meet all of your parking needs.</p>",
+      "information": "<p>Wilson Parking offer affordable &amp; secure parking at Melbourne Central Car Park, located at 300 Lonsdale Street, Melbourne. This car park is centrally located in the Melbourne CBD, nearby to many attractions including Melbourne Central and the State Library of Victoria. Offering 24/7 unlimited access through Monthly, as well as Early Bird, Weekend and Night parking, the Melbourne Central Car Park will meet all of your parking needs.</p>",
       "isWilsonOne": false,
       "spottIsAvailable": false,
       "legacyID": 107,
@@ -59369,7 +61160,7 @@
       "costCenter": 1003391,
       "direction": "Entry via 312 Lonsdale Street",
       "heightRestriction": 2.0,
-      "information": "<p><span style=\"color: #ff1e25;\"><strong>Important Notice: Car Park Closure<br /></strong></span><span style=\"color: #ff1e25;\">Due to crane works on Lonsdale St for the Melbourne Central expansion, the car park will not&nbsp;be accessible from&nbsp;5:00pm Saturday 27th to 11:30am Sunday 28th June 2026.<br /></span><em style=\"color: #ff1e25;\"><u>Vehicle egress will be available with the help of traffic management.</u></em></p>\n<p><span style=\"color: #000000;\">Wilson Parking offer affordable &amp; secure parking at St Francis Church Car Park, located at 312 Lonsdale Street, Melbourne&nbsp;in the heart of Melbourne CBD. Open 7 days, this undercover car park provides convenient access to many nearby attractions including St Francis Church, Melbourne Central and the State Library of Victoria. </span></p>\n<p><span style=\"color: #000000;\">Offering Casual, Hourly, Weekend and Night Parking options, the St Francis Church Car Park will meet all your parking needs.&nbsp;</span></p>\n<p><span style=\"color: #000000;\">Pay as you go with a Wilson Parking Card, Prepay or enjoy unlimited 24/7 access when you subscribe to a Monthly Parking account.</span></p>",
+      "information": "<p><span style=\"color: #000000;\">Wilson Parking offer affordable &amp; secure parking at St Francis Church Car Park, located at 312 Lonsdale Street, Melbourne&nbsp;in the heart of Melbourne CBD. Open 7 days, this undercover car park provides convenient access to many nearby attractions including St Francis Church, Melbourne Central and the State Library of Victoria. </span></p>\n<p><span style=\"color: #000000;\">Offering Casual, Hourly, Weekend and Night Parking options, the St Francis Church Car Park will meet all your parking needs.&nbsp;</span></p>\n<p><span style=\"color: #000000;\">Pay as you go with a Wilson Parking Card, Prepay or enjoy unlimited 24/7 access when you subscribe to a Monthly Parking account.</span></p>",
       "isWilsonOne": true,
       "spottIsAvailable": true,
       "legacyID": 1003391,
@@ -67474,6 +69265,161 @@
       "status": "",
       "cpmsCarparkCode": null,
       "externalCarParkInfo": null,
+      "featuredIndex": 0
+    },
+    {
+      "name": "Brimbank Car Park",
+      "bookText": null,
+      "canBookABay": false,
+      "selectedFeatures": "",
+      "carParkFeature": [
+        "Entry height at least 2"
+      ],
+      "services": [],
+      "carParkName": "Brimbank Car Park",
+      "carParkNumber": 9579,
+      "carParkPhoto": null,
+      "category": "",
+      "costCenter": 1009579,
+      "direction": null,
+      "heightRestriction": 2.1,
+      "information": "<p>The Brimbank Car Park Car Park is located at 7A George Street, Sunshine and is open 7 days a week. The car park offers convenient and affordable casual hourly parking for retail customers, residents, and visitors to the surrounding area. It provides easy access to Brimbank nearby residences, and local businesses.</p>",
+      "isWilsonOne": false,
+      "spottIsAvailable": false,
+      "legacyID": 9579,
+      "monthlyParkingServiceIsAvailable": false,
+      "evChargerIsAvailable": false,
+      "disabledParkingIsAvailable": false,
+      "phoneNumber": "1800 PARKING (1800 727 546)",
+      "products": [],
+      "staticMapPhoto": null,
+      "streetViewHeading": null,
+      "streetViewLocation": null,
+      "rates": [
+        {
+          "rateType": "Hourly",
+          "notes": "<p>Rates apply Monday to Sunday</p>\n<p>*Overnight Rate charged in conjunction with any day rate. Rates, including overnight rates will accumulate daily.</p>",
+          "rates": [
+            {
+              "timeSpan": "0.0-3.0 hrs",
+              "price": 0.0
+            },
+            {
+              "timeSpan": "3.0-5.0 hrs",
+              "price": 2.0
+            },
+            {
+              "timeSpan": "5.0 + hrs",
+              "price": 4.0
+            },
+            {
+              "timeSpan": "Overnight",
+              "price": 50.0
+            }
+          ]
+        }
+      ],
+      "fromText": "From",
+      "fromPrice": "0",
+      "location": {
+        "longitude": 144.834229995646,
+        "latitude": -37.7844589719756,
+        "zoom": 13,
+        "address": "7A George Street, Sunshine",
+        "region": null
+      },
+      "openingTimes": [
+        {
+          "day_TimePeriod": "Monday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "05:00",
+          "closing": "22:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Tuesday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "05:00",
+          "closing": "22:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Wednesday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "05:00",
+          "closing": "22:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Thursday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "05:00",
+          "closing": "22:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Friday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "05:00",
+          "closing": "22:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Saturday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "05:00",
+          "closing": "22:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Sunday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "05:00",
+          "closing": "22:00",
+          "note": null
+        }
+      ],
+      "url": "/parking-locations/victoria/sunshine/brimbank-car-park/",
+      "serviceConfiguration": {
+        "canBookABay": false,
+        "bookABayIconLabel": "Prepay Online",
+        "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
+        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingIconLabel": "Monthly Subscription",
+        "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
+        "isWilsonOne": false,
+        "wilsonOneIconLabel": "Parking Card",
+        "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
+        "disabledParkingIsAvailable": false,
+        "disabledParkingIconLabel": "Disabled Parking",
+        "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
+        "evChargerIsAvailable": false,
+        "evChargerIconLabel": "EV Charging",
+        "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
+        "spottIsAvailable": false,
+        "spottIconLabel": "Spott",
+        "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
+        "additionalServices": []
+      },
+      "state": null,
+      "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
+      "price": "",
+      "status": "",
+      "cpmsCarparkCode": null,
+      "externalCarParkInfo": {
+        "name": "InterPark",
+        "pinUrl": "/globalassets/icons/interpark-icons/pin-blue.png",
+        "logoUrl": "/siteassets/parking-stock-images/interpark-icons/interpark_logo.jpg",
+        "pageUrl": "",
+        "content": "<p>This is an Interpark carpark with LOGO</p>"
+      },
       "featuredIndex": 0
     },
     {
@@ -75837,6 +77783,218 @@
       "featuredIndex": 0
     },
     {
+      "name": "Wyndham Private Medical Services Centre Car Park",
+      "bookText": null,
+      "canBookABay": false,
+      "selectedFeatures": "",
+      "carParkFeature": [
+        "Entry height at least 2"
+      ],
+      "services": [],
+      "carParkName": "Wyndham Private Medical Services Centre Car Park",
+      "carParkNumber": 9192,
+      "carParkPhoto": null,
+      "category": "",
+      "costCenter": 1009192,
+      "direction": "Entry via 242 Hoppers Lane",
+      "heightRestriction": 0.0,
+      "information": "<p>The&nbsp;Wyndham Private Medical Services Centre Car Park is located at 242 Hoppers Lane, Werribee and is open 7 days a week. The car park offers convenient and affordable casual hourly, night and weekend parking for pateints, retail customers, residents, and visitors to the surrounding area. It provides easy access to Wyndham Private Medical Services Centre, nearby residences, and local businesses.</p>",
+      "isWilsonOne": false,
+      "spottIsAvailable": false,
+      "legacyID": 9192,
+      "monthlyParkingServiceIsAvailable": false,
+      "evChargerIsAvailable": false,
+      "disabledParkingIsAvailable": false,
+      "phoneNumber": "1800 PARKING (1800 727 546)",
+      "products": [],
+      "staticMapPhoto": null,
+      "streetViewHeading": null,
+      "streetViewLocation": "https://www.google.com/maps/place/242+Hoppers+Ln,+Werribee+VIC+3030/@-37.8897551,144.6911089,952m/data=!3m1!1e3!4m6!3m5!1s0x6ad688ab8a1174b3:0x59e40c6624c8790b!8m2!3d-37.8864289!4d144.701105!16s%2Fg%2F11b8v75069?authuser=0&entry=ttu&g_ep=EgoyMDI2MDYyMy4wIKXMDSoASAFQAw%3D%3D",
+      "rates": [
+        {
+          "rateType": "Hourly",
+          "notes": "<p>Rates apply Monday to Friday</p>",
+          "rates": [
+            {
+              "timeSpan": "0.0-0.25 hrs",
+              "price": 0.0
+            },
+            {
+              "timeSpan": "0.25-1.0 hrs",
+              "price": 4.0
+            },
+            {
+              "timeSpan": "1.0-2.0 hrs",
+              "price": 6.0
+            },
+            {
+              "timeSpan": "2.0-3.0 hrs",
+              "price": 9.0
+            },
+            {
+              "timeSpan": "3.0-4.0 hrs",
+              "price": 16.0
+            },
+            {
+              "timeSpan": "4.0-5.0 hrs",
+              "price": 25.0
+            },
+            {
+              "timeSpan": "5.0+ hrs",
+              "price": 35.0
+            }
+          ]
+        },
+        {
+          "rateType": "Night",
+          "notes": "<p>Rates apply Monday to Friday</p>\n<p>Entry after 7pm, exit before 8am the following morning</p>",
+          "rates": [
+            {
+              "timeSpan": "",
+              "price": 8.0
+            }
+          ]
+        },
+        {
+          "rateType": "Weekend",
+          "notes": "<p>Rates apply Saturday to Sunday</p>",
+          "rates": [
+            {
+              "timeSpan": "0.0-0.25 hrs",
+              "price": 0.0
+            },
+            {
+              "timeSpan": "0.25-1.0 hrs",
+              "price": 3.0
+            },
+            {
+              "timeSpan": "1.0+ hrs",
+              "price": 5.0
+            },
+            {
+              "timeSpan": "Lost Ticket",
+              "price": 35.0
+            }
+          ]
+        }
+      ],
+      "fromText": "From",
+      "fromPrice": "0",
+      "location": {
+        "longitude": 144.701104995653,
+        "latitude": -37.8864204044351,
+        "zoom": 13,
+        "address": "242 Hoppers Lane, Werribee VIC",
+        "region": {
+          "name": "Werribee",
+          "longitude": -37.9022880432186,
+          "latitude": 144.660381039568,
+          "status": "",
+          "state": {
+            "name": "Victoria",
+            "abbreviation": "VIC",
+            "country": "Australia",
+            "longitude": 145.08864104747772,
+            "latitude": -36.438262107088946,
+            "status": ""
+          }
+        }
+      },
+      "openingTimes": [
+        {
+          "day_TimePeriod": "Monday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Tuesday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Wednesday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Thursday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Friday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Saturday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Sunday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        }
+      ],
+      "url": "/parking-locations/victoria/werribee/wyndham-private-medical-services-centre/",
+      "serviceConfiguration": {
+        "canBookABay": false,
+        "bookABayIconLabel": "Prepay Online",
+        "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
+        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingIconLabel": "Monthly Subscription",
+        "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
+        "isWilsonOne": false,
+        "wilsonOneIconLabel": "Parking Card",
+        "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
+        "disabledParkingIsAvailable": false,
+        "disabledParkingIconLabel": "Disabled Parking",
+        "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
+        "evChargerIsAvailable": false,
+        "evChargerIconLabel": "EV Charging",
+        "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
+        "spottIsAvailable": false,
+        "spottIconLabel": "Spott",
+        "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
+        "additionalServices": []
+      },
+      "state": "VIC",
+      "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
+      "price": "",
+      "status": "",
+      "cpmsCarparkCode": null,
+      "externalCarParkInfo": {
+        "name": "InterPark",
+        "pinUrl": "/globalassets/icons/interpark-icons/pin-blue.png",
+        "logoUrl": "/siteassets/parking-stock-images/interpark-icons/interpark_logo.jpg",
+        "pageUrl": "",
+        "content": "<p>This is an Interpark carpark with LOGO</p>"
+      },
+      "featuredIndex": 0
+    },
+    {
       "name": "234 Hoppers Lane",
       "bookText": null,
       "canBookABay": false,
@@ -80763,7 +82921,7 @@
       "costCenter": 1005004,
       "direction": null,
       "heightRestriction": 2.0,
-      "information": "<p><span style=\"color: #ff1e25;\"><strong>Important Update</strong></span></p>\n<p><span style=\"color: #ff1e25;\">Due to building works, temporary access disruptions may occur on Thursdays at this car park. Please allow additional time when entering and exiting the car park.</span></p>\n<p><span style=\"color: #ff1e25;\">During this period, the lift will be out of service while upgrade works are being undertaken. Customers will need to use the stairwells to access and exit the car park.</span></p>\n<p>Wilson Parking offer affordable &amp; secure parking at 21 Bent St Car Park located at 21 Bent Street, Adelaide. This car park is positioned in the heart of Adelaide, close to shopping, restaurants and the Adelaide CBD. With Hourly, and discount online parking options the 21 Bent St Car Park will meet all of your parking needs.</p>\n<p>Enjoy the convenience of&nbsp;pay as you go with a Wilson Parking card, or enjoy 24/7 unlimited access when you subscribe to Monthly Parking.</p>",
+      "information": "<p><span style=\"color: #ff1e25;\"><strong>Important Update<br /></strong></span><span style=\"color: #ff1e25;\">Due to planned building works, temporary access disruptions may occur between 7:00am and 3:00pm on Saturday 27th June at this car park. Please allow additional time when entering and exiting the car park.</span></p>\n<p>Wilson Parking offer affordable &amp; secure parking at 21 Bent St Car Park located at 21 Bent Street, Adelaide. This car park is positioned in the heart of Adelaide, close to shopping, restaurants and the Adelaide CBD. With Hourly, and discount online parking options the 21 Bent St Car Park will meet all of your parking needs.</p>\n<p>Enjoy the convenience of&nbsp;pay as you go with a Wilson Parking card, or enjoy 24/7 unlimited access when you subscribe to Monthly Parking.</p>",
       "isWilsonOne": true,
       "spottIsAvailable": true,
       "legacyID": 268,
@@ -96700,6 +98858,213 @@
       "featuredIndex": 0
     },
     {
+      "name": "QV1, Perth",
+      "bookText": null,
+      "canBookABay": true,
+      "selectedFeatures": "",
+      "carParkFeature": [
+        "Monthly Parking",
+        "Night Parking",
+        "Weekend Parking",
+        "Early Bird Parking",
+        "Book a Bay",
+        "Wilson One",
+        "Epark",
+        "Entry height at least 2",
+        "Spott"
+      ],
+      "services": [
+        "book a bay",
+        "wilson one",
+        "monthly"
+      ],
+      "carParkName": "QV1, Perth",
+      "carParkNumber": 6053,
+      "carParkPhoto": null,
+      "category": "",
+      "costCenter": 1006053,
+      "direction": null,
+      "heightRestriction": 2.1,
+      "information": "<p>Wilson Parking offer affordable parking at QV1 Car Park, located at 489 Murray Street, Perth. Open 7 days until late, this car park is ideally located for visitors to the QV1 Offices and surrounding Perth businesses. Offering casual Hourly, Online Early Bird, Night and Weekend Parking as well as exclusive discounts available when you prepay online or with the Wilson Parking App, the QV1 Car Park will meet all of your parking needs.</p>\n<p>Entry to the car park is on Murray Street.</p>\n<p>Download the Wilson Parking App to prepay your parking in advance and access exclusive discounts, or simply drive up and pay with your credit card, pay as you go with a Wilson Parking card, or enjoy unlimited access during the operational hours of the car park when you subscribe to Monthly Parking.</p>",
+      "isWilsonOne": true,
+      "spottIsAvailable": true,
+      "legacyID": 6053,
+      "monthlyParkingServiceIsAvailable": true,
+      "evChargerIsAvailable": false,
+      "disabledParkingIsAvailable": false,
+      "phoneNumber": "1800 PARKING (1800 727 5464)",
+      "products": [],
+      "staticMapPhoto": null,
+      "streetViewHeading": null,
+      "streetViewLocation": null,
+      "rates": [
+        {
+          "rateType": "Hourly",
+          "notes": "<p>Night rates apply from 4pm onwards, Monday - Friday.</p>",
+          "rates": [
+            {
+              "timeSpan": "0.0 - 1.0 hrs",
+              "price": 10.0
+            },
+            {
+              "timeSpan": "1.0 - 2.0 hrs",
+              "price": 20.0
+            },
+            {
+              "timeSpan": "2.0 - 3.0 hrs",
+              "price": 30.0
+            },
+            {
+              "timeSpan": "3 hrs Plus",
+              "price": 37.0
+            }
+          ]
+        },
+        {
+          "rateType": "Night",
+          "notes": "<p>Rates apply Monday - Sunday.</p>\n<p>Drive up rate applies from 4pm until 12am.</p>\n<p>Select the&nbsp;<strong>Prepay now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>\n<p>&nbsp;</p>",
+          "rates": [
+            {
+              "timeSpan": "Mon - Fri",
+              "price": 10.0
+            }
+          ]
+        },
+        {
+          "rateType": "Weekend",
+          "notes": "<p>Saturday, Sunday &amp; Public Holidays 4:30am to 12:00am.&nbsp;</p>\n<p>Select the&nbsp;<strong>Prepay now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>",
+          "rates": [
+            {
+              "timeSpan": "Sat - Sun",
+              "price": 10.0
+            }
+          ]
+        }
+      ],
+      "fromText": "From",
+      "fromPrice": "8",
+      "location": {
+        "longitude": 115.850742102008,
+        "latitude": -31.9506585475532,
+        "zoom": 13,
+        "address": "489 Murray Street, Perth WA 6000",
+        "region": {
+          "name": "Perth CBD",
+          "longitude": 115.86034952911382,
+          "latitude": -31.954708170013102,
+          "status": "",
+          "state": {
+            "name": "Western Australia",
+            "abbreviation": "WA",
+            "country": "Australia",
+            "longitude": 123.41536223888397,
+            "latitude": -25.833723163507287,
+            "status": ""
+          }
+        }
+      },
+      "openingTimes": [
+        {
+          "day_TimePeriod": "Monday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "04:30",
+          "closing": "12:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Tuesday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "04:30",
+          "closing": "12:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Wednesday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "04:30",
+          "closing": "12:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Thursday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "04:30",
+          "closing": "12:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Friday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "04:30",
+          "closing": "01:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Saturday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "04:30",
+          "closing": "01:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Sunday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "04:30",
+          "closing": "12:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Public Holiday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "03:30",
+          "closing": "12:00",
+          "note": null
+        }
+      ],
+      "url": "/parking-locations/western-australia/perth-cbd/qv1/",
+      "serviceConfiguration": {
+        "canBookABay": true,
+        "bookABayIconLabel": "Prepay Online",
+        "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
+        "monthlyParkingServiceIsAvailable": true,
+        "monthlyParkingIconLabel": "Monthly Subscription",
+        "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
+        "isWilsonOne": true,
+        "wilsonOneIconLabel": "Parking Card",
+        "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
+        "disabledParkingIsAvailable": false,
+        "disabledParkingIconLabel": "Disabled Parking",
+        "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
+        "evChargerIsAvailable": false,
+        "evChargerIconLabel": "EV Charging",
+        "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
+        "spottIsAvailable": true,
+        "spottIconLabel": "Spott",
+        "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
+        "additionalServices": [
+          {
+            "label": null,
+            "icon": null
+          }
+        ]
+      },
+      "state": "WA",
+      "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
+      "price": "",
+      "status": "",
+      "cpmsCarparkCode": null,
+      "externalCarParkInfo": null,
+      "featuredIndex": 0
+    },
+    {
       "name": "256 St Georges Tce (Barrack Arch) Motorbikes Only",
       "bookText": null,
       "canBookABay": false,
@@ -104252,6 +106617,203 @@
         "additionalServices": []
       },
       "state": "WA",
+      "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
+      "price": "",
+      "status": "",
+      "cpmsCarparkCode": null,
+      "externalCarParkInfo": null,
+      "featuredIndex": 0
+    },
+    {
+      "name": "Woolworths Pyrmont Car Park",
+      "bookText": null,
+      "canBookABay": false,
+      "selectedFeatures": "",
+      "carParkFeature": [],
+      "services": [],
+      "carParkName": "Woolworths Pyrmont Car Park",
+      "carParkNumber": 0,
+      "carParkPhoto": null,
+      "category": "",
+      "costCenter": 5002137,
+      "direction": null,
+      "heightRestriction": 2.2,
+      "information": "<p>Woolworths Pyrmont Car Park is located at 63 Miller St, Pyrmont. Close to many popular restaurants and attractions, including Cockle Bay, Maritime Museum, Harbourside restaurants and open until 10pm, this car park is in the ideal location when looking for parking in Pyrmont.</p>\n<p>Offering Hourly, Night and Sunday Parking options, the Gordon Car Park will meet all your parking needs.&nbsp;</p>\n<p>This car park accepts credit card only.</p>",
+      "isWilsonOne": false,
+      "spottIsAvailable": false,
+      "legacyID": 0,
+      "monthlyParkingServiceIsAvailable": false,
+      "evChargerIsAvailable": false,
+      "disabledParkingIsAvailable": false,
+      "phoneNumber": null,
+      "products": [],
+      "staticMapPhoto": null,
+      "streetViewHeading": null,
+      "streetViewLocation": null,
+      "rates": [],
+      "fromText": "",
+      "fromPrice": "",
+      "location": {
+        "longitude": 151.192909934526,
+        "latitude": 33.8703654425598,
+        "zoom": 13,
+        "address": "63 Miller Street, Pyrmont",
+        "region": null
+      },
+      "openingTimes": [
+        {
+          "day_TimePeriod": "Sunday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "07:00",
+          "closing": "22:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Monday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "07:00",
+          "closing": "22:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Tuesday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "07:00",
+          "closing": "22:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Wednesday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "07:00",
+          "closing": "22:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Thursday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "07:00",
+          "closing": "22:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Friday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "07:00",
+          "closing": "22:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Saturday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "07:00",
+          "closing": "22:00",
+          "note": null
+        }
+      ],
+      "url": "/parking-locations/new-south-wales/cbd-sydney-north/woolworths-pyrmont-car-park/",
+      "serviceConfiguration": {
+        "canBookABay": false,
+        "bookABayIconLabel": "Prepay Online",
+        "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
+        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingIconLabel": "Monthly Subscription",
+        "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
+        "isWilsonOne": false,
+        "wilsonOneIconLabel": "Parking Card",
+        "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
+        "disabledParkingIsAvailable": false,
+        "disabledParkingIconLabel": "Disabled Parking",
+        "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
+        "evChargerIsAvailable": false,
+        "evChargerIconLabel": "EV Charging",
+        "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
+        "spottIsAvailable": false,
+        "spottIconLabel": "Spott",
+        "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
+        "additionalServices": []
+      },
+      "state": null,
+      "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
+      "price": "",
+      "status": "",
+      "cpmsCarparkCode": null,
+      "externalCarParkInfo": {
+        "name": "InterPark",
+        "pinUrl": "/globalassets/icons/interpark-icons/pin-blue.png",
+        "logoUrl": "/siteassets/parking-stock-images/interpark-icons/interpark_logo.jpg",
+        "pageUrl": "",
+        "content": "<p>This is an Interpark carpark with LOGO</p>"
+      },
+      "featuredIndex": 0
+    },
+    {
+      "name": "Fairfield City Central Car Park",
+      "bookText": null,
+      "canBookABay": false,
+      "selectedFeatures": "",
+      "carParkFeature": [],
+      "services": [],
+      "carParkName": "Fairfield City Central Car Park",
+      "carParkNumber": 9544,
+      "carParkPhoto": null,
+      "category": "",
+      "costCenter": 5003544,
+      "direction": null,
+      "heightRestriction": 2.1,
+      "information": null,
+      "isWilsonOne": false,
+      "spottIsAvailable": false,
+      "legacyID": 0,
+      "monthlyParkingServiceIsAvailable": false,
+      "evChargerIsAvailable": false,
+      "disabledParkingIsAvailable": false,
+      "phoneNumber": null,
+      "products": [],
+      "staticMapPhoto": null,
+      "streetViewHeading": null,
+      "streetViewLocation": null,
+      "rates": [],
+      "fromText": "",
+      "fromPrice": "",
+      "location": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "zoom": 13,
+        "address": null,
+        "region": null
+      },
+      "openingTimes": [],
+      "url": "/parking-locations/new-south-wales/south-west/fairfield-city-central-car-park/",
+      "serviceConfiguration": {
+        "canBookABay": false,
+        "bookABayIconLabel": "Prepay Online",
+        "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
+        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingIconLabel": "Monthly Subscription",
+        "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
+        "isWilsonOne": false,
+        "wilsonOneIconLabel": "Parking Card",
+        "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
+        "disabledParkingIsAvailable": false,
+        "disabledParkingIconLabel": "Disabled Parking",
+        "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
+        "evChargerIsAvailable": false,
+        "evChargerIconLabel": "EV Charging",
+        "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
+        "spottIsAvailable": false,
+        "spottIconLabel": "Spott",
+        "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
+        "additionalServices": []
+      },
+      "state": null,
       "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
       "price": "",
       "status": "",
