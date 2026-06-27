@@ -68316,204 +68316,6 @@
       "featuredIndex": 0
     },
     {
-      "name": "Freeway Car Park",
-      "bookText": null,
-      "canBookABay": true,
-      "selectedFeatures": "",
-      "carParkFeature": [
-        "Night Parking",
-        "Weekend Parking",
-        "Book a Bay",
-        "Wilson One"
-      ],
-      "services": [
-        "book a bay",
-        "wilson one"
-      ],
-      "carParkName": "Freeway Car Park",
-      "carParkNumber": 3199,
-      "carParkPhoto": "/contentassets/ffa0d69a9f944f8c8bd3c3586146b27e/mel199-entry-2021.jpg",
-      "category": "",
-      "costCenter": 1003199,
-      "direction": "Entry via Munro Street only.\r\n",
-      "heightRestriction": 0.0,
-      "information": "<p><span style=\"color: #ff1e25;\"><strong>Freeway Car Park works entry/exit closure notification</strong></span><br />Munro St entry/exit will not be accessible from <strong>Tuesday 9th June to Friday 26th June 2026.<br /></strong>Convention Centre Place will be open throughout the works.</p>\n<p>Wilson Parking offer affordable &amp; secure parking at Freeway&nbsp;Car Park, located at 250 Munro St&nbsp;in the heart of Southbank. Open 7 days, this open air car park provides convenient access to nearby DFO Outlet Centre, Melbourne Exhibition Centre and South Melbourne Businesses. Offering Hourly, Daily Saver, Weekend and Night Parking options with exclusive discounts when you prepay online, permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the Freeway&nbsp;Car Park will meet all your business and leisure parking needs.&nbsp;</p>\n<p>Download the Wilson Parking App to plan your journey and access parking discounts when you prepay online; enjoy unlimited 24/7 access when you subscribe to monthly parking; pay as you go on one convenient monthly invoice when you use your Wilson Parking Card to access the car park.</p>",
-      "isWilsonOne": true,
-      "spottIsAvailable": false,
-      "legacyID": 101,
-      "monthlyParkingServiceIsAvailable": false,
-      "evChargerIsAvailable": false,
-      "disabledParkingIsAvailable": false,
-      "phoneNumber": "1800 PARKING",
-      "products": [],
-      "staticMapPhoto": null,
-      "streetViewHeading": "11.584020694373024",
-      "streetViewLocation": "https://www.google.com/maps/@?api=1&map_action=pano&pano=CwJGeMJ9VBIr7oHYiBvDbg&viewpoint=-37.82733328389597,144.9497701004947&heading=11.584020694373024&pitch=-12.999504906607939",
-      "rates": [
-        {
-          "rateType": "Hourly",
-          "notes": "<p>*DFO Discount: Collect validation ticket when making a purchase from any DFO store or food outlet and receive a 50% discount on your parking rate.</p>",
-          "rates": [
-            {
-              "timeSpan": "0.0 - 1.0 hrs",
-              "price": 16.0
-            },
-            {
-              "timeSpan": "1.0 - 2.0 hrs",
-              "price": 32.0
-            },
-            {
-              "timeSpan": "2.0 - 3.0 hrs",
-              "price": 48.0
-            },
-            {
-              "timeSpan": "3.0 - 4.0 hrs",
-              "price": 60.0
-            },
-            {
-              "timeSpan": "4.0 + hrs",
-              "price": 66.0
-            }
-          ]
-        },
-        {
-          "rateType": "Night",
-          "notes": "<p>Entry after 6:00 pm and exit before 6:00 am next day.</p>\n<p>*DFO Discount: Collect validation ticket when making a purchase from any DFO store or food outlet and receive a 50% discount on your parking rate.</p>",
-          "rates": [
-            {
-              "timeSpan": "Mon - Sun",
-              "price": 20.0
-            }
-          ]
-        }
-      ],
-      "fromText": "From",
-      "fromPrice": "16",
-      "location": {
-        "longitude": 144.949488129972,
-        "latitude": -37.8274774754471,
-        "zoom": 13,
-        "address": "250 Munro Street, South Melbourne",
-        "region": {
-          "name": "Southbank",
-          "longitude": 144.95869874954224,
-          "latitude": -37.823887203271447,
-          "status": "",
-          "state": {
-            "name": "Victoria",
-            "abbreviation": "VIC",
-            "country": "Australia",
-            "longitude": 145.08864104747772,
-            "latitude": -36.438262107088946,
-            "status": ""
-          }
-        }
-      },
-      "openingTimes": [
-        {
-          "day_TimePeriod": "Monthly",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Monday",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Tuesday",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Wednesday",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Thursday",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Friday",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Saturday",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Sunday",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Public Holiday",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        }
-      ],
-      "url": "/parking-locations/victoria/southbank/freeway-car-park/",
-      "serviceConfiguration": {
-        "canBookABay": true,
-        "bookABayIconLabel": "Prepay Online",
-        "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": false,
-        "monthlyParkingIconLabel": "Monthly Subscription",
-        "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
-        "isWilsonOne": true,
-        "wilsonOneIconLabel": "Parking Card",
-        "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
-        "disabledParkingIsAvailable": false,
-        "disabledParkingIconLabel": "Disabled Parking",
-        "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
-        "evChargerIsAvailable": false,
-        "evChargerIconLabel": "EV Charging",
-        "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "spottIsAvailable": false,
-        "spottIconLabel": "Spott",
-        "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
-        "additionalServices": []
-      },
-      "state": "VIC",
-      "imgUrl": "/contentassets/ffa0d69a9f944f8c8bd3c3586146b27e/mel199-entry-2021.jpg",
-      "price": "",
-      "status": "",
-      "cpmsCarparkCode": null,
-      "externalCarParkInfo": null,
-      "featuredIndex": 0
-    },
-    {
       "name": "352 Canterbury Rd Car Park",
       "bookText": null,
       "canBookABay": false,
@@ -98870,8 +98672,7 @@
         "Book a Bay",
         "Wilson One",
         "Epark",
-        "Entry height at least 2",
-        "Spott"
+        "Entry height at least 2"
       ],
       "services": [
         "book a bay",
@@ -98887,7 +98688,7 @@
       "heightRestriction": 2.1,
       "information": "<p>Wilson Parking offer affordable parking at QV1 Car Park, located at 489 Murray Street, Perth. Open 7 days until late, this car park is ideally located for visitors to the QV1 Offices and surrounding Perth businesses. Offering casual Hourly, Online Early Bird, Night and Weekend Parking as well as exclusive discounts available when you prepay online or with the Wilson Parking App, the QV1 Car Park will meet all of your parking needs.</p>\n<p>Entry to the car park is on Murray Street.</p>\n<p>Download the Wilson Parking App to prepay your parking in advance and access exclusive discounts, or simply drive up and pay with your credit card, pay as you go with a Wilson Parking card, or enjoy unlimited access during the operational hours of the car park when you subscribe to Monthly Parking.</p>",
       "isWilsonOne": true,
-      "spottIsAvailable": true,
+      "spottIsAvailable": false,
       "legacyID": 6053,
       "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
@@ -99046,7 +98847,7 @@
         "evChargerIsAvailable": false,
         "evChargerIconLabel": "EV Charging",
         "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "spottIsAvailable": true,
+        "spottIsAvailable": false,
         "spottIconLabel": "Spott",
         "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
         "additionalServices": [
