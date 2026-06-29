@@ -867,7 +867,9 @@
       "carParkFeature": [
         "Monthly Parking",
         "Night Parking",
-        "Weekend Parking"
+        "Weekend Parking",
+        "Elevate Only",
+        "Spott"
       ],
       "services": [
         "monthly"
@@ -881,7 +883,7 @@
       "heightRestriction": 2.0,
       "information": "<p>Wilson Parking offers affordable and reliable parking at 55 Market St Car Park, located at 55 Market St in the south of the Sydney CBD.&nbsp;</p>\n<p>Open 24/7 and offering Hourly parking options, the&nbsp;55 Market St Car Park&nbsp;suits all your parking needs.</p>\n<p>For afterhours access to the lift lobby press the intercom button at the main entry and security will allow access.&nbsp;</p>",
       "isWilsonOne": false,
-      "spottIsAvailable": false,
+      "spottIsAvailable": true,
       "legacyID": 2374,
       "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
@@ -912,7 +914,7 @@
         }
       ],
       "fromText": "From",
-      "fromPrice": "30",
+      "fromPrice": "24",
       "location": {
         "longitude": 151.20791759793,
         "latitude": -33.8708094823034,
@@ -1016,7 +1018,7 @@
         "evChargerIsAvailable": false,
         "evChargerIconLabel": "EV Charging",
         "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "spottIsAvailable": false,
+        "spottIsAvailable": true,
         "spottIconLabel": "Spott",
         "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
         "additionalServices": []
@@ -9599,7 +9601,7 @@
       "costCenter": 5002511,
       "direction": null,
       "heightRestriction": 2.1,
-      "information": "<p>Atrium Car Park is located at 2 Edward St, Pyrmont. Close to many popular restaurants and attractions, including Star Casino, Lyric Theatre, Darling Harbour and open until midnight, this undercover car park is in the ideal location when looking for parking in Pyrmont.</p>\n<p>Offering Hourly, Night and Weekend Parking options, the Atrium Park will meet all your parking needs.&nbsp;</p>\n<p>This car park accepts credit card and cash payments.</p>",
+      "information": "<p>Atrium Car Park is located at 2 Edward St, Pyrmont. Close to many popular restaurants and attractions, including Star Casino, Lyric Theatre, Darling Harbour and open until midnight, this car park is in the ideal location when looking for parking in Pyrmont.</p>\n<p>Offering Hourly, Night and Weekend Parking options, the Atrium Park will meet all your parking needs.&nbsp;</p>\n<p>This car park accepts credit card and cash payments.<br /><br /><strong><span style=\"color: #ff1e25;\">Coles Customers</span></strong><br /><span style=\"color: #ff1e25;\">Get 1.5 hours free parking, 7 days a week</span></p>\n<p><span style=\"color: #ff1e25;\">Coles customers must scan their Coles receipt ($30 minimum spend) at automatic pay machine to validate their parking ticket before proceeding to the exit gates.</span></p>",
       "isWilsonOne": false,
       "spottIsAvailable": false,
       "legacyID": 0,
@@ -9611,9 +9613,52 @@
       "staticMapPhoto": null,
       "streetViewHeading": null,
       "streetViewLocation": null,
-      "rates": [],
-      "fromText": "",
-      "fromPrice": "",
+      "rates": [
+        {
+          "rateType": "Hourly",
+          "notes": null,
+          "rates": [
+            {
+              "timeSpan": "0.5 - 1 hrs",
+              "price": 8.0
+            },
+            {
+              "timeSpan": "1 - 2 hrs",
+              "price": 20.0
+            },
+            {
+              "timeSpan": "2 - 3 hrs",
+              "price": 28.0
+            },
+            {
+              "timeSpan": "3+ Hours (Maximum Daily Rate Per Day)",
+              "price": 38.0
+            },
+            {
+              "timeSpan": "1.5 - 2 hrs",
+              "price": 20.0
+            },
+            {
+              "timeSpan": "2 - 3 hrs",
+              "price": 28.0
+            },
+            {
+              "timeSpan": "3+ Hours (Maximum Daily Rate Per Day)",
+              "price": 38.0
+            },
+            {
+              "timeSpan": "0.5 Hours + (All Day Flat Rate)",
+              "price": 15.0
+            },
+            {
+              "timeSpan": "Overnight fee - additional to parking fees (after midnight) ",
+              "price": 10.0
+            }
+          ]
+        }
+      ],
+      "fromText": "From",
+      "fromPrice": "8",
       "location": {
         "longitude": 151.196332416371,
         "latitude": -33.8689364377346,
@@ -10963,6 +11008,171 @@
       "status": "",
       "cpmsCarparkCode": null,
       "externalCarParkInfo": null,
+      "featuredIndex": 0
+    },
+    {
+      "name": "Woolworths Pyrmont Car Park",
+      "bookText": null,
+      "canBookABay": false,
+      "selectedFeatures": "",
+      "carParkFeature": [
+        "Disabled Parking"
+      ],
+      "services": [
+        "disabled parking"
+      ],
+      "carParkName": "Woolworths Pyrmont Car Park",
+      "carParkNumber": 9137,
+      "carParkPhoto": null,
+      "category": "",
+      "costCenter": 5002137,
+      "direction": null,
+      "heightRestriction": 2.2,
+      "information": "<p>Woolworths Pyrmont Car Park is located at 63 Miller St, Pyrmont. Close to many popular restaurants and attractions, including Cockle Bay, Maritime Museum, Harbourside restaurants and open until 10pm, this car park is in the ideal location when looking for parking in Pyrmont.</p>\n<p>Offering Hourly, Night and Sunday Parking options, the Woolworths Pyrmont Car Park will meet all your parking needs.&nbsp;</p>\n<p>This car park accepts credit card only.</p>",
+      "isWilsonOne": false,
+      "spottIsAvailable": false,
+      "legacyID": 0,
+      "monthlyParkingServiceIsAvailable": false,
+      "evChargerIsAvailable": false,
+      "disabledParkingIsAvailable": true,
+      "phoneNumber": null,
+      "products": [],
+      "staticMapPhoto": null,
+      "streetViewHeading": null,
+      "streetViewLocation": null,
+      "rates": [
+        {
+          "rateType": "Hourly",
+          "notes": null,
+          "rates": [
+            {
+              "timeSpan": "1.5 - 2.0 hrs",
+              "price": 20.0
+            },
+            {
+              "timeSpan": "2.0 - 3.0 hrs",
+              "price": 40.0
+            },
+            {
+              "timeSpan": "3.0 - 4.0 hrs",
+              "price": 60.0
+            },
+            {
+              "timeSpan": "4.0 - 5.0 hrs",
+              "price": 80.0
+            },
+            {
+              "timeSpan": "5.0 + hrs",
+              "price": 100.0
+            },
+            {
+              "timeSpan": "Lost Ticket",
+              "price": 100.0
+            }
+          ]
+        }
+      ],
+      "fromText": "From",
+      "fromPrice": "20",
+      "location": {
+        "longitude": 151.192927154845,
+        "latitude": -33.8703476161201,
+        "zoom": 13,
+        "address": "63 Miller Street, Pyrmont",
+        "region": null
+      },
+      "openingTimes": [
+        {
+          "day_TimePeriod": "Sunday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "07:00",
+          "closing": "22:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Monday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "07:00",
+          "closing": "22:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Tuesday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "07:00",
+          "closing": "22:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Wednesday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "07:00",
+          "closing": "22:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Thursday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "07:00",
+          "closing": "22:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Friday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "07:00",
+          "closing": "22:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Saturday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "07:00",
+          "closing": "22:00",
+          "note": null
+        }
+      ],
+      "url": "/parking-locations/new-south-wales/cbd-sydney-north/woolworths-pyrmont-car-park/",
+      "serviceConfiguration": {
+        "canBookABay": false,
+        "bookABayIconLabel": "Prepay Online",
+        "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
+        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingIconLabel": "Monthly Subscription",
+        "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
+        "isWilsonOne": false,
+        "wilsonOneIconLabel": "Parking Card",
+        "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
+        "disabledParkingIsAvailable": true,
+        "disabledParkingIconLabel": "Disabled Parking",
+        "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
+        "evChargerIsAvailable": false,
+        "evChargerIconLabel": "EV Charging",
+        "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
+        "spottIsAvailable": false,
+        "spottIconLabel": "Spott",
+        "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
+        "additionalServices": []
+      },
+      "state": null,
+      "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
+      "price": "",
+      "status": "",
+      "cpmsCarparkCode": null,
+      "externalCarParkInfo": {
+        "name": "InterPark",
+        "pinUrl": "/globalassets/icons/interpark-icons/pin-blue.png",
+        "logoUrl": "/siteassets/parking-stock-images/interpark-icons/interpark_logo.jpg",
+        "pageUrl": "",
+        "content": "<p>This is an Interpark carpark with LOGO</p>"
+      },
       "featuredIndex": 0
     },
     {
@@ -12506,7 +12716,7 @@
       "information": "<p>The Gordon Car Park is located at 2 Newcombe St, Paddington. Close to many popular restaurants and attractions, including Allianz Stadium, Paddington Markets, St Vincent's Hopsital, Paddington Uniting Church, Oxford St Retail and open until midnight, this undercover car park is in the ideal location when looking for parking in Paddington.</p>\n<p>Offering Hourly, Night and Sunday Parking options, the Gordon Car Park will meet all your parking needs.&nbsp;</p>\n<p>This car park accepts credit card and cash payments.</p>",
       "isWilsonOne": false,
       "spottIsAvailable": false,
-      "legacyID": 0,
+      "legacyID": 5002150,
       "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": true,
@@ -12515,15 +12725,89 @@
       "staticMapPhoto": null,
       "streetViewHeading": null,
       "streetViewLocation": null,
-      "rates": [],
-      "fromText": "",
-      "fromPrice": "",
+      "rates": [
+        {
+          "rateType": "Hourly",
+          "notes": null,
+          "rates": [
+            {
+              "timeSpan": "0.0 - 0.5 hrs",
+              "price": 2.0
+            },
+            {
+              "timeSpan": "0.5 - 1.0 hrs",
+              "price": 5.0
+            },
+            {
+              "timeSpan": "1.0 - 2.0 hrs",
+              "price": 15.0
+            },
+            {
+              "timeSpan": "2.0 - 3.0 hrs",
+              "price": 20.0
+            },
+            {
+              "timeSpan": "3.0 - 4.0 hrs",
+              "price": 25.0
+            },
+            {
+              "timeSpan": "4.0+ hrs",
+              "price": 30.0
+            }
+          ]
+        },
+        {
+          "rateType": "Early Bird",
+          "notes": null,
+          "rates": [
+            {
+              "timeSpan": "(enter between 6am and 10am, Exit after 3pm)",
+              "price": 16.0
+            }
+          ]
+        },
+        {
+          "rateType": "Night",
+          "notes": null,
+          "rates": [
+            {
+              "timeSpan": "Monday to Friday Evening (Enter after 6pm, Exit before Midnight)",
+              "price": 20.0
+            }
+          ]
+        },
+        {
+          "rateType": "Weekend",
+          "notes": null,
+          "rates": [
+            {
+              "timeSpan": "Sunday",
+              "price": 20.0
+            }
+          ]
+        }
+      ],
+      "fromText": "From",
+      "fromPrice": "2",
       "location": {
         "longitude": 151.229678157114,
         "latitude": -33.8869878936204,
         "zoom": 13,
         "address": "2 Newcombe Street, Paddington",
-        "region": null
+        "region": {
+          "name": "Eastern Suburbs",
+          "longitude": 151.24371528625488,
+          "latitude": -33.885664948694725,
+          "status": "",
+          "state": {
+            "name": "New South Wales",
+            "abbreviation": "NSW",
+            "country": "Australia",
+            "longitude": 151.207430362701,
+            "latitude": -33.8662642500823,
+            "status": ""
+          }
+        }
       },
       "openingTimes": [
         {
@@ -12591,7 +12875,7 @@
           "note": null
         }
       ],
-      "url": "/parking-locations/new-south-wales/cbd-sydney-north/the-gordon-car-park/",
+      "url": "/parking-locations/new-south-wales/eastern-suburbs/the-gordon-car-park/",
       "serviceConfiguration": {
         "canBookABay": false,
         "bookABayIconLabel": "Prepay Online",
@@ -12613,7 +12897,7 @@
         "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
         "additionalServices": []
       },
-      "state": null,
+      "state": "NSW",
       "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
       "price": "",
       "status": "",
@@ -12632,8 +12916,12 @@
       "bookText": null,
       "canBookABay": false,
       "selectedFeatures": "",
-      "carParkFeature": [],
-      "services": [],
+      "carParkFeature": [
+        "Disabled Parking"
+      ],
+      "services": [
+        "disabled parking"
+      ],
       "carParkName": "Woolworths (Salvation Army) Redfern Car Park",
       "carParkNumber": 9107,
       "carParkPhoto": null,
@@ -12641,21 +12929,56 @@
       "costCenter": 5002107,
       "direction": null,
       "heightRestriction": 2.25,
-      "information": "<p>Woolworths (Salvation Army) Redfern Car Park is located at 261 &ndash; 265 Chalmers Street, Redfern. Close to Redfern Oval and open until 10pm, this car park is in the ideal location when looking for parking in Redfern.</p>\n<p>Offering Hourly, Overnight options, the Woolworths Redfern Car Park will meet all your parking needs.&nbsp;</p>\n<p>This car park accepts credit card only.</p>",
+      "information": "<p>Woolworths (Salvation Army) Redfern Car Park is located at 261&ndash;265 Chalmers Street, Redfern. Close to Redfern Oval and Cafes and open until 10pm, this car park is in the ideal location when looking for parking in Redfern.</p>\n<p>Offering Hourly, Overnight options, the Woolworths Redfern Car Park will meet all your parking needs.&nbsp;</p>\n<p>This car park accepts credit card only.</p>",
       "isWilsonOne": false,
       "spottIsAvailable": false,
       "legacyID": 0,
       "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
-      "disabledParkingIsAvailable": false,
+      "disabledParkingIsAvailable": true,
       "phoneNumber": null,
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": null,
       "streetViewLocation": null,
-      "rates": [],
-      "fromText": "",
-      "fromPrice": "",
+      "rates": [
+        {
+          "rateType": "Hourly",
+          "notes": null,
+          "rates": [
+            {
+              "timeSpan": "2.0 - 3.0 hrs",
+              "price": 10.0
+            },
+            {
+              "timeSpan": "3.0 - 4.0 hrs",
+              "price": 20.0
+            },
+            {
+              "timeSpan": "4.0 - 5.0 hrs",
+              "price": 30.0
+            },
+            {
+              "timeSpan": "5.0 - 6.0 hrs",
+              "price": 40.0
+            },
+            {
+              "timeSpan": "6.0 + hrs",
+              "price": 50.0
+            },
+            {
+              "timeSpan": "Overnight Rate",
+              "price": 80.0
+            },
+            {
+              "timeSpan": "Lost Ticket",
+              "price": 80.0
+            }
+          ]
+        }
+      ],
+      "fromText": "From",
+      "fromPrice": "10",
       "location": {
         "longitude": 151.204818523475,
         "latitude": -33.8945739474457,
@@ -12724,7 +13047,7 @@
         "isWilsonOne": false,
         "wilsonOneIconLabel": "Parking Card",
         "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
-        "disabledParkingIsAvailable": false,
+        "disabledParkingIsAvailable": true,
         "disabledParkingIconLabel": "Disabled Parking",
         "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
         "evChargerIsAvailable": false,
@@ -16034,9 +16357,36 @@
       "staticMapPhoto": null,
       "streetViewHeading": null,
       "streetViewLocation": null,
-      "rates": [],
-      "fromText": "",
-      "fromPrice": "",
+      "rates": [
+        {
+          "rateType": "Hourly",
+          "notes": null,
+          "rates": [
+            {
+              "timeSpan": "1.5 - 2.0 hrs",
+              "price": 4.0
+            },
+            {
+              "timeSpan": "2.0 - 3.0 hrs",
+              "price": 8.0
+            },
+            {
+              "timeSpan": "3.0 + Hrs",
+              "price": 12.0
+            },
+            {
+              "timeSpan": "Overnight rate (plus previous day's rate)",
+              "price": 25.0
+            },
+            {
+              "timeSpan": "Lost Ticket Rate",
+              "price": 12.0
+            }
+          ]
+        }
+      ],
+      "fromText": "From",
+      "fromPrice": "4",
       "location": {
         "longitude": 151.189127497264,
         "latitude": -33.9030744355251,
@@ -16169,7 +16519,7 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Rates avaialble 7 days</p>",
+          "notes": "<p>Rates apply Monday - Sunday</p>",
           "rates": [
             {
               "timeSpan": "0.0-2.0 hrs",
@@ -16198,9 +16548,9 @@
         "zoom": 13,
         "address": "43-51 Grosvenor St, Neutral Bay",
         "region": {
-          "name": "Neutral Bay",
-          "longitude": -33.8340611265723,
-          "latitude": 151.218309872592,
+          "name": "Lower North Shore",
+          "longitude": 151.143800286491,
+          "latitude": -33.8304914176136,
           "status": "",
           "state": {
             "name": "New South Wales",
@@ -16270,7 +16620,7 @@
           "note": null
         }
       ],
-      "url": "/parking-locations/new-south-wales/neutral-bay/coles-neutral-bay-car-park/",
+      "url": "/parking-locations/new-south-wales/lower-north-shore/coles-neutral-bay-car-park/",
       "serviceConfiguration": {
         "canBookABay": false,
         "bookABayIconLabel": "Prepay Online",
@@ -16725,9 +17075,52 @@
       "staticMapPhoto": null,
       "streetViewHeading": null,
       "streetViewLocation": null,
-      "rates": [],
-      "fromText": "",
-      "fromPrice": "",
+      "rates": [
+        {
+          "rateType": "Hourly",
+          "notes": null,
+          "rates": [
+            {
+              "timeSpan": "0.0 - 0.5 hrs",
+              "price": 3.0
+            },
+            {
+              "timeSpan": "0.5 - 1.0 hrs",
+              "price": 11.0
+            },
+            {
+              "timeSpan": "1.0 - 1.5 hrs",
+              "price": 14.0
+            },
+            {
+              "timeSpan": "1.5 - 2.0 hrs",
+              "price": 18.0
+            },
+            {
+              "timeSpan": "2.0 - 2.5 hrs",
+              "price": 21.0
+            },
+            {
+              "timeSpan": "2.5 - 3.0 hrs",
+              "price": 26.0
+            },
+            {
+              "timeSpan": "3.0 - 3.5 hrs",
+              "price": 31.0
+            },
+            {
+              "timeSpan": "3.5 + hrs (Max. Daily Rate)",
+              "price": 35.0
+            },
+            {
+              "timeSpan": "EARLY BIRD (enter between 7am - 10am, Exit between 3:30pm – 7pm)",
+              "price": 20.0
+            }
+          ]
+        }
+      ],
+      "fromText": "From",
+      "fromPrice": "3",
       "location": {
         "longitude": 151.200944983663,
         "latitude": -33.8281946470508,
@@ -19959,9 +20352,28 @@
       "staticMapPhoto": null,
       "streetViewHeading": null,
       "streetViewLocation": null,
-      "rates": [],
-      "fromText": "",
-      "fromPrice": "",
+      "rates": [
+        {
+          "rateType": "Hourly",
+          "notes": null,
+          "rates": [
+            {
+              "timeSpan": "0.0 - 1.0 hr",
+              "price": 40.0
+            },
+            {
+              "timeSpan": "1.0 - 2.0 hrs",
+              "price": 60.0
+            },
+            {
+              "timeSpan": "2.0 + Hrs (Max Daily Rate)",
+              "price": 90.0
+            }
+          ]
+        }
+      ],
+      "fromText": "From",
+      "fromPrice": "40",
       "location": {
         "longitude": 151.254657542718,
         "latitude": -33.919992457381,
@@ -21437,6 +21849,184 @@
       "featuredIndex": 0
     },
     {
+      "name": "ALDI Wolli Creek Car Park",
+      "bookText": null,
+      "canBookABay": false,
+      "selectedFeatures": "",
+      "carParkFeature": [],
+      "services": [],
+      "carParkName": "ALDI Wolli Creek Car Park",
+      "carParkNumber": 9114,
+      "carParkPhoto": null,
+      "category": "",
+      "costCenter": 1009114,
+      "direction": "Entry via 4 Magdalene Terrace, Wolli Creek",
+      "heightRestriction": 2.0,
+      "information": "<div>The ALDI Wolli Creek Car Park is located at 4 Magdalene Terrace, Wolli Creek and is open 7 days a week. The car park offers convenient and affordable casual hourly parking for retail customers, residents, and visitors to the surrounding area. It provides easy access to nearby residences, and local businesses.</div>",
+      "isWilsonOne": false,
+      "spottIsAvailable": false,
+      "legacyID": 9114,
+      "monthlyParkingServiceIsAvailable": false,
+      "evChargerIsAvailable": false,
+      "disabledParkingIsAvailable": false,
+      "phoneNumber": "1800 PARKING (1800 727 546)",
+      "products": [],
+      "staticMapPhoto": null,
+      "streetViewHeading": null,
+      "streetViewLocation": null,
+      "rates": [
+        {
+          "rateType": "Hourly",
+          "notes": "<p>Rates apply Monday - Sunday</p>",
+          "rates": [
+            {
+              "timeSpan": "0.0 - 1.50 hrs",
+              "price": 0.0
+            },
+            {
+              "timeSpan": "1.50 - 2.0 hrs",
+              "price": 4.0
+            },
+            {
+              "timeSpan": "2.0 - 3.0 hrs",
+              "price": 10.0
+            },
+            {
+              "timeSpan": "3.0 - 4.0 hrs",
+              "price": 20.0
+            },
+            {
+              "timeSpan": "4.0 - 5.0 hrs",
+              "price": 30.0
+            },
+            {
+              "timeSpan": "5.0 - 6.0 hrs",
+              "price": 40.0
+            },
+            {
+              "timeSpan": "6.0+ hrs",
+              "price": 50.0
+            }
+          ]
+        }
+      ],
+      "fromText": "From",
+      "fromPrice": "0",
+      "location": {
+        "longitude": 151.152755694562,
+        "latitude": -33.9300396751213,
+        "zoom": 13,
+        "address": "4 Magdalene Terrace, Wolli Creek",
+        "region": {
+          "name": "St George",
+          "longitude": 151.10038766006983,
+          "latitude": -33.967484441667558,
+          "status": "",
+          "state": {
+            "name": "New South Wales",
+            "abbreviation": "NSW",
+            "country": "Australia",
+            "longitude": 151.207430362701,
+            "latitude": -33.8662642500823,
+            "status": ""
+          }
+        }
+      },
+      "openingTimes": [
+        {
+          "day_TimePeriod": "Monday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "05:30",
+          "closing": "23:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Tuesday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "05:30",
+          "closing": "23:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Wednesday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "05:30",
+          "closing": "23:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Thursday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "05:30",
+          "closing": "23:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Friday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "05:30",
+          "closing": "23:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Saturday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "05:30",
+          "closing": "23:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Sunday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "05:30",
+          "closing": "23:00",
+          "note": null
+        }
+      ],
+      "url": "/parking-locations/new-south-wales/st-george/aldi-wolli-creek-car-park/",
+      "serviceConfiguration": {
+        "canBookABay": false,
+        "bookABayIconLabel": "Prepay Online",
+        "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
+        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingIconLabel": "Monthly Subscription",
+        "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
+        "isWilsonOne": false,
+        "wilsonOneIconLabel": "Parking Card",
+        "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
+        "disabledParkingIsAvailable": false,
+        "disabledParkingIconLabel": "Disabled Parking",
+        "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
+        "evChargerIsAvailable": false,
+        "evChargerIconLabel": "EV Charging",
+        "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
+        "spottIsAvailable": false,
+        "spottIconLabel": "Spott",
+        "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
+        "additionalServices": []
+      },
+      "state": "NSW",
+      "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
+      "price": "",
+      "status": "",
+      "cpmsCarparkCode": null,
+      "externalCarParkInfo": {
+        "name": "InterPark",
+        "pinUrl": "/globalassets/icons/interpark-icons/pin-blue.png",
+        "logoUrl": "/siteassets/parking-stock-images/interpark-icons/interpark_logo.jpg",
+        "pageUrl": "",
+        "content": "<p>This is an Interpark carpark with LOGO</p>"
+      },
+      "featuredIndex": 0
+    },
+    {
       "name": "36 George St Car Park",
       "bookText": null,
       "canBookABay": false,
@@ -21655,9 +22245,44 @@
       "staticMapPhoto": null,
       "streetViewHeading": null,
       "streetViewLocation": null,
-      "rates": [],
-      "fromText": "",
-      "fromPrice": "",
+      "rates": [
+        {
+          "rateType": "Hourly",
+          "notes": null,
+          "rates": [
+            {
+              "timeSpan": "2.0 - 3.0 hrs",
+              "price": 2.0
+            },
+            {
+              "timeSpan": "3.0 - 4.0 hrs",
+              "price": 6.0
+            },
+            {
+              "timeSpan": "4.0 - 5.0 hrs",
+              "price": 10.0
+            },
+            {
+              "timeSpan": "5.0 - 6.0 hrs",
+              "price": 14.0
+            },
+            {
+              "timeSpan": "6.0 - 7.0 hrs",
+              "price": 18.0
+            },
+            {
+              "timeSpan": "7.0 - 8.0 hrs",
+              "price": 22.0
+            },
+            {
+              "timeSpan": "8.0 + hrs",
+              "price": 26.0
+            }
+          ]
+        }
+      ],
+      "fromText": "From",
+      "fromPrice": "2",
       "location": {
         "longitude": 151.102981025991,
         "latitude": -33.8569476299444,
@@ -21764,8 +22389,12 @@
       "bookText": null,
       "canBookABay": false,
       "selectedFeatures": "",
-      "carParkFeature": [],
-      "services": [],
+      "carParkFeature": [
+        "Disabled Parking"
+      ],
+      "services": [
+        "disabled parking"
+      ],
       "carParkName": "Emerald Square Car Park",
       "carParkNumber": 9580,
       "carParkPhoto": null,
@@ -21773,21 +22402,64 @@
       "costCenter": 5002580,
       "direction": null,
       "heightRestriction": 2.2,
-      "information": "<p>Emerald Square Car Park is located at 27 &ndash; 31 Belmore Street, Burwood. Close to Burwood Grand Apartments, Burwood Library, Cafes and Restaurants and open until Midnight, this car park is in the ideal location when looking for parking in Burwood.</p>\n<p>Offering Hourly, Overnight options, the Emerald Car Park will meet all your parking needs.&nbsp;</p>\n<p>This car park accepts credit card only.</p>",
+      "information": "<p>Emerald Square Car Park is located at 27&ndash;31 Belmore Street, Burwood. Close to Burwood Grand Apartments, Burwood Library, Cafes and Restaurants and open until Midnight, this car park is in the ideal location when looking for parking in Burwood.</p>\n<p>Offering Hourly, Overnight options, the Emerald Car Park will meet all your parking needs.&nbsp;</p>\n<p>This car park accepts credit card only.</p>",
       "isWilsonOne": false,
       "spottIsAvailable": false,
       "legacyID": 0,
       "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
-      "disabledParkingIsAvailable": false,
+      "disabledParkingIsAvailable": true,
       "phoneNumber": null,
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": null,
       "streetViewLocation": null,
-      "rates": [],
-      "fromText": "",
-      "fromPrice": "",
+      "rates": [
+        {
+          "rateType": "Hourly",
+          "notes": null,
+          "rates": [
+            {
+              "timeSpan": "0.5 - 1.5 hrs",
+              "price": 6.0
+            },
+            {
+              "timeSpan": "1.5 - 2.0 hrs",
+              "price": 8.0
+            },
+            {
+              "timeSpan": "2.0 - 3.0 hrs",
+              "price": 12.0
+            },
+            {
+              "timeSpan": "3.0 - 4.0 hrs",
+              "price": 15.0
+            },
+            {
+              "timeSpan": "4.0 - 5.0 hrs",
+              "price": 20.0
+            },
+            {
+              "timeSpan": "5.0 - 6.0 hrs",
+              "price": 25.0
+            },
+            {
+              "timeSpan": "6.0 + Hours (Max Daily Rate)",
+              "price": 40.0
+            },
+            {
+              "timeSpan": "Overnight Rate (plus previous day's fees)",
+              "price": 10.0
+            },
+            {
+              "timeSpan": "Lost Ticket",
+              "price": 70.0
+            }
+          ]
+        }
+      ],
+      "fromText": "From",
+      "fromPrice": "6",
       "location": {
         "longitude": 151.102361663734,
         "latitude": -33.8777643402378,
@@ -21864,7 +22536,7 @@
         "isWilsonOne": false,
         "wilsonOneIconLabel": "Parking Card",
         "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
-        "disabledParkingIsAvailable": false,
+        "disabledParkingIsAvailable": true,
         "disabledParkingIconLabel": "Disabled Parking",
         "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
         "evChargerIsAvailable": false,
@@ -22457,7 +23129,7 @@
       "costCenter": 5002161,
       "direction": null,
       "heightRestriction": 0.0,
-      "information": "<p>Campsie Centre Car Park is located at 14-28 Amy St, Campsie. Close to Campsie Library, Canterbury Hospital, Campsie RSL Club, Shopping and Retail and open until 8pm, this car park is in the ideal location when looking for parking in Campsie.</p>\n<p>Offering Hourly options, the Campsie Centre will meet all your parking needs.&nbsp;</p>\n<p>This car park accepts credit card and cash.</p>",
+      "information": "<p>Campsie Centre Car Park is located at 14-28 Amy St, Campsie. Close to Campsie Library, Canterbury Hospital, Campsie RSL Club, Saint John's Anglican Church, Shopping and Retail and open until 8pm, this car park is in the ideal location when looking for parking in Campsie.</p>\n<p>Offering Hourly options, the Campsie Centre will meet all your parking needs.&nbsp;</p>\n<p>This car park accepts credit card and cash.</p>",
       "isWilsonOne": false,
       "spottIsAvailable": false,
       "legacyID": 0,
@@ -22469,9 +23141,52 @@
       "staticMapPhoto": null,
       "streetViewHeading": null,
       "streetViewLocation": null,
-      "rates": [],
-      "fromText": "",
-      "fromPrice": "",
+      "rates": [
+        {
+          "rateType": "Hourly",
+          "notes": null,
+          "rates": [
+            {
+              "timeSpan": "3.0 – 3.5 hrs",
+              "price": 6.0
+            },
+            {
+              "timeSpan": "3.5 - 4.0 hrs",
+              "price": 10.0
+            },
+            {
+              "timeSpan": "4.0 - 4.5 hrs",
+              "price": 12.0
+            },
+            {
+              "timeSpan": "4.5 - 5.0 hrs",
+              "price": 16.0
+            },
+            {
+              "timeSpan": "5.0 - 5.5 hrs",
+              "price": 20.0
+            },
+            {
+              "timeSpan": "5.5 - 6.0 hrs",
+              "price": 26.0
+            },
+            {
+              "timeSpan": "6.0 + hrs (Maximum per day)",
+              "price": 30.0
+            },
+            {
+              "timeSpan": "Lost Ticket",
+              "price": 30.0
+            },
+            {
+              "timeSpan": "Staff Flat Rate",
+              "price": 4.0
+            }
+          ]
+        }
+      ],
+      "fromText": "From",
+      "fromPrice": "4",
       "location": {
         "longitude": 151.102895424659,
         "latitude": -33.9124410107992,
@@ -24407,7 +25122,7 @@
         "disabled parking"
       ],
       "carParkName": "Hurstville Central Shopping Centre",
-      "carParkNumber": 5002526,
+      "carParkNumber": 9526,
       "carParkPhoto": null,
       "category": "",
       "costCenter": 5002526,
@@ -24794,6 +25509,179 @@
       "status": "",
       "cpmsCarparkCode": null,
       "externalCarParkInfo": null,
+      "featuredIndex": 0
+    },
+    {
+      "name": "Hurstville Private Hospital Car Park",
+      "bookText": null,
+      "canBookABay": false,
+      "selectedFeatures": "",
+      "carParkFeature": [
+        "Disabled Parking"
+      ],
+      "services": [
+        "disabled parking"
+      ],
+      "carParkName": "Hurstville Private Hospital Car Park",
+      "carParkNumber": 9805,
+      "carParkPhoto": null,
+      "category": "",
+      "costCenter": 5002805,
+      "direction": null,
+      "heightRestriction": 0.0,
+      "information": "<p class=\"xs-b-margin no-m-t\">Hurstville Private Hospital Car Park is located at 37 Gloucester Rd Hurstville. Close to Hurstville Oval and open 24/7, this open air car park is in the ideal location when looking for parking in Hurstville.</p>\n<p>Offering Hourly options, Hurstville Private Hospital Car Park will meet all your parking needs.&nbsp;</p>\n<p>This car park accepts credit card and cash.</p>",
+      "isWilsonOne": false,
+      "spottIsAvailable": false,
+      "legacyID": 5002805,
+      "monthlyParkingServiceIsAvailable": false,
+      "evChargerIsAvailable": false,
+      "disabledParkingIsAvailable": true,
+      "phoneNumber": null,
+      "products": [],
+      "staticMapPhoto": null,
+      "streetViewHeading": null,
+      "streetViewLocation": null,
+      "rates": [
+        {
+          "rateType": "Hourly",
+          "notes": null,
+          "rates": [
+            {
+              "timeSpan": "0.0 - 1.0 hrs",
+              "price": 4.0
+            },
+            {
+              "timeSpan": "1.0 - 2.0 hrs",
+              "price": 6.0
+            },
+            {
+              "timeSpan": "2.0 - 3.0 hrs",
+              "price": 8.0
+            },
+            {
+              "timeSpan": "3.0 - 4.0 hrs",
+              "price": 10.0
+            },
+            {
+              "timeSpan": "4.0 - 5.0 hrs",
+              "price": 20.0
+            },
+            {
+              "timeSpan": "5.0 - 6.0 Hrs",
+              "price": 30.0
+            },
+            {
+              "timeSpan": "6.0 hrs + (Maximum daily rate)",
+              "price": 40.0
+            },
+            {
+              "timeSpan": "Lost Ticket",
+              "price": 55.0
+            }
+          ]
+        }
+      ],
+      "fromText": "From",
+      "fromPrice": "4",
+      "location": {
+        "longitude": 151.095969014283,
+        "latitude": -33.9622817080064,
+        "zoom": 13,
+        "address": "37 Gloucester Rd Hurstville",
+        "region": null
+      },
+      "openingTimes": [
+        {
+          "day_TimePeriod": "Sunday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Monday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Tuesday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Wednesday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Thursday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Friday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Saturday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        }
+      ],
+      "url": "/parking-locations/new-south-wales/st-george/hurstville-private-hospital-car-park/",
+      "serviceConfiguration": {
+        "canBookABay": false,
+        "bookABayIconLabel": "Prepay Online",
+        "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
+        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingIconLabel": "Monthly Subscription",
+        "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
+        "isWilsonOne": false,
+        "wilsonOneIconLabel": "Parking Card",
+        "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
+        "disabledParkingIsAvailable": true,
+        "disabledParkingIconLabel": "Disabled Parking",
+        "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
+        "evChargerIsAvailable": false,
+        "evChargerIconLabel": "EV Charging",
+        "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
+        "spottIsAvailable": false,
+        "spottIconLabel": "Spott",
+        "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
+        "additionalServices": []
+      },
+      "state": null,
+      "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
+      "price": "",
+      "status": "",
+      "cpmsCarparkCode": null,
+      "externalCarParkInfo": {
+        "name": "InterPark",
+        "pinUrl": "/globalassets/icons/interpark-icons/pin-blue.png",
+        "logoUrl": "/siteassets/parking-stock-images/interpark-icons/interpark_logo.jpg",
+        "pageUrl": "",
+        "content": "<p>This is an Interpark carpark with LOGO</p>"
+      },
       "featuredIndex": 0
     },
     {
@@ -25217,9 +26105,48 @@
       "staticMapPhoto": null,
       "streetViewHeading": null,
       "streetViewLocation": null,
-      "rates": [],
-      "fromText": "",
-      "fromPrice": "",
+      "rates": [
+        {
+          "rateType": "Hourly",
+          "notes": null,
+          "rates": [
+            {
+              "timeSpan": "3.0 - 4.0 hrs",
+              "price": 6.0
+            },
+            {
+              "timeSpan": "4.0 - 5.0 hrs",
+              "price": 9.0
+            },
+            {
+              "timeSpan": "5.0 - 6.0 hrs",
+              "price": 12.0
+            },
+            {
+              "timeSpan": "6.0 - 7.0 hrs",
+              "price": 15.0
+            },
+            {
+              "timeSpan": "7.0 - 8.0 hrs",
+              "price": 20.0
+            },
+            {
+              "timeSpan": "8.0 - 9.0 hrs",
+              "price": 25.0
+            },
+            {
+              "timeSpan": "9.0 + hours (Max. Daily Rate)",
+              "price": 30.0
+            },
+            {
+              "timeSpan": "EARLY BIRD: Enter 6am-9:30am, Exit 3pm-7:30pm",
+              "price": 4.0
+            }
+          ]
+        }
+      ],
+      "fromText": "From",
+      "fromPrice": "4",
       "location": {
         "longitude": 151.03466826987,
         "latitude": -33.9133982010181,
@@ -28275,6 +29202,182 @@
       "featuredIndex": 0
     },
     {
+      "name": "Revesby Village Car Park",
+      "bookText": null,
+      "canBookABay": false,
+      "selectedFeatures": "",
+      "carParkFeature": [
+        "Entry height at least 2"
+      ],
+      "services": [],
+      "carParkName": "Revesby Village Car Park",
+      "carParkNumber": 9561,
+      "carParkPhoto": null,
+      "category": "",
+      "costCenter": 1009561,
+      "direction": "Entry via 20-30 Blamey Street, Revesby",
+      "heightRestriction": 2.2,
+      "information": "<p>The Revesby Village Car Park is located at 20-30 Blamey Street, Revesby and is open 7 days a week. The car park offers convenient and affordable casual hourly parking for retail customers, residents, and visitors to the surrounding area. It provides easy access to nearby residences, and local businesses.</p>",
+      "isWilsonOne": false,
+      "spottIsAvailable": false,
+      "legacyID": 9561,
+      "monthlyParkingServiceIsAvailable": false,
+      "evChargerIsAvailable": false,
+      "disabledParkingIsAvailable": false,
+      "phoneNumber": "1800 PARKING (1800 727 546)",
+      "products": [],
+      "staticMapPhoto": null,
+      "streetViewHeading": null,
+      "streetViewLocation": null,
+      "rates": [
+        {
+          "rateType": "Hourly",
+          "notes": "<p>Rates apply Monday - Sunday</p>\n<p>Overnight Rate (plus previous day's fees)</p>",
+          "rates": [
+            {
+              "timeSpan": "0.0 - 3.0 hrs",
+              "price": 0.0
+            },
+            {
+              "timeSpan": "3.0 - 4.0 hrs",
+              "price": 10.0
+            },
+            {
+              "timeSpan": "4.0 - 5.0 hrs",
+              "price": 20.0
+            },
+            {
+              "timeSpan": "5.0 - 6.0 hrs",
+              "price": 50.0
+            },
+            {
+              "timeSpan": "6.0+ hrs",
+              "price": 80.0
+            },
+            {
+              "timeSpan": "Overnight",
+              "price": 80.0
+            }
+          ]
+        }
+      ],
+      "fromText": "From",
+      "fromPrice": "0",
+      "location": {
+        "longitude": 151.014206794564,
+        "latitude": -33.9532505736852,
+        "zoom": 13,
+        "address": "20-30 Blamey St, Revesby",
+        "region": {
+          "name": "Canterbury",
+          "longitude": -33.9134568128438,
+          "latitude": 151.114056314506,
+          "status": "",
+          "state": {
+            "name": "New South Wales",
+            "abbreviation": "NSW",
+            "country": "Australia",
+            "longitude": 151.207430362701,
+            "latitude": -33.8662642500823,
+            "status": ""
+          }
+        }
+      },
+      "openingTimes": [
+        {
+          "day_TimePeriod": "Monday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "5:30",
+          "closing": "00:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Tuesday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "5:30",
+          "closing": "00:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Wednesday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "5:30",
+          "closing": "00:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Thursday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "5:30",
+          "closing": "00:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Friday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "05:30",
+          "closing": "00:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Saturday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "05:30",
+          "closing": "00:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Sunday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "05:30",
+          "closing": "00:00",
+          "note": null
+        }
+      ],
+      "url": "/parking-locations/new-south-wales/canterbury/revesby-village-car-park/",
+      "serviceConfiguration": {
+        "canBookABay": false,
+        "bookABayIconLabel": "Prepay Online",
+        "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
+        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingIconLabel": "Monthly Subscription",
+        "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
+        "isWilsonOne": false,
+        "wilsonOneIconLabel": "Parking Card",
+        "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
+        "disabledParkingIsAvailable": false,
+        "disabledParkingIconLabel": "Disabled Parking",
+        "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
+        "evChargerIsAvailable": false,
+        "evChargerIconLabel": "EV Charging",
+        "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
+        "spottIsAvailable": false,
+        "spottIconLabel": "Spott",
+        "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
+        "additionalServices": []
+      },
+      "state": "NSW",
+      "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
+      "price": "",
+      "status": "",
+      "cpmsCarparkCode": null,
+      "externalCarParkInfo": {
+        "name": "InterPark",
+        "pinUrl": "/globalassets/icons/interpark-icons/pin-blue.png",
+        "logoUrl": "/siteassets/parking-stock-images/interpark-icons/interpark_logo.jpg",
+        "pageUrl": "",
+        "content": "<p>This is an Interpark carpark with LOGO</p>"
+      },
+      "featuredIndex": 0
+    },
+    {
       "name": "Justice Precinct Car Park",
       "bookText": null,
       "canBookABay": false,
@@ -28488,9 +29591,40 @@
       "staticMapPhoto": null,
       "streetViewHeading": null,
       "streetViewLocation": null,
-      "rates": [],
-      "fromText": "",
-      "fromPrice": "",
+      "rates": [
+        {
+          "rateType": "Hourly",
+          "notes": null,
+          "rates": [
+            {
+              "timeSpan": "0.5 - 1.0 hrs",
+              "price": 7.5
+            },
+            {
+              "timeSpan": "1.0 - 2.0 hrs",
+              "price": 10.0
+            },
+            {
+              "timeSpan": "2.0 - 3.0 hrs",
+              "price": 15.0
+            },
+            {
+              "timeSpan": "3.0 - 4.0 hrs",
+              "price": 18.0
+            },
+            {
+              "timeSpan": "4.0 + hrs (Daily max)",
+              "price": 20.0
+            },
+            {
+              "timeSpan": "Lost Ticket",
+              "price": 20.0
+            }
+          ]
+        }
+      ],
+      "fromText": "From",
+      "fromPrice": "7.5",
       "location": {
         "longitude": 151.114173845281,
         "latitude": -34.0348783095416,
@@ -28931,6 +30065,377 @@
         "wilsonOneIconLabel": "Parking Card",
         "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
         "disabledParkingIsAvailable": true,
+        "disabledParkingIconLabel": "Disabled Parking",
+        "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
+        "evChargerIsAvailable": false,
+        "evChargerIconLabel": "EV Charging",
+        "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
+        "spottIsAvailable": false,
+        "spottIconLabel": "Spott",
+        "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
+        "additionalServices": []
+      },
+      "state": "NSW",
+      "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
+      "price": "",
+      "status": "",
+      "cpmsCarparkCode": null,
+      "externalCarParkInfo": {
+        "name": "InterPark",
+        "pinUrl": "/globalassets/icons/interpark-icons/pin-blue.png",
+        "logoUrl": "/siteassets/parking-stock-images/interpark-icons/interpark_logo.jpg",
+        "pageUrl": "",
+        "content": "<p>This is an Interpark carpark with LOGO</p>"
+      },
+      "featuredIndex": 0
+    },
+    {
+      "name": "Stockland Merrylands Car Park",
+      "bookText": null,
+      "canBookABay": false,
+      "selectedFeatures": "",
+      "carParkFeature": [
+        "Disabled Parking"
+      ],
+      "services": [
+        "disabled parking"
+      ],
+      "carParkName": "Stockland Merrylands Car Park",
+      "carParkNumber": 9171,
+      "carParkPhoto": null,
+      "category": "",
+      "costCenter": 5002171,
+      "direction": null,
+      "heightRestriction": 2.3,
+      "information": "<p class=\"xs-b-margin no-m-t\">Stockland Merrylands Car Park is located at 1 Pitt St, Merrylands. Close to Cafes &amp; Restaurants and Merrylands RSL and open 24/7, this car park is in the ideal location when looking for parking in Merrylands.</p>\n<p>Offering Hourly options, Stocklands Merrylands Car Park will meet all your parking needs.&nbsp;</p>\n<p>This car park accepts credit card and cash.</p>",
+      "isWilsonOne": false,
+      "spottIsAvailable": false,
+      "legacyID": 5002171,
+      "monthlyParkingServiceIsAvailable": false,
+      "evChargerIsAvailable": false,
+      "disabledParkingIsAvailable": true,
+      "phoneNumber": null,
+      "products": [],
+      "staticMapPhoto": null,
+      "streetViewHeading": null,
+      "streetViewLocation": null,
+      "rates": [
+        {
+          "rateType": "Hourly",
+          "notes": null,
+          "rates": [
+            {
+              "timeSpan": "3.0 - 3.5 hrs",
+              "price": 6.0
+            },
+            {
+              "timeSpan": "3.5 - 4.0 hrs",
+              "price": 9.0
+            },
+            {
+              "timeSpan": "4.0 - 4.5 hrs",
+              "price": 12.0
+            },
+            {
+              "timeSpan": "4.5 - 5.0 hrs",
+              "price": 15.0
+            },
+            {
+              "timeSpan": "5.0 - 5.5 hrs",
+              "price": 20.0
+            },
+            {
+              "timeSpan": "5.5 - 6.0 hrs",
+              "price": 25.0
+            },
+            {
+              "timeSpan": "6.0 - 6.5 hrs",
+              "price": 30.0
+            },
+            {
+              "timeSpan": "6.5 - 7.0 hrs",
+              "price": 35.0
+            },
+            {
+              "timeSpan": "7.0 + hours (Maximum Daily Max)",
+              "price": 40.0
+            },
+            {
+              "timeSpan": "Lost Ticket",
+              "price": 40.0
+            }
+          ]
+        }
+      ],
+      "fromText": "From",
+      "fromPrice": "6",
+      "location": {
+        "longitude": 150.987907647447,
+        "latitude": -33.834125198462,
+        "zoom": 13,
+        "address": "1 Pitt St, Merrylands",
+        "region": null
+      },
+      "openingTimes": [
+        {
+          "day_TimePeriod": "Sunday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Monday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Tuesday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Wednesday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Thursday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Friday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Saturday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        }
+      ],
+      "url": "/parking-locations/new-south-wales/parramatta/stockland-merrylands-car-park/",
+      "serviceConfiguration": {
+        "canBookABay": false,
+        "bookABayIconLabel": "Prepay Online",
+        "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
+        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingIconLabel": "Monthly Subscription",
+        "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
+        "isWilsonOne": false,
+        "wilsonOneIconLabel": "Parking Card",
+        "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
+        "disabledParkingIsAvailable": true,
+        "disabledParkingIconLabel": "Disabled Parking",
+        "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
+        "evChargerIsAvailable": false,
+        "evChargerIconLabel": "EV Charging",
+        "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
+        "spottIsAvailable": false,
+        "spottIconLabel": "Spott",
+        "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
+        "additionalServices": []
+      },
+      "state": null,
+      "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
+      "price": "",
+      "status": "",
+      "cpmsCarparkCode": null,
+      "externalCarParkInfo": {
+        "name": "InterPark",
+        "pinUrl": "/globalassets/icons/interpark-icons/pin-blue.png",
+        "logoUrl": "/siteassets/parking-stock-images/interpark-icons/interpark_logo.jpg",
+        "pageUrl": "",
+        "content": "<p>This is an Interpark carpark with LOGO</p>"
+      },
+      "featuredIndex": 0
+    },
+    {
+      "name": "Miranda Diggers Car Park",
+      "bookText": null,
+      "canBookABay": false,
+      "selectedFeatures": "",
+      "carParkFeature": [
+        "Entry height at least 2"
+      ],
+      "services": [],
+      "carParkName": "Miranda Diggers Car Park",
+      "carParkNumber": 9569,
+      "carParkPhoto": null,
+      "category": "",
+      "costCenter": 1009569,
+      "direction": "Entry via 615 Kingsway, Miranda",
+      "heightRestriction": 2.0,
+      "information": "<p>The Miranda Diggers Car Park is located at 615 Kingsway, Miranda and is open 7 days a week. The car park offers convenient and affordable casual hourly parking for retail customers, residents, and visitors to the surrounding area. It provides easy access to nearby residences, and local businesses.</p>",
+      "isWilsonOne": false,
+      "spottIsAvailable": false,
+      "legacyID": 9569,
+      "monthlyParkingServiceIsAvailable": false,
+      "evChargerIsAvailable": false,
+      "disabledParkingIsAvailable": false,
+      "phoneNumber": "1800 PARKING (1800 727 546)",
+      "products": [],
+      "staticMapPhoto": null,
+      "streetViewHeading": null,
+      "streetViewLocation": null,
+      "rates": [
+        {
+          "rateType": "Hourly",
+          "notes": "<p>Rates apply Monday - Sunday</p>",
+          "rates": [
+            {
+              "timeSpan": "0.0 - 1.0 hrs",
+              "price": 3.0
+            },
+            {
+              "timeSpan": "1.0 - 2.0 hrs",
+              "price": 6.0
+            },
+            {
+              "timeSpan": "2.0 - 3.0 hrs",
+              "price": 9.0
+            },
+            {
+              "timeSpan": "3.0 - 4.0 hrs",
+              "price": 12.0
+            },
+            {
+              "timeSpan": "4.0 - 5.0+ hrs",
+              "price": 18.0
+            },
+            {
+              "timeSpan": "Lost Ticket",
+              "price": 40.0
+            },
+            {
+              "timeSpan": "Discount Card",
+              "price": 18.0
+            }
+          ]
+        },
+        {
+          "rateType": "Early Bird",
+          "notes": "<div class=\"\">\n<p>Entry between 7:00am and 9:30am, Exit between 2:30pm and 7:00pm</p>\n</div>",
+          "rates": [
+            {
+              "timeSpan": "Mon - Fri",
+              "price": 8.0
+            }
+          ]
+        }
+      ],
+      "fromText": "From",
+      "fromPrice": "3",
+      "location": {
+        "longitude": 151.099730465733,
+        "latitude": -34.0336134909829,
+        "zoom": 13,
+        "address": "615 Kingsway, Miranda",
+        "region": {
+          "name": "Sutherland",
+          "longitude": 151.0565185546875,
+          "latitude": -34.031536311869921,
+          "status": "",
+          "state": {
+            "name": "New South Wales",
+            "abbreviation": "NSW",
+            "country": "Australia",
+            "longitude": 151.207430362701,
+            "latitude": -33.8662642500823,
+            "status": ""
+          }
+        }
+      },
+      "openingTimes": [
+        {
+          "day_TimePeriod": "Monday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Tuesday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Wednesday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Thursday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Friday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Saturday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Sunday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        }
+      ],
+      "url": "/parking-locations/new-south-wales/sutherland/miranda-diggers-car-park/",
+      "serviceConfiguration": {
+        "canBookABay": false,
+        "bookABayIconLabel": "Prepay Online",
+        "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
+        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingIconLabel": "Monthly Subscription",
+        "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
+        "isWilsonOne": false,
+        "wilsonOneIconLabel": "Parking Card",
+        "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
+        "disabledParkingIsAvailable": false,
         "disabledParkingIconLabel": "Disabled Parking",
         "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
         "evChargerIsAvailable": false,
@@ -29879,6 +31384,175 @@
       "featuredIndex": 0
     },
     {
+      "name": "South Village Car Park",
+      "bookText": null,
+      "canBookABay": false,
+      "selectedFeatures": "",
+      "carParkFeature": [
+        "Disabled Parking"
+      ],
+      "services": [
+        "disabled parking"
+      ],
+      "carParkName": "South Village Car Park",
+      "carParkNumber": 9187,
+      "carParkPhoto": null,
+      "category": "",
+      "costCenter": 5002187,
+      "direction": null,
+      "heightRestriction": 2.2,
+      "information": "<p class=\"xs-b-margin no-m-t\">South Village Car Park is located at 580 Princes Highway, Kirrawee. Close to Kirawee Train Station and open until Midnight, this car park is in the ideal location when looking for parking in Kirawee.</p>\n<p>Offering Hourly options, South Village Car Park will meet all your parking needs.&nbsp;</p>\n<p>This car park accepts credit card and cash.</p>",
+      "isWilsonOne": false,
+      "spottIsAvailable": false,
+      "legacyID": 0,
+      "monthlyParkingServiceIsAvailable": false,
+      "evChargerIsAvailable": false,
+      "disabledParkingIsAvailable": true,
+      "phoneNumber": null,
+      "products": [],
+      "staticMapPhoto": null,
+      "streetViewHeading": null,
+      "streetViewLocation": null,
+      "rates": [
+        {
+          "rateType": "Hourly",
+          "notes": null,
+          "rates": [
+            {
+              "timeSpan": "3.0 - 4.0 hrs",
+              "price": 4.0
+            },
+            {
+              "timeSpan": "4.0 - 5.0 hrs",
+              "price": 8.0
+            },
+            {
+              "timeSpan": "5.0 - 6.0 hrs",
+              "price": 12.0
+            },
+            {
+              "timeSpan": "6.0 - 7.0 hrs",
+              "price": 16.0
+            },
+            {
+              "timeSpan": "7.0 + Hrs (Maximum daily rate)",
+              "price": 20.0
+            },
+            {
+              "timeSpan": "Early Bird Rate (Enter before 10am and after 3pm)",
+              "price": 10.0
+            },
+            {
+              "timeSpan": "Lost Ticket",
+              "price": 20.0
+            }
+          ]
+        }
+      ],
+      "fromText": "From",
+      "fromPrice": "4",
+      "location": {
+        "longitude": 151.073313021463,
+        "latitude": -34.032560654177,
+        "zoom": 13,
+        "address": "580 Princes Highway, Kirrawee",
+        "region": null
+      },
+      "openingTimes": [
+        {
+          "day_TimePeriod": "Sunday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "6:00",
+          "closing": "0:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Monday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "6:00",
+          "closing": "0:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Tuesday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "6:00",
+          "closing": "0:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Wednesday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "6:00",
+          "closing": "0:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Thursday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "6:00",
+          "closing": "0:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Friday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "6:00",
+          "closing": "0:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Saturday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "6:00",
+          "closing": "0:00",
+          "note": null
+        }
+      ],
+      "url": "/parking-locations/new-south-wales/sutherland/south-village-car-park/",
+      "serviceConfiguration": {
+        "canBookABay": false,
+        "bookABayIconLabel": "Prepay Online",
+        "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
+        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingIconLabel": "Monthly Subscription",
+        "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
+        "isWilsonOne": false,
+        "wilsonOneIconLabel": "Parking Card",
+        "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
+        "disabledParkingIsAvailable": true,
+        "disabledParkingIconLabel": "Disabled Parking",
+        "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
+        "evChargerIsAvailable": false,
+        "evChargerIconLabel": "EV Charging",
+        "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
+        "spottIsAvailable": false,
+        "spottIconLabel": "Spott",
+        "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
+        "additionalServices": []
+      },
+      "state": null,
+      "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
+      "price": "",
+      "status": "",
+      "cpmsCarparkCode": null,
+      "externalCarParkInfo": {
+        "name": "InterPark",
+        "pinUrl": "/globalassets/icons/interpark-icons/pin-blue.png",
+        "logoUrl": "/siteassets/parking-stock-images/interpark-icons/interpark_logo.jpg",
+        "pageUrl": "",
+        "content": "<p>This is an Interpark carpark with LOGO</p>"
+      },
+      "featuredIndex": 0
+    },
+    {
       "name": "Coles Westmead Car Park",
       "bookText": null,
       "canBookABay": false,
@@ -29954,9 +31628,9 @@
         "zoom": 13,
         "address": "29-33 Darcy Street",
         "region": {
-          "name": "Westmead",
-          "longitude": -33.8085632883366,
-          "latitude": 150.986784944822,
+          "name": "Parramatta",
+          "longitude": 151.00512742996216,
+          "latitude": -33.810522854619578,
           "status": "",
           "state": {
             "name": "New South Wales",
@@ -30026,7 +31700,7 @@
           "note": null
         }
       ],
-      "url": "/parking-locations/new-south-wales/westmead/coles-westmead-car-park/",
+      "url": "/parking-locations/new-south-wales/parramatta/coles-westmead-car-park/",
       "serviceConfiguration": {
         "canBookABay": false,
         "bookABayIconLabel": "Prepay Online",
@@ -30955,6 +32629,195 @@
       "status": "",
       "cpmsCarparkCode": null,
       "externalCarParkInfo": null,
+      "featuredIndex": 0
+    },
+    {
+      "name": "Fairfield City Central Car Park",
+      "bookText": null,
+      "canBookABay": false,
+      "selectedFeatures": "",
+      "carParkFeature": [
+        "Disabled Parking"
+      ],
+      "services": [
+        "disabled parking"
+      ],
+      "carParkName": "Fairfield City Central Car Park",
+      "carParkNumber": 9544,
+      "carParkPhoto": null,
+      "category": "",
+      "costCenter": 5003544,
+      "direction": null,
+      "heightRestriction": 2.1,
+      "information": "<p>The Fairfield City Central Car Park (Neeta City) is located at 54 Smart St, Fairfield. Close to Fairfield Public School, Fairfield Forum Shopping Centre, Cafes &amp; Restaurants and open to 10pm, this car park is in the ideal location when looking for parking in Fairfield.&nbsp;</p>\n<p>Offering Hourly, Night and Weekend Parking options, the Carlton Clocktower Car Park will meet all your parking needs.&nbsp;</p>\n<p>This car park accepts credit card and cash payments.</p>",
+      "isWilsonOne": false,
+      "spottIsAvailable": false,
+      "legacyID": 0,
+      "monthlyParkingServiceIsAvailable": false,
+      "evChargerIsAvailable": false,
+      "disabledParkingIsAvailable": true,
+      "phoneNumber": null,
+      "products": [],
+      "staticMapPhoto": null,
+      "streetViewHeading": null,
+      "streetViewLocation": null,
+      "rates": [
+        {
+          "rateType": "Hourly",
+          "notes": "<p>Monthly parking available</p>",
+          "rates": [
+            {
+              "timeSpan": "3.0 - 3.5 hrs",
+              "price": 2.0
+            },
+            {
+              "timeSpan": "3.5 - 4.0 hrs",
+              "price": 4.0
+            },
+            {
+              "timeSpan": "4.0 - 5.0 hrs",
+              "price": 6.0
+            },
+            {
+              "timeSpan": "5.0 - 6.0 hrs",
+              "price": 8.0
+            },
+            {
+              "timeSpan": "6.0 + hrs",
+              "price": 10.0
+            },
+            {
+              "timeSpan": "Overnight Rate (plus previous days rates)",
+              "price": 2.0
+            },
+            {
+              "timeSpan": "Lost ticket",
+              "price": 10.0
+            },
+            {
+              "timeSpan": "Tenants/Staff",
+              "price": 2.0
+            },
+            {
+              "timeSpan": "Police",
+              "price": 3.0
+            },
+            {
+              "timeSpan": "All Day Flexi-Pass* Refer to Info Section",
+              "price": 5.0
+            },
+            {
+              "timeSpan": "Lost ticket",
+              "price": 10.0
+            },
+            {
+              "timeSpan": "Early-bird Rate** (In before 9:30am, out after 3pm) Refer to Info Section",
+              "price": 4.0
+            }
+          ]
+        }
+      ],
+      "fromText": "From",
+      "fromPrice": "2",
+      "location": {
+        "longitude": 150.956461425992,
+        "latitude": -33.8686786900722,
+        "zoom": 13,
+        "address": "54 Smart St, Fairfield",
+        "region": null
+      },
+      "openingTimes": [
+        {
+          "day_TimePeriod": "Sunday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "6:00",
+          "closing": "22:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Monday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "6:00",
+          "closing": "22:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Tuesday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "6:00",
+          "closing": "22:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Wednesday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "6:00",
+          "closing": "22:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Thursday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "6:00",
+          "closing": "22:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Friday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "6:00",
+          "closing": "22:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Saturday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "6:00",
+          "closing": "22:00",
+          "note": null
+        }
+      ],
+      "url": "/parking-locations/new-south-wales/south-west/fairfield-city-central-car-park/",
+      "serviceConfiguration": {
+        "canBookABay": false,
+        "bookABayIconLabel": "Prepay Online",
+        "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
+        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingIconLabel": "Monthly Subscription",
+        "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
+        "isWilsonOne": false,
+        "wilsonOneIconLabel": "Parking Card",
+        "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
+        "disabledParkingIsAvailable": true,
+        "disabledParkingIconLabel": "Disabled Parking",
+        "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
+        "evChargerIsAvailable": false,
+        "evChargerIconLabel": "EV Charging",
+        "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
+        "spottIsAvailable": false,
+        "spottIconLabel": "Spott",
+        "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
+        "additionalServices": []
+      },
+      "state": null,
+      "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
+      "price": "",
+      "status": "",
+      "cpmsCarparkCode": null,
+      "externalCarParkInfo": {
+        "name": "InterPark",
+        "pinUrl": "/globalassets/icons/interpark-icons/pin-blue.png",
+        "logoUrl": "/siteassets/parking-stock-images/interpark-icons/interpark_logo.jpg",
+        "pageUrl": "",
+        "content": "<p>This is an Interpark carpark with LOGO</p>"
+      },
       "featuredIndex": 0
     },
     {
@@ -32068,6 +33931,182 @@
         "wilsonOneIconLabel": "Parking Card",
         "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
         "disabledParkingIsAvailable": true,
+        "disabledParkingIconLabel": "Disabled Parking",
+        "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
+        "evChargerIsAvailable": false,
+        "evChargerIconLabel": "EV Charging",
+        "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
+        "spottIsAvailable": false,
+        "spottIconLabel": "Spott",
+        "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
+        "additionalServices": []
+      },
+      "state": "NSW",
+      "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
+      "price": "",
+      "status": "",
+      "cpmsCarparkCode": null,
+      "externalCarParkInfo": {
+        "name": "InterPark",
+        "pinUrl": "/globalassets/icons/interpark-icons/pin-blue.png",
+        "logoUrl": "/siteassets/parking-stock-images/interpark-icons/interpark_logo.jpg",
+        "pageUrl": "",
+        "content": "<p>This is an Interpark carpark with LOGO</p>"
+      },
+      "featuredIndex": 0
+    },
+    {
+      "name": "Esplanade Norwest Car Park",
+      "bookText": null,
+      "canBookABay": false,
+      "selectedFeatures": "",
+      "carParkFeature": [
+        "Entry height at least 2"
+      ],
+      "services": [],
+      "carParkName": "Esplanade Norwest Car Park",
+      "carParkNumber": 9225,
+      "carParkPhoto": null,
+      "category": "",
+      "costCenter": 1009225,
+      "direction": "Entry via 1-13 Solent Circuit Norwest, NSW",
+      "heightRestriction": 2.0,
+      "information": "<div>The Esplanade Norwest Car Park is located at 11-13 Solent Circuit, Norwest and is open 7 days a week. The car park offers convenient and affordable casual hourly parking for retail customers, residents, and visitors to the surrounding area. It provides easy access to nearby residences, and local businesses.</div>\n<div>&nbsp;</div>",
+      "isWilsonOne": false,
+      "spottIsAvailable": false,
+      "legacyID": 9225,
+      "monthlyParkingServiceIsAvailable": false,
+      "evChargerIsAvailable": false,
+      "disabledParkingIsAvailable": false,
+      "phoneNumber": "1800 PARKING (1800 727 546)",
+      "products": [],
+      "staticMapPhoto": null,
+      "streetViewHeading": null,
+      "streetViewLocation": null,
+      "rates": [
+        {
+          "rateType": "Hourly",
+          "notes": "<p>Rates apply Monday - Sunday</p>",
+          "rates": [
+            {
+              "timeSpan": "0.0 - 2.0 ",
+              "price": 0.0
+            },
+            {
+              "timeSpan": "2.0 - 3.0 ",
+              "price": 6.0
+            },
+            {
+              "timeSpan": "3.0 - 4.0 ",
+              "price": 9.0
+            },
+            {
+              "timeSpan": "4.0 - 5.0 ",
+              "price": 12.0
+            },
+            {
+              "timeSpan": "5.0 - 6.0",
+              "price": 15.0
+            },
+            {
+              "timeSpan": "6.0+ hrs",
+              "price": 18.0
+            }
+          ]
+        }
+      ],
+      "fromText": "From",
+      "fromPrice": "0",
+      "location": {
+        "longitude": 150.961603123384,
+        "latitude": -33.7318669506833,
+        "zoom": 13,
+        "address": "11-13 Solent Circuit Norwest, NSW",
+        "region": {
+          "name": "Greater West",
+          "longitude": 150.94768524169922,
+          "latitude": -33.806252750539684,
+          "status": "",
+          "state": {
+            "name": "New South Wales",
+            "abbreviation": "NSW",
+            "country": "Australia",
+            "longitude": 151.207430362701,
+            "latitude": -33.8662642500823,
+            "status": ""
+          }
+        }
+      },
+      "openingTimes": [
+        {
+          "day_TimePeriod": "Monday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "06:00",
+          "closing": "23:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Tuesday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "06:00",
+          "closing": "23:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Wednesday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "06:00",
+          "closing": "23:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Thursday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "06:00",
+          "closing": "23:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Friday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "06:00",
+          "closing": "23:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Saturday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "06:00",
+          "closing": "23:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Sunday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "06:00",
+          "closing": "23:00",
+          "note": null
+        }
+      ],
+      "url": "/parking-locations/new-south-wales/greater-west/esplanade-norwest-car-park/",
+      "serviceConfiguration": {
+        "canBookABay": false,
+        "bookABayIconLabel": "Prepay Online",
+        "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
+        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingIconLabel": "Monthly Subscription",
+        "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
+        "isWilsonOne": false,
+        "wilsonOneIconLabel": "Parking Card",
+        "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
+        "disabledParkingIsAvailable": false,
         "disabledParkingIconLabel": "Disabled Parking",
         "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
         "evChargerIsAvailable": false,
@@ -34697,6 +36736,161 @@
       "featuredIndex": 0
     },
     {
+      "name": "ALDI Umina Car Park",
+      "bookText": null,
+      "canBookABay": false,
+      "selectedFeatures": "",
+      "carParkFeature": [
+        "Entry height at least 2"
+      ],
+      "services": [],
+      "carParkName": "ALDI Umina Car Park",
+      "carParkNumber": 9215,
+      "carParkPhoto": null,
+      "category": "",
+      "costCenter": 1009215,
+      "direction": "Entry via 310 Trafalgar Ave, Umina Beach",
+      "heightRestriction": 2.3,
+      "information": "<p>The ALDI Umina Car Park Car is located 310 Trafalgar Ave, Umina Beach and is open 7 days a week. The car park offers convenient and affordable casual hourly parking for retail customers, residents, and visitors to the surrounding area. It provides easy access to nearby residences, and local businesses.</p>",
+      "isWilsonOne": false,
+      "spottIsAvailable": false,
+      "legacyID": 9215,
+      "monthlyParkingServiceIsAvailable": false,
+      "evChargerIsAvailable": false,
+      "disabledParkingIsAvailable": false,
+      "phoneNumber": "1800 PARKING (1800 727 546)",
+      "products": [],
+      "staticMapPhoto": null,
+      "streetViewHeading": null,
+      "streetViewLocation": null,
+      "rates": [
+        {
+          "rateType": "Hourly",
+          "notes": "<p>Rates apply Monday - Sunday</p>",
+          "rates": [
+            {
+              "timeSpan": "0.0 - 2.0 hrs",
+              "price": 0.0
+            },
+            {
+              "timeSpan": "1.0 - 2.0 hrs",
+              "price": 5.0
+            },
+            {
+              "timeSpan": "2.0 - 3.0 hrs",
+              "price": 10.0
+            },
+            {
+              "timeSpan": "3.0+ hrs",
+              "price": 25.0
+            }
+          ]
+        }
+      ],
+      "fromText": "From",
+      "fromPrice": "0",
+      "location": {
+        "longitude": 151.320779265699,
+        "latitude": -33.522692084797,
+        "zoom": 13,
+        "address": "310 Trafalgar Ave, Umina Beach",
+        "region": null
+      },
+      "openingTimes": [
+        {
+          "day_TimePeriod": "Monday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Tuesday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Wednesday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Thursday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Friday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Saturday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Sunday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        }
+      ],
+      "url": "/parking-locations/new-south-wales/central-coast/aldi-umina-car-park/",
+      "serviceConfiguration": {
+        "canBookABay": false,
+        "bookABayIconLabel": "Prepay Online",
+        "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
+        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingIconLabel": "Monthly Subscription",
+        "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
+        "isWilsonOne": false,
+        "wilsonOneIconLabel": "Parking Card",
+        "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
+        "disabledParkingIsAvailable": false,
+        "disabledParkingIconLabel": "Disabled Parking",
+        "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
+        "evChargerIsAvailable": false,
+        "evChargerIconLabel": "EV Charging",
+        "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
+        "spottIsAvailable": false,
+        "spottIconLabel": "Spott",
+        "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
+        "additionalServices": []
+      },
+      "state": null,
+      "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
+      "price": "",
+      "status": "",
+      "cpmsCarparkCode": null,
+      "externalCarParkInfo": {
+        "name": "InterPark",
+        "pinUrl": "/globalassets/icons/interpark-icons/pin-blue.png",
+        "logoUrl": "/siteassets/parking-stock-images/interpark-icons/interpark_logo.jpg",
+        "pageUrl": "",
+        "content": "<p>This is an Interpark carpark with LOGO</p>"
+      },
+      "featuredIndex": 0
+    },
+    {
       "name": "St Marys Park&Ride",
       "bookText": null,
       "canBookABay": false,
@@ -37116,6 +39310,182 @@
       "featuredIndex": 0
     },
     {
+      "name": "ALDI Katoomba Car Park",
+      "bookText": null,
+      "canBookABay": false,
+      "selectedFeatures": "",
+      "carParkFeature": [
+        "Entry height at least 2"
+      ],
+      "services": [],
+      "carParkName": "ALDI Katoomba Car Park",
+      "carParkNumber": 9157,
+      "carParkPhoto": null,
+      "category": "",
+      "costCenter": 1009157,
+      "direction": "Entry via Waratah St, Katoomba",
+      "heightRestriction": 2.15,
+      "information": "<div>The ALDI Katoomba Car Park is located at Waratah Street, Katoomba and is open 7 days a week. The car park offers convenient and affordable casual hourly parking for retail customers, residents, and visitors to the surrounding area. It provides easy access to nearby residences, and local businesses.</div>",
+      "isWilsonOne": false,
+      "spottIsAvailable": false,
+      "legacyID": 9157,
+      "monthlyParkingServiceIsAvailable": false,
+      "evChargerIsAvailable": false,
+      "disabledParkingIsAvailable": false,
+      "phoneNumber": "1800 PARKING (1800 727 546)",
+      "products": [],
+      "staticMapPhoto": null,
+      "streetViewHeading": null,
+      "streetViewLocation": null,
+      "rates": [
+        {
+          "rateType": "Hourly",
+          "notes": "<p>Rates apply Monday - Sunday</p>",
+          "rates": [
+            {
+              "timeSpan": "0.0 - 2.0 hrs",
+              "price": 0.0
+            },
+            {
+              "timeSpan": "2.0 - 3.0 hrs",
+              "price": 5.0
+            },
+            {
+              "timeSpan": "3.0 - 4.0 hrs",
+              "price": 10.0
+            },
+            {
+              "timeSpan": "4.0 - 5.0 hrs",
+              "price": 15.0
+            },
+            {
+              "timeSpan": "5.0 - 6.0 hrs",
+              "price": 20.0
+            },
+            {
+              "timeSpan": "6.0+ hrs",
+              "price": 30.0
+            }
+          ]
+        }
+      ],
+      "fromText": "From",
+      "fromPrice": "0",
+      "location": {
+        "longitude": 150.310629994548,
+        "latitude": -33.7174410491891,
+        "zoom": 13,
+        "address": "Waratah Street, Katoomba",
+        "region": {
+          "name": "Blue Mountains",
+          "longitude": -33.73678711628,
+          "latitude": 150.305129059987,
+          "status": "",
+          "state": {
+            "name": "New South Wales",
+            "abbreviation": "NSW",
+            "country": "Australia",
+            "longitude": 151.207430362701,
+            "latitude": -33.8662642500823,
+            "status": ""
+          }
+        }
+      },
+      "openingTimes": [
+        {
+          "day_TimePeriod": "Monday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "07:30",
+          "closing": "20:30",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Tuesday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "07:30",
+          "closing": "20:30",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Wednesday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "07:30",
+          "closing": "20:30",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Thursday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "07:30",
+          "closing": "20:30",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Friday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "07:30",
+          "closing": "20:30",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Saturday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "07:30",
+          "closing": "20:30",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Sunday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "07:30",
+          "closing": "20:30",
+          "note": null
+        }
+      ],
+      "url": "/parking-locations/new-south-wales/blue-mountains/aldi-katoomba-car-park/",
+      "serviceConfiguration": {
+        "canBookABay": false,
+        "bookABayIconLabel": "Prepay Online",
+        "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
+        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingIconLabel": "Monthly Subscription",
+        "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
+        "isWilsonOne": false,
+        "wilsonOneIconLabel": "Parking Card",
+        "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
+        "disabledParkingIsAvailable": false,
+        "disabledParkingIconLabel": "Disabled Parking",
+        "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
+        "evChargerIsAvailable": false,
+        "evChargerIconLabel": "EV Charging",
+        "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
+        "spottIsAvailable": false,
+        "spottIconLabel": "Spott",
+        "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
+        "additionalServices": []
+      },
+      "state": "NSW",
+      "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
+      "price": "",
+      "status": "",
+      "cpmsCarparkCode": null,
+      "externalCarParkInfo": {
+        "name": "InterPark",
+        "pinUrl": "/globalassets/icons/interpark-icons/pin-blue.png",
+        "logoUrl": "/siteassets/parking-stock-images/interpark-icons/interpark_logo.jpg",
+        "pageUrl": "",
+        "content": "<p>This is an Interpark carpark with LOGO</p>"
+      },
+      "featuredIndex": 0
+    },
+    {
       "name": "Kiama Park&Ride",
       "bookText": null,
       "canBookABay": false,
@@ -37287,6 +39657,182 @@
       "status": "",
       "cpmsCarparkCode": null,
       "externalCarParkInfo": null,
+      "featuredIndex": 0
+    },
+    {
+      "name": "ALDI Belmont Car Park",
+      "bookText": null,
+      "canBookABay": false,
+      "selectedFeatures": "",
+      "carParkFeature": [
+        "Entry height at least 2"
+      ],
+      "services": [],
+      "carParkName": "ALDI Belmont Car Park",
+      "carParkNumber": 9185,
+      "carParkPhoto": null,
+      "category": "",
+      "costCenter": 1009185,
+      "direction": "Entry via Maude St, Belmont",
+      "heightRestriction": 2.2,
+      "information": "<p>The ALDI Belmont Car Park is located at Maude Street, Belmont and is open 7 days a week. The car park offers convenient and affordable casual hourly parking for retail customers, residents, and visitors to the surrounding area. It provides easy access to nearby residences, and local businesses.</p>",
+      "isWilsonOne": false,
+      "spottIsAvailable": false,
+      "legacyID": 9185,
+      "monthlyParkingServiceIsAvailable": false,
+      "evChargerIsAvailable": false,
+      "disabledParkingIsAvailable": false,
+      "phoneNumber": "1800 PARKING (1800 727 546)",
+      "products": [],
+      "staticMapPhoto": null,
+      "streetViewHeading": null,
+      "streetViewLocation": null,
+      "rates": [
+        {
+          "rateType": "Hourly",
+          "notes": "<p>Rates apply Monday - Sunday</p>",
+          "rates": [
+            {
+              "timeSpan": "0.0 - 2.0 hrs",
+              "price": 0.0
+            },
+            {
+              "timeSpan": "2.0 - 3.0 hrs",
+              "price": 5.0
+            },
+            {
+              "timeSpan": "3.0 - 4.0 hrs",
+              "price": 10.0
+            },
+            {
+              "timeSpan": "4.0+ hrs",
+              "price": 25.0
+            }
+          ]
+        }
+      ],
+      "fromText": "From",
+      "fromPrice": "0",
+      "location": {
+        "longitude": 151.660928536831,
+        "latitude": -33.03421500122,
+        "zoom": 13,
+        "address": "Maude Street, Belmont",
+        "region": {
+          "name": "Newcastle",
+          "longitude": 151.77183151245117,
+          "latitude": -32.918358672575174,
+          "status": "",
+          "state": {
+            "name": "New South Wales",
+            "abbreviation": "NSW",
+            "country": "Australia",
+            "longitude": 151.207430362701,
+            "latitude": -33.8662642500823,
+            "status": ""
+          }
+        }
+      },
+      "openingTimes": [
+        {
+          "day_TimePeriod": "Monday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "08:00",
+          "closing": "21:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Tuesday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "08:00",
+          "closing": "21:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Wednesday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "08:00",
+          "closing": "21:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Thursday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "08:00",
+          "closing": "21:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Friday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "08:00",
+          "closing": "21:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Saturday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "08:00",
+          "closing": "16:30",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Sunday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "08:00",
+          "closing": "16:30",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Public Holiday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "08:00",
+          "closing": "16:30",
+          "note": null
+        }
+      ],
+      "url": "/parking-locations/new-south-wales/newcastle/aldi-belmont-car-park/",
+      "serviceConfiguration": {
+        "canBookABay": false,
+        "bookABayIconLabel": "Prepay Online",
+        "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
+        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingIconLabel": "Monthly Subscription",
+        "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
+        "isWilsonOne": false,
+        "wilsonOneIconLabel": "Parking Card",
+        "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
+        "disabledParkingIsAvailable": false,
+        "disabledParkingIconLabel": "Disabled Parking",
+        "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
+        "evChargerIsAvailable": false,
+        "evChargerIconLabel": "EV Charging",
+        "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
+        "spottIsAvailable": false,
+        "spottIconLabel": "Spott",
+        "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
+        "additionalServices": []
+      },
+      "state": "NSW",
+      "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
+      "price": "",
+      "status": "",
+      "cpmsCarparkCode": null,
+      "externalCarParkInfo": {
+        "name": "InterPark",
+        "pinUrl": "/globalassets/icons/interpark-icons/pin-blue.png",
+        "logoUrl": "/siteassets/parking-stock-images/interpark-icons/interpark_logo.jpg",
+        "pageUrl": "",
+        "content": "<p>This is an Interpark carpark with LOGO</p>"
+      },
       "featuredIndex": 0
     },
     {
@@ -37471,6 +40017,180 @@
         "additionalServices": []
       },
       "state": null,
+      "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
+      "price": "",
+      "status": "",
+      "cpmsCarparkCode": null,
+      "externalCarParkInfo": {
+        "name": "InterPark",
+        "pinUrl": "/globalassets/icons/interpark-icons/pin-blue.png",
+        "logoUrl": "/siteassets/parking-stock-images/interpark-icons/interpark_logo.jpg",
+        "pageUrl": "",
+        "content": "<p>This is an Interpark carpark with LOGO</p>"
+      },
+      "featuredIndex": 0
+    },
+    {
+      "name": "ALDI Cardiff Car Park",
+      "bookText": null,
+      "canBookABay": false,
+      "selectedFeatures": "",
+      "carParkFeature": [],
+      "services": [],
+      "carParkName": "ALDI Cardiff Car Park",
+      "carParkNumber": 9134,
+      "carParkPhoto": null,
+      "category": "",
+      "costCenter": 1009134,
+      "direction": "Entry via 49 Harrison St, Cardiff",
+      "heightRestriction": 0.0,
+      "information": "<p>The ALDI Cardiff Car Park is located at 49 Harrison Street, Cardiff and is open 7 days a week. The car park offers convenient and affordable casual hourly parking for retail customers, residents, and visitors to the surrounding area. It provides easy access to nearby residences, and local businesses.</p>",
+      "isWilsonOne": false,
+      "spottIsAvailable": false,
+      "legacyID": 9134,
+      "monthlyParkingServiceIsAvailable": false,
+      "evChargerIsAvailable": false,
+      "disabledParkingIsAvailable": false,
+      "phoneNumber": "1800 PARKING (1800 727 546)",
+      "products": [],
+      "staticMapPhoto": null,
+      "streetViewHeading": null,
+      "streetViewLocation": null,
+      "rates": [
+        {
+          "rateType": "Hourly",
+          "notes": "<p>Rates apply Monday - Sunday</p>",
+          "rates": [
+            {
+              "timeSpan": "0.0 - 2.0 hrs",
+              "price": 0.0
+            },
+            {
+              "timeSpan": "2.0 - 3.0 hrs",
+              "price": 5.0
+            },
+            {
+              "timeSpan": "3.0 - 4.0 hrs",
+              "price": 10.0
+            },
+            {
+              "timeSpan": "4.0+ hrs",
+              "price": 25.0
+            }
+          ]
+        }
+      ],
+      "fromText": "From",
+      "fromPrice": "0",
+      "location": {
+        "longitude": 151.65966926566,
+        "latitude": -32.9409319656314,
+        "zoom": 13,
+        "address": "49 Harrison Street, Cardiff",
+        "region": {
+          "name": "Newcastle",
+          "longitude": 151.77183151245117,
+          "latitude": -32.918358672575174,
+          "status": "",
+          "state": {
+            "name": "New South Wales",
+            "abbreviation": "NSW",
+            "country": "Australia",
+            "longitude": 151.207430362701,
+            "latitude": -33.8662642500823,
+            "status": ""
+          }
+        }
+      },
+      "openingTimes": [
+        {
+          "day_TimePeriod": "Monday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "08:30",
+          "closing": "20:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Tuesday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "08:30",
+          "closing": "20:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Wednesday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "08:30",
+          "closing": "20:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Thursday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "08:30",
+          "closing": "20:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Friday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "08:30",
+          "closing": "20:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Saturday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "08:30",
+          "closing": "19:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Sunday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "08:30",
+          "closing": "19:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Public Holiday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "08:30",
+          "closing": "19:00",
+          "note": null
+        }
+      ],
+      "url": "/parking-locations/new-south-wales/newcastle/aldi-cardiff-car-park/",
+      "serviceConfiguration": {
+        "canBookABay": false,
+        "bookABayIconLabel": "Prepay Online",
+        "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
+        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingIconLabel": "Monthly Subscription",
+        "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
+        "isWilsonOne": false,
+        "wilsonOneIconLabel": "Parking Card",
+        "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
+        "disabledParkingIsAvailable": false,
+        "disabledParkingIconLabel": "Disabled Parking",
+        "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
+        "evChargerIsAvailable": false,
+        "evChargerIconLabel": "EV Charging",
+        "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
+        "spottIsAvailable": false,
+        "spottIconLabel": "Spott",
+        "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
+        "additionalServices": []
+      },
+      "state": "NSW",
       "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
       "price": "",
       "status": "",
@@ -42627,6 +45347,174 @@
       "status": "",
       "cpmsCarparkCode": null,
       "externalCarParkInfo": null,
+      "featuredIndex": 0
+    },
+    {
+      "name": "ALDI Taree Car Park",
+      "bookText": null,
+      "canBookABay": false,
+      "selectedFeatures": "",
+      "carParkFeature": [
+        "Entry height at least 2"
+      ],
+      "services": [],
+      "carParkName": "ALDI Taree Car Park",
+      "carParkNumber": 9216,
+      "carParkPhoto": null,
+      "category": "",
+      "costCenter": 1009216,
+      "direction": "Entry via 106 High Street, Taree",
+      "heightRestriction": 2.1,
+      "information": "<p>The ALDI Taree Car Park is located at 106 High Street, Taree and is open 7 days a week. The car park offers convenient and affordable casual hourly parking for retail customers, residents, and visitors to the surrounding area. It provides easy access to nearby residences, and local businesses.</p>",
+      "isWilsonOne": false,
+      "spottIsAvailable": false,
+      "legacyID": 9216,
+      "monthlyParkingServiceIsAvailable": false,
+      "evChargerIsAvailable": false,
+      "disabledParkingIsAvailable": false,
+      "phoneNumber": "1800 PARKING (1800 727 546)",
+      "products": [],
+      "staticMapPhoto": null,
+      "streetViewHeading": null,
+      "streetViewLocation": null,
+      "rates": [
+        {
+          "rateType": "Hourly",
+          "notes": "<p>Rates apply Monday - Sunday</p>",
+          "rates": [
+            {
+              "timeSpan": "0.0 - 2.0 hrs",
+              "price": 0.0
+            },
+            {
+              "timeSpan": "2.0 - 3.0 hrs",
+              "price": 5.0
+            },
+            {
+              "timeSpan": "3.0 - 4.0 hrs",
+              "price": 10.0
+            },
+            {
+              "timeSpan": "4.0+ hrs",
+              "price": 25.0
+            }
+          ]
+        }
+      ],
+      "fromText": "From",
+      "fromPrice": "0",
+      "location": {
+        "longitude": 152.454501680936,
+        "latitude": -31.9113859446305,
+        "zoom": 13,
+        "address": "106 High Street, Taree",
+        "region": {
+          "name": "Mid North Coast",
+          "longitude": 153.10881614685059,
+          "latitude": -30.29901878134207,
+          "status": "",
+          "state": {
+            "name": "New South Wales",
+            "abbreviation": "NSW",
+            "country": "Australia",
+            "longitude": 151.207430362701,
+            "latitude": -33.8662642500823,
+            "status": ""
+          }
+        }
+      },
+      "openingTimes": [
+        {
+          "day_TimePeriod": "Monday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Tuesday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Wednesday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Thursday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Friday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Saturday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Sunday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        }
+      ],
+      "url": "/parking-locations/new-south-wales/mid-north-coast/aldi-taree-car-park/",
+      "serviceConfiguration": {
+        "canBookABay": false,
+        "bookABayIconLabel": "Prepay Online",
+        "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
+        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingIconLabel": "Monthly Subscription",
+        "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
+        "isWilsonOne": false,
+        "wilsonOneIconLabel": "Parking Card",
+        "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
+        "disabledParkingIsAvailable": false,
+        "disabledParkingIconLabel": "Disabled Parking",
+        "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
+        "evChargerIsAvailable": false,
+        "evChargerIconLabel": "EV Charging",
+        "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
+        "spottIsAvailable": false,
+        "spottIconLabel": "Spott",
+        "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
+        "additionalServices": []
+      },
+      "state": "NSW",
+      "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
+      "price": "",
+      "status": "",
+      "cpmsCarparkCode": null,
+      "externalCarParkInfo": {
+        "name": "InterPark",
+        "pinUrl": "/globalassets/icons/interpark-icons/pin-blue.png",
+        "logoUrl": "/siteassets/parking-stock-images/interpark-icons/interpark_logo.jpg",
+        "pageUrl": "",
+        "content": "<p>This is an Interpark carpark with LOGO</p>"
+      },
       "featuredIndex": 0
     },
     {
@@ -54946,7 +57834,7 @@
       ],
       "services": [],
       "carParkName": "301 Ruthven Street",
-      "carParkNumber": 0,
+      "carParkNumber": 4370,
       "carParkPhoto": null,
       "category": "",
       "costCenter": 1004370,
@@ -55073,6 +57961,188 @@
       "status": "",
       "cpmsCarparkCode": null,
       "externalCarParkInfo": null,
+      "featuredIndex": 0
+    },
+    {
+      "name": "St George’s Hospital Car Park",
+      "bookText": null,
+      "canBookABay": false,
+      "selectedFeatures": "",
+      "carParkFeature": [],
+      "services": [],
+      "carParkName": "St George’s Hospital Car Park",
+      "carParkNumber": 9545,
+      "carParkPhoto": null,
+      "category": "",
+      "costCenter": 1009545,
+      "direction": "Entry via 283 Cotham Rd, Kew",
+      "heightRestriction": 0.0,
+      "information": "<p>St George&rsquo;s Hospital Car Park is located at 283 Cotham Road, Kew and is open 7 days a week. The car park offers convenient and affordable casual hourly parking for patients and visitors to St George&rsquo;s Hospital.</p>",
+      "isWilsonOne": false,
+      "spottIsAvailable": false,
+      "legacyID": 9545,
+      "monthlyParkingServiceIsAvailable": false,
+      "evChargerIsAvailable": false,
+      "disabledParkingIsAvailable": false,
+      "phoneNumber": "1800 PARKING (1800 727 546)",
+      "products": [],
+      "staticMapPhoto": null,
+      "streetViewHeading": null,
+      "streetViewLocation": null,
+      "rates": [
+        {
+          "rateType": "Hourly",
+          "notes": "<p>Rates apply Monday - Friday</p>",
+          "rates": [
+            {
+              "timeSpan": "0.0 - 1.0 hrs",
+              "price": 6.0
+            },
+            {
+              "timeSpan": "1.0 - 2.0 hrs",
+              "price": 8.0
+            },
+            {
+              "timeSpan": "2.0 - 3.0 hrs",
+              "price": 10.0
+            },
+            {
+              "timeSpan": "3.0 - 4.0 hrs",
+              "price": 12.0
+            },
+            {
+              "timeSpan": "4.0+ hrs",
+              "price": 14.0
+            },
+            {
+              "timeSpan": "Lost Ticket",
+              "price": 14.0
+            }
+          ]
+        }
+      ],
+      "fromText": "From",
+      "fromPrice": "6",
+      "location": {
+        "longitude": 145.052803666,
+        "latitude": -37.8081909954657,
+        "zoom": 13,
+        "address": "283 Cotham Road, Kew",
+        "region": {
+          "name": "Richmond",
+          "longitude": 145.00368093809811,
+          "latitude": -37.819320411955708,
+          "status": "",
+          "state": {
+            "name": "Victoria",
+            "abbreviation": "VIC",
+            "country": "Australia",
+            "longitude": 145.08864104747772,
+            "latitude": -36.438262107088946,
+            "status": ""
+          }
+        }
+      },
+      "openingTimes": [
+        {
+          "day_TimePeriod": "Monthly",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Monday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Tuesday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Wednesday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Thursday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Friday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Saturday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Sunday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        }
+      ],
+      "url": "/parking-locations/victoria/richmond/st-georges-hospital-car-park/",
+      "serviceConfiguration": {
+        "canBookABay": false,
+        "bookABayIconLabel": "Prepay Online",
+        "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
+        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingIconLabel": "Monthly Subscription",
+        "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
+        "isWilsonOne": false,
+        "wilsonOneIconLabel": "Parking Card",
+        "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
+        "disabledParkingIsAvailable": false,
+        "disabledParkingIconLabel": "Disabled Parking",
+        "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
+        "evChargerIsAvailable": false,
+        "evChargerIconLabel": "EV Charging",
+        "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
+        "spottIsAvailable": false,
+        "spottIconLabel": "Spott",
+        "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
+        "additionalServices": []
+      },
+      "state": "VIC",
+      "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
+      "price": "",
+      "status": "",
+      "cpmsCarparkCode": null,
+      "externalCarParkInfo": {
+        "name": "InterPark",
+        "pinUrl": "/globalassets/icons/interpark-icons/pin-blue.png",
+        "logoUrl": "/siteassets/parking-stock-images/interpark-icons/interpark_logo.jpg",
+        "pageUrl": "",
+        "content": "<p>This is an Interpark carpark with LOGO</p>"
+      },
       "featuredIndex": 0
     },
     {
@@ -56175,6 +59245,210 @@
       "featuredIndex": 0
     },
     {
+      "name": "St Vincents & Mercy Private Hospital Car Park",
+      "bookText": null,
+      "canBookABay": false,
+      "selectedFeatures": "",
+      "carParkFeature": [],
+      "services": [],
+      "carParkName": "St Vincents & Mercy Private Hospital Car Park",
+      "carParkNumber": 9501,
+      "carParkPhoto": null,
+      "category": "",
+      "costCenter": 100501,
+      "direction": "Entry via 59 – 61 Victoria Parade, Fitzroy",
+      "heightRestriction": 1.9,
+      "information": "<div>The St Vincents &amp; Mercy Private Hospital Car Park is located at 59 &ndash; 61 Victoria Parade, Fitzroy and is open 7 days a week. The car park offers convenient and affordable casual hourly parking for patients and visitors to St Vincents &amp; Mercy Private Hospital.</div>",
+      "isWilsonOne": false,
+      "spottIsAvailable": false,
+      "legacyID": 9501,
+      "monthlyParkingServiceIsAvailable": false,
+      "evChargerIsAvailable": false,
+      "disabledParkingIsAvailable": false,
+      "phoneNumber": "1800 PARKING (1800 727 546)",
+      "products": [],
+      "staticMapPhoto": null,
+      "streetViewHeading": null,
+      "streetViewLocation": null,
+      "rates": [
+        {
+          "rateType": "Hourly",
+          "notes": "<p>Rates apply Monday - Friday</p>",
+          "rates": [
+            {
+              "timeSpan": "0.0 - 1.0 hrs",
+              "price": 11.0
+            },
+            {
+              "timeSpan": "1.0 - 2.0 hrs",
+              "price": 18.0
+            },
+            {
+              "timeSpan": "2.0 - 3.0 hrs",
+              "price": 22.0
+            },
+            {
+              "timeSpan": "3.0 - 4.0 hrs",
+              "price": 25.0
+            },
+            {
+              "timeSpan": "4.0 - 5.0 hrs",
+              "price": 27.0
+            },
+            {
+              "timeSpan": "5.0 - 6.0 hrs",
+              "price": 30.0
+            },
+            {
+              "timeSpan": "6.0+ hrs",
+              "price": 30.0
+            }
+          ]
+        },
+        {
+          "rateType": "Weekend",
+          "notes": "<p>Rates apply Saturday - Sunday</p>",
+          "rates": [
+            {
+              "timeSpan": "0.0 - 1.0 hrs",
+              "price": 6.0
+            },
+            {
+              "timeSpan": "1.0 - 2.0 hrs",
+              "price": 11.0
+            },
+            {
+              "timeSpan": "2.0+ hrs",
+              "price": 14.0
+            }
+          ]
+        }
+      ],
+      "fromText": "From",
+      "fromPrice": "6",
+      "location": {
+        "longitude": 144.976000169806,
+        "latitude": -37.8077113781557,
+        "zoom": 13,
+        "address": "59 – 61 Victoria Parade, Fitzroy",
+        "region": {
+          "name": "Fitzroy",
+          "longitude": 144.979809145396,
+          "latitude": -37.8020189718164,
+          "status": "",
+          "state": {
+            "name": "Victoria",
+            "abbreviation": "VIC",
+            "country": "Australia",
+            "longitude": 145.08864104747772,
+            "latitude": -36.438262107088946,
+            "status": ""
+          }
+        }
+      },
+      "openingTimes": [
+        {
+          "day_TimePeriod": "Monthly",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Monday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "06:30",
+          "closing": "21:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Tuesday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "06:30",
+          "closing": "21:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Wednesday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "06:30",
+          "closing": "21:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Thursday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "06:30",
+          "closing": "21:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Friday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "06:30",
+          "closing": "21:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Saturday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "09:00",
+          "closing": "17:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Sunday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "09:00",
+          "closing": "17:00",
+          "note": null
+        }
+      ],
+      "url": "/parking-locations/victoria/Fitzroy/st-vincents-mercy-private-hospital-car-park/",
+      "serviceConfiguration": {
+        "canBookABay": false,
+        "bookABayIconLabel": "Prepay Online",
+        "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
+        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingIconLabel": "Monthly Subscription",
+        "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
+        "isWilsonOne": false,
+        "wilsonOneIconLabel": "Parking Card",
+        "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
+        "disabledParkingIsAvailable": false,
+        "disabledParkingIconLabel": "Disabled Parking",
+        "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
+        "evChargerIsAvailable": false,
+        "evChargerIconLabel": "EV Charging",
+        "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
+        "spottIsAvailable": false,
+        "spottIconLabel": "Spott",
+        "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
+        "additionalServices": []
+      },
+      "state": "VIC",
+      "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
+      "price": "",
+      "status": "",
+      "cpmsCarparkCode": null,
+      "externalCarParkInfo": {
+        "name": "InterPark",
+        "pinUrl": "/globalassets/icons/interpark-icons/pin-blue.png",
+        "logoUrl": "/siteassets/parking-stock-images/interpark-icons/interpark_logo.jpg",
+        "pageUrl": "",
+        "content": "<p>This is an Interpark carpark with LOGO</p>"
+      },
+      "featuredIndex": 0
+    },
+    {
       "name": "410 Albert St Car Park",
       "bookText": null,
       "canBookABay": true,
@@ -56609,6 +59883,212 @@
         "evChargerIconLabel": "EV Charging",
         "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
         "spottIsAvailable": true,
+        "spottIconLabel": "Spott",
+        "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
+        "additionalServices": []
+      },
+      "state": "VIC",
+      "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
+      "price": "",
+      "status": "",
+      "cpmsCarparkCode": null,
+      "externalCarParkInfo": {
+        "name": "InterPark",
+        "pinUrl": "/globalassets/icons/interpark-icons/pin-blue.png",
+        "logoUrl": "/siteassets/parking-stock-images/interpark-icons/interpark_logo.jpg",
+        "pageUrl": "",
+        "content": "<p>This is an Interpark carpark with LOGO</p>"
+      },
+      "featuredIndex": 0
+    },
+    {
+      "name": "St Vincents Public Hospital Car Park",
+      "bookText": null,
+      "canBookABay": false,
+      "selectedFeatures": "",
+      "carParkFeature": [
+        "Entry height at least 2"
+      ],
+      "services": [],
+      "carParkName": "St Vincents Public Hospital Car Park",
+      "carParkNumber": 9500,
+      "carParkPhoto": null,
+      "category": "",
+      "costCenter": 100500,
+      "direction": "Entry via 41 Fitzroy Parade, Fitzroy",
+      "heightRestriction": 2.05,
+      "information": "<p>St Vincents Public Hospital Car Park is located at 41 Fitzroy Parade, Fitzroy and is open 7 days a week. The car park offers convenient and affordable casual hourly parking for patients and visitors to St Vincents Public Hospital.</p>",
+      "isWilsonOne": false,
+      "spottIsAvailable": false,
+      "legacyID": 9500,
+      "monthlyParkingServiceIsAvailable": false,
+      "evChargerIsAvailable": false,
+      "disabledParkingIsAvailable": false,
+      "phoneNumber": "1800 PARKING (1800 727 546)",
+      "products": [],
+      "staticMapPhoto": null,
+      "streetViewHeading": null,
+      "streetViewLocation": null,
+      "rates": [
+        {
+          "rateType": "Hourly",
+          "notes": "<p>Rates apply Monday - Friday</p>",
+          "rates": [
+            {
+              "timeSpan": "0.0 - 1.0 hrs",
+              "price": 11.0
+            },
+            {
+              "timeSpan": "1.0 - 2.0 hrs",
+              "price": 18.0
+            },
+            {
+              "timeSpan": "2.0 - 3.0 hrs",
+              "price": 22.0
+            },
+            {
+              "timeSpan": "3.0 - 4.0 hrs",
+              "price": 25.0
+            },
+            {
+              "timeSpan": "4.0 - 5.0 hrs",
+              "price": 27.0
+            },
+            {
+              "timeSpan": "5.0 - 6.0 hrs",
+              "price": 30.0
+            },
+            {
+              "timeSpan": "6.0+ hrs",
+              "price": 30.0
+            }
+          ]
+        },
+        {
+          "rateType": "Weekend",
+          "notes": "<p>Rates apply Saturday - Sunday</p>",
+          "rates": [
+            {
+              "timeSpan": "0.0 - 1.0 hrs",
+              "price": 6.0
+            },
+            {
+              "timeSpan": "1.0 - 2.0 hrs",
+              "price": 11.0
+            },
+            {
+              "timeSpan": "2.0+ hrs",
+              "price": 14.0
+            }
+          ]
+        }
+      ],
+      "fromText": "From",
+      "fromPrice": "6",
+      "location": {
+        "longitude": 144.975395694286,
+        "latitude": -37.8078233238648,
+        "zoom": 13,
+        "address": "41 Fitzroy Parade, Fitzroy",
+        "region": {
+          "name": "Fitzroy",
+          "longitude": 144.979809145396,
+          "latitude": -37.8020189718164,
+          "status": "",
+          "state": {
+            "name": "Victoria",
+            "abbreviation": "VIC",
+            "country": "Australia",
+            "longitude": 145.08864104747772,
+            "latitude": -36.438262107088946,
+            "status": ""
+          }
+        }
+      },
+      "openingTimes": [
+        {
+          "day_TimePeriod": "Monthly",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Monday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "06:30",
+          "closing": "21:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Tuesday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "06:30",
+          "closing": "21:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Wednesday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "06:30",
+          "closing": "21:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Thursday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "06:30",
+          "closing": "21:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Friday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "06:30",
+          "closing": "21:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Saturday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "09:00",
+          "closing": "17:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Sunday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "09:00",
+          "closing": "17:00",
+          "note": null
+        }
+      ],
+      "url": "/parking-locations/victoria/Fitzroy/st-vincents-public-hospital-car-park/",
+      "serviceConfiguration": {
+        "canBookABay": false,
+        "bookABayIconLabel": "Prepay Online",
+        "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
+        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingIconLabel": "Monthly Subscription",
+        "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
+        "isWilsonOne": false,
+        "wilsonOneIconLabel": "Parking Card",
+        "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
+        "disabledParkingIsAvailable": false,
+        "disabledParkingIconLabel": "Disabled Parking",
+        "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
+        "evChargerIsAvailable": false,
+        "evChargerIconLabel": "EV Charging",
+        "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
+        "spottIsAvailable": false,
         "spottIconLabel": "Spott",
         "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
         "additionalServices": []
@@ -58285,7 +61765,7 @@
       "costCenter": 1003300,
       "direction": null,
       "heightRestriction": 2.05,
-      "information": "<p><span style=\"color: #ff1e25;\"><strong><u>Event Dates June 2026:<br /></u></strong>26th from 5:00pm to 11:59pm.<br />27th from 1:00pm to 11:59pm.<br /></span><span style=\"color: #ff1e25;\"><strong><u>Event Dates July 2026:<br /></u></strong>4th, 11th, 18th, 24th, 30th from 5:00pm to 11:59pm.<em><br />Event rates will apply.</em><br /><em>On event dates, please allow additional time to exit.</em></span></p>\n<p>Wilson Parking offers affordable &amp; secure parking at 11 Exhibition St&nbsp;Car Park, located at 11 Exhibition St in the heart of East End. Open 7 days, this undercover car park provides convenient access to nearby the MCG, Federation Square, Birrarung Marr, Melbourne Park and many other popular attractions. This car park offers flat rate parking at the times you need when you prepay online a Flexi Saver rate online. Casual Hourly, Weekend and Night Parking options are also available, with permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the 11 Exhibition St Car Park will meet all your business and leisure parking needs.&nbsp;</p>\n<p>This car park accepts Credit Card payments only.&nbsp;Download the Wilson Parking App to plan your journey and access the best parking value when you prepay online; enjoy unlimited 24/7 access when you subscribe to monthly parking; pay as you go on one convenient monthly invoice when you use your Wilson Parking Card to access the car park.</p>",
+      "information": "<p><span style=\"color: #ff1e25;\"><strong><u>Event Dates July 2026:<br /></u></strong>4th, 11th, 18th, 24th, 30th from 5:00pm to 11:59pm.<em><br />Event rates will apply.</em><br /><em>On event dates, please allow additional time to exit.</em></span></p>\n<p>Wilson Parking offers affordable &amp; secure parking at 11 Exhibition St&nbsp;Car Park, located at 11 Exhibition St in the heart of East End. Open 7 days, this undercover car park provides convenient access to nearby the MCG, Federation Square, Birrarung Marr, Melbourne Park and many other popular attractions. This car park offers flat rate parking at the times you need when you prepay online a Flexi Saver rate online. Casual Hourly, Weekend and Night Parking options are also available, with permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the 11 Exhibition St Car Park will meet all your business and leisure parking needs.&nbsp;</p>\n<p>This car park accepts Credit Card payments only.&nbsp;Download the Wilson Parking App to plan your journey and access the best parking value when you prepay online; enjoy unlimited 24/7 access when you subscribe to monthly parking; pay as you go on one convenient monthly invoice when you use your Wilson Parking Card to access the car park.</p>",
       "isWilsonOne": true,
       "spottIsAvailable": true,
       "legacyID": 497,
@@ -59504,7 +62984,7 @@
           "rates": [
             {
               "timeSpan": "Mon - Fri",
-              "price": 26.0
+              "price": 27.0
             }
           ]
         }
@@ -59861,7 +63341,7 @@
       "costCenter": 1003250,
       "direction": "Entry via Russell St (Extension) or off Batman Ave (at Tennis Centre)\nOn event dates and busy periods, please use the Batman Ave Exit from Level 1 and allow additional time to exit. ",
       "heightRestriction": 2.1,
-      "information": "<p><span style=\"color: #ff1e25;\"><strong><u>Event Dates June 2026:<br /></u></strong>26th from 4:00pm to 11:59pm.<br />27th from 11:00am to 11:59pm.</span><em style=\"color: #ff1e25;\"><em><br /></em></em><em><span style=\"color: #ff1e25;\">Event rates will apply.</span></em><br /><em><span style=\"color: #ff1e25;\">On event dates, please allow additional time to exit.</span></em></p>\n<p>Wilson Parking offers affordable &amp; secure parking at Federation Square Car Park, located on Russell St (Extension) in the Melbourne CBD. This car park is nearby to many popular attractions, including Federation Square, Flinders St Station, Birrarung Marr, Rod Laver Arena and Melbourne Park. Offering casual Early Bird, Hourly, Night and Weekend parking, with exclusive discounts when you prepay online, the Federation Square Car Park will meet all of your parking needs.</p>\n<p><span style=\"color: #000000;\"><strong>On event dates and busy periods, please use the Batman Avenue Exit from Level 1 and allow additional time to exit.</strong></span></p>\n<p>Download the Wilson Parking App to plan your journey and access exclusive discounts when you prepay online; pay as you go with one convenient monthly invoice when you use your Wilson Parking Card; enjoy 24/7 unlimited access when you subscribe to Monthly Parking; or just drive up to pay with a credit card at the car park.</p>",
+      "information": "<p><u></u><span style=\"color: #ff1e25;\"><strong><u>Event Dates July 2026:<br /></u></strong>2nd, 3rd, 18th, 24th, 30th&nbsp;and 31st from 4:00pm to 11:59pm<br />4th from 1:00am to 11:59pm<br /></span><span style=\"color: #ff1e25;\">5th from 8:00am to 11:59pm</span><br /><span style=\"color: #ff1e25;\">11th from 11:00am to 11:59pm<br /></span><span style=\"color: #ff1e25;\">19th from 2:00pm to 11:59pm</span><br /><span style=\"color: #ff1e25;\">12th&nbsp;and 25th from 1:00pm to 11:59pm</span><br /><em><span style=\"color: #ff1e25;\">Event rates will apply.<br /></span></em><em><span style=\"color: #ff1e25;\">On event dates, please allow additional time to exit.</span></em></p>\n<p>Wilson Parking offers affordable &amp; secure parking at Federation Square Car Park, located on Russell St (Extension) in the Melbourne CBD. This car park is nearby to many popular attractions, including Federation Square, Flinders St Station, Birrarung Marr, Rod Laver Arena and Melbourne Park. Offering casual Early Bird, Hourly, Night and Weekend parking, with exclusive discounts when you prepay online, the Federation Square Car Park will meet all of your parking needs.</p>\n<p><span style=\"color: #000000;\"><strong>On event dates and busy periods, please use the Batman Avenue Exit from Level 1 and allow additional time to exit.</strong></span></p>\n<p>Download the Wilson Parking App to plan your journey and access exclusive discounts when you prepay online; pay as you go with one convenient monthly invoice when you use your Wilson Parking Card; enjoy 24/7 unlimited access when you subscribe to Monthly Parking; or just drive up to pay with a credit card at the car park.</p>",
       "isWilsonOne": true,
       "spottIsAvailable": false,
       "legacyID": 94,
@@ -63892,7 +67372,7 @@
       "costCenter": 1003139,
       "direction": "Entry and exit via Southbank Blvd.",
       "heightRestriction": 2.0,
-      "information": "<p>Wilson Parking offers affordable &amp; convenient parking at Riverside Quay Car Park, located in Southbank. With prepay online discounts for Flexi-Saver, Night and Weekend parking options along with competitive drive-in rates, the Riverside Quay Car Park will meet all of your parking needs.</p>\n<p>Online Night and Wekend rates may not be availble on peak precinct event days. Event rates will apply at these times, available exit times may vary.</p>\n<p>Enjoy the convenience of 24/7 access, and subscribe to monthly parking or sign up for a Wilson Parking Card and pay as you go.</p>\n<p>We're contactless. Simply use your credit card or Wilson Parking Card for payment.</p>",
+      "information": "<p><strong><span style=\"color: #ff1e25;\">Important Notice: Temporary Car Park Closure<br /></span></strong><span style=\"color: #ff1e25;\">Due to planned roller door replacement works. The car park will not be accessible from 6:00am to 6:00pm on Saturday 4th July 2026.</span></p>\n<p>Wilson Parking offers affordable &amp; convenient parking at Riverside Quay Car Park, located in Southbank. With prepay online discounts for Flexi-Saver, Night and Weekend parking options along with competitive drive-in rates, the Riverside Quay Car Park will meet all of your parking needs.</p>\n<p>Online Night and Wekend rates may not be availble on peak precinct event days. Event rates will apply at these times, available exit times may vary.</p>\n<p>Enjoy the convenience of 24/7 access, and subscribe to monthly parking or sign up for a Wilson Parking Card and pay as you go.</p>\n<p>We're contactless. Simply use your credit card or Wilson Parking Card for payment.</p>",
       "isWilsonOne": true,
       "spottIsAvailable": true,
       "legacyID": 182,
@@ -69096,7 +72576,7 @@
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": null,
-      "streetViewLocation": null,
+      "streetViewLocation": "https://www.google.com/maps/@?api=1&map_action=pano&pano=wypKZlyWle8_QCbnoPlu6Q&viewpoint=-37.784444340406516,144.8344396739892&heading=258.66656399421043&pitch=-1.461525923466155&zoom=0.9999999999999997",
       "rates": [
         {
           "rateType": "Hourly",
@@ -71384,7 +74864,7 @@
       "costCenter": 1004356,
       "direction": "Entry off Little Cribb Street",
       "heightRestriction": 2.2,
-      "information": "<p><span style=\"color: #ff1e25;\">Event Parking is available at this car park on the following dates: 6, 12, 26, 27 June.<br /></span></p>\n<p>Wilson Parking offers affordable &amp; secure parking at Milton Green&nbsp;car park, located at 19 Little Cribb Street&nbsp;in the heart of Milton. Open 7 days, this undercover car park provides convenient access to nearby Suncorp Stadium and surrounding entertainment and retail precinct. Offering hourly, night and weekend parking options with discounts when you prepay online, permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the Milton Green&nbsp;car park will meet all your business and leisure parking needs.&nbsp;</p>",
+      "information": "<p><span style=\"color: #ff1e25;\">Event Parking is available at this car park on the following dates:&nbsp;4, 8, 11, 19 July.<br /></span></p>\n<p>Wilson Parking offers affordable &amp; secure parking at Milton Green&nbsp;car park, located at 19 Little Cribb Street&nbsp;in the heart of Milton. Open 7 days, this undercover car park provides convenient access to nearby Suncorp Stadium and surrounding entertainment and retail precinct. Offering hourly, night and weekend parking options with discounts when you prepay online, permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the Milton Green&nbsp;car park will meet all your business and leisure parking needs.&nbsp;</p>",
       "isWilsonOne": true,
       "spottIsAvailable": false,
       "legacyID": 1004356,
@@ -74876,7 +78356,7 @@
       "costCenter": 1004298,
       "direction": "Entry via Dowse Street",
       "heightRestriction": 2.3,
-      "information": "<p><span style=\"color: #ff1e25;\">Event Parking is available at this car park on the following dates:</span><span style=\"color: #ff1e25;\">&nbsp;6, 12, 26, 27 June.</span></p>\n<p>Wilson Parking offers affordable and secure parking at&nbsp;Darling &amp; Co car park, located in the heart of Paddington. Open 7 days, this undercover car park provides convenient access to Lang Park (Suncorp Stadium). Offering casual and night parking, and exclusive discounts when you pay via the Wilson Parking app, the&nbsp;Darling &amp; Co car park will meet all your business and leisure parking needs.</p>\n<p>Car park closes at 11pm on event nights.</p>",
+      "information": "<p><span style=\"color: #ff1e25;\">Event Parking is available at this car park on the following dates:</span><span style=\"color: #ff1e25;\">&nbsp;4, 8, 11, 19 July.</span></p>\n<p>Wilson Parking offers affordable and secure parking at&nbsp;Darling &amp; Co car park, located in the heart of Paddington. Open 7 days, this undercover car park provides convenient access to Lang Park (Suncorp Stadium). Offering casual and night parking, and exclusive discounts when you pay via the Wilson Parking app, the&nbsp;Darling &amp; Co car park will meet all your business and leisure parking needs.</p>\n<p>Car park closes at 11pm on event nights.</p>",
       "isWilsonOne": false,
       "spottIsAvailable": false,
       "legacyID": 4298,
@@ -77760,7 +81240,7 @@
           "note": null
         }
       ],
-      "url": "/parking-locations/victoria/werribee/wyndham-private-medical-services-centre/",
+      "url": "/parking-locations/victoria/wyndham/wyndham-private-medical-services-centre/",
       "serviceConfiguration": {
         "canBookABay": false,
         "bookABayIconLabel": "Prepay Online",
@@ -77794,6 +81274,192 @@
         "pageUrl": "",
         "content": "<p>This is an Interpark carpark with LOGO</p>"
       },
+      "featuredIndex": 0
+    },
+    {
+      "name": "Wyndham Medical Services Centre Car Park",
+      "bookText": null,
+      "canBookABay": false,
+      "selectedFeatures": "",
+      "carParkFeature": [],
+      "services": [],
+      "carParkName": "Wyndham Medical Services Centre Car Park",
+      "carParkNumber": 9193,
+      "carParkPhoto": null,
+      "category": "",
+      "costCenter": 1009193,
+      "direction": "Entry via 236 Hoppers Lane, Werribee",
+      "heightRestriction": 0.0,
+      "information": "<p>The&nbsp;Wyndham Medical Services Centre Car Park is located at 242 Hoppers Lane, Werribee and is open 7 days a week. The car park offers convenient and affordable casual hourly, night and weekend parking for pateints, retail customers, residents, and visitors to the surrounding area. It provides easy access to Wyndham Medical Services Centre, nearby residences, and local businesses.</p>",
+      "isWilsonOne": false,
+      "spottIsAvailable": false,
+      "legacyID": 9193,
+      "monthlyParkingServiceIsAvailable": false,
+      "evChargerIsAvailable": false,
+      "disabledParkingIsAvailable": false,
+      "phoneNumber": "1800 PARKING (1800 727 546)",
+      "products": [],
+      "staticMapPhoto": null,
+      "streetViewHeading": null,
+      "streetViewLocation": null,
+      "rates": [
+        {
+          "rateType": "Hourly",
+          "notes": "<p>Rates apply Monday - Friday</p>",
+          "rates": [
+            {
+              "timeSpan": "0.0 - 0.25 hrs",
+              "price": 0.0
+            },
+            {
+              "timeSpan": "0.25 - 1.0 hrs",
+              "price": 4.0
+            },
+            {
+              "timeSpan": "1.0 - 2.0 hrs",
+              "price": 6.0
+            },
+            {
+              "timeSpan": "2.0 - 3.0 hrs",
+              "price": 9.0
+            },
+            {
+              "timeSpan": "3.0 - 4.0 hrs",
+              "price": 13.0
+            },
+            {
+              "timeSpan": "4.0+ hrs",
+              "price": 16.0
+            }
+          ]
+        },
+        {
+          "rateType": "Weekend",
+          "notes": "<p>Rates apply Saturday - Sunday</p>",
+          "rates": [
+            {
+              "timeSpan": "0.0 - 0.25 hrs",
+              "price": 0.0
+            },
+            {
+              "timeSpan": "0.25 - 1.0 hrs",
+              "price": 3.0
+            },
+            {
+              "timeSpan": "1.0+ hrs",
+              "price": 5.0
+            }
+          ]
+        }
+      ],
+      "fromText": "From",
+      "fromPrice": "0",
+      "location": {
+        "longitude": 144.701211482348,
+        "latitude": -37.8891746196865,
+        "zoom": 13,
+        "address": "236 Hoppers Lane, Werribee",
+        "region": {
+          "name": "Wyndham",
+          "longitude": -37.8908066085008,
+          "latitude": 144.621280441788,
+          "status": "",
+          "state": {
+            "name": "Victoria",
+            "abbreviation": "VIC",
+            "country": "Australia",
+            "longitude": 145.08864104747772,
+            "latitude": -36.438262107088946,
+            "status": ""
+          }
+        }
+      },
+      "openingTimes": [
+        {
+          "day_TimePeriod": "Monday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Tuesday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Wednesday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Thursday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Friday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Saturday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Sunday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        }
+      ],
+      "url": "/parking-locations/victoria/wyndham/wyndham-medical-services-centre-car-park/",
+      "serviceConfiguration": {
+        "canBookABay": false,
+        "bookABayIconLabel": "Prepay Online",
+        "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
+        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingIconLabel": "Monthly Subscription",
+        "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
+        "isWilsonOne": false,
+        "wilsonOneIconLabel": "Parking Card",
+        "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
+        "disabledParkingIsAvailable": false,
+        "disabledParkingIconLabel": "Disabled Parking",
+        "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
+        "evChargerIsAvailable": false,
+        "evChargerIconLabel": "EV Charging",
+        "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
+        "spottIsAvailable": false,
+        "spottIconLabel": "Spott",
+        "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
+        "additionalServices": []
+      },
+      "state": "VIC",
+      "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
+      "price": "",
+      "status": "",
+      "cpmsCarparkCode": null,
+      "externalCarParkInfo": null,
       "featuredIndex": 0
     },
     {
@@ -98671,7 +102337,6 @@
         "Early Bird Parking",
         "Book a Bay",
         "Wilson One",
-        "Epark",
         "Entry height at least 2"
       ],
       "services": [
@@ -98740,6 +102405,16 @@
               "price": 10.0
             }
           ]
+        },
+        {
+          "rateType": "Early Bird",
+          "notes": "<p>&nbsp;</p>\n<p>Drive Up Early Bird - Enter between 4:30am - 10am, Exit between 2pm - 7pm.</p>\n<p>Online Earlybird: Entry between 4:30am &amp; 10am Monday - Friday. Exit anytime.</p>\n<p>*Online Earlybird only available when purchasing through the Wilson Parking App. Online rates includes Transaction fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a>&nbsp;to download the Wilson Parking App</p>\n<p>&nbsp;</p>",
+          "rates": [
+            {
+              "timeSpan": "Early Bird",
+              "price": 23.0
+            }
+          ]
         }
       ],
       "fromText": "From",
@@ -98770,7 +102445,7 @@
           "is24_7": false,
           "closed": false,
           "opening": "04:30",
-          "closing": "12:00",
+          "closing": "0:00",
           "note": null
         },
         {
@@ -98778,7 +102453,7 @@
           "is24_7": false,
           "closed": false,
           "opening": "04:30",
-          "closing": "12:00",
+          "closing": "0:00",
           "note": null
         },
         {
@@ -98786,7 +102461,7 @@
           "is24_7": false,
           "closed": false,
           "opening": "04:30",
-          "closing": "12:00",
+          "closing": "0:00",
           "note": null
         },
         {
@@ -98794,7 +102469,7 @@
           "is24_7": false,
           "closed": false,
           "opening": "04:30",
-          "closing": "12:00",
+          "closing": "0:00",
           "note": null
         },
         {
@@ -98818,15 +102493,15 @@
           "is24_7": false,
           "closed": false,
           "opening": "04:30",
-          "closing": "12:00",
+          "closing": "0:00",
           "note": null
         },
         {
           "day_TimePeriod": "Public Holiday",
           "is24_7": false,
           "closed": false,
-          "opening": "03:30",
-          "closing": "12:00",
+          "opening": "04:30",
+          "closing": "0:00",
           "note": null
         }
       ],
@@ -106418,203 +110093,6 @@
         "additionalServices": []
       },
       "state": "WA",
-      "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
-      "price": "",
-      "status": "",
-      "cpmsCarparkCode": null,
-      "externalCarParkInfo": null,
-      "featuredIndex": 0
-    },
-    {
-      "name": "Woolworths Pyrmont Car Park",
-      "bookText": null,
-      "canBookABay": false,
-      "selectedFeatures": "",
-      "carParkFeature": [],
-      "services": [],
-      "carParkName": "Woolworths Pyrmont Car Park",
-      "carParkNumber": 0,
-      "carParkPhoto": null,
-      "category": "",
-      "costCenter": 5002137,
-      "direction": null,
-      "heightRestriction": 2.2,
-      "information": "<p>Woolworths Pyrmont Car Park is located at 63 Miller St, Pyrmont. Close to many popular restaurants and attractions, including Cockle Bay, Maritime Museum, Harbourside restaurants and open until 10pm, this car park is in the ideal location when looking for parking in Pyrmont.</p>\n<p>Offering Hourly, Night and Sunday Parking options, the Gordon Car Park will meet all your parking needs.&nbsp;</p>\n<p>This car park accepts credit card only.</p>",
-      "isWilsonOne": false,
-      "spottIsAvailable": false,
-      "legacyID": 0,
-      "monthlyParkingServiceIsAvailable": false,
-      "evChargerIsAvailable": false,
-      "disabledParkingIsAvailable": false,
-      "phoneNumber": null,
-      "products": [],
-      "staticMapPhoto": null,
-      "streetViewHeading": null,
-      "streetViewLocation": null,
-      "rates": [],
-      "fromText": "",
-      "fromPrice": "",
-      "location": {
-        "longitude": 151.192909934526,
-        "latitude": 33.8703654425598,
-        "zoom": 13,
-        "address": "63 Miller Street, Pyrmont",
-        "region": null
-      },
-      "openingTimes": [
-        {
-          "day_TimePeriod": "Sunday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "07:00",
-          "closing": "22:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Monday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "07:00",
-          "closing": "22:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Tuesday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "07:00",
-          "closing": "22:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Wednesday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "07:00",
-          "closing": "22:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Thursday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "07:00",
-          "closing": "22:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Friday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "07:00",
-          "closing": "22:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Saturday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "07:00",
-          "closing": "22:00",
-          "note": null
-        }
-      ],
-      "url": "/parking-locations/new-south-wales/cbd-sydney-north/woolworths-pyrmont-car-park/",
-      "serviceConfiguration": {
-        "canBookABay": false,
-        "bookABayIconLabel": "Prepay Online",
-        "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": false,
-        "monthlyParkingIconLabel": "Monthly Subscription",
-        "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
-        "isWilsonOne": false,
-        "wilsonOneIconLabel": "Parking Card",
-        "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
-        "disabledParkingIsAvailable": false,
-        "disabledParkingIconLabel": "Disabled Parking",
-        "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
-        "evChargerIsAvailable": false,
-        "evChargerIconLabel": "EV Charging",
-        "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "spottIsAvailable": false,
-        "spottIconLabel": "Spott",
-        "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
-        "additionalServices": []
-      },
-      "state": null,
-      "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
-      "price": "",
-      "status": "",
-      "cpmsCarparkCode": null,
-      "externalCarParkInfo": {
-        "name": "InterPark",
-        "pinUrl": "/globalassets/icons/interpark-icons/pin-blue.png",
-        "logoUrl": "/siteassets/parking-stock-images/interpark-icons/interpark_logo.jpg",
-        "pageUrl": "",
-        "content": "<p>This is an Interpark carpark with LOGO</p>"
-      },
-      "featuredIndex": 0
-    },
-    {
-      "name": "Fairfield City Central Car Park",
-      "bookText": null,
-      "canBookABay": false,
-      "selectedFeatures": "",
-      "carParkFeature": [],
-      "services": [],
-      "carParkName": "Fairfield City Central Car Park",
-      "carParkNumber": 9544,
-      "carParkPhoto": null,
-      "category": "",
-      "costCenter": 5003544,
-      "direction": null,
-      "heightRestriction": 2.1,
-      "information": null,
-      "isWilsonOne": false,
-      "spottIsAvailable": false,
-      "legacyID": 0,
-      "monthlyParkingServiceIsAvailable": false,
-      "evChargerIsAvailable": false,
-      "disabledParkingIsAvailable": false,
-      "phoneNumber": null,
-      "products": [],
-      "staticMapPhoto": null,
-      "streetViewHeading": null,
-      "streetViewLocation": null,
-      "rates": [],
-      "fromText": "",
-      "fromPrice": "",
-      "location": {
-        "longitude": 0.0,
-        "latitude": 0.0,
-        "zoom": 13,
-        "address": null,
-        "region": null
-      },
-      "openingTimes": [],
-      "url": "/parking-locations/new-south-wales/south-west/fairfield-city-central-car-park/",
-      "serviceConfiguration": {
-        "canBookABay": false,
-        "bookABayIconLabel": "Prepay Online",
-        "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": false,
-        "monthlyParkingIconLabel": "Monthly Subscription",
-        "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
-        "isWilsonOne": false,
-        "wilsonOneIconLabel": "Parking Card",
-        "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
-        "disabledParkingIsAvailable": false,
-        "disabledParkingIconLabel": "Disabled Parking",
-        "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
-        "evChargerIsAvailable": false,
-        "evChargerIconLabel": "EV Charging",
-        "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "spottIsAvailable": false,
-        "spottIconLabel": "Spott",
-        "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
-        "additionalServices": []
-      },
-      "state": null,
       "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
       "price": "",
       "status": "",
