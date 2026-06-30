@@ -19,7 +19,6 @@
         "Wilson One",
         "Vivid",
         "Flexi Parking",
-        "Elevate",
         "LPR",
         "Spott Saver",
         "Spott"
@@ -3751,7 +3750,7 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Rates apply Monday to Friday</p>",
+          "notes": "<p>Rates apply Monday to Friday</p>\n<p>Weekend rates apply on Public Holidays</p>",
           "rates": [
             {
               "timeSpan": "0.0 - 0.5 hrs",
@@ -7602,7 +7601,7 @@
           "note": null
         }
       ],
-      "url": "/parking-locations/new-south-wales/sydney-cbd/324-pitt-st-car-park/",
+      "url": "/parking-locations/new-south-wales/sydney-cbd/",
       "serviceConfiguration": {
         "canBookABay": true,
         "bookABayIconLabel": "Prepay Online",
@@ -10262,7 +10261,7 @@
         },
         {
           "rateType": "Weekend",
-          "notes": "<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>",
+          "notes": "<p>Weekend rates apply on Public Holidays</p>\n<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>",
           "rates": [
             {
               "timeSpan": "Weekend varies from $21.75 - $23.75, depending on demand",
@@ -11227,7 +11226,7 @@
         },
         {
           "rateType": "Weekend",
-          "notes": "<p>Flat Rate: per exit, per day</p>",
+          "notes": "<p>Weekend rates apply on Public Holidays</p>\n<p>Flat Rate: per exit, per day</p>",
           "rates": [
             {
               "timeSpan": "Sat - Sun",
@@ -11676,7 +11675,7 @@
         },
         {
           "rateType": "Weekend",
-          "notes": "<p>&nbsp;</p>\n<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
+          "notes": "<p>Weekend rates apply on Public Holidays</p>\n<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
           "rates": [
             {
               "timeSpan": "Day Rate: Enter after 6am, exit before 5pm",
@@ -11832,7 +11831,7 @@
         "disabled parking"
       ],
       "carParkName": "St Margarets Car Park",
-      "carParkNumber": 806,
+      "carParkNumber": 9806,
       "carParkPhoto": null,
       "category": "",
       "costCenter": 5002806,
@@ -12380,6 +12379,14 @@
         },
         {
           "day_TimePeriod": "Sunday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "06:00",
+          "closing": "00:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Public Holiday",
           "is24_7": false,
           "closed": false,
           "opening": "06:00",
@@ -13324,7 +13331,7 @@
         },
         {
           "rateType": "Weekend",
-          "notes": "<p>Flat rate: per exit, per day</p>\n<div class=\"\" data-block=\"true\" data-editor=\"99adp\" data-offset-key=\"1akcde78-0-0\">\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"1akcde78-0-0\"><span data-offset-key=\"1akcde78-0-0\">Online rate shown includes transaction fee.</span></div>\n</div>\n<div class=\"\" data-block=\"true\" data-editor=\"99adp\" data-offset-key=\"8pskg444-0-0\">\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"8pskg444-0-0\"><span data-offset-key=\"8pskg444-0-0\">Click the <strong>Prepay Now</strong> link below to get started.</span></div>\n</div>",
+          "notes": "<p>Flat rate: per exit, per day</p>\n<p>Weekend rates apply on Public Holidays</p>\n<div class=\"\" data-block=\"true\" data-editor=\"99adp\" data-offset-key=\"1akcde78-0-0\">\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"1akcde78-0-0\"><span data-offset-key=\"1akcde78-0-0\">Online rate shown includes transaction fee.</span></div>\n</div>\n<div class=\"\" data-block=\"true\" data-editor=\"99adp\" data-offset-key=\"8pskg444-0-0\">\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"8pskg444-0-0\"><span data-offset-key=\"8pskg444-0-0\">Click the <strong>Prepay Now</strong> link below to get started.</span></div>\n</div>",
           "rates": [
             {
               "timeSpan": "Sat - Sun",
@@ -15341,7 +15348,7 @@
         },
         {
           "rateType": "Weekend",
-          "notes": "<p>Flat Rate: per exit, per day</p>\n<p>Online rate shown includes transaction fee. Click the Prepay now link below to get started.</p>",
+          "notes": "<p>Flat Rate: per exit, per day</p>\n<p>Weekend rates apply on Public Holidays</p>\n<p>Online rate shown includes transaction fee. Click the Prepay now link below to get started.</p>",
           "rates": [
             {
               "timeSpan": "Sat - Sun",
@@ -27868,7 +27875,7 @@
         },
         {
           "rateType": "Weekend",
-          "notes": "<p>Flat Rate: per exit, per day</p>\n<p>Online rate shown includes transaction fee. Click the Prepay now link below to get started.</p>",
+          "notes": "<p>Flat Rate: per exit, per day</p>\n<p>Weekend rates apply on Public Holidays</p>\n<p>Online rate shown includes transaction fee. Click the Prepay now link below to get started.</p>",
           "rates": [
             {
               "timeSpan": "Sat - Sun",
@@ -45970,199 +45977,6 @@
       "featuredIndex": 0
     },
     {
-      "name": "New Acton Precinct",
-      "bookText": null,
-      "canBookABay": false,
-      "selectedFeatures": "",
-      "carParkFeature": [
-        "Weekend Parking",
-        "Early Bird Parking",
-        "Epark",
-        "Entry height at least 2"
-      ],
-      "services": [],
-      "carParkName": "New Acton Precinct",
-      "carParkNumber": 1009,
-      "carParkPhoto": null,
-      "category": "",
-      "costCenter": 1012009,
-      "direction": null,
-      "heightRestriction": 0.0,
-      "information": "<p>Wilson Parking offer affordable parking at the New Acton Precinct Car Park, located at 1 Phillip Law St, Canberra. Open 7 days, this car park offers&nbsp;casual Hourly, Early Bird and Weekend Parking and the convenience of payment from your phone with the Wilson Parking app.&nbsp;The New Acton Precinct&nbsp;Car Park will meet all your business and leisure parking needs.&nbsp;</p>\n<p>Download the Wilson Parking App to plan your journey and access parking discounts when you prepay online.</p>",
-      "isWilsonOne": false,
-      "spottIsAvailable": false,
-      "legacyID": 805,
-      "monthlyParkingServiceIsAvailable": false,
-      "evChargerIsAvailable": false,
-      "disabledParkingIsAvailable": false,
-      "phoneNumber": "1800 727 546",
-      "products": [],
-      "staticMapPhoto": null,
-      "streetViewHeading": "149.1232074892382",
-      "streetViewLocation": "https://www.google.com/maps/@?api=1&map_action=pano&pano=l_QQe_RX661Jjfmx0SKimg&viewpoint=-35.28495840716857,149.1232074892382&heading=0&pitch=0",
-      "rates": [
-        {
-          "rateType": "Hourly",
-          "notes": "<p>Rates apply Monday - Saturday</p>\n<p>Including Public Holidays</p>",
-          "rates": [
-            {
-              "timeSpan": "0.0 - 1.0 hr",
-              "price": 5.5
-            },
-            {
-              "timeSpan": "1.0 - 2.0 hrs",
-              "price": 7.5
-            },
-            {
-              "timeSpan": "2.0 - 3.0 hrs",
-              "price": 10.5
-            },
-            {
-              "timeSpan": "3.0 - 4.0 hrs",
-              "price": 13.5
-            },
-            {
-              "timeSpan": "4.0 + hrs",
-              "price": 23.5
-            }
-          ]
-        },
-        {
-          "rateType": "Early Bird",
-          "notes": "<p>Enter before 9am</p>",
-          "rates": [
-            {
-              "timeSpan": "Early Bird",
-              "price": 21.0
-            },
-            {
-              "timeSpan": "Weekly Rate",
-              "price": 85.0
-            }
-          ]
-        },
-        {
-          "rateType": "Weekend",
-          "notes": "<p>Saturdays as per casual hours</p>\n<p>Sunday - Flat Rate, per exit per day</p>",
-          "rates": [
-            {
-              "timeSpan": "Sunday",
-              "price": 6.0
-            }
-          ]
-        }
-      ],
-      "fromText": "From",
-      "fromPrice": "5",
-      "location": {
-        "longitude": 149.123585365842,
-        "latitude": -35.285273281836,
-        "zoom": 13,
-        "address": "1 Phillip Law Canberra",
-        "region": null
-      },
-      "openingTimes": [
-        {
-          "day_TimePeriod": "Monday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "06:00",
-          "closing": "19:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Tuesday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "06:00",
-          "closing": "19:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Wednesday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "06:00",
-          "closing": "19:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Thursday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "06:00",
-          "closing": "19:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Friday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "06:00",
-          "closing": "19:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Saturday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "06:00",
-          "closing": "19:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Sunday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "06:00",
-          "closing": "19:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Public Holiday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "06:00",
-          "closing": "19:00",
-          "note": null
-        }
-      ],
-      "url": "/parking-locations/australian-capital-territory/canberra-cbd/new-acton-precinct/",
-      "serviceConfiguration": {
-        "canBookABay": false,
-        "bookABayIconLabel": "Prepay Online",
-        "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": false,
-        "monthlyParkingIconLabel": "Monthly Subscription",
-        "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
-        "isWilsonOne": false,
-        "wilsonOneIconLabel": "Parking Card",
-        "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
-        "disabledParkingIsAvailable": false,
-        "disabledParkingIconLabel": "Disabled Parking",
-        "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
-        "evChargerIsAvailable": false,
-        "evChargerIconLabel": "EV Charging",
-        "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "spottIsAvailable": false,
-        "spottIconLabel": "Spott",
-        "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
-        "additionalServices": [
-          {
-            "label": null,
-            "icon": null
-          }
-        ]
-      },
-      "state": null,
-      "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
-      "price": "",
-      "status": "",
-      "cpmsCarparkCode": null,
-      "externalCarParkInfo": null,
-      "featuredIndex": 0
-    },
-    {
       "name": "Nishi Car Park",
       "bookText": null,
       "canBookABay": false,
@@ -49523,16 +49337,16 @@
           "day_TimePeriod": "Saturday",
           "is24_7": false,
           "closed": true,
-          "opening": "07:00",
-          "closing": "19:00",
+          "opening": "",
+          "closing": "",
           "note": null
         },
         {
           "day_TimePeriod": "Sunday",
           "is24_7": false,
           "closed": true,
-          "opening": "07:00",
-          "closing": "19:00",
+          "opening": "",
+          "closing": "",
           "note": null
         }
       ],
@@ -57992,7 +57806,7 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Rates apply Monday - Friday</p>",
+          "notes": "<p>Rates apply Monday - Sunday</p>",
           "rates": [
             {
               "timeSpan": "0.0 - 1.0 hrs",
@@ -60108,101 +59922,6 @@
       "featuredIndex": 0
     },
     {
-      "name": "6 Jessie St Cremorne",
-      "bookText": null,
-      "canBookABay": false,
-      "selectedFeatures": "",
-      "carParkFeature": [],
-      "services": [],
-      "carParkName": "6 Jessie St Cremorne",
-      "carParkNumber": 9242,
-      "carParkPhoto": null,
-      "category": "",
-      "costCenter": 5003242,
-      "direction": "Entry is via 44 Swan St or 6 Jessie St",
-      "heightRestriction": 0.0,
-      "information": "<p>The 6 Jessie St car park, with entry from Jessie St, offers affordable Monthly Parking options for parkers regularly visiting Cremorne and surroundign areas. Open 24 hours 7 days a week, this open air car park provides convenient parking, close to many local businesses.</p>\n<p>In close proximity to AAMI Park, Melbourne Park and Richmond Train Station, the 6 Jessie St car park in Cremorne will meet all your parking needs.<br /><br /><span style=\"color: #ff1e25;\">Contact <a href=\"mailto:sales@interpark.com.au\">sales@interpark.com.au</a> to subscribe to Monthly Parking</span></p>",
-      "isWilsonOne": false,
-      "spottIsAvailable": false,
-      "legacyID": 9242,
-      "monthlyParkingServiceIsAvailable": false,
-      "evChargerIsAvailable": false,
-      "disabledParkingIsAvailable": false,
-      "phoneNumber": null,
-      "products": [],
-      "staticMapPhoto": null,
-      "streetViewHeading": null,
-      "streetViewLocation": "https://www.google.com/maps/@?api=1&map_action=pano&pano=gR9kKOxeLu_vTV7GwaK0VA&viewpoint=-37.82480784919746,144.99070610871928&heading=198.4531444776699&pitch=-1.000231191402861&zoom=2",
-      "rates": [],
-      "fromText": "",
-      "fromPrice": "",
-      "location": {
-        "longitude": 144.990532,
-        "latitude": -37.825196,
-        "zoom": 13,
-        "address": "6 Jessie St, Cremorne",
-        "region": {
-          "name": "Richmond",
-          "longitude": 145.00368093809811,
-          "latitude": -37.819320411955708,
-          "status": "",
-          "state": {
-            "name": "Victoria",
-            "abbreviation": "VIC",
-            "country": "Australia",
-            "longitude": 145.08864104747772,
-            "latitude": -36.438262107088946,
-            "status": ""
-          }
-        }
-      },
-      "openingTimes": [
-        {
-          "day_TimePeriod": "Monthly",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        }
-      ],
-      "url": "/parking-locations/victoria/richmond/6-jessie-st-cremorne/",
-      "serviceConfiguration": {
-        "canBookABay": false,
-        "bookABayIconLabel": "Prepay Online",
-        "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": false,
-        "monthlyParkingIconLabel": "Monthly Subscription",
-        "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
-        "isWilsonOne": false,
-        "wilsonOneIconLabel": "Parking Card",
-        "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
-        "disabledParkingIsAvailable": false,
-        "disabledParkingIconLabel": "Disabled Parking",
-        "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
-        "evChargerIsAvailable": false,
-        "evChargerIconLabel": "EV Charging",
-        "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "spottIsAvailable": false,
-        "spottIconLabel": "Spott",
-        "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
-        "additionalServices": []
-      },
-      "state": "VIC",
-      "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
-      "price": "",
-      "status": "",
-      "cpmsCarparkCode": null,
-      "externalCarParkInfo": {
-        "name": "InterPark",
-        "pinUrl": "/globalassets/icons/interpark-icons/pin-blue.png",
-        "logoUrl": "/siteassets/parking-stock-images/interpark-icons/interpark_logo.jpg",
-        "pageUrl": "",
-        "content": "<p>This is an Interpark carpark with LOGO</p>"
-      },
-      "featuredIndex": 0
-    },
-    {
       "name": "Lansdowne Street Car Park",
       "bookText": null,
       "canBookABay": false,
@@ -60842,7 +60561,7 @@
       "costCenter": 1003195,
       "direction": "Entry & exit via St Andrews Place",
       "heightRestriction": 2.1,
-      "information": "<p><span style=\"color: #ff1e25;\"><strong><u>Event Dates June 2026:</u></strong><br />26th from 5:00pm<br />27th from 1:00pm<br /></span><strong style=\"color: #ff1e25;\"><u>Event Dates July 2026:<br /></u></strong><span style=\"color: #ff1e25;\">4th, 11th, 18th, 24th and 30th from 5:00pm<br /></span><em style=\"color: #ff1e25;\">Event rates will apply. Drive up only.<br /></em><em style=\"color: #ff1e25;\">On event dates, please allow additional time to exit.</em></p>\n<p>Wilson Parking offer affordable &amp; secure parking at Park Hyatt Car Park, located at St Andrews Place&nbsp;in the heart of East Melbourne. Open 7 days, this undercover car park provides convenient access to Princess Theatre, Comedy Theatre, Parliament House and with 24 hour access is perfect for restaurant and hotel parking. Offering Hourly, Early Bird, Weekend and Night Parking options with exclusive discounts when you prepay online, permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the Park Hyatt Car Park will meet all your business and leisure parking needs.&nbsp;</p>\n<p>This car park accepts credit card payment only. Download the Wilson Parking App to plan your journey and access parking discounts when you prepay online;&nbsp;enjoy unlimited 24/7 access when you subscribe to monthly parking; pay as you go on one convenient monthly invoice when you use your Wilson Parking Card to access the car park.&nbsp;</p>",
+      "information": "<p><strong style=\"color: #ff1e25;\"><u>Event Dates July 2026:<br /></u></strong><span style=\"color: #ff1e25;\">4th, 11th, 18th, 24th and 30th from 5:00pm<br /></span><em style=\"color: #ff1e25;\">Event rates will apply. Drive up only.<br /></em><em style=\"color: #ff1e25;\">On event dates, please allow additional time to exit.</em></p>\n<p>Wilson Parking offer affordable &amp; secure parking at Park Hyatt Car Park, located at St Andrews Place&nbsp;in the heart of East Melbourne. Open 7 days, this undercover car park provides convenient access to Princess Theatre, Comedy Theatre, Parliament House and with 24 hour access is perfect for restaurant and hotel parking. Offering Hourly, Early Bird, Weekend and Night Parking options with exclusive discounts when you prepay online, permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the Park Hyatt Car Park will meet all your business and leisure parking needs.&nbsp;</p>\n<p>This car park accepts credit card payment only. Download the Wilson Parking App to plan your journey and access parking discounts when you prepay online;&nbsp;enjoy unlimited 24/7 access when you subscribe to monthly parking; pay as you go on one convenient monthly invoice when you use your Wilson Parking Card to access the car park.&nbsp;</p>",
       "isWilsonOne": true,
       "spottIsAvailable": true,
       "legacyID": 120,
@@ -63979,7 +63698,7 @@
       "costCenter": 1003169,
       "direction": "Entry via Flinders St or 195 Flinders Lane",
       "heightRestriction": 2.0,
-      "information": "<p><span style=\"color: #ff1e25;\"><strong style=\"color: #ff1e25;\"><u>Event Dates June 2026:<br /></u></strong>20th from 5:00pm to 11:59pm.<br /></span><span style=\"color: #ff1e25;\">27th from 1:00pm to 11:59pm.<br /></span><span style=\"color: #ff1e25;\"><strong><u>Event Dates July 2026:<br /></u></strong>4th, 11th, 18th, 24th and 30th from 4:00pm to 11:59pm.<em><em style=\"color: #ff1e25;\"><br /></em>Event rates will apply.<br />On event dates, please allow additional time to exit.</em></span></p>\n<p>Wilson Parking offers affordable &amp; convenient parking at Flinders Gate Car Park, located at 172-192 Flinders Street, Melbourne. This car park is nearby to many Melbourne attractions including St Paul's Cathedral, The Ian Potter Centre and Flinders St Station.</p>\n<p>Offering online discounts for Flexi Saver, Night, Overnight and Weekend parking as well as competitive drive up rates, the Flinders Gate car park will meet all of your parking needs when visiting the Melbourne CBD.</p>\n<p><strong>This car park accepts Credit Card payments only.</strong></p>\n<p>Pay as you go with a Wilson Parking Card, or enjoy unlimited 24/7 access when you subscribe to a Monthly parking account.</p>\n<p><em>Site can be affected by road closures. Please refer to the <a title=\"https://www.melbourne.vic.gov.au/parking-and-transport/roads/Pages/road-closures.aspx\" href=\"https://www.melbourne.vic.gov.au/parking-and-transport/roads/Pages/road-closures.aspx\" target=\"_blank\" rel=\"noopener\">City of Melbourne website</a> for more information.</em></p>",
+      "information": "<p><span style=\"color: #ff1e25;\"><strong><u>Event Dates July 2026:<br /></u></strong>4th, 11th, 18th, 24th and 30th from 4:00pm to 11:59pm.<em><em style=\"color: #ff1e25;\"><br /></em>Event rates will apply.<br />On event dates, please allow additional time to exit.</em></span></p>\n<p>Wilson Parking offers affordable &amp; convenient parking at Flinders Gate Car Park, located at 172-192 Flinders Street, Melbourne. This car park is nearby to many Melbourne attractions including St Paul's Cathedral, The Ian Potter Centre and Flinders St Station.</p>\n<p>Offering online discounts for Flexi Saver, Night, Overnight and Weekend parking as well as competitive drive up rates, the Flinders Gate car park will meet all of your parking needs when visiting the Melbourne CBD.</p>\n<p><strong>This car park accepts Credit Card payments only.</strong></p>\n<p>Pay as you go with a Wilson Parking Card, or enjoy unlimited 24/7 access when you subscribe to a Monthly parking account.</p>\n<p><em>Site can be affected by road closures. Please refer to the <a title=\"https://www.melbourne.vic.gov.au/parking-and-transport/roads/Pages/road-closures.aspx\" href=\"https://www.melbourne.vic.gov.au/parking-and-transport/roads/Pages/road-closures.aspx\" target=\"_blank\" rel=\"noopener\">City of Melbourne website</a> for more information.</em></p>",
       "isWilsonOne": true,
       "spottIsAvailable": true,
       "legacyID": 253,
@@ -64264,7 +63983,7 @@
         },
         {
           "rateType": "Night",
-          "notes": "<p>Entry after 5pm, exit before 6am next day.&nbsp;</p>",
+          "notes": "<p>Entry after 5pm, exit before close&nbsp;</p>",
           "rates": [
             {
               "timeSpan": "Night from",
@@ -68305,6 +68024,14 @@
           "opening": "6:00",
           "closing": "00:00",
           "note": null
+        },
+        {
+          "day_TimePeriod": "Public Holiday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "06:00",
+          "closing": "00:00",
+          "note": null
         }
       ],
       "url": "/parking-locations/victoria/melbourne-cbd/383-king-st/",
@@ -71200,7 +70927,7 @@
       "costCenter": 1003225,
       "direction": "Entry via Enterprize Way. Car park is on the right.",
       "heightRestriction": 2.0,
-      "information": "<p><span style=\"color: #ff1e25;\"><strong><u>Event Dates June 2026:</u></strong><br /></span><span style=\"color: #ff1e25;\">27th from 10:00am<br /></span><span style=\"color: #ff1e25;\">21st, 28th from 12:00pm</span><span style=\"color: #ff1e25;\"><em><br /></em><strong><u>Event Dates July 2026:</u></strong><strong><u><br /></u></strong>26th from 12:00pm<br />10th from 5:00pm<br />11th, 12th, 25th from 10:00am<br />18th from 1:00pm<br /></span><span style=\"color: #ff1e25;\">19th from 2:00pm<em><br />Event rates will apply. Drive up only.</em><br /><em>On event dates, please allow additional time to exit.</em><br /><em><br /></em></span>Wilson Parking offer affordable parking at 800 Bourke St Car Park, located at Enterprize Way, Docklands. This car park, located on the Yarra River,&nbsp; is nearby to Marvel Stadium, Docklands Park and other Docklands attractions. Offering Hourly, Weekend and night parking, as well as discount online parking options, the 800 Bourke St Car Park will meet all of your parking needs.</p>\n<p>Experience the convenience of&nbsp;pay as you go with a Wilson Parking card, or enjoy 24/7 unlimited access when you subscribe to Monthly Parking.</p>",
+      "information": "<p><span style=\"color: #ff1e25;\"><em><br /></em><strong><u>Event Dates July 2026:</u></strong><strong><u><br /></u></strong>26th from 12:00pm<br />10th from 5:00pm<br />11th, 12th, 25th from 10:00am<br />18th from 1:00pm<br /></span><span style=\"color: #ff1e25;\">19th from 2:00pm&nbsp;<br /></span><span style=\"color: #ff1e25;\">26th from 12:00pm</span></p>\n<p><span style=\"color: #ff1e25;\"><em>26th from 12:00pm<br />Event rates will apply. Drive up only.</em><br /><em>On event dates, please allow additional time to exit.</em><br /><em><br /></em></span>Wilson Parking offer affordable parking at 800 Bourke St Car Park, located at Enterprize Way, Docklands. This car park, located on the Yarra River,&nbsp; is nearby to Marvel Stadium, Docklands Park and other Docklands attractions. Offering Hourly, Weekend and night parking, as well as discount online parking options, the 800 Bourke St Car Park will meet all of your parking needs.</p>\n<p>Experience the convenience of&nbsp;pay as you go with a Wilson Parking card, or enjoy 24/7 unlimited access when you subscribe to Monthly Parking.</p>",
       "isWilsonOne": true,
       "spottIsAvailable": true,
       "legacyID": 41,
@@ -82958,7 +82685,7 @@
         },
         {
           "rateType": "Weekend",
-          "notes": "<p><span style=\"color: #000000;\">Pay in advance to access the best possible rates.</span></p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>",
+          "notes": "<p><span style=\"color: #000000;\">Event rate may apply on event days</span></p>\n<p><span style=\"color: #000000;\">Pay in advance to access the best possible rates.</span></p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>",
           "rates": [
             {
               "timeSpan": "Sat - Sun",
@@ -93586,7 +93313,7 @@
       "carParkPhoto": "/contentassets/ca151af77ba848a8a7950e6de5610cf5/capture.jpg",
       "category": "",
       "costCenter": 1006212,
-      "direction": "<b>**Car Park only operational on selected event days**</b><br>\n\n</b><br>28th June -  AFL Fremantle Dockers Vs Gold Coast SUNS<b>\n</b><br>(Gate opens at 1:30pm and closes at 7:30pm sharp)<b>",
+      "direction": "<b>**Car Park only operational on selected event days**</b><br>\n\n</b><br>3rd July -  AFL West Coast Eagles Vs Adelaide Crows <b>\n</b><br>(Gate opens at 4:30pm and closes at 10:00pm sharp)<b>\n\n</b><br>9th July -  AFL Fremantle Vs Sydney Swans<b>\n</b><br>(Gate opens at 4:30pm and closes at 10:00pm sharp)<b>",
       "heightRestriction": 0.0,
       "information": "<p>Wilson Parking offers affordable parking at Belmont Racecourse Car Park for Optus Stadium event parking only. Located a short walk from Optus Stadium, this car park is the perfect location for footy, cricket, concerts and other Optus Stadium events. Operational days are shown under the parking rates to the left.</p>\n<p>Parking must be prepaid in advance through the Wilson Parking App or website. No payments can be taken at the gate. Must present prepaid confirmation to access car park.</p>",
       "isWilsonOne": false,
@@ -96632,23 +96359,23 @@
           "rates": [
             {
               "timeSpan": "0.0 - 1.0 hrs",
-              "price": 3.0
+              "price": 5.0
             },
             {
               "timeSpan": "1.0 - 2.0 hrs",
-              "price": 6.0
+              "price": 8.0
             },
             {
               "timeSpan": "2.0 - 3.0 hrs",
-              "price": 9.0
+              "price": 11.0
             },
             {
               "timeSpan": "3.0 - 4.0 hrs",
-              "price": 12.0
+              "price": 14.0
             },
             {
               "timeSpan": "4.0 - 5.0 hrs",
-              "price": 15.0
+              "price": 18.0
             },
             {
               "timeSpan": "5.0 - 6.0 hrs",
@@ -96656,13 +96383,13 @@
             },
             {
               "timeSpan": "6.0 - 12.0 hrs",
-              "price": 19.0
+              "price": 18.0
             }
           ]
         }
       ],
       "fromText": "From",
-      "fromPrice": "2",
+      "fromPrice": "4",
       "location": {
         "longitude": 115.86404263973236,
         "latitude": -31.952940567965815,
