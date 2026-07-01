@@ -26487,11 +26487,11 @@
           "rates": [
             {
               "timeSpan": "0.0 - 1.0 hrs",
-              "price": 10.0
+              "price": 11.0
             },
             {
               "timeSpan": "1.0 - 2.0 hrs",
-              "price": 15.0
+              "price": 16.0
             },
             {
               "timeSpan": "2.0 - 3.0 hrs",
@@ -26499,7 +26499,7 @@
             },
             {
               "timeSpan": "3.0 + hrs",
-              "price": 21.0
+              "price": 20.0
             }
           ]
         },
@@ -26509,13 +26509,13 @@
           "rates": [
             {
               "timeSpan": "Enter after 6pm  - Exit before 6am the following morning",
-              "price": 0.0
+              "price": 7.0
             }
           ]
         }
       ],
       "fromText": "From",
-      "fromPrice": "0",
+      "fromPrice": "7",
       "location": {
         "longitude": 151.100410559883,
         "latitude": -33.7355922670686,
@@ -26676,15 +26676,15 @@
             },
             {
               "timeSpan": "20 mins – 1.0 Hour",
-              "price": 9.0
+              "price": 10.0
             },
             {
               "timeSpan": "1.0 – 2.0 Hours",
-              "price": 13.0
+              "price": 14.0
             },
             {
               "timeSpan": "2.0 – 3.0 Hours",
-              "price": 17.0
+              "price": 18.0
             },
             {
               "timeSpan": "3.0 – 4.0 Hours",
@@ -26696,11 +26696,11 @@
             },
             {
               "timeSpan": "5.0+ Hours ",
-              "price": 25.0
+              "price": 26.0
             },
             {
               "timeSpan": "Weekly Multi Entry Pass",
-              "price": 61.0
+              "price": 65.0
             }
           ]
         }
@@ -28048,7 +28048,7 @@
           "rates": [
             {
               "timeSpan": "0.0 - 1.0 hrs",
-              "price": 3.5
+              "price": 4.0
             },
             {
               "timeSpan": "1.0 - 2.0 hrs",
@@ -28056,7 +28056,7 @@
             },
             {
               "timeSpan": "2.0 - 3.0 hrs ",
-              "price": 11.0
+              "price": 12.0
             },
             {
               "timeSpan": "3.0 - 18.0 hrs",
@@ -28432,15 +28432,15 @@
           "rates": [
             {
               "timeSpan": "0.0 - 1.0 hrs",
-              "price": 5.5
+              "price": 6.0
             },
             {
               "timeSpan": "1.0 - 2.0 hrs",
-              "price": 11.0
+              "price": 12.0
             },
             {
               "timeSpan": "2.0 - 3.0 hrs",
-              "price": 27.0
+              "price": 28.0
             },
             {
               "timeSpan": "3.0 - 4.0 hrs",
@@ -28452,7 +28452,7 @@
             },
             {
               "timeSpan": "5.0 - 18.0 hrs",
-              "price": 75.0
+              "price": 78.0
             },
             {
               "timeSpan": "18.0 +  hrs",
@@ -28462,7 +28462,7 @@
         }
       ],
       "fromText": "From",
-      "fromPrice": "5.5",
+      "fromPrice": "6",
       "location": {
         "longitude": 151.004231988155,
         "latitude": -33.8157512551747,
@@ -28618,19 +28618,19 @@
             },
             {
               "timeSpan": "1.0 - 2.0 hrs",
-              "price": 7.0
+              "price": 7.5
             },
             {
               "timeSpan": "2.0 - 3.0 hrs",
-              "price": 12.0
+              "price": 13.0
             },
             {
               "timeSpan": "3.0 - 4.0 hrs",
-              "price": 22.0
+              "price": 23.0
             },
             {
               "timeSpan": "4.0 - 5.0 hrs",
-              "price": 28.0
+              "price": 30.0
             },
             {
               "timeSpan": "5.0 - 12.0 hrs",
@@ -29419,19 +29419,19 @@
           "rates": [
             {
               "timeSpan": "0.0 - 1.0 hrs",
-              "price": 3.5
+              "price": 4.0
             },
             {
               "timeSpan": "1.0 - 2.0 hrs",
-              "price": 6.5
+              "price": 7.0
             },
             {
               "timeSpan": "2.0 - 3.0 hrs",
-              "price": 10.0
+              "price": 11.0
             },
             {
               "timeSpan": "3.0 - 4.0 hrs",
-              "price": 13.0
+              "price": 14.0
             },
             {
               "timeSpan": "4.0 - 18.0 hrs",
@@ -29439,7 +29439,7 @@
             },
             {
               "timeSpan": "18.0 + hrs",
-              "price": 27.0
+              "price": 29.0
             }
           ]
         },
@@ -30673,7 +30673,7 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Parking at the PAC is timed, the first 2 hours are free for eligible patrons. After this time, it will be charged at $3.50 per 30 minutes.</p>\n<p>The capped daily rate is $38.00.</p>",
+          "notes": "<p>Parking at the PAC is timed, the first 2 hours are free for eligible patrons. After this time, it will be charged at $4.00 per 30 minutes.</p>\n<p>The capped daily rate is $40.00.</p>",
           "rates": [
             {
               "timeSpan": "First 2 hours - eligible patrons only",
@@ -30681,11 +30681,11 @@
             },
             {
               "timeSpan": "Per 30 minutes",
-              "price": 3.5
+              "price": 4.0
             },
             {
               "timeSpan": "Max Daily Rate",
-              "price": 38.0
+              "price": 40.0
             }
           ]
         }
@@ -71523,6 +71523,204 @@
       "featuredIndex": 0
     },
     {
+      "name": "Freeway Car Park",
+      "bookText": null,
+      "canBookABay": true,
+      "selectedFeatures": "",
+      "carParkFeature": [
+        "Night Parking",
+        "Weekend Parking",
+        "Book a Bay",
+        "Wilson One"
+      ],
+      "services": [
+        "book a bay",
+        "wilson one"
+      ],
+      "carParkName": "Freeway Car Park",
+      "carParkNumber": 3199,
+      "carParkPhoto": "/contentassets/ffa0d69a9f944f8c8bd3c3586146b27e/mel199-entry-2021.jpg",
+      "category": "",
+      "costCenter": 1003199,
+      "direction": "Entry via Munro Street only.\r\n",
+      "heightRestriction": 0.0,
+      "information": "<p><span style=\"color: #ff1e25;\"><strong>Freeway Car Park works entry/exit closure notification</strong></span><br />Munro St entry/exit will not be accessible from <strong>Tuesday 9th June to Friday 26th June 2026.<br /></strong>Convention Centre Place will be open throughout the works.</p>\n<p>Wilson Parking offer affordable &amp; secure parking at Freeway&nbsp;Car Park, located at 250 Munro St&nbsp;in the heart of Southbank. Open 7 days, this open air car park provides convenient access to nearby DFO Outlet Centre, Melbourne Exhibition Centre and South Melbourne Businesses. Offering Hourly, Daily Saver, Weekend and Night Parking options with exclusive discounts when you prepay online, permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the Freeway&nbsp;Car Park will meet all your business and leisure parking needs.&nbsp;</p>\n<p>Download the Wilson Parking App to plan your journey and access parking discounts when you prepay online; enjoy unlimited 24/7 access when you subscribe to monthly parking; pay as you go on one convenient monthly invoice when you use your Wilson Parking Card to access the car park.</p>",
+      "isWilsonOne": true,
+      "spottIsAvailable": false,
+      "legacyID": 101,
+      "monthlyParkingServiceIsAvailable": false,
+      "evChargerIsAvailable": false,
+      "disabledParkingIsAvailable": false,
+      "phoneNumber": "1800 PARKING",
+      "products": [],
+      "staticMapPhoto": null,
+      "streetViewHeading": "11.584020694373024",
+      "streetViewLocation": "https://www.google.com/maps/@?api=1&map_action=pano&pano=CwJGeMJ9VBIr7oHYiBvDbg&viewpoint=-37.82733328389597,144.9497701004947&heading=11.584020694373024&pitch=-12.999504906607939",
+      "rates": [
+        {
+          "rateType": "Hourly",
+          "notes": "<p>*DFO Discount: Collect validation ticket when making a purchase from any DFO store or food outlet and receive a 50% discount on your parking rate.</p>",
+          "rates": [
+            {
+              "timeSpan": "0.0 - 1.0 hrs",
+              "price": 16.0
+            },
+            {
+              "timeSpan": "1.0 - 2.0 hrs",
+              "price": 32.0
+            },
+            {
+              "timeSpan": "2.0 - 3.0 hrs",
+              "price": 48.0
+            },
+            {
+              "timeSpan": "3.0 - 4.0 hrs",
+              "price": 60.0
+            },
+            {
+              "timeSpan": "4.0 + hrs",
+              "price": 66.0
+            }
+          ]
+        },
+        {
+          "rateType": "Night",
+          "notes": "<p>Entry after 6:00 pm and exit before 6:00 am next day.</p>\n<p>*DFO Discount: Collect validation ticket when making a purchase from any DFO store or food outlet and receive a 50% discount on your parking rate.</p>",
+          "rates": [
+            {
+              "timeSpan": "Mon - Sun",
+              "price": 20.0
+            }
+          ]
+        }
+      ],
+      "fromText": "From",
+      "fromPrice": "16",
+      "location": {
+        "longitude": 144.949488129972,
+        "latitude": -37.8274774754471,
+        "zoom": 13,
+        "address": "250 Munro Street, South Melbourne",
+        "region": {
+          "name": "Southbank",
+          "longitude": 144.95869874954224,
+          "latitude": -37.823887203271447,
+          "status": "",
+          "state": {
+            "name": "Victoria",
+            "abbreviation": "VIC",
+            "country": "Australia",
+            "longitude": 145.08864104747772,
+            "latitude": -36.438262107088946,
+            "status": ""
+          }
+        }
+      },
+      "openingTimes": [
+        {
+          "day_TimePeriod": "Monthly",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Monday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Tuesday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Wednesday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Thursday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Friday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Saturday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Sunday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Public Holiday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        }
+      ],
+      "url": "/parking-locations/victoria/southbank/freeway-car-park/",
+      "serviceConfiguration": {
+        "canBookABay": true,
+        "bookABayIconLabel": "Prepay Online",
+        "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
+        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingIconLabel": "Monthly Subscription",
+        "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
+        "isWilsonOne": true,
+        "wilsonOneIconLabel": "Parking Card",
+        "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
+        "disabledParkingIsAvailable": false,
+        "disabledParkingIconLabel": "Disabled Parking",
+        "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
+        "evChargerIsAvailable": false,
+        "evChargerIconLabel": "EV Charging",
+        "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
+        "spottIsAvailable": false,
+        "spottIconLabel": "Spott",
+        "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
+        "additionalServices": []
+      },
+      "state": "VIC",
+      "imgUrl": "/contentassets/ffa0d69a9f944f8c8bd3c3586146b27e/mel199-entry-2021.jpg",
+      "price": "",
+      "status": "",
+      "cpmsCarparkCode": null,
+      "externalCarParkInfo": null,
+      "featuredIndex": 0
+    },
+    {
       "name": "352 Canterbury Rd Car Park",
       "bookText": null,
       "canBookABay": false,
@@ -73075,33 +73273,33 @@
           "rates": [
             {
               "timeSpan": "0.0 - 0.5 hrs",
-              "price": 7.0
+              "price": 8.0
             },
             {
               "timeSpan": "0.5 - 1.0 hrs",
-              "price": 15.0
+              "price": 16.0
             },
             {
               "timeSpan": "1.0 - 1.5 hrs",
-              "price": 21.0
+              "price": 22.0
             },
             {
               "timeSpan": "1.5 - 2.0 hrs",
-              "price": 28.0
+              "price": 29.0
             },
             {
               "timeSpan": "2.0 - 3.0 hrs",
-              "price": 35.0
+              "price": 36.0
             },
             {
               "timeSpan": "3 + hours (daily maximum)",
-              "price": 37.0
+              "price": 38.0
             }
           ]
         }
       ],
       "fromText": "From",
-      "fromPrice": "7",
+      "fromPrice": "8",
       "location": {
         "longitude": 153.034832839289,
         "latitude": -27.4972704749102,
@@ -79792,27 +79990,27 @@
           "rates": [
             {
               "timeSpan": "0.0 - 0.5 Hrs",
-              "price": 8.0
+              "price": 9.0
             },
             {
               "timeSpan": "0.5 - 1.0 Hrs",
-              "price": 16.0
+              "price": 17.0
             },
             {
               "timeSpan": "1.0 - 1.5 Hrs",
-              "price": 24.0
+              "price": 25.0
             },
             {
               "timeSpan": "1.5 - 2.0 Hrs",
-              "price": 32.0
+              "price": 33.0
             },
             {
               "timeSpan": "2.0 - 3.0 Hrs",
-              "price": 40.0
+              "price": 42.0
             },
             {
               "timeSpan": "3.0 + Hrs",
-              "price": 48.0
+              "price": 45.0
             }
           ]
         },
@@ -79822,13 +80020,13 @@
           "rates": [
             {
               "timeSpan": "Sat - Sun",
-              "price": 17.5
+              "price": 18.5
             }
           ]
         }
       ],
       "fromText": "From",
-      "fromPrice": "8",
+      "fromPrice": "9",
       "location": {
         "longitude": 153.027731903005,
         "latitude": -27.4498794636843,
@@ -79974,33 +80172,33 @@
           "rates": [
             {
               "timeSpan": "0.0 – 0.5 hrs",
-              "price": 8.0
+              "price": 9.0
             },
             {
               "timeSpan": "0.5 – 1.0 hrs",
-              "price": 16.0
+              "price": 17.0
             },
             {
               "timeSpan": "1.0 – 1.5 hrs",
-              "price": 24.0
+              "price": 25.0
             },
             {
               "timeSpan": "1.5 – 2.0 hrs",
-              "price": 32.0
+              "price": 33.0
             },
             {
               "timeSpan": "2.0 – 3.0 hrs",
-              "price": 40.0
+              "price": 42.0
             },
             {
               "timeSpan": "3+ hrs (daily maximum)",
-              "price": 48.0
+              "price": 49.0
             }
           ]
         }
       ],
       "fromText": "From",
-      "fromPrice": "8",
+      "fromPrice": "9",
       "location": {
         "longitude": 153.026798967519,
         "latitude": -27.4491184267335,
@@ -80164,8 +80362,12 @@
               "price": 20.0
             },
             {
-              "timeSpan": "2.0 + hrs",
-              "price": 25.0
+              "timeSpan": "2.0 - 3.0 hrs",
+              "price": 30.0
+            },
+            {
+              "timeSpan": "3.0 + hrs",
+              "price": 30.0
             }
           ]
         },
@@ -80175,7 +80377,7 @@
           "rates": [
             {
               "timeSpan": "Flat rate",
-              "price": 10.0
+              "price": 12.0
             }
           ]
         }
@@ -80332,33 +80534,33 @@
           "rates": [
             {
               "timeSpan": "0.0 - 0.5 hrs",
-              "price": 8.0
+              "price": 9.0
             },
             {
               "timeSpan": "0.5 - 1.0 hrs",
-              "price": 16.0
+              "price": 17.0
             },
             {
               "timeSpan": "1.0 - 1.5 hrs",
-              "price": 24.0
+              "price": 25.0
             },
             {
               "timeSpan": "1.5 - 2.0 hrs",
-              "price": 32.0
+              "price": 33.0
             },
             {
               "timeSpan": "2.0 - 3.0 hrs",
-              "price": 40.0
+              "price": 42.0
             },
             {
               "timeSpan": "3 + hrs (daily maximum)",
-              "price": 48.0
+              "price": 49.0
             }
           ]
         }
       ],
       "fromText": "From",
-      "fromPrice": "8",
+      "fromPrice": "9",
       "location": {
         "longitude": 153.027668450489,
         "latitude": -27.4459991571836,
@@ -83807,31 +84009,35 @@
             },
             {
               "timeSpan": "10 mins - 24 hrs",
-              "price": 31.0
+              "price": 33.0
             },
             {
               "timeSpan": "1.0 - 2.0 days",
-              "price": 66.0
+              "price": 69.0
             },
             {
               "timeSpan": "2.0 - 3.0 days",
-              "price": 88.0
+              "price": 95.0
             },
             {
               "timeSpan": "3.0 - 4.0 days",
-              "price": 115.0
+              "price": 125.0
             },
             {
               "timeSpan": "4.0 - 5.0 days",
-              "price": 137.0
+              "price": 145.0
             },
             {
               "timeSpan": "5.0 - 6.0 days",
-              "price": 159.0
+              "price": 168.0
+            },
+            {
+              "timeSpan": "6 - 7 days",
+              "price": 191.0
             },
             {
               "timeSpan": "Per additional day or part thereof",
-              "price": 22.0
+              "price": 23.0
             }
           ]
         }
@@ -83995,35 +84201,35 @@
             },
             {
               "timeSpan": "1.0 hrs - 24 hrs",
-              "price": 31.0
+              "price": 33.0
             },
             {
               "timeSpan": "1.0 - 2.0 days",
-              "price": 66.0
+              "price": 69.0
             },
             {
               "timeSpan": "2.0 - 3.0 days",
-              "price": 88.0
+              "price": 95.0
             },
             {
               "timeSpan": "3.0 - 4.0 days",
-              "price": 115.0
+              "price": 125.0
             },
             {
               "timeSpan": "4.0 - 5.0 days",
-              "price": 137.0
+              "price": 145.0
             },
             {
               "timeSpan": "5.0 - 6.0 days",
-              "price": 159.0
+              "price": 168.0
             },
             {
               "timeSpan": "6-0 - 7.0 days",
-              "price": 181.0
+              "price": 191.0
             },
             {
               "timeSpan": "Per additional day or part thereof",
-              "price": 22.0
+              "price": 23.0
             }
           ]
         }
@@ -84190,47 +84396,51 @@
             },
             {
               "timeSpan": "10 - 60 mins",
-              "price": 12.0
+              "price": 13.0
             },
             {
               "timeSpan": "1.0 - 2.0 hrs",
-              "price": 14.0
+              "price": 15.0
             },
             {
               "timeSpan": "2.0 - 3.0 hrs",
-              "price": 18.0
+              "price": 19.0
             },
             {
               "timeSpan": "3.0 - 4.0 hrs",
-              "price": 20.0
+              "price": 21.0
             },
             {
               "timeSpan": "4.0 - 24.0 hrs",
-              "price": 34.0
+              "price": 36.0
             },
             {
               "timeSpan": "1 - 2 days",
-              "price": 69.0
+              "price": 73.0
             },
             {
               "timeSpan": "2 - 3 days",
-              "price": 103.0
+              "price": 109.0
             },
             {
               "timeSpan": "3 - 4 days",
-              "price": 136.0
+              "price": 145.0
             },
             {
               "timeSpan": "4 - 5 days",
-              "price": 170.0
+              "price": 179.0
             },
             {
               "timeSpan": "5 - 6 days",
-              "price": 203.0
+              "price": 215.0
+            },
+            {
+              "timeSpan": "6 - 7 days",
+              "price": 249.0
             },
             {
               "timeSpan": "Per additional day or part thereof",
-              "price": 35.0
+              "price": 37.0
             }
           ]
         }
@@ -84405,15 +84615,23 @@
             },
             {
               "timeSpan": "2 - 3 days",
-              "price": 119.0
+              "price": 125.0
             },
             {
               "timeSpan": "3 - 4 days",
-              "price": 159.0
+              "price": 169.0
             },
             {
               "timeSpan": "4 - 5 days",
-              "price": 196.0
+              "price": 209.0
+            },
+            {
+              "timeSpan": "5 - 6 days",
+              "price": 249.0
+            },
+            {
+              "timeSpan": "6 - 7 days",
+              "price": 285.0
             },
             {
               "timeSpan": "Per additional day or part thereof",
