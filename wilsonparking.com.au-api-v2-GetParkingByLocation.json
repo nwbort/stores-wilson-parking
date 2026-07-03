@@ -1880,7 +1880,7 @@
       "featuredIndex": 0
     },
     {
-      "name": "255 Pitt St (Hilton Hotel) Car Park",
+      "name": "255 Pitt St Car Park",
       "bookText": null,
       "canBookABay": true,
       "selectedFeatures": "",
@@ -1901,7 +1901,7 @@
         "wilson one",
         "monthly"
       ],
-      "carParkName": "255 Pitt St (Hilton Hotel) Car Park",
+      "carParkName": "255 Pitt St Car Park",
       "carParkNumber": 2001,
       "carParkPhoto": "/siteassets/parking-location-images/nsw/syd001a.jpg",
       "category": "Book a Bay",
