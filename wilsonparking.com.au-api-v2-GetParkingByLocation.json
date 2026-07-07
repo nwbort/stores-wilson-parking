@@ -8099,7 +8099,9 @@
         "Wilson One",
         "Vivid",
         "Flexi Parking",
-        "Daily Pass Bundles"
+        "Daily Pass Bundles",
+        "LPR",
+        "Spott"
       ],
       "services": [
         "book a bay",
@@ -8115,7 +8117,7 @@
       "heightRestriction": 1.94,
       "information": "<p>Wilson Parking offer affordable &amp; secure parking at 70 Riley St Car Park which is located at 70 Riley St in the heart of Darlinghurst, Close to Hyde Park, The Domain and Oxford St Restaurant &amp; Nightclub precinct.&nbsp;</p>\n<p>70 Riley St Place Car Park&nbsp;suits all your leisure and business parking needs. With Monthly, Casual Parking options, Prepay Online or use your Wilson Parking Card and pay as you go.</p>",
       "isWilsonOne": true,
-      "spottIsAvailable": false,
+      "spottIsAvailable": true,
       "legacyID": 443,
       "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
@@ -8300,7 +8302,7 @@
         "evChargerIsAvailable": false,
         "evChargerIconLabel": "EV Charging",
         "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "spottIsAvailable": false,
+        "spottIsAvailable": true,
         "spottIconLabel": "Spott",
         "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
         "additionalServices": [
@@ -24935,184 +24937,6 @@
       "status": "",
       "cpmsCarparkCode": null,
       "externalCarParkInfo": null,
-      "featuredIndex": 0
-    },
-    {
-      "name": "60 Rowe St Eastwood",
-      "bookText": null,
-      "canBookABay": false,
-      "selectedFeatures": "",
-      "carParkFeature": [
-        "Night Parking",
-        "Weekend Parking",
-        "Epark",
-        "Entry height at least 2",
-        "Disabled Parking"
-      ],
-      "services": [
-        "disabled parking"
-      ],
-      "carParkName": "60 Rowe St Eastwood",
-      "carParkNumber": 830,
-      "carParkPhoto": null,
-      "category": "",
-      "costCenter": 5002830,
-      "direction": "60 Rowe St Eastwood",
-      "heightRestriction": 0.0,
-      "information": "<p>The 60 Rowe St Eastwoord Car Park is located near Aldi Eastwood, Eastwood Shopping Centre, Eastwood Hotel and many other cafes, restaurants and retail stores.</p>\n<p>Open from 6am - midnight, 7 days a week, the 60 Rowe St Car Park in Eastwood offers casual hourly rates 7 days. With your first 2 hours free, the 60 Rowe St Eastwood Car Park will meet all your parking needs.&nbsp;</p>",
-      "isWilsonOne": false,
-      "spottIsAvailable": false,
-      "legacyID": 5002830,
-      "monthlyParkingServiceIsAvailable": false,
-      "evChargerIsAvailable": false,
-      "disabledParkingIsAvailable": true,
-      "phoneNumber": null,
-      "products": [],
-      "staticMapPhoto": null,
-      "streetViewHeading": "208.00094371710716",
-      "streetViewLocation": "https://www.google.com/maps/@?api=1&map_action=pano&pano=gUT_AZTSv8XgfqQX6kzXBw&viewpoint=-33.79090288040149,151.08423841893716&heading=208.00094371710716&pitch=-16.749937891044624",
-      "rates": [
-        {
-          "rateType": "Hourly",
-          "notes": "<p>Enter after 6am and exit before 12am (midnight) same day</p>",
-          "rates": [
-            {
-              "timeSpan": "0.0 - 2.0 hs",
-              "price": 0.0
-            },
-            {
-              "timeSpan": "2.0 - 3.0 hrs",
-              "price": 5.0
-            },
-            {
-              "timeSpan": "3.0 - 4.0 hrs",
-              "price": 10.0
-            },
-            {
-              "timeSpan": "4.0 - 5.0 hrs",
-              "price": 15.0
-            },
-            {
-              "timeSpan": "5.0 + hrs",
-              "price": 30.0
-            }
-          ]
-        }
-      ],
-      "fromText": "From",
-      "fromPrice": "0",
-      "location": {
-        "longitude": 151.0840840937,
-        "latitude": -33.7910068665395,
-        "zoom": 13,
-        "address": "60 Rowe St Eastwood",
-        "region": {
-          "name": "Parramatta",
-          "longitude": 151.00512742996216,
-          "latitude": -33.810522854619578,
-          "status": "",
-          "state": {
-            "name": "New South Wales",
-            "abbreviation": "NSW",
-            "country": "Australia",
-            "longitude": 151.207430362701,
-            "latitude": -33.8662642500823,
-            "status": ""
-          }
-        }
-      },
-      "openingTimes": [
-        {
-          "day_TimePeriod": "Monday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "6:00",
-          "closing": "0:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Tuesday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "6:00",
-          "closing": "00:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Wednesday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "6:00",
-          "closing": "00:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Thursday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "6:00",
-          "closing": "00:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Friday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "6:00",
-          "closing": "00:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Saturday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "6:00",
-          "closing": "00:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Sunday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "6:00",
-          "closing": "00:00",
-          "note": null
-        }
-      ],
-      "url": "/parking-locations/new-south-wales/parramatta/60-rowe-st-eastwood/",
-      "serviceConfiguration": {
-        "canBookABay": false,
-        "bookABayIconLabel": "Prepay Online",
-        "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": false,
-        "monthlyParkingIconLabel": "Monthly Subscription",
-        "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
-        "isWilsonOne": false,
-        "wilsonOneIconLabel": "Parking Card",
-        "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
-        "disabledParkingIsAvailable": true,
-        "disabledParkingIconLabel": "Disabled Parking",
-        "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
-        "evChargerIsAvailable": false,
-        "evChargerIconLabel": "EV Charging",
-        "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "spottIsAvailable": false,
-        "spottIconLabel": "Spott",
-        "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
-        "additionalServices": []
-      },
-      "state": "NSW",
-      "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
-      "price": "",
-      "status": "",
-      "cpmsCarparkCode": null,
-      "externalCarParkInfo": {
-        "name": "InterPark",
-        "pinUrl": "/globalassets/icons/interpark-icons/pin-blue.png",
-        "logoUrl": "/siteassets/parking-stock-images/interpark-icons/interpark_logo.jpg",
-        "pageUrl": "",
-        "content": "<p>This is an Interpark carpark with LOGO</p>"
-      },
       "featuredIndex": 0
     },
     {
@@ -63462,7 +63286,7 @@
       "costCenter": 1003106,
       "direction": "Entry & Exit via Russell Street",
       "heightRestriction": 2.0,
-      "information": "<p>Wilson Parking offers affordable and convenient parking at the T&amp;G Building located at 161 Collins Street, Melbourne. Enter&nbsp;at 37-39 Russell St (between Flinders Lane &amp; Collins St).</p>\n<p>The T&amp;G Building, 161 Collins St Car Park offers discounted parking when you prepay online for Flexi, Weekend and Night products, as well as competitive drive-in rates. You can pay as you go with the Wilson Parking Card, or enjoy convenient unlimited 24/7 access when you subscribe to Monthly Parking.</p>\n<p>The T&amp;G Building, 161 Collins St Car Park is sure to meet all of your Melbourne CBD parking needs.</p>\n<p><strong>This car park accepts Credit Card payments only</strong>.</p>\n<p>&nbsp;</p>",
+      "information": "<p><span style=\"color: #ff1e25;\">Due to electrical works the car park <strong>will not be accessible</strong> from <strong>6pm Saturday 25th July</strong> until <strong>6.30am Sunday 26th July</strong></span></p>\n<p>Wilson Parking offers affordable and convenient parking at the T&amp;G Building located at 161 Collins Street, Melbourne. Enter&nbsp;at 37-39 Russell St (between Flinders Lane &amp; Collins St).</p>\n<p>The T&amp;G Building, 161 Collins St Car Park offers discounted parking when you prepay online for Flexi, Weekend and Night products, as well as competitive drive-in rates. You can pay as you go with the Wilson Parking Card, or enjoy convenient unlimited 24/7 access when you subscribe to Monthly Parking.</p>\n<p>The T&amp;G Building, 161 Collins St Car Park is sure to meet all of your Melbourne CBD parking needs.</p>\n<p><strong>This car park accepts Credit Card payments only</strong>.</p>\n<p>&nbsp;</p>",
       "isWilsonOne": true,
       "spottIsAvailable": false,
       "legacyID": 98,
@@ -64359,7 +64183,7 @@
       "costCenter": 1003391,
       "direction": "Entry via 312 Lonsdale Street",
       "heightRestriction": 2.0,
-      "information": "<p><span style=\"color: #000000;\">Wilson Parking offer affordable &amp; secure parking at St Francis Church Car Park, located at 312 Lonsdale Street, Melbourne&nbsp;in the heart of Melbourne CBD. Open 7 days, this undercover car park provides convenient access to many nearby attractions including St Francis Church, Melbourne Central and the State Library of Victoria. </span></p>\n<p><span style=\"color: #000000;\">Offering Casual, Hourly, Weekend and Night Parking options, the St Francis Church Car Park will meet all your parking needs.&nbsp;</span></p>\n<p><span style=\"color: #000000;\">Pay as you go with a Wilson Parking Card, Prepay or enjoy unlimited 24/7 access when you subscribe to a Monthly Parking account.</span></p>",
+      "information": "<p><span style=\"color: #000000;\"><span style=\"color: #ff1e25;\"><strong><u>Closure of all eastbound lanes on Lonsdale Street</u></strong></span><br /><span style=\"color: #ff1e25;\"><strong>Sunday 12<sup>th</sup>&nbsp;July 2026</strong></span><br /><span style=\"color: #ff1e25;\"><strong>Hours:</strong>&nbsp;5:00pm Sunday to 6:00am the following morning (Monday 13th)</span><br /><span style=\"color: #ff1e25;\"><em>Please note that vehicles will not be able to enter the car park during this time</em></span></span></p>\n<p><span style=\"color: #000000;\">Wilson Parking offer affordable &amp; secure parking at St Francis Church Car Park, located at 312 Lonsdale Street, Melbourne&nbsp;in the heart of Melbourne CBD. Open 7 days, this undercover car park provides convenient access to many nearby attractions including St Francis Church, Melbourne Central and the State Library of Victoria. </span></p>\n<p><span style=\"color: #000000;\">Offering Casual, Hourly, Weekend and Night Parking options, the St Francis Church Car Park will meet all your parking needs.&nbsp;</span></p>\n<p><span style=\"color: #000000;\">Pay as you go with a Wilson Parking Card, Prepay or enjoy unlimited 24/7 access when you subscribe to a Monthly Parking account.</span></p>",
       "isWilsonOne": true,
       "spottIsAvailable": true,
       "legacyID": 1003391,
@@ -64619,29 +64443,29 @@
           "rates": [
             {
               "timeSpan": "0.0 - 0.5 hrs",
-              "price": 6.0
+              "price": 7.0
             },
             {
               "timeSpan": "0.5 - 1.0 hrs",
-              "price": 12.0
+              "price": 14.0
             },
             {
               "timeSpan": "1.0 - 2.0 hrs",
-              "price": 24.0
+              "price": 28.0
             },
             {
               "timeSpan": "2.0 - 3.0 hrs",
-              "price": 36.0
+              "price": 42.0
             },
             {
               "timeSpan": "3.0 + hrs",
-              "price": 45.0
+              "price": 49.0
             }
           ]
         }
       ],
       "fromText": "From",
-      "fromPrice": "6",
+      "fromPrice": "7",
       "location": {
         "longitude": 144.96054241964339,
         "latitude": -37.810317887951228,
