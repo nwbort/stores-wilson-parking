@@ -234,8 +234,8 @@
       "carParkFeature": [
         "Wilson One",
         "Entry height at least 2",
-        "Elevate",
         "LPR",
+        "Elevate Only",
         "Spott"
       ],
       "services": [
@@ -1277,12 +1277,8 @@
               "price": 65.0
             },
             {
-              "timeSpan": "2.0 - 3.0 hrs",
-              "price": 75.0
-            },
-            {
-              "timeSpan": "3.0 + hrs",
-              "price": 90.0
+              "timeSpan": "2.0 + hrs",
+              "price": 95.0
             }
           ]
         },
@@ -17456,7 +17452,6 @@
         "Disabled Parking",
         "Daily Pass Bundles",
         "Summer Sale",
-        "Elevate",
         "LPR",
         "Spott Saver",
         "Spott"
@@ -61520,9 +61515,9 @@
         "Daily Pass Bundles",
         "Melbourne Train Delays",
         "Super Saver",
-        "Elevate",
         "LPR",
-        "Spott Saver"
+        "Spott Saver",
+        "Spott"
       ],
       "services": [
         "book a bay",
@@ -61538,7 +61533,7 @@
       "heightRestriction": 2.0,
       "information": "<p>Wilson Parking offer affordable &amp; secure parking at 222 Russell St Car Park, located at 222 Russell Street in the Melbourne CBD. This car park is nearby to many Melbourne attractions, including Chinatown and is perfect for restaurant parking. Offering casual Night and Weekend parking with exclusive discounts when you prepay online, or permanent monthly parking for regular parkers, the 222 Russell St Car Park will meet all of your parking needs.</p>\n<p>Download the Wilson Parking App to plan your journey and access exclusive discounts when you prepay online; pay as you go with one monthly invoice when you use your Wilson Parking Card; enjoy unlimited 24/7 access when you subscribe to Monthly Parking; or drive up and pay with your credit card only at the car park.</p>",
       "isWilsonOne": true,
-      "spottIsAvailable": false,
+      "spottIsAvailable": true,
       "legacyID": 215,
       "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
@@ -61713,7 +61708,7 @@
         "evChargerIsAvailable": false,
         "evChargerIconLabel": "EV Charging",
         "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "spottIsAvailable": false,
+        "spottIsAvailable": true,
         "spottIconLabel": "Spott",
         "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
         "additionalServices": [
@@ -64183,7 +64178,7 @@
       "costCenter": 1003391,
       "direction": "Entry via 312 Lonsdale Street",
       "heightRestriction": 2.0,
-      "information": "<p><span style=\"color: #000000;\"><span style=\"color: #ff1e25;\"><strong><u>Closure of all eastbound lanes on Lonsdale Street</u></strong></span><br /><span style=\"color: #ff1e25;\"><strong>Sunday 12<sup>th</sup>&nbsp;July 2026</strong></span><br /><span style=\"color: #ff1e25;\"><strong>Hours:</strong>&nbsp;5:00pm Sunday to 6:00am the following morning (Monday 13th)</span><br /><span style=\"color: #ff1e25;\"><em>Please note that vehicles will not be able to enter the car park during this time</em></span></span></p>\n<p><span style=\"color: #000000;\">Wilson Parking offer affordable &amp; secure parking at St Francis Church Car Park, located at 312 Lonsdale Street, Melbourne&nbsp;in the heart of Melbourne CBD. Open 7 days, this undercover car park provides convenient access to many nearby attractions including St Francis Church, Melbourne Central and the State Library of Victoria. </span></p>\n<p><span style=\"color: #000000;\">Offering Casual, Hourly, Weekend and Night Parking options, the St Francis Church Car Park will meet all your parking needs.&nbsp;</span></p>\n<p><span style=\"color: #000000;\">Pay as you go with a Wilson Parking Card, Prepay or enjoy unlimited 24/7 access when you subscribe to a Monthly Parking account.</span></p>",
+      "information": "<p><span style=\"color: #000000;\"><span style=\"color: #ff1e25;\"><strong><u>Closure of all eastbound lanes on Lonsdale Street</u></strong></span><br /><span style=\"color: #ff1e25;\"><strong>Sunday 19<sup>th</sup>&nbsp;July 2026</strong></span><br /><span style=\"color: #ff1e25;\"><strong>Hours:</strong>&nbsp;5:00pm Sunday to 6:00am the following morning (Monday 20th)</span><br /><span style=\"color: #ff1e25;\"><em>Please note that vehicles will not be able to enter the car park during this time</em></span></span></p>\n<p><span style=\"color: #000000;\">Wilson Parking offer affordable &amp; secure parking at St Francis Church Car Park, located at 312 Lonsdale Street, Melbourne&nbsp;in the heart of Melbourne CBD. Open 7 days, this undercover car park provides convenient access to many nearby attractions including St Francis Church, Melbourne Central and the State Library of Victoria. </span></p>\n<p><span style=\"color: #000000;\">Offering Casual, Hourly, Weekend and Night Parking options, the St Francis Church Car Park will meet all your parking needs.&nbsp;</span></p>\n<p><span style=\"color: #000000;\">Pay as you go with a Wilson Parking Card, Prepay or enjoy unlimited 24/7 access when you subscribe to a Monthly Parking account.</span></p>",
       "isWilsonOne": true,
       "spottIsAvailable": true,
       "legacyID": 1003391,
@@ -69298,24 +69293,19 @@
     {
       "name": "500 La Trobe St Car Park",
       "bookText": null,
-      "canBookABay": true,
+      "canBookABay": false,
       "selectedFeatures": "",
       "carParkFeature": [
         "Night Parking",
         "Weekend Parking",
         "Early Bird Parking",
-        "Book a Bay",
         "Flexi Parking",
         "Entry height at least 2",
-        "Elevate",
-        "LPR",
         "Elevate Only",
         "Spott Saver",
         "Spott"
       ],
-      "services": [
-        "book a bay"
-      ],
+      "services": [],
       "carParkName": "500 La Trobe St Car Park",
       "carParkNumber": 3348,
       "carParkPhoto": "/siteassets/parking-location-images/vic/mel348.jpg",
@@ -69479,7 +69469,7 @@
       ],
       "url": "/parking-locations/victoria/melbourne-cbd/500-la-trobe-st-car-park/",
       "serviceConfiguration": {
-        "canBookABay": true,
+        "canBookABay": false,
         "bookABayIconLabel": "Prepay Online",
         "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
         "monthlyParkingServiceIsAvailable": false,
@@ -69915,9 +69905,9 @@
         "Wilson One",
         "Flexi Parking",
         "Daily Pass Bundles",
-        "Elevate",
         "LPR",
-        "Spott Saver"
+        "Spott Saver",
+        "Spott"
       ],
       "services": [
         "book a bay",
@@ -69932,7 +69922,7 @@
       "heightRestriction": 0.0,
       "information": "<p>Wilson Parking offer affordable &amp; secure parking at 5 Queens Road Car Park&nbsp; located in the heart of St Kilda. With Early Bird and casual parking, the 5 Queens Road Car Park will meet all of your parking needs.</p>\n<p><strong>This car park accepts Credit Card payments only.</strong></p>",
       "isWilsonOne": true,
-      "spottIsAvailable": false,
+      "spottIsAvailable": true,
       "legacyID": 545,
       "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
@@ -70079,7 +70069,7 @@
         "evChargerIsAvailable": false,
         "evChargerIconLabel": "EV Charging",
         "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "spottIsAvailable": false,
+        "spottIsAvailable": true,
         "spottIconLabel": "Spott",
         "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
         "additionalServices": [
@@ -80635,154 +80625,6 @@
         }
       ],
       "url": "/parking-locations/queensland/bulimba/171-177-oxford-street/",
-      "serviceConfiguration": {
-        "canBookABay": false,
-        "bookABayIconLabel": "Prepay Online",
-        "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": false,
-        "monthlyParkingIconLabel": "Monthly Subscription",
-        "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
-        "isWilsonOne": false,
-        "wilsonOneIconLabel": "Parking Card",
-        "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
-        "disabledParkingIsAvailable": false,
-        "disabledParkingIconLabel": "Disabled Parking",
-        "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
-        "evChargerIsAvailable": false,
-        "evChargerIconLabel": "EV Charging",
-        "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "spottIsAvailable": false,
-        "spottIconLabel": "Spott",
-        "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
-        "additionalServices": [
-          {
-            "label": null,
-            "icon": null
-          }
-        ]
-      },
-      "state": "QLD",
-      "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
-      "price": "",
-      "status": "",
-      "cpmsCarparkCode": null,
-      "externalCarParkInfo": null,
-      "featuredIndex": 0
-    },
-    {
-      "name": "Oxford 152",
-      "bookText": null,
-      "canBookABay": false,
-      "selectedFeatures": "",
-      "carParkFeature": [
-        "Night Parking",
-        "Weekend Parking",
-        "Overnight Parking",
-        "Epark",
-        "Entry height at least 2"
-      ],
-      "services": [],
-      "carParkName": "Oxford 152",
-      "carParkNumber": 4362,
-      "carParkPhoto": null,
-      "category": "",
-      "costCenter": 1004362,
-      "direction": "Entry via 12 Princess Street",
-      "heightRestriction": 0.0,
-      "information": "<p>Wilson Parking offers affordable &amp; secure parking at Oxford 152&nbsp;car park, located at car park address in the heart of Bulimba. Open 7 days, this car park provides convenient access to the Oxford Street retail and dining precinct. Offering&nbsp;hourly parking options and the convenience of payment from your phone with the Wilson Parking App, the Oxford 152&nbsp;car park&nbsp;will meet all your business and leisure parking needs.&nbsp;</p>\n<p>Download the Wilson Parking App to easily pay for your parking from your phone.</p>",
-      "isWilsonOne": false,
-      "spottIsAvailable": false,
-      "legacyID": 4362,
-      "monthlyParkingServiceIsAvailable": false,
-      "evChargerIsAvailable": false,
-      "disabledParkingIsAvailable": false,
-      "phoneNumber": "1800 PARKING (1800 727 546)",
-      "products": [],
-      "staticMapPhoto": null,
-      "streetViewHeading": null,
-      "streetViewLocation": "https://www.google.com/maps/@?api=1&map_action=pano&pano=sf2RDHs2DuqCpYL7_jnN-w&viewpoint=-27.450442862949284,153.05817443490085&heading=102.00058321791485&pitch=-5.067698391549129&zoom=0.2194673375482138",
-      "rates": [],
-      "fromText": "From",
-      "fromPrice": "7",
-      "location": {
-        "longitude": 153.058525793804,
-        "latitude": -27.4505409488795,
-        "zoom": 13,
-        "address": "152 Oxford Street, Bulimba QLD 4171",
-        "region": {
-          "name": "Bulimba",
-          "longitude": 153.05860081481933,
-          "latitude": -27.451447169341414,
-          "status": "",
-          "state": {
-            "name": "Queensland",
-            "abbreviation": "QLD",
-            "country": "Australia",
-            "longitude": 153.029420017695,
-            "latitude": -27.46777640825,
-            "status": ""
-          }
-        }
-      },
-      "openingTimes": [
-        {
-          "day_TimePeriod": "Monday",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Tuesday",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Wednesday",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Thursday",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Friday",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Saturday",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Sunday",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        }
-      ],
-      "url": "/parking-locations/queensland/bulimba/oxford-152/",
       "serviceConfiguration": {
         "canBookABay": false,
         "bookABayIconLabel": "Prepay Online",
