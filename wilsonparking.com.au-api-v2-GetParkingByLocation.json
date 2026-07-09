@@ -22598,7 +22598,7 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p><span style=\"text-decoration: underline;\"><strong>Hourly</strong></span>: Monday to Sunday. Rates charged from 7am daily.&nbsp;</p>\n<p><span style=\"text-decoration: underline;\"><strong>Overnight</strong></span>: charged in addition to Hourly rates. Charged to all vehicles left in the car park from 12am till 7am the following morning (during car park closure).&nbsp;</p>",
+          "notes": "<p><span style=\"text-decoration: underline;\"><strong>Hourly</strong></span>: Monday to Sunday. Rates charged from 6am daily.&nbsp;</p>\n<p><span style=\"text-decoration: underline;\"><strong>Overnight</strong></span>: charged in addition to Hourly rates. Charged to all vehicles left in the car park from 12am till 6am the following morning (during car park closure).&nbsp;</p>",
           "rates": [
             {
               "timeSpan": "0.0 - 1.0 hrs",
@@ -22626,7 +22626,7 @@
             },
             {
               "timeSpan": "Overnight, add an addtional charge of",
-              "price": 36.0
+              "price": 41.0
             }
           ]
         }
