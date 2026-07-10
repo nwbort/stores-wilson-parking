@@ -7709,7 +7709,7 @@
         },
         {
           "rateType": "Night",
-          "notes": "<p>Entry after 5pm, exit before car park closes.&nbsp;Casual rates apply if conditions are not met</p>\n<p>Online rates include transaction fee. Click the <strong>Prepay&nbsp;now</strong> link below to get started</p>",
+          "notes": "<p>Entry after 5pm, exit before 6am next day.&nbsp;Casual rates apply if conditions are not met</p>\n<p>Online rates include transaction fee. Click the <strong>Prepay&nbsp;now</strong> link below to get started</p>",
           "rates": [
             {
               "timeSpan": "Mon - Fri",
@@ -51863,9 +51863,12 @@
       "canBookABay": false,
       "selectedFeatures": "",
       "carParkFeature": [
+        "Monthly Parking",
         "Entry height at least 2"
       ],
-      "services": [],
+      "services": [
+        "monthly"
+      ],
       "carParkName": "Woden Green Car Park",
       "carParkNumber": 1006,
       "carParkPhoto": null,
@@ -51877,7 +51880,7 @@
       "isWilsonOne": false,
       "spottIsAvailable": false,
       "legacyID": 304,
-      "monthlyParkingServiceIsAvailable": false,
+      "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
       "phoneNumber": "1800 PARKING",
@@ -52002,7 +52005,7 @@
         "canBookABay": false,
         "bookABayIconLabel": "Prepay Online",
         "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingServiceIsAvailable": true,
         "monthlyParkingIconLabel": "Monthly Subscription",
         "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
         "isWilsonOne": false,
