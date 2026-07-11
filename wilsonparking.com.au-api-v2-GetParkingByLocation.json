@@ -70031,14 +70031,6 @@
           "note": null
         },
         {
-          "day_TimePeriod": "Saturday",
-          "is24_7": false,
-          "closed": true,
-          "opening": "7:00",
-          "closing": "21:00",
-          "note": null
-        },
-        {
           "day_TimePeriod": "Sunday",
           "is24_7": false,
           "closed": true,
@@ -86003,7 +85995,7 @@
       "costCenter": 1005004,
       "direction": null,
       "heightRestriction": 2.0,
-      "information": "<p><span style=\"color: #ff1e25;\"><strong>Important Update<br /></strong></span><span style=\"color: #ff1e25;\">Due to planned building works, temporary access disruptions may occur between 7:00am and 3:00pm on Saturday 27th June at this car park. Please allow additional time when entering and exiting the car park.</span></p>\n<p>Wilson Parking offer affordable &amp; secure parking at 21 Bent St Car Park located at 21 Bent Street, Adelaide. This car park is positioned in the heart of Adelaide, close to shopping, restaurants and the Adelaide CBD. With Hourly, and discount online parking options the 21 Bent St Car Park will meet all of your parking needs.</p>\n<p>Enjoy the convenience of&nbsp;pay as you go with a Wilson Parking card, or enjoy 24/7 unlimited access when you subscribe to Monthly Parking.</p>",
+      "information": "<p>&nbsp;</p>\n<p><span style=\"color: #ff1e25;\"><strong>Important Update</strong> : Planned building works,</span></p>\n<p><span style=\"color: #ff1e25;\">Site is currently under full renovations until late August. <br /></span></p>\n<p><span style=\"color: #ff1e25;\">Lifts are currently out of service</span></p>\n<p><span style=\"color: #ff1e25;\">We apologise for any incovenience.&nbsp;</span></p>\n<p>&nbsp;</p>\n<p>Wilson Parking offer affordable &amp; secure parking at 21 Bent St Car Park located at 21 Bent Street, Adelaide. This car park is positioned in the heart of Adelaide, close to shopping, restaurants and the Adelaide CBD. With Hourly, and discount online parking options the 21 Bent St Car Park will meet all of your parking needs.</p>\n<p>Enjoy the convenience of&nbsp;pay as you go with a Wilson Parking card, or enjoy 24/7 unlimited access when you subscribe to Monthly Parking.</p>",
       "isWilsonOne": true,
       "spottIsAvailable": true,
       "legacyID": 268,
