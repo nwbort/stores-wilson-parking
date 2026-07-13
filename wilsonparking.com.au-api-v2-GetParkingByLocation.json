@@ -17862,11 +17862,15 @@
           "notes": "<p>Rates apply All Days - Monday to Friday</p>\n<p>After Hours Charge:&nbsp;Charged in additional to Casual rates for all vehicles left in car park past close (12.30am Monday to Saturay, 10.30pm Sunday &amp; Public Holidays</p>\n<p><span style=\"text-decoration: underline;\">2 Hours Free Parking - available with Retail Validation Only</span>: Parkers need to have their vehicle rego validated in store to obtain free 2 hour parking period</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 2.0 hrs (With Retail Validation)",
+              "timeSpan": "0.0 - 2.5 hrs (With Retail Validation)",
               "price": 0.0
             },
             {
-              "timeSpan": "0.0 - 2.0 hrs  (Unvalidated)",
+              "timeSpan": "0.0 - 0.5 hrs (Unvalidated)",
+              "price": 0.0
+            },
+            {
+              "timeSpan": "0.5 - 2.0 hrs  (Unvalidated)",
               "price": 8.0
             },
             {
@@ -17910,7 +17914,11 @@
           "notes": null,
           "rates": [
             {
-              "timeSpan": "2.0 + hrs",
+              "timeSpan": "0.0 - 1.5 hrs",
+              "price": 0.0
+            },
+            {
+              "timeSpan": "1.5 + hrs",
               "price": 8.0
             }
           ]
@@ -84459,13 +84467,13 @@
           "rates": [
             {
               "timeSpan": "Flat",
-              "price": 5.4
+              "price": 5.8
             }
           ]
         }
       ],
       "fromText": "From",
-      "fromPrice": "5.4",
+      "fromPrice": "5.8",
       "location": {
         "longitude": 138.70914634907382,
         "latitude": -34.974138989466326,
@@ -93192,7 +93200,7 @@
       "carParkPhoto": "/contentassets/ca151af77ba848a8a7950e6de5610cf5/capture.jpg",
       "category": "",
       "costCenter": 1006212,
-      "direction": "<b>**Car Park only operational on selected event days**</b><br>\n\n</b><br>3rd July -  AFL West Coast Eagles Vs Adelaide Crows <b>\n</b><br>(Gate opens at 4:30pm and closes at 10:00pm sharp)<b>\n\n</b><br>9th July -  AFL Fremantle Vs Sydney Swans<b>\n</b><br>(Gate opens at 4:30pm and closes at 10:00pm sharp)<b>",
+      "direction": "<b>**Car Park only operational on selected event days**</b><br>\n\n</b><br>9th July -  AFL Fremantle Vs Sydney Swans<b>\n</b><br>(Gate opens at 4:30pm and closes at 10:00pm sharp)<b>",
       "heightRestriction": 0.0,
       "information": "<p>Wilson Parking offers affordable parking at Belmont Racecourse Car Park for Optus Stadium event parking only. Located a short walk from Optus Stadium, this car park is the perfect location for footy, cricket, concerts and other Optus Stadium events. Operational days are shown under the parking rates to the left.</p>\n<p>Parking must be prepaid in advance through the Wilson Parking App or website. No payments can be taken at the gate. Must present prepaid confirmation to access car park.</p>",
       "isWilsonOne": false,
@@ -96698,35 +96706,35 @@
           "rates": [
             {
               "timeSpan": "0.0 - 0.5 hrs",
-              "price": 9.0
+              "price": 10.0
             },
             {
               "timeSpan": "0.5 - 1.0 hrs",
-              "price": 15.0
+              "price": 16.0
             },
             {
               "timeSpan": "1.0 - 1.5 hrs",
-              "price": 20.0
+              "price": 21.0
             },
             {
               "timeSpan": "1.5 - 2.0 hrs",
-              "price": 25.0
+              "price": 26.0
             },
             {
               "timeSpan": "2.0 - 3.0 hrs",
-              "price": 28.0
+              "price": 29.0
             },
             {
               "timeSpan": "3.0 - 4.0 hrs",
-              "price": 31.0
+              "price": 32.0
             },
             {
               "timeSpan": "4.0 - 5.0 hrs",
-              "price": 34.0
+              "price": 35.0
             },
             {
               "timeSpan": "5.0 + hrs",
-              "price": 37.0
+              "price": 38.0
             }
           ]
         },
@@ -101748,39 +101756,39 @@
             },
             {
               "timeSpan": "0.25 - 0.5 hrs",
-              "price": 7.0
+              "price": 8.0
             },
             {
               "timeSpan": "0.5 - 1.0 hrs",
-              "price": 13.0
+              "price": 14.0
             },
             {
               "timeSpan": "1.0 - 1.5 hrs",
-              "price": 18.0
+              "price": 19.0
             },
             {
               "timeSpan": "1.5 - 2.0 hrs",
-              "price": 23.0
+              "price": 24.0
             },
             {
               "timeSpan": "2.0 - 3.0 hrs",
-              "price": 27.0
+              "price": 28.0
             },
             {
               "timeSpan": "3.0 - 4.0 hrs",
-              "price": 33.0
+              "price": 34.0
             },
             {
               "timeSpan": "4.0 - 5.0 hrs",
-              "price": 38.0
+              "price": 39.0
             },
             {
               "timeSpan": "5.0 - 6.0 + hrs",
-              "price": 43.0
+              "price": 44.0
             },
             {
               "timeSpan": "6.0 + hrs",
-              "price": 45.0
+              "price": 46.0
             }
           ]
         },
