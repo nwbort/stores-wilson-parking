@@ -6639,6 +6639,191 @@
       "featuredIndex": 0
     },
     {
+      "name": "Sir John Young Crescent Car park - Premium",
+      "bookText": null,
+      "canBookABay": false,
+      "selectedFeatures": "",
+      "carParkFeature": [
+        "Night Parking",
+        "Weekend Parking",
+        "Early Bird Parking",
+        "Flexi Parking"
+      ],
+      "services": [],
+      "carParkName": "Sir John Young Crescent Car park - Premium",
+      "carParkNumber": 0,
+      "carParkPhoto": null,
+      "category": "",
+      "costCenter": 1002432,
+      "direction": null,
+      "heightRestriction": 0.0,
+      "information": "<h3><span style=\"color: #ff1e25;\">Opening Wednesday 15th July 2026</span></h3>\n<p>Affordable &amp; secure parking is available at Sir John Young Crescent Car park - Premium which is located at Sir John Young Crescent in the heart of Sydney<br />This car park ofters premium larger spaces suitable for larger or oversized vehicles.&nbsp;</p>\n<p>Sir John Young Crescent Car park - Premium near The Domain which is home of Music Festivals, Carols in the Domain, Concerts &amp; Marathon events. <br />Offering Hourly, Night and Weekend parking as well as discount online parking options, Sir John Young Crescent Car park - Premium Car Park suits all your parking needs.</p>\n<p>Save when you prepay for your parking online or with the Wilson Parking App or enjoy unlimited 24/7 access when you subscribe to monthly parking if you visit frequently.&nbsp;</p>",
+      "isWilsonOne": false,
+      "spottIsAvailable": false,
+      "legacyID": 2432,
+      "monthlyParkingServiceIsAvailable": false,
+      "evChargerIsAvailable": false,
+      "disabledParkingIsAvailable": false,
+      "phoneNumber": "1800 PARKING (1800 727 546)",
+      "products": [],
+      "staticMapPhoto": null,
+      "streetViewHeading": null,
+      "streetViewLocation": null,
+      "rates": [
+        {
+          "rateType": "Hourly",
+          "notes": "<p>Rates start at 6am daily</p>",
+          "rates": [
+            {
+              "timeSpan": "0.0 - 1.0 hrs",
+              "price": 19.0
+            },
+            {
+              "timeSpan": "1.0 - 2.0 hrs",
+              "price": 39.0
+            },
+            {
+              "timeSpan": "2.0 - 3.0 hrs",
+              "price": 49.0
+            },
+            {
+              "timeSpan": "3.0 + hrs",
+              "price": 59.0
+            }
+          ]
+        },
+        {
+          "rateType": "Night",
+          "notes": "<p>Entry after 5pm, exit before car park close</p>",
+          "rates": [
+            {
+              "timeSpan": "Mon - Fri",
+              "price": 25.0
+            }
+          ]
+        },
+        {
+          "rateType": "Weekend",
+          "notes": "<p>Entry after 6am, exit before car park close.&nbsp;</p>",
+          "rates": [
+            {
+              "timeSpan": "Sat or Sun",
+              "price": 25.0
+            }
+          ]
+        }
+      ],
+      "fromText": "From",
+      "fromPrice": "19",
+      "location": {
+        "longitude": 151.216203747101,
+        "latitude": -33.8714417616952,
+        "zoom": 13,
+        "address": "Sir John Young Crescent, Sydney",
+        "region": {
+          "name": "Sydney CBD",
+          "longitude": 151.20743036270142,
+          "latitude": -33.866264250082345,
+          "status": "",
+          "state": {
+            "name": "New South Wales",
+            "abbreviation": "NSW",
+            "country": "Australia",
+            "longitude": 151.207430362701,
+            "latitude": -33.8662642500823,
+            "status": ""
+          }
+        }
+      },
+      "openingTimes": [
+        {
+          "day_TimePeriod": "Monday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "06:00",
+          "closing": "00:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Tuesday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "06:00",
+          "closing": "00:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Wednesday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "06:00",
+          "closing": "00:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Thursday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "06:00",
+          "closing": "00:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Friday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "06:00",
+          "closing": "00:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Saturday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "06:00",
+          "closing": "00:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Sunday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "06:00",
+          "closing": "00:00",
+          "note": null
+        }
+      ],
+      "url": "/parking-locations/new-south-wales/sydney-cbd/sir-john-young-crescent-car-park-premium/",
+      "serviceConfiguration": {
+        "canBookABay": false,
+        "bookABayIconLabel": "Prepay Online",
+        "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
+        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingIconLabel": "Monthly Subscription",
+        "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
+        "isWilsonOne": false,
+        "wilsonOneIconLabel": "Parking Card",
+        "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
+        "disabledParkingIsAvailable": false,
+        "disabledParkingIconLabel": "Disabled Parking",
+        "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
+        "evChargerIsAvailable": false,
+        "evChargerIconLabel": "EV Charging",
+        "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
+        "spottIsAvailable": false,
+        "spottIconLabel": "Spott",
+        "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
+        "additionalServices": []
+      },
+      "state": "NSW",
+      "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
+      "price": "",
+      "status": "",
+      "cpmsCarparkCode": null,
+      "externalCarParkInfo": null,
+      "featuredIndex": 0
+    },
+    {
       "name": "580 George Car Park",
       "bookText": null,
       "canBookABay": true,
@@ -7431,201 +7616,6 @@
       },
       "state": "NSW",
       "imgUrl": "/siteassets/parking-location-images/nsw/syd239.jpg",
-      "price": "",
-      "status": "",
-      "cpmsCarparkCode": null,
-      "externalCarParkInfo": null,
-      "featuredIndex": 0
-    },
-    {
-      "name": "324 Pitt St Car Park",
-      "bookText": null,
-      "canBookABay": true,
-      "selectedFeatures": "",
-      "carParkFeature": [
-        "Monthly Parking",
-        "Early Bird Parking",
-        "Book a Bay",
-        "Wilson One",
-        "Flexi Parking"
-      ],
-      "services": [
-        "book a bay",
-        "wilson one",
-        "monthly"
-      ],
-      "carParkName": "324 Pitt St Car Park",
-      "carParkNumber": 2286,
-      "carParkPhoto": null,
-      "category": "",
-      "costCenter": 1002286,
-      "direction": "Entry via 324 Pitt St",
-      "heightRestriction": 1.8,
-      "information": "<p>Wilson Parking offer affordable &amp; secure parking at 324 Pitt St Car Park, located at 324 Pitt St in the heart of Sydney CBD &amp; is underneath the 233 Castlereagh St building. Nearby to Hyde Park and the ANZAC Memorial, Pitt St Mall and China Town shopping and restaurant precincts, this car park is open Monday - Friday and will meet all your commuter parking needs. Offering Casual and Hourly parking, pay as you go with the Wilson Parking Card, or save when you prepay ahead online or with the Wilson Parking App.&nbsp;</p>\n<p>Enjoy unlimited 24/7 car park access when you subscribe to monthly parking.&nbsp;</p>",
-      "isWilsonOne": true,
-      "spottIsAvailable": false,
-      "legacyID": 441,
-      "monthlyParkingServiceIsAvailable": true,
-      "evChargerIsAvailable": false,
-      "disabledParkingIsAvailable": false,
-      "phoneNumber": "1800 PARKING",
-      "products": [],
-      "staticMapPhoto": null,
-      "streetViewHeading": "86.73732502075501",
-      "streetViewLocation": "https://www.google.com/maps/@?api=1&map_action=pano&pano=na_BiIX32FJpk49n-KK87Q&viewpoint=-33.87589111381865,151.2079028227289&heading=86.73732502075501&pitch=-20.275344819785346",
-      "rates": [
-        {
-          "rateType": "Hourly",
-          "notes": "<p>Rates apply Monday to Friday</p>\n<p>Online rate shown includes transaction fee. Click the Prepay now link below to get started.</p>",
-          "rates": [
-            {
-              "timeSpan": "0.0 - 0.5 hrs",
-              "price": 15.0
-            },
-            {
-              "timeSpan": "0.5 - 1.0 hrs",
-              "price": 29.0
-            },
-            {
-              "timeSpan": "1.0 - 2.0 hrs",
-              "price": 49.0
-            },
-            {
-              "timeSpan": "2.0 - 3.0 hrs",
-              "price": 59.0
-            },
-            {
-              "timeSpan": "3.0 + hrs ",
-              "price": 69.0
-            }
-          ]
-        }
-      ],
-      "fromText": "From",
-      "fromPrice": "15",
-      "location": {
-        "longitude": 151.20830878615379,
-        "latitude": -33.876010801988485,
-        "zoom": 13,
-        "address": "324 Pitt Street, Sydney ",
-        "region": {
-          "name": "Sydney CBD",
-          "longitude": 151.20743036270142,
-          "latitude": -33.866264250082345,
-          "status": "",
-          "state": {
-            "name": "New South Wales",
-            "abbreviation": "NSW",
-            "country": "Australia",
-            "longitude": 151.207430362701,
-            "latitude": -33.8662642500823,
-            "status": ""
-          }
-        }
-      },
-      "openingTimes": [
-        {
-          "day_TimePeriod": "Monthly",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Monday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "07:00",
-          "closing": "19:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Tuesday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "07:00",
-          "closing": "19:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Wednesday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "07:00",
-          "closing": "19:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Thursday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "07:00",
-          "closing": "19:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Friday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "07:00",
-          "closing": "19:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Saturday",
-          "is24_7": false,
-          "closed": true,
-          "opening": "",
-          "closing": "",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Sunday",
-          "is24_7": false,
-          "closed": true,
-          "opening": "",
-          "closing": "",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Public Holiday",
-          "is24_7": false,
-          "closed": true,
-          "opening": "",
-          "closing": "",
-          "note": null
-        }
-      ],
-      "url": "/parking-locations/new-south-wales/sydney-cbd/",
-      "serviceConfiguration": {
-        "canBookABay": true,
-        "bookABayIconLabel": "Prepay Online",
-        "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": true,
-        "monthlyParkingIconLabel": "Monthly Subscription",
-        "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
-        "isWilsonOne": true,
-        "wilsonOneIconLabel": "Parking Card",
-        "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
-        "disabledParkingIsAvailable": false,
-        "disabledParkingIconLabel": "Disabled Parking",
-        "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
-        "evChargerIsAvailable": false,
-        "evChargerIconLabel": "EV Charging",
-        "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "spottIsAvailable": false,
-        "spottIconLabel": "Spott",
-        "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
-        "additionalServices": [
-          {
-            "label": null,
-            "icon": null
-          }
-        ]
-      },
-      "state": "NSW",
-      "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
       "price": "",
       "status": "",
       "cpmsCarparkCode": null,
@@ -81977,7 +81967,7 @@
       "costCenter": 1004252,
       "direction": null,
       "heightRestriction": 0.0,
-      "information": "<p>&nbsp;</p>\n<p><span style=\"text-decoration: underline;\">This car park is only open to the general public on cruise ship days</span></p>\n<p>&nbsp;</p>\n<p>Wilson Parking offers premium &amp; convenient parking at Brisbane International Cruise Terminal P2 - Car Park 2, located at <strong>1 Cruise Terminal Drive, Pinkenba QLD 4008</strong></p>\n<p>- 250 - 400m to the terminal building<br />- Consisting of open air bays<br />- Accessible parking bays</p>\n<p>&nbsp;</p>\n<p>Notes</p>\n<p><strong>This is car park accepts prepaid parking only. Alternate travel options or parking at P3 should be considered when there are no bays available for prepaid parking.</strong></p>\n<p><strong>Disability bays can be prepaid by emailing bict@wilsongroupau.com - this is subject to availability</strong></p>\n<p>This car park is only available to the general public on cruise ship days</p>\n<p>Notes</p>\n<p>All regular sized vehicles, including popular model dual cab utes, can fit in the allocated parks. Oversized models, as well as trailers, are not permitted</p>\n<p>Please contact our national customer care team for further information on</p>\n<p>1800 727 546 and follow the prompts</p>",
+      "information": "<p>This car park is only open to the general public on cruise ship days<br /><br /><span style=\"color: #ff1e25;\">For Accessible Parking, please contact customer care to receive a <strong>promo code</strong> to make your prepayment.&nbsp;</span></p>\n<p>Wilson Parking offers premium &amp; convenient parking at Brisbane International Cruise Terminal P2 - Car Park 2, located at <strong>1 Cruise Terminal Drive, Pinkenba QLD 4008</strong></p>\n<p>- 250 - 400m to the terminal building<br />- Consisting of open air bays<br />- Accessible parking bays</p>\n<p>Please note</p>\n<p><strong>This is car park accepts prepaid parking only. Alternate travel options or parking at P3 should be considered when there are no bays available for prepaid parking.</strong></p>\n<p><strong>Disability bays can be prepaid by emailing bict@wilsongroupau.com - this is subject to availability</strong></p>\n<p>Notes<br />All regular sized vehicles, including popular model dual cab utes, can fit in the allocated parks. Oversized models, as well as trailers, are not permitted</p>\n<p>Please contact our national customer care team for further information on</p>\n<p>1800 727 546 and follow the prompts</p>",
       "isWilsonOne": false,
       "spottIsAvailable": false,
       "legacyID": 4252,
@@ -82130,7 +82120,7 @@
       "costCenter": 1004251,
       "direction": "Entry via Cruise Terminal Drive, Pinkenba QLD 4008",
       "heightRestriction": 2.5,
-      "information": "<p>&nbsp;</p>\n<p><span style=\"text-decoration: underline;\">This car park is only open to the general public on cruise ship days</span></p>\n<p>&nbsp;</p>\n<p>Wilson Parking offers premium &amp; convenient parking at Brisbane International Cruise Terminal P1 - Premium, located at <strong>1 Cruise Terminal Drive, Pinkenba QLD 4008</strong>. The Premium car park offers parking options under shade structures plus open air parking.</p>\n<p>- Closest to the terminal building (50 - 220m)<br />- Consisting of bays under shade (not enclosed) &amp; open air bays<br />- Accessible parking bays<br />- Electric vehicle charging station (types 1 and 2 cable and plug; IEC 62196-2)</p>\n<p>&nbsp;</p>\n<p>Notes</p>\n<p><strong>This is car park accepts prepaid parking&nbsp;only. Alternate travel options or parking at P3 should be considered when there are no bays available for prepaid parking.</strong></p>\n<p><strong>ACCESS TO SHADED BAYS IS NOT GUARANTEED</strong></p>\n<p><strong>Disability bays can be prepaid&nbsp;by emailing bict@wilsongroupau.com - this is subject to availability</strong></p>\n<p>Notes</p>\n<p>All regular sized vehicles, including popular model dual cab utes, can fit in the allocated parks. Oversized models, as well as trailers, are not permitted</p>",
+      "information": "<p><span style=\"text-decoration-line: underline;\">This car park is only open to the general public on cruise ship days<br /></span><br /><span style=\"color: #ff1e25;\">For Accessible Parking, please contact customer care to receive a <strong>promo code</strong> to make your prepayment.&nbsp;</span></p>\n<p>Wilson Parking offers premium &amp; convenient parking at Brisbane International Cruise Terminal P1 - Premium, located at <strong>1 Cruise Terminal Drive, Pinkenba QLD 4008</strong>. The Premium car park offers parking options under shade structures plus open air parking.</p>\n<p>- Closest to the terminal building (50 - 220m)<br />- Consisting of bays under shade (not enclosed) &amp; open air bays<br />- Accessible parking bays<br />- Electric vehicle charging station (types 1 and 2 cable and plug; IEC 62196-2)</p>\n<p>Please note</p>\n<p><strong>This is car park accepts prepaid parking&nbsp;only. Alternate travel options or parking at P3 should be considered when there are no bays available for prepaid parking.</strong></p>\n<p><strong>ACCESS TO SHADED BAYS IS NOT GUARANTEED</strong></p>\n<p><strong>Disability bays can be prepaid&nbsp;by emailing bict@wilsongroupau.com - this is subject to availability</strong></p>\n<p>Notes<br />All regular sized vehicles, including popular model dual cab utes, can fit in the allocated parks. Oversized models, as well as trailers, are not permitted</p>",
       "isWilsonOne": false,
       "spottIsAvailable": false,
       "legacyID": 4251,
