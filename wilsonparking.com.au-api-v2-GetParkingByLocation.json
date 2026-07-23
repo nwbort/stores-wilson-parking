@@ -2580,7 +2580,7 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Hourly rates apply Monday to Friday</p>\n<p>Rates are charged from 6am daily</p>\n<p><strong><u>Overnight</u>: Charged in additional to all vehicles left in car park past close (12am)</strong></p>",
+          "notes": "<p>Hourly rates apply Monday to Sunday</p>\n<p>Rates are charged from 6am daily</p>\n<p><strong><u>Overnight</u>: Charged in additional to all vehicles left in car park past close (12am)</strong></p>",
           "rates": [
             {
               "timeSpan": "0.0 - 0.5 hrs",
@@ -2626,10 +2626,6 @@
           "rateType": "Weekend",
           "notes": "<p><strong><u>Overnight</u>: Charged in additional to all vehicles left in car park past close (12am)</strong></p>\n<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend Rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the <strong>Prepay Now</strong> link below to get started.<br />Rates shown include transaction fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>",
           "rates": [
-            {
-              "timeSpan": "Weekend varies from $31.75-$33.75, depending on demand",
-              "price": 35.0
-            },
             {
               "timeSpan": "Overnight, add an additional charge of",
               "price": 40.0
@@ -9719,203 +9715,6 @@
         }
       ],
       "url": "/parking-locations/new-south-wales/cbd-sydney-north/atrium-car-park-u60/",
-      "serviceConfiguration": {
-        "canBookABay": false,
-        "bookABayIconLabel": "Prepay Online",
-        "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": false,
-        "monthlyParkingIconLabel": "Monthly Subscription",
-        "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
-        "isWilsonOne": false,
-        "wilsonOneIconLabel": "Parking Card",
-        "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
-        "disabledParkingIsAvailable": false,
-        "disabledParkingIconLabel": "Disabled Parking",
-        "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
-        "evChargerIsAvailable": false,
-        "evChargerIconLabel": "EV Charging",
-        "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "spottIsAvailable": false,
-        "spottIconLabel": "Spott",
-        "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
-        "additionalServices": []
-      },
-      "state": null,
-      "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
-      "price": "",
-      "status": "",
-      "cpmsCarparkCode": null,
-      "externalCarParkInfo": {
-        "name": "InterPark",
-        "pinUrl": "/globalassets/icons/interpark-icons/pin-blue.png",
-        "logoUrl": "/siteassets/parking-stock-images/interpark-icons/interpark_logo.jpg",
-        "pageUrl": "",
-        "content": "<p>This is an Interpark carpark with LOGO</p>"
-      },
-      "featuredIndex": 0
-    },
-    {
-      "name": "Atrium Car Park - U60",
-      "bookText": null,
-      "canBookABay": false,
-      "selectedFeatures": "",
-      "carParkFeature": [],
-      "services": [],
-      "carParkName": "Atrium Car Park - U60",
-      "carParkNumber": 5002511,
-      "carParkPhoto": null,
-      "category": "",
-      "costCenter": 5002511,
-      "direction": "2 Edward St Pyrmont",
-      "heightRestriction": 2.1,
-      "information": "<p>The Atrium Car Park - U60 is located at 2 Edward St Pyrmont and offers convenient affordable parking close to The Star Casino, Lyric Theatre, ICC and Darling Harbour restaurants and night spots.&nbsp;</p>\n<p>Open 7 days and offering affordable week day hourly parking rates, flat rates on the weekend, and special discounts for Coles customers, the Atrium Car Park - U60 will meet all your parking needs.</p>",
-      "isWilsonOne": false,
-      "spottIsAvailable": false,
-      "legacyID": 5002511,
-      "monthlyParkingServiceIsAvailable": false,
-      "evChargerIsAvailable": false,
-      "disabledParkingIsAvailable": false,
-      "phoneNumber": null,
-      "products": [],
-      "staticMapPhoto": null,
-      "streetViewHeading": null,
-      "streetViewLocation": "https://www.google.com/maps/@?api=1&map_action=pano&pano=ff0LIIYNLh7aowGlcNLbag&viewpoint=-33.868918252199585,151.196251438441&heading=333.02948743388487&pitch=0.2786813618578634&zoom=1",
-      "rates": [
-        {
-          "rateType": "Hourly",
-          "notes": "<p>Availble Monday - Froday</p>\n<p>Coles Validation rates only available with validation of $30 minimum spend in Coles Pyrmont</p>\n<ul>\n<li>Scan your Coles receipt ($30 minimum spend) at automatic pay machine to validate your parking ticket before proceeding to the exit gates.</li>\n</ul>",
-          "rates": [
-            {
-              "timeSpan": "0.0 - 0.5 hr",
-              "price": 0.0
-            },
-            {
-              "timeSpan": "0.5 - 1.0 hrs",
-              "price": 8.0
-            },
-            {
-              "timeSpan": "1.0 - 2.0 hrs",
-              "price": 20.0
-            },
-            {
-              "timeSpan": "2.0 - 3.0 hrs",
-              "price": 28.0
-            },
-            {
-              "timeSpan": "3+ hrs",
-              "price": 38.0
-            },
-            {
-              "timeSpan": "0.0 - 1.5 hrs",
-              "price": 0.0
-            },
-            {
-              "timeSpan": "1.5 - 2.0 hrs",
-              "price": 28.0
-            },
-            {
-              "timeSpan": "2.0 - 3.0 hrs",
-              "price": 28.0
-            },
-            {
-              "timeSpan": "3+ hrs",
-              "price": 38.0
-            }
-          ]
-        },
-        {
-          "rateType": "Night",
-          "notes": "<p>Entry after 5pm, exit before car park close</p>",
-          "rates": [
-            {
-              "timeSpan": "Mon-Fri",
-              "price": 15.0
-            }
-          ]
-        },
-        {
-          "rateType": "Weekend",
-          "notes": "<p>Available Saturday and Sunday.&nbsp;</p>\n<p>Rates are charged per exit per day</p>",
-          "rates": [
-            {
-              "timeSpan": "0.0 - 0.5 hrs",
-              "price": 0.0
-            },
-            {
-              "timeSpan": "0.5+ hrs",
-              "price": 15.0
-            }
-          ]
-        }
-      ],
-      "fromText": "From",
-      "fromPrice": "0",
-      "location": {
-        "longitude": 151.196328961481,
-        "latitude": -33.8690278066743,
-        "zoom": 13,
-        "address": "2 Edward St, Pyrmont",
-        "region": null
-      },
-      "openingTimes": [
-        {
-          "day_TimePeriod": "Monday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "6:00",
-          "closing": "0:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Tuesday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "6:00",
-          "closing": "0:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Wednesday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "6:00",
-          "closing": "0:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Thursday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "6:00",
-          "closing": "0:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Friday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "6:00",
-          "closing": "1:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Saturday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "6:00",
-          "closing": "1:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Sunday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "6:00",
-          "closing": "0:00",
-          "note": null
-        }
-      ],
-      "url": "/parking-locations/new-south-wales/darling-harbour/atrium-car-park-u60/",
       "serviceConfiguration": {
         "canBookABay": false,
         "bookABayIconLabel": "Prepay Online",
@@ -22266,6 +22065,10 @@
           "notes": null,
           "rates": [
             {
+              "timeSpan": "0.0 - 2.0 hrs",
+              "price": 0.0
+            },
+            {
               "timeSpan": "2.0 - 3.0 hrs",
               "price": 2.0
             },
@@ -22297,7 +22100,7 @@
         }
       ],
       "fromText": "From",
-      "fromPrice": "2",
+      "fromPrice": "0",
       "location": {
         "longitude": 151.102981025991,
         "latitude": -33.8569476299444,
@@ -27665,7 +27468,9 @@
         "Book a Bay",
         "Wilson One",
         "Entry height at least 2",
-        "Disabled Parking"
+        "Disabled Parking",
+        "LPR",
+        "Spott"
       ],
       "services": [
         "book a bay",
@@ -27682,7 +27487,7 @@
       "heightRestriction": 2.0,
       "information": "<p>Wilson Parking offer affordable &amp; secure parking at 9 Wentworth St Car Park, located at 9 Wentworth St in the heart of Parramatta CBD, Westfield Shopping &amp; Restaurant Precint.</p>\n<p>9 Wentworth St Car Park suits all your leisure and business parking needs. With Monthly, Casual, Weekend Parking options available or use your Wilson Parking Card and pay as you go!</p>",
       "isWilsonOne": true,
-      "spottIsAvailable": false,
+      "spottIsAvailable": true,
       "legacyID": 440,
       "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
@@ -27827,7 +27632,7 @@
         "evChargerIsAvailable": false,
         "evChargerIconLabel": "EV Charging",
         "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "spottIsAvailable": false,
+        "spottIsAvailable": true,
         "spottIconLabel": "Spott",
         "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
         "additionalServices": []
@@ -33932,7 +33737,7 @@
           "note": null
         }
       ],
-      "url": "/parking-locations/new-south-wales/greater-west/esplanade-norwest-car-park/",
+      "url": "/parking-locations/new-south-wales/greater-west/",
       "serviceConfiguration": {
         "canBookABay": false,
         "bookABayIconLabel": "Prepay Online",
@@ -60591,7 +60396,7 @@
       "costCenter": 1003195,
       "direction": "Entry & exit via St Andrews Place",
       "heightRestriction": 2.1,
-      "information": "<p><u></u><span style=\"color: #ff1e25;\"><strong><u>Event Dates 2026:<br /></u></strong>July - 11th, 18th, 24th and 30th</span><br /><span style=\"color: #ff1e25;\">August - 8th</span><br /><span style=\"color: #ff1e25;\">Event<em>&nbsp;rates will apply.<br /></em><em>On event dates, please allow additional time to exit.</em></span></p>\n<p>Wilson Parking offer affordable &amp; secure parking at Park Hyatt Car Park, located at St Andrews Place&nbsp;in the heart of East Melbourne. Open 7 days, this undercover car park provides convenient access to Princess Theatre, Comedy Theatre, Parliament House and with 24 hour access is perfect for restaurant and hotel parking. Offering Hourly, Early Bird, Weekend and Night Parking options with exclusive discounts when you prepay online, permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the Park Hyatt Car Park will meet all your business and leisure parking needs.&nbsp;</p>\n<p>This car park accepts credit card payment only. Download the Wilson Parking App to plan your journey and access parking discounts when you prepay online;&nbsp;enjoy unlimited 24/7 access when you subscribe to monthly parking; pay as you go on one convenient monthly invoice when you use your Wilson Parking Card to access the car park.&nbsp;</p>",
+      "information": "<p><u></u><span style=\"color: #ff1e25;\"><strong><u>Event Dates 2026:<br /></u></strong>July - 24th and 30th</span><br /><span style=\"color: #ff1e25;\">August - 8th</span><br /><span style=\"color: #ff1e25;\">Event<em>&nbsp;rates will apply.<br /></em><em>On event dates, please allow additional time to exit.</em></span></p>\n<p>Wilson Parking offer affordable &amp; secure parking at Park Hyatt Car Park, located at St Andrews Place&nbsp;in the heart of East Melbourne. Open 7 days, this undercover car park provides convenient access to Princess Theatre, Comedy Theatre, Parliament House and with 24 hour access is perfect for restaurant and hotel parking. Offering Hourly, Early Bird, Weekend and Night Parking options with exclusive discounts when you prepay online, permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the Park Hyatt Car Park will meet all your business and leisure parking needs.&nbsp;</p>\n<p>This car park accepts credit card payment only. Download the Wilson Parking App to plan your journey and access parking discounts when you prepay online;&nbsp;enjoy unlimited 24/7 access when you subscribe to monthly parking; pay as you go on one convenient monthly invoice when you use your Wilson Parking Card to access the car park.&nbsp;</p>",
       "isWilsonOne": true,
       "spottIsAvailable": true,
       "legacyID": 120,
@@ -61514,7 +61319,7 @@
       "costCenter": 1003300,
       "direction": null,
       "heightRestriction": 2.05,
-      "information": "<p><span style=\"color: #ff1e25;\"><u></u><strong><u>Event Dates 2026:<br /></u></strong>July - 11th, 18th, 24th and 30th<br />August - 8th<br />Event<em>&nbsp;rates will apply.<br /></em><em>On event dates, please allow additional time to exit.</em></span></p>\n<p>Wilson Parking offers affordable &amp; secure parking at 11 Exhibition St&nbsp;Car Park, located at 11 Exhibition St in the heart of East End. Open 7 days, this undercover car park provides convenient access to nearby the MCG, Federation Square, Birrarung Marr, Melbourne Park and many other popular attractions. This car park offers flat rate parking at the times you need when you prepay online a Flexi Saver rate online. Casual Hourly, Weekend and Night Parking options are also available, with permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the 11 Exhibition St Car Park will meet all your business and leisure parking needs.&nbsp;</p>\n<p>This car park accepts Credit Card payments only.&nbsp;Download the Wilson Parking App to plan your journey and access the best parking value when you prepay online; enjoy unlimited 24/7 access when you subscribe to monthly parking; pay as you go on one convenient monthly invoice when you use your Wilson Parking Card to access the car park.</p>",
+      "information": "<p><span style=\"color: #ff1e25;\"><u></u><strong><u>Event Dates 2026:<br /></u></strong>July - 24th and 30th<br />August - 8th<br />Event<em>&nbsp;rates will apply.<br /></em><em>On event dates, please allow additional time to exit.</em></span></p>\n<p>Wilson Parking offers affordable &amp; secure parking at 11 Exhibition St&nbsp;Car Park, located at 11 Exhibition St in the heart of East End. Open 7 days, this undercover car park provides convenient access to nearby the MCG, Federation Square, Birrarung Marr, Melbourne Park and many other popular attractions. This car park offers flat rate parking at the times you need when you prepay online a Flexi Saver rate online. Casual Hourly, Weekend and Night Parking options are also available, with permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the 11 Exhibition St Car Park will meet all your business and leisure parking needs.&nbsp;</p>\n<p>This car park accepts Credit Card payments only.&nbsp;Download the Wilson Parking App to plan your journey and access the best parking value when you prepay online; enjoy unlimited 24/7 access when you subscribe to monthly parking; pay as you go on one convenient monthly invoice when you use your Wilson Parking Card to access the car park.</p>",
       "isWilsonOne": true,
       "spottIsAvailable": true,
       "legacyID": 497,
@@ -65233,7 +65038,7 @@
       "featuredIndex": 0
     },
     {
-      "name": "Grand Mercure Car Park",
+      "name": "The Sebel Car Park",
       "bookText": null,
       "canBookABay": false,
       "selectedFeatures": "",
@@ -65243,14 +65048,14 @@
       "services": [
         "monthly"
       ],
-      "carParkName": "Grand Mercure Car Park",
+      "carParkName": "The Sebel Car Park",
       "carParkNumber": 3242,
       "carParkPhoto": null,
       "category": "",
       "costCenter": 1003242,
       "direction": null,
       "heightRestriction": 2.0,
-      "information": "<p>Wilson Parking offer affordable &amp; secure parking at Grand Mercure Car Park , located at 317 Flinders Lane, Melbourne. Ideally located in the centre of the Melbourne CBD, and offering competitive Monthly Parking rates, contact us to subscribe today.&nbsp;</p>\n<p>Monthly Parking only</p>",
+      "information": "<p>Wilson Parking offer affordable &amp; secure parking at The Sebel Car Park , located at 317 Flinders Lane, Melbourne. Ideally located in the centre of the Melbourne CBD, and offering competitive Monthly Parking rates, contact us to subscribe today.&nbsp;</p>\n<p>Monthly Parking only</p>",
       "isWilsonOne": false,
       "spottIsAvailable": false,
       "legacyID": 174,
@@ -65295,7 +65100,7 @@
           "note": null
         }
       ],
-      "url": "/parking-locations/victoria/melbourne-cbd/grand-mercure-car-park/",
+      "url": "/parking-locations/victoria/melbourne-cbd/the-sebel-car-park/",
       "serviceConfiguration": {
         "canBookABay": false,
         "bookABayIconLabel": "Prepay Online",
@@ -70944,7 +70749,7 @@
       "costCenter": 1003225,
       "direction": "Entry via Enterprize Way. Car park is on the right.",
       "heightRestriction": 2.0,
-      "information": "<p>&nbsp;</p>\n<p><strong style=\"color: #ff1e25;\"><u>Event Dates 2026:<br /></u></strong><span style=\"color: #ff1e25;\">July - 10th, 11th, 18th, 19th, 25th, 26th<br /></span><span style=\"color: #ff1e25;\">August - 1st, 2nd, 6th, 9th, 27th<br /></span><span style=\"color: #ff1e25;\"><em>Event rates will apply. Drive up only.</em><br /><em>On event dates, please allow additional time to exit.</em></span></p>\n<p><span style=\"color: #ff1e25;\"><br /><em><br /></em></span>Wilson Parking offer affordable parking at 800 Bourke St Car Park, located at Enterprize Way, Docklands. This car park, located on the Yarra River,&nbsp; is nearby to Marvel Stadium, Docklands Park and other Docklands attractions. Offering Hourly, Weekend and night parking, as well as discount online parking options, the 800 Bourke St Car Park will meet all of your parking needs.</p>\n<p>Experience the convenience of&nbsp;pay as you go with a Wilson Parking card, or enjoy 24/7 unlimited access when you subscribe to Monthly Parking.</p>",
+      "information": "<p><strong style=\"color: #ff1e25;\"><u>Event Dates 2026:<br /></u></strong><span style=\"color: #ff1e25;\">July - 25th, 26th<br /></span><span style=\"color: #ff1e25;\">August - 1st, 2nd, 6th, 9th, 27th<br /></span><span style=\"color: #ff1e25;\"><em>Event rates will apply. Drive up only.</em><br /><em>On event dates, please allow additional time to exit.</em></span></p>\n<p><span style=\"color: #ff1e25;\"><br /><em><br /></em></span>Wilson Parking offer affordable parking at 800 Bourke St Car Park, located at Enterprize Way, Docklands. This car park, located on the Yarra River,&nbsp; is nearby to Marvel Stadium, Docklands Park and other Docklands attractions. Offering Hourly, Weekend and night parking, as well as discount online parking options, the 800 Bourke St Car Park will meet all of your parking needs.</p>\n<p>Experience the convenience of&nbsp;pay as you go with a Wilson Parking card, or enjoy 24/7 unlimited access when you subscribe to Monthly Parking.</p>",
       "isWilsonOne": true,
       "spottIsAvailable": true,
       "legacyID": 41,
