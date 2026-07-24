@@ -2624,7 +2624,7 @@
         },
         {
           "rateType": "Weekend",
-          "notes": "<p><strong><u>Overnight</u>: Charged in additional to all vehicles left in car park past close (12am)</strong></p>\n<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend Rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the <strong>Prepay Now</strong> link below to get started.<br />Rates shown include transaction fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>",
+          "notes": "<p><strong><u>Drive up : Hourly rates apply Monday - Sunday</u></strong></p>\n<p><strong><u>Overnight</u>: Charged in additional to all vehicles left in car park past close (12am)</strong></p>\n<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend Rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the <strong>Prepay Now</strong> link below to get started.<br />Rates shown include transaction fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>",
           "rates": [
             {
               "timeSpan": "Overnight, add an additional charge of",
@@ -6819,7 +6819,13 @@
       "price": "",
       "status": "",
       "cpmsCarparkCode": null,
-      "externalCarParkInfo": null,
+      "externalCarParkInfo": {
+        "name": "Sir John Young Crescent Car Park ",
+        "pinUrl": "/siteassets/parking-stock-images/icons/pin-blue.png",
+        "logoUrl": "",
+        "pageUrl": "",
+        "content": ""
+      },
       "featuredIndex": 0
     },
     {
@@ -9790,7 +9796,7 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p><strong>Hourly rates apply Monday to Sunday</strong></p>",
+          "notes": "<p><strong>Hourly rates start from 6am and apply Monday to Sunday</strong></p>",
           "rates": [
             {
               "timeSpan": " 0.0 - 0.5 hrs",
@@ -23670,7 +23676,7 @@
       "services": [],
       "carParkName": "TAFE Kogarah Car Park",
       "carParkNumber": 2272,
-      "carParkPhoto": null,
+      "carParkPhoto": "/contentassets/3c3886b1c78347bb9f85087b4a21ebd9/kogarah-tafe.png",
       "category": "",
       "costCenter": 1002272,
       "direction": null,
@@ -23830,7 +23836,7 @@
         "additionalServices": []
       },
       "state": "NSW",
-      "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
+      "imgUrl": "/contentassets/3c3886b1c78347bb9f85087b4a21ebd9/kogarah-tafe.png",
       "price": "",
       "status": "",
       "cpmsCarparkCode": null,
@@ -27468,9 +27474,7 @@
         "Book a Bay",
         "Wilson One",
         "Entry height at least 2",
-        "Disabled Parking",
-        "LPR",
-        "Spott"
+        "Disabled Parking"
       ],
       "services": [
         "book a bay",
@@ -27487,7 +27491,7 @@
       "heightRestriction": 2.0,
       "information": "<p>Wilson Parking offer affordable &amp; secure parking at 9 Wentworth St Car Park, located at 9 Wentworth St in the heart of Parramatta CBD, Westfield Shopping &amp; Restaurant Precint.</p>\n<p>9 Wentworth St Car Park suits all your leisure and business parking needs. With Monthly, Casual, Weekend Parking options available or use your Wilson Parking Card and pay as you go!</p>",
       "isWilsonOne": true,
-      "spottIsAvailable": true,
+      "spottIsAvailable": false,
       "legacyID": 440,
       "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
@@ -27632,7 +27636,7 @@
         "evChargerIsAvailable": false,
         "evChargerIconLabel": "EV Charging",
         "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "spottIsAvailable": true,
+        "spottIsAvailable": false,
         "spottIconLabel": "Spott",
         "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
         "additionalServices": []
@@ -43494,7 +43498,7 @@
       "services": [],
       "carParkName": "36 Mort Street Car Park",
       "carParkNumber": 2069,
-      "carParkPhoto": null,
+      "carParkPhoto": "/contentassets/c01dea7b384f4af1869feb5b3e987c1d/can069-36-mort-street.png",
       "category": "",
       "costCenter": 1012069,
       "direction": null,
@@ -43646,7 +43650,7 @@
         "additionalServices": []
       },
       "state": "ACT",
-      "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
+      "imgUrl": "/contentassets/c01dea7b384f4af1869feb5b3e987c1d/can069-36-mort-street.png",
       "price": "",
       "status": "",
       "cpmsCarparkCode": null,
@@ -66258,19 +66262,19 @@
           "rates": [
             {
               "timeSpan": "0.0 - 1.0 hours",
-              "price": 22.0
+              "price": 23.0
             },
             {
               "timeSpan": "1.0 - 2.0 hours",
-              "price": 44.0
+              "price": 46.0
             },
             {
               "timeSpan": "2.0 - 3.0 hours",
-              "price": 66.0
+              "price": 69.0
             },
             {
               "timeSpan": "3.0 + hours",
-              "price": 88.0
+              "price": 89.0
             }
           ]
         },
@@ -85435,7 +85439,7 @@
             },
             {
               "timeSpan": "5.0 + hrs",
-              "price": 33.0
+              "price": 34.0
             }
           ]
         },
@@ -85840,7 +85844,7 @@
       "costCenter": 1005004,
       "direction": null,
       "heightRestriction": 2.0,
-      "information": "<p><span style=\"color: #ff1e25;\"><span style=\"text-decoration: underline;\"><strong>Important Update</strong></span>&nbsp;<br /></span><span style=\"color: #ff1e25;\">Due to planned building works, this car park is&nbsp;currently under full renovations until late August.</span></p>\n<p><span style=\"color: #ff1e25;\">Lifts are currently out of service.&nbsp;We apologise for any inconvenience this may cause.</span></p>\n<p>Wilson Parking offer affordable &amp; secure parking at 21 Bent St Car Park located at 21 Bent Street, Adelaide. This car park is positioned in the heart of Adelaide, close to shopping, restaurants and the Adelaide CBD. With Hourly, and discount online parking options the 21 Bent St Car Park will meet all of your parking needs.</p>\n<p>Enjoy the convenience of&nbsp;pay as you go with a Wilson Parking card, or enjoy 24/7 unlimited access when you subscribe to Monthly Parking.</p>",
+      "information": "<p><span style=\"color: #ff1e25;\"><span style=\"text-decoration: underline;\"><strong>Important Update</strong></span>&nbsp;<br /></span><span style=\"color: #ff1e25;\">Due to planned building works, this car park is&nbsp;currently under full renovations until late August.</span></p>\n<p>Wilson Parking offer affordable &amp; secure parking at 21 Bent St Car Park located at 21 Bent Street, Adelaide. This car park is positioned in the heart of Adelaide, close to shopping, restaurants and the Adelaide CBD. With Hourly, and discount online parking options the 21 Bent St Car Park will meet all of your parking needs.</p>\n<p>Enjoy the convenience of&nbsp;pay as you go with a Wilson Parking card, or enjoy 24/7 unlimited access when you subscribe to Monthly Parking.</p>",
       "isWilsonOne": true,
       "spottIsAvailable": true,
       "legacyID": 268,
@@ -86972,8 +86976,12 @@
               "price": 25.0
             },
             {
-              "timeSpan": "2.5 + hrs",
+              "timeSpan": "2.5 - 3.0 hrs",
               "price": 30.0
+            },
+            {
+              "timeSpan": "3.0 + hrs",
+              "price": 31.0
             }
           ]
         },
@@ -89481,18 +89489,14 @@
             },
             {
               "timeSpan": "1.0 - 2.0 hrs",
-              "price": 14.0
+              "price": 16.0
             },
             {
               "timeSpan": "2.0 - 3.0 hrs",
-              "price": 19.0
-            },
-            {
-              "timeSpan": "3.0 - 4.0 hrs",
               "price": 24.0
             },
             {
-              "timeSpan": "4.0 + hrs",
+              "timeSpan": "3.0 + hrs",
               "price": 28.0
             }
           ]
