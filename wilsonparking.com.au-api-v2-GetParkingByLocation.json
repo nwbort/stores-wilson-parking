@@ -76626,11 +76626,11 @@
         },
         {
           "rateType": "Weekend",
-          "notes": "<p>Drive up Weekend rates apply on Public Holidays</p>\n<p>Flat rate per day, per exit. Enter after 6:00am and exit before 10:00pm</p>\n<p><strong>For car park access</strong>, please refer to roller door instructions at the entry of the car park.</p>",
+          "notes": "<p>Flat rate per day, per exit. Enter after 6:00am and exit before 10:00pm</p>\n<p><strong>For car park access</strong>, please refer to roller door instructions at the entry of the car park.</p>",
           "rates": [
             {
               "timeSpan": "Weekends",
-              "price": 15.0
+              "price": 16.0
             }
           ]
         }
