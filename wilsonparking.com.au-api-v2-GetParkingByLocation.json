@@ -7447,7 +7447,7 @@
       "carParkPhoto": "/siteassets/parking-location-images/nsw/syd239.jpg",
       "category": "",
       "costCenter": 1002239,
-      "direction": "Entry via Reiby Place\n\nRoad closures in the area during Vivid Festival 2026, from 22 May to 13 June 2026. Access may be affected by road closures.\n",
+      "direction": "Entry via Reiby Place\n\n",
       "heightRestriction": 2.0,
       "information": "<p>Wilson Parking offer affordable &amp; secure parking at The Gateway St at 25 Reiby Place in the heart of The Rocks. Close to Circular Quay, the Sydney Opera House, International Cruise Ship Terminal, Restaurants and Bar Precincts, and open to midnight every day, the car park is perfect for business or leisure parking. Offering casual Hourly, Night, Weekend and Overnight Parking with exclusive discounts available when you prepay online, The Gateway Car Park will meet all your parking needs.&nbsp;</p>\n<p>Download the Wilson Parking App to plan your journey and access exclusive discounts when you prepay online; or pay as you go with a convenient monthly invoice when you use your Wilson Parking Card.</p>",
       "isWilsonOne": true,
@@ -7661,7 +7661,7 @@
       "carParkPhoto": "/siteassets/parking-location-images/nsw/syd176.jpg",
       "category": "",
       "costCenter": 1002176,
-      "direction": "Vivid Parking Notice\n\nRoad closures in the area during Vivid Festival 2026, from 22 May to 13 June 2026. Access may be affected by road closures.",
+      "direction": null,
       "heightRestriction": 2.0,
       "information": "<p>Wilson Parking offer affordable &amp; secure parking at Quay West Car Park, located at 111 Harrington St, Sydney in the heart of The Rocks&nbsp;Circular Quay. The car park is nearby the International Cruise Ship Terminal, Shopping, Restaurant &amp; Bar precincts and is close to many hotels overlooking Sydney Harbour and the famous BridgeClimb tourist attaction. Offering&nbsp;Casual Hourly, Night and Weekend Parking, as well as online discount parking options, this car park will suit every parking need when visiting your favourite restaurant or tourist destination as well as commuter parking needs.</p>\n<p><span style=\"color: #05bd83;\">Spott is now available at the Quay West Car Park. Download the Wilson Parking App to enjoy easy, stress free, automatic parking using advanced vehicle recognition (LPR) and QR code technology at this car park. </span></p>\n<p>Come here often? Enjoy unlimited 24/7 access when you subscribe to monthly parking, or download the Wilson Parking App to purchase a bundle of daily passes for a better daily parking rate&nbsp;</p>",
       "isWilsonOne": true,
@@ -7883,7 +7883,7 @@
       "carParkPhoto": "/siteassets/parking-location-images/nsw/syd155.jpg",
       "category": "",
       "costCenter": 1002155,
-      "direction": "Due to planned road closures for the duration of Vivid festival, customers will be unable to exit the car park after 5pm from 22 May to 13 June 2026. ",
+      "direction": null,
       "heightRestriction": 2.0,
       "information": "<p>Wilson Parking offer affordable &amp; secure parking at 155 George St Sydney, in the heart of The Rocks Circular Quay, close to the Sydney Opera House, International Cruise Ship Terminal, Restaurants and Bar Precincts. Offering Hourly, Night and Weekend Parking, as well as online discount parking, the 155 George St Car Park will suit your parking needs when visiting your favourite restaurant or tourist destination in addition to business parking needs.</p>\n<p>Save when you prepay your parking online or with the Wilson Parking App; enjoy unlimited 24/7 access when you subscribe to monthly parking; or pay as you go with the convenient queue-less, contact free Wilson Parking Card.</p>",
       "isWilsonOne": true,
@@ -8343,7 +8343,7 @@
       "carParkPhoto": "/siteassets/parking-location-images/nsw/syd186.jpg",
       "category": "",
       "costCenter": 1002186,
-      "direction": "Entry via 55 Harrington Street\n\nExit via Argyle Street\n\nDue to planned road closures for the duration of Vivid festival, customers will be unable to exit the car park after 5pm from 22 May to 13 June 2026. ",
+      "direction": "Entry via 55 Harrington Street\n\nExit via Argyle Street\n",
       "heightRestriction": 2.0,
       "information": "<p>Wilson Parking offer affordable &amp; secure parking at Clocktower Car Park which is located at 55 Harrigton St, Sydney in the heart of The Rocks in Circular Quay. Near the International Cruise Ship Terminal, Shopping, Restaurant &amp; Bar precints.</p>\n<p>The car park exits on to Arglye St.&nbsp;</p>\n<p>Offering casual Hourly, Night and Weekend Parking, with exclusive discounts when you prepay online and permanent Monthly Parking for regular parkers, the Clocktower Car Park will suit all The Rocks Parking needs.&nbsp;</p>\n<p>Download the Wilson Parking App to plan your journey and access exclusive discounts when you prepay online; enjoy unlimited 24/7 access when you subscribe to monthly parking; or pay as you go with a monthly invoice when you use your Wilson Parking Card to access the car park.</p>\n<p>&nbsp;</p>",
       "isWilsonOne": true,
@@ -14676,7 +14676,7 @@
       ],
       "carParkName": "Royal Prince Alfred Medical Centre Car Park",
       "carParkNumber": 2348,
-      "carParkPhoto": null,
+      "carParkPhoto": "/contentassets/1aa3bd362a9f4248b531f9b35c0ad232/rpah.png",
       "category": "Elevate",
       "costCenter": 1002348,
       "direction": "Entry via Elizabeth Street",
@@ -14869,7 +14869,7 @@
         ]
       },
       "state": "NSW",
-      "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
+      "imgUrl": "/contentassets/1aa3bd362a9f4248b531f9b35c0ad232/rpah.png",
       "price": "",
       "status": "",
       "cpmsCarparkCode": null,
@@ -18257,7 +18257,7 @@
           "rates": [
             {
               "timeSpan": "Monday - Friday",
-              "price": 13.0
+              "price": 15.0
             }
           ]
         },
@@ -18283,7 +18283,7 @@
             },
             {
               "timeSpan": "3.0 + hrs",
-              "price": 13.0
+              "price": 15.0
             }
           ]
         }
@@ -18447,55 +18447,55 @@
             },
             {
               "timeSpan": "0.25 - 1.0 hr",
-              "price": 8.4
+              "price": 8.7
             },
             {
               "timeSpan": "1.0 - 2.0 hrs",
-              "price": 12.4
+              "price": 12.9
             },
             {
               "timeSpan": "2.0 - 3.0 hrs",
-              "price": 16.6
+              "price": 17.3
             },
             {
               "timeSpan": "3.0 - 4.0 hrs",
-              "price": 19.6
+              "price": 20.4
             },
             {
               "timeSpan": "4.0 - 5.0 hrs",
-              "price": 37.4
-            },
-            {
-              "timeSpan": "5.0 - 6.0 hrs",
               "price": 38.9
             },
             {
+              "timeSpan": "5.0 - 6.0 hrs",
+              "price": 40.5
+            },
+            {
               "timeSpan": "6.0 + hrs",
-              "price": 43.6
+              "price": 45.4
             },
             {
               "timeSpan": "3 Days",
-              "price": 43.6
+              "price": 45.4
             },
             {
               "timeSpan": "7 Days",
-              "price": 64.0
+              "price": 66.6
             },
             {
               "timeSpan": "1 Day Ticket*",
-              "price": 6.9
+              "price": 7.2
             },
             {
               "timeSpan": "3 Days Ticket*",
-              "price": 13.9
+              "price": 14.5
             },
             {
               "timeSpan": "7 Days Ticket*",
-              "price": 28.0
+              "price": 29.1
             },
             {
               "timeSpan": "Per Hour",
-              "price": 8.4
+              "price": 8.7
             }
           ]
         }
@@ -26659,7 +26659,7 @@
       ],
       "carParkName": "22 Hassall St Parramatta",
       "carParkNumber": 5002201,
-      "carParkPhoto": null,
+      "carParkPhoto": "/contentassets/b7dbd446eed74e0ea0f4b411e40b94b9/22-hassall-parramatta.png",
       "category": "",
       "costCenter": 5002201,
       "direction": null,
@@ -26839,7 +26839,7 @@
         "additionalServices": []
       },
       "state": "NSW",
-      "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
+      "imgUrl": "/contentassets/b7dbd446eed74e0ea0f4b411e40b94b9/22-hassall-parramatta.png",
       "price": "",
       "status": "",
       "cpmsCarparkCode": null,
@@ -26870,7 +26870,7 @@
       ],
       "carParkName": "150 George St Car Park",
       "carParkNumber": 2388,
-      "carParkPhoto": null,
+      "carParkPhoto": "/contentassets/694145c668844e428dac50c05d57d962/150-george-syd388.png",
       "category": "",
       "costCenter": 1002388,
       "direction": "Entry via 31-33 Charles St, Parramatta\n\n",
@@ -27064,7 +27064,7 @@
         "additionalServices": []
       },
       "state": "NSW",
-      "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
+      "imgUrl": "/contentassets/694145c668844e428dac50c05d57d962/150-george-syd388.png",
       "price": "",
       "status": "",
       "cpmsCarparkCode": null,
@@ -28229,7 +28229,7 @@
       "services": [],
       "carParkName": "Eat Street Car Park",
       "carParkNumber": 2425,
-      "carParkPhoto": null,
+      "carParkPhoto": "/contentassets/1b50966d7c77407ba145742f1b7b09fd/eat-street-parra.png",
       "category": "",
       "costCenter": 1002425,
       "direction": "Car Park entry from Erby Place and Horwood Place",
@@ -28399,7 +28399,7 @@
         "additionalServices": []
       },
       "state": "NSW",
-      "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
+      "imgUrl": "/contentassets/1b50966d7c77407ba145742f1b7b09fd/eat-street-parra.png",
       "price": "",
       "status": "",
       "cpmsCarparkCode": null,
@@ -29566,7 +29566,7 @@
       ],
       "carParkName": "Mason & Main Merrylands",
       "carParkNumber": 5002227,
-      "carParkPhoto": null,
+      "carParkPhoto": "/contentassets/1d15d2f4c0b141a2852a905dfcfa09be/mason-main-interpark.png",
       "category": "",
       "costCenter": 5002227,
       "direction": "249 Merrylands Rd Merrylands",
@@ -29722,7 +29722,7 @@
         "additionalServices": []
       },
       "state": "NSW",
-      "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
+      "imgUrl": "/contentassets/1d15d2f4c0b141a2852a905dfcfa09be/mason-main-interpark.png",
       "price": "",
       "status": "",
       "cpmsCarparkCode": null,
@@ -42963,7 +42963,7 @@
       "services": [],
       "carParkName": "Mode3 Car Park",
       "carParkNumber": 1016,
-      "carParkPhoto": null,
+      "carParkPhoto": "/contentassets/2948c9cd77fc4dc4a89cd5c06e41ffd8/can016-mode-3-basement.png",
       "category": "",
       "costCenter": 1012016,
       "direction": null,
@@ -43124,7 +43124,7 @@
         ]
       },
       "state": "ACT",
-      "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
+      "imgUrl": "/contentassets/2948c9cd77fc4dc4a89cd5c06e41ffd8/can016-mode-3-basement.png",
       "price": "",
       "status": "",
       "cpmsCarparkCode": null,
@@ -93041,7 +93041,7 @@
       "carParkPhoto": "/contentassets/ca151af77ba848a8a7950e6de5610cf5/capture.jpg",
       "category": "",
       "costCenter": 1006212,
-      "direction": "<b>**Car Park only operational on selected event days**</b><br>\n\n</b><br>24th July -  AFL Fremantle Dockers Vs West Coast Eagles<b>\n</b><br>(Gate opens at 4:30pm and closes at 10:00pm sharp)<b>\n\n</b><br>31st July -  AFL Fremantle Dockers Vs Western Bulldogs<b>\n</b><br>(Gate opens at 4:30pm and closes at 10:00pm sharp)<b>",
+      "direction": "<b>**Car Park only operational on selected event days**</b><br>\n\n</b><br>31st July -  AFL Fremantle Dockers Vs Western Bulldogs<b>\n</b><br>(Gate opens at 4:30pm and closes at 10:00pm sharp)<b>\n\n</b><br>5th Aug - AC Milan Vs InterSoccer<b>\n</b><br>(Gate opens at 5:30pm and closes at 10:30pm sharp)<b>\n\n</b><br>8th Aug - Juventus Vs Inter<b>\n</b><br>(Gate opens at 5:30pm and closes at 10:30pm sharp)<b>\n\n</b><br>9th Aug - West Coast Eagles Vs Collingwood<b>\n</b><br>(Gate opens at 12:30pm and closes at 6:30pm sharp)<b>",
       "heightRestriction": 0.0,
       "information": "<p>Wilson Parking offers affordable parking at Belmont Racecourse Car Park for Optus Stadium event parking only. Located a short walk from Optus Stadium, this car park is the perfect location for footy, cricket, concerts and other Optus Stadium events. Operational days are shown under the parking rates to the left.</p>\n<p>Parking must be prepaid in advance through the Wilson Parking App or website. No payments can be taken at the gate. Must present prepaid confirmation to access car park.</p>",
       "isWilsonOne": false,
