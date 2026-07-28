@@ -681,28 +681,20 @@
           "notes": "<p style=\"margin-top: 0cm; background: white;\"><span style=\"font-family: 'Arial',sans-serif; color: #212529;\">Parking from $15 per 30 Mins - Maximum daily rate of $90</span></p>\n<p style=\"margin-top: 0cm; background: white; box-sizing: border-box; margin-bottom: 1rem; -webkit-font-smoothing: antialiased; font-variant-ligatures: normal; font-variant-caps: normal; orphans: 2; widows: 2; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; word-spacing: 0px;\"><span style=\"font-family: 'Arial',sans-serif; color: #212529;\">Hourly rates apply Monday to Friday</span></p>\n<p style=\"margin-top: 0cm; background: white; box-sizing: border-box; margin-bottom: 1rem; -webkit-font-smoothing: antialiased; font-variant-ligatures: normal; font-variant-caps: normal; orphans: 2; widows: 2; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; word-spacing: 0px;\"><span style=\"font-family: 'Arial',sans-serif; color: #212529;\">Rates are charged from 6am daily</span></p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 0.5 hrs",
-              "price": 15.0
+              "timeSpan": "0.0 - 1.0 hrs",
+              "price": 25.0
             },
             {
-              "timeSpan": "0.5 - 1.0 hrs",
-              "price": 30.0
+              "timeSpan": "1.0 - 2.0 hrs",
+              "price": 50.0
             },
             {
-              "timeSpan": "1.0 - 1.5 hrs",
-              "price": 45.0
-            },
-            {
-              "timeSpan": "1.5 - 2.0 hrs",
-              "price": 60.0
-            },
-            {
-              "timeSpan": "2.0 - 2.5 hrs",
+              "timeSpan": "2.0 - 3.0 hrs",
               "price": 75.0
             },
             {
-              "timeSpan": "2.5 + hrs (Max Daily)",
-              "price": 90.0
+              "timeSpan": "3.0 + hrs (Max Daily)",
+              "price": 95.0
             }
           ]
         },
@@ -728,7 +720,7 @@
         }
       ],
       "fromText": "From",
-      "fromPrice": "12",
+      "fromPrice": "25",
       "location": {
         "longitude": 151.20836645364761,
         "latitude": -33.866800990794559,
@@ -864,15 +856,12 @@
       "canBookABay": false,
       "selectedFeatures": "",
       "carParkFeature": [
-        "Monthly Parking",
         "Night Parking",
         "Weekend Parking",
         "Elevate Only",
         "Spott"
       ],
-      "services": [
-        "monthly"
-      ],
+      "services": [],
       "carParkName": "55 Market St Car Park",
       "carParkNumber": 2374,
       "carParkPhoto": "/siteassets/parking-location-images/nsw/syd374.gif",
@@ -884,7 +873,7 @@
       "isWilsonOne": false,
       "spottIsAvailable": true,
       "legacyID": 2374,
-      "monthlyParkingServiceIsAvailable": true,
+      "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
       "phoneNumber": "1800 727 546",
@@ -1005,7 +994,7 @@
         "canBookABay": false,
         "bookABayIconLabel": "Prepay Online",
         "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": true,
+        "monthlyParkingServiceIsAvailable": false,
         "monthlyParkingIconLabel": "Monthly Subscription",
         "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
         "isWilsonOne": false,
@@ -7029,21 +7018,18 @@
       "canBookABay": true,
       "selectedFeatures": "",
       "carParkFeature": [
-        "Monthly Parking",
         "Night Parking",
         "Weekend Parking",
         "Book a Bay",
         "Wilson One",
         "Vivid",
         "Flexi Parking",
-        "Elevate",
         "LPR",
         "Spott"
       ],
       "services": [
         "book a bay",
-        "wilson one",
-        "monthly"
+        "wilson one"
       ],
       "carParkName": "201 – 207 Kent Street Car Park",
       "carParkNumber": 2055,
@@ -7056,7 +7042,7 @@
       "isWilsonOne": true,
       "spottIsAvailable": true,
       "legacyID": 121,
-      "monthlyParkingServiceIsAvailable": true,
+      "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
       "phoneNumber": "1800 PARKING",
@@ -7209,7 +7195,7 @@
         "canBookABay": true,
         "bookABayIconLabel": "Prepay Online",
         "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": true,
+        "monthlyParkingServiceIsAvailable": false,
         "monthlyParkingIconLabel": "Monthly Subscription",
         "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
         "isWilsonOne": true,
@@ -7424,7 +7410,6 @@
       "canBookABay": true,
       "selectedFeatures": "",
       "carParkFeature": [
-        "Monthly Parking",
         "Night Parking",
         "Weekend Parking",
         "Early Bird Parking",
@@ -7432,14 +7417,12 @@
         "Wilson One",
         "Overnight Parking",
         "Disabled Parking",
-        "Elevate",
         "LPR",
         "Spott"
       ],
       "services": [
         "book a bay",
         "wilson one",
-        "monthly",
         "disabled parking"
       ],
       "carParkName": "Gateway Car Park",
@@ -7453,7 +7436,7 @@
       "isWilsonOne": true,
       "spottIsAvailable": true,
       "legacyID": 313,
-      "monthlyParkingServiceIsAvailable": true,
+      "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": true,
       "phoneNumber": "1800 PARKING",
@@ -7602,7 +7585,7 @@
         "canBookABay": true,
         "bookABayIconLabel": "Prepay Online",
         "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": true,
+        "monthlyParkingServiceIsAvailable": false,
         "monthlyParkingIconLabel": "Monthly Subscription",
         "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
         "isWilsonOne": true,
@@ -12017,7 +12000,6 @@
       "canBookABay": true,
       "selectedFeatures": "",
       "carParkFeature": [
-        "Monthly Parking",
         "Night Parking",
         "Weekend Parking",
         "Early Bird Parking",
@@ -12032,8 +12014,7 @@
       ],
       "services": [
         "book a bay",
-        "wilson one",
-        "monthly"
+        "wilson one"
       ],
       "carParkName": "55 Holt St Car Park",
       "carParkNumber": 2357,
@@ -12046,7 +12027,7 @@
       "isWilsonOne": true,
       "spottIsAvailable": true,
       "legacyID": 802,
-      "monthlyParkingServiceIsAvailable": true,
+      "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
       "phoneNumber": "1800 727 546",
@@ -12203,7 +12184,7 @@
         "canBookABay": true,
         "bookABayIconLabel": "Prepay Online",
         "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": true,
+        "monthlyParkingServiceIsAvailable": false,
         "monthlyParkingIconLabel": "Monthly Subscription",
         "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
         "isWilsonOne": true,
@@ -13569,7 +13550,6 @@
       "canBookABay": true,
       "selectedFeatures": "",
       "carParkFeature": [
-        "Monthly Parking",
         "Night Parking",
         "Weekend Parking",
         "Early Bird Parking",
@@ -13579,7 +13559,6 @@
         "Flexi Parking",
         "Disabled Parking",
         "Daily Pass Bundles",
-        "Elevate",
         "LPR",
         "Spott Saver",
         "Spott"
@@ -13587,7 +13566,6 @@
       "services": [
         "book a bay",
         "wilson one",
-        "monthly",
         "disabled parking"
       ],
       "carParkName": "Greenwood Plaza Car Park",
@@ -13601,7 +13579,7 @@
       "isWilsonOne": true,
       "spottIsAvailable": true,
       "legacyID": 207,
-      "monthlyParkingServiceIsAvailable": true,
+      "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": true,
       "phoneNumber": "1800 PARKING",
@@ -13762,7 +13740,7 @@
         "canBookABay": true,
         "bookABayIconLabel": "Prepay Online",
         "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": true,
+        "monthlyParkingServiceIsAvailable": false,
         "monthlyParkingIconLabel": "Monthly Subscription",
         "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
         "isWilsonOne": true,
@@ -15078,6 +15056,7 @@
       "canBookABay": true,
       "selectedFeatures": "",
       "carParkFeature": [
+        "Monthly Parking",
         "Night Parking",
         "Weekend Parking",
         "Early Bird Parking",
@@ -15094,6 +15073,7 @@
       "services": [
         "book a bay",
         "wilson one",
+        "monthly",
         "disabled parking"
       ],
       "carParkName": "The Denison Car Park",
@@ -15107,7 +15087,7 @@
       "isWilsonOne": true,
       "spottIsAvailable": true,
       "legacyID": 144,
-      "monthlyParkingServiceIsAvailable": false,
+      "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": true,
       "phoneNumber": "1800 PARKING",
@@ -15264,7 +15244,7 @@
         "canBookABay": true,
         "bookABayIconLabel": "Prepay Online",
         "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingServiceIsAvailable": true,
         "monthlyParkingIconLabel": "Monthly Subscription",
         "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
         "isWilsonOne": true,
@@ -45169,17 +45149,14 @@
       "canBookABay": true,
       "selectedFeatures": "",
       "carParkFeature": [
-        "Monthly Parking",
         "Book a Bay",
         "Daily Pass Bundles",
-        "Elevate",
         "LPR",
         "Spott Saver",
         "Spott"
       ],
       "services": [
-        "book a bay",
-        "monthly"
+        "book a bay"
       ],
       "carParkName": "121 Marcus Clarke St",
       "carParkNumber": 1161,
@@ -45192,7 +45169,7 @@
       "isWilsonOne": false,
       "spottIsAvailable": true,
       "legacyID": 1012161,
-      "monthlyParkingServiceIsAvailable": true,
+      "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
       "phoneNumber": null,
@@ -45325,7 +45302,7 @@
         "canBookABay": true,
         "bookABayIconLabel": "Prepay Online",
         "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": true,
+        "monthlyParkingServiceIsAvailable": false,
         "monthlyParkingIconLabel": "Monthly Subscription",
         "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
         "isWilsonOne": false,
@@ -74615,7 +74592,7 @@
       "costCenter": 1004356,
       "direction": "Entry off Little Cribb Street",
       "heightRestriction": 2.2,
-      "information": "<p><span style=\"color: #ff1e25;\">Event Parking is available at this car park on the following dates:&nbsp;1, 8, 15 August.<br /></span></p>\n<p>Wilson Parking offers affordable &amp; secure parking at Milton Green&nbsp;car park, located at 19 Little Cribb Street&nbsp;in the heart of Milton. Open 7 days, this undercover car park provides convenient access to nearby Suncorp Stadium and surrounding entertainment and retail precinct. Offering hourly, night and weekend parking options with discounts when you prepay online, permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the Milton Green&nbsp;car park will meet all your business and leisure parking needs.&nbsp;</p>",
+      "information": "<p><span style=\"color: #ff1e25;\">Event Parking is available at this car park on the following dates:&nbsp;1, 8, 15, 21 August.<br /></span></p>\n<p>Wilson Parking offers affordable &amp; secure parking at Milton Green&nbsp;car park, located at 19 Little Cribb Street&nbsp;in the heart of Milton. Open 7 days, this undercover car park provides convenient access to nearby Suncorp Stadium and surrounding entertainment and retail precinct. Offering hourly, night and weekend parking options with discounts when you prepay online, permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the Milton Green&nbsp;car park will meet all your business and leisure parking needs.&nbsp;</p>",
       "isWilsonOne": true,
       "spottIsAvailable": false,
       "legacyID": 1004356,
@@ -75853,12 +75830,9 @@
       "canBookABay": false,
       "selectedFeatures": "",
       "carParkFeature": [
-        "Monthly Parking",
         "Entry height at least 2"
       ],
-      "services": [
-        "monthly"
-      ],
+      "services": [],
       "carParkName": "10 Felix Street",
       "carParkNumber": 4295,
       "carParkPhoto": null,
@@ -75870,7 +75844,7 @@
       "isWilsonOne": false,
       "spottIsAvailable": false,
       "legacyID": 814,
-      "monthlyParkingServiceIsAvailable": true,
+      "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
       "phoneNumber": "1800 727 546",
@@ -75916,7 +75890,7 @@
         "canBookABay": false,
         "bookABayIconLabel": "Prepay Online",
         "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": true,
+        "monthlyParkingServiceIsAvailable": false,
         "monthlyParkingIconLabel": "Monthly Subscription",
         "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
         "isWilsonOne": false,
@@ -76626,7 +76600,7 @@
         },
         {
           "rateType": "Weekend",
-          "notes": "<p>Flat rate per day, per exit. Enter after 6:00am and exit before 10:00pm</p>\n<p><strong>For car park access</strong>, please refer to roller door instructions at the entry of the car park.</p>",
+          "notes": "<p>Flat rate per day, per exit. Enter after 6:00am and exit before 6:00am</p>\n<p><strong>For car park access</strong>, please refer to roller door instructions at the entry of the car park.</p>",
           "rates": [
             {
               "timeSpan": "Weekends",
