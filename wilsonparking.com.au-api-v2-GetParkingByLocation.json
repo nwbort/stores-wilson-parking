@@ -678,7 +678,7 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p style=\"margin-top: 0cm; background: white;\"><span style=\"font-family: 'Arial',sans-serif; color: #212529;\">Parking from $15 per 30 Mins - Maximum daily rate of $90</span></p>\n<p style=\"margin-top: 0cm; background: white; box-sizing: border-box; margin-bottom: 1rem; -webkit-font-smoothing: antialiased; font-variant-ligatures: normal; font-variant-caps: normal; orphans: 2; widows: 2; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; word-spacing: 0px;\"><span style=\"font-family: 'Arial',sans-serif; color: #212529;\">Hourly rates apply Monday to Friday</span></p>\n<p style=\"margin-top: 0cm; background: white; box-sizing: border-box; margin-bottom: 1rem; -webkit-font-smoothing: antialiased; font-variant-ligatures: normal; font-variant-caps: normal; orphans: 2; widows: 2; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; word-spacing: 0px;\"><span style=\"font-family: 'Arial',sans-serif; color: #212529;\">Rates are charged from 6am daily</span></p>",
+          "notes": "<p style=\"margin-top: 0cm; background: white; box-sizing: border-box; margin-bottom: 1rem; -webkit-font-smoothing: antialiased; font-variant-ligatures: normal; font-variant-caps: normal; orphans: 2; widows: 2; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; word-spacing: 0px;\"><span style=\"font-family: 'Arial',sans-serif; color: #212529;\">Hourly rates apply Monday to Friday</span></p>\n<p style=\"margin-top: 0cm; background: white; box-sizing: border-box; margin-bottom: 1rem; -webkit-font-smoothing: antialiased; font-variant-ligatures: normal; font-variant-caps: normal; orphans: 2; widows: 2; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; word-spacing: 0px;\"><span style=\"font-family: 'Arial',sans-serif; color: #212529;\">Rates are charged from 6am daily</span></p>",
           "rates": [
             {
               "timeSpan": "0.0 - 1.0 hrs",
@@ -26842,7 +26842,9 @@
         "Weekend Parking",
         "Book a Bay",
         "Wilson One",
-        "Entry height at least 2"
+        "Entry height at least 2",
+        "LPR",
+        "Spott"
       ],
       "services": [
         "book a bay",
@@ -26857,7 +26859,7 @@
       "heightRestriction": 2.0,
       "information": "<p>Wilson Parking offer affordable &amp; secure parking 150 George Street Car Park which is located at 31-33 Charles Street, in the heart of Parramatta. Open from 6am till 12am (midnight) daily, this undercover car park is close to Parramatta Station, shopping and restaurants.</p>\n<p>150 George Street Car Park suits all your leisure and business parking needs. With Casual, Night &amp; Weekend parking Monday to Sunday.</p>\n<p>&nbsp;</p>",
       "isWilsonOne": true,
-      "spottIsAvailable": false,
+      "spottIsAvailable": true,
       "legacyID": 2388,
       "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
@@ -27038,7 +27040,7 @@
         "evChargerIsAvailable": false,
         "evChargerIconLabel": "EV Charging",
         "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "spottIsAvailable": false,
+        "spottIsAvailable": true,
         "spottIconLabel": "Spott",
         "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
         "additionalServices": []
@@ -45585,199 +45587,6 @@
         ]
       },
       "state": "ACT",
-      "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
-      "price": "",
-      "status": "",
-      "cpmsCarparkCode": null,
-      "externalCarParkInfo": null,
-      "featuredIndex": 0
-    },
-    {
-      "name": "New Acton Precinct",
-      "bookText": null,
-      "canBookABay": false,
-      "selectedFeatures": "",
-      "carParkFeature": [
-        "Weekend Parking",
-        "Early Bird Parking",
-        "Epark",
-        "Entry height at least 2"
-      ],
-      "services": [],
-      "carParkName": "New Acton Precinct",
-      "carParkNumber": 1009,
-      "carParkPhoto": null,
-      "category": "",
-      "costCenter": 1012009,
-      "direction": null,
-      "heightRestriction": 0.0,
-      "information": "<p>Wilson Parking offer affordable parking at the New Acton Precinct Car Park, located at 1 Phillip Law St, Canberra. Open 7 days, this car park offers&nbsp;casual Hourly, Early Bird and Weekend Parking and the convenience of payment from your phone with the Wilson Parking app.&nbsp;The New Acton Precinct&nbsp;Car Park will meet all your business and leisure parking needs.&nbsp;</p>\n<p>Download the Wilson Parking App to plan your journey and access parking discounts when you prepay online.</p>",
-      "isWilsonOne": false,
-      "spottIsAvailable": false,
-      "legacyID": 805,
-      "monthlyParkingServiceIsAvailable": false,
-      "evChargerIsAvailable": false,
-      "disabledParkingIsAvailable": false,
-      "phoneNumber": "1800 727 546",
-      "products": [],
-      "staticMapPhoto": null,
-      "streetViewHeading": "149.1232074892382",
-      "streetViewLocation": "https://www.google.com/maps/@?api=1&map_action=pano&pano=l_QQe_RX661Jjfmx0SKimg&viewpoint=-35.28495840716857,149.1232074892382&heading=0&pitch=0",
-      "rates": [
-        {
-          "rateType": "Hourly",
-          "notes": "<p>Rates apply Monday - Saturday</p>\n<p>Including Public Holidays</p>",
-          "rates": [
-            {
-              "timeSpan": "0.0 - 1.0 hr",
-              "price": 5.5
-            },
-            {
-              "timeSpan": "1.0 - 2.0 hrs",
-              "price": 7.5
-            },
-            {
-              "timeSpan": "2.0 - 3.0 hrs",
-              "price": 10.5
-            },
-            {
-              "timeSpan": "3.0 - 4.0 hrs",
-              "price": 13.5
-            },
-            {
-              "timeSpan": "4.0 + hrs",
-              "price": 23.5
-            }
-          ]
-        },
-        {
-          "rateType": "Early Bird",
-          "notes": "<p>Enter before 9am</p>",
-          "rates": [
-            {
-              "timeSpan": "Early Bird",
-              "price": 21.0
-            },
-            {
-              "timeSpan": "Weekly Rate",
-              "price": 85.0
-            }
-          ]
-        },
-        {
-          "rateType": "Weekend",
-          "notes": "<p>Saturdays as per casual hours</p>\n<p>Sunday - Flat Rate, per exit per day</p>",
-          "rates": [
-            {
-              "timeSpan": "Sunday",
-              "price": 6.0
-            }
-          ]
-        }
-      ],
-      "fromText": "From",
-      "fromPrice": "5",
-      "location": {
-        "longitude": 149.123585365842,
-        "latitude": -35.285273281836,
-        "zoom": 13,
-        "address": "1 Phillip Law Canberra",
-        "region": null
-      },
-      "openingTimes": [
-        {
-          "day_TimePeriod": "Monday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "06:00",
-          "closing": "19:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Tuesday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "06:00",
-          "closing": "19:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Wednesday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "06:00",
-          "closing": "19:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Thursday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "06:00",
-          "closing": "19:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Friday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "06:00",
-          "closing": "19:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Saturday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "06:00",
-          "closing": "19:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Sunday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "06:00",
-          "closing": "19:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Public Holiday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "06:00",
-          "closing": "19:00",
-          "note": null
-        }
-      ],
-      "url": "/parking-locations/australian-capital-territory/canberra-cbd/new-acton-precinct/",
-      "serviceConfiguration": {
-        "canBookABay": false,
-        "bookABayIconLabel": "Prepay Online",
-        "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": false,
-        "monthlyParkingIconLabel": "Monthly Subscription",
-        "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
-        "isWilsonOne": false,
-        "wilsonOneIconLabel": "Parking Card",
-        "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
-        "disabledParkingIsAvailable": false,
-        "disabledParkingIconLabel": "Disabled Parking",
-        "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
-        "evChargerIsAvailable": false,
-        "evChargerIconLabel": "EV Charging",
-        "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "spottIsAvailable": false,
-        "spottIconLabel": "Spott",
-        "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
-        "additionalServices": [
-          {
-            "label": null,
-            "icon": null
-          }
-        ]
-      },
-      "state": null,
       "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
       "price": "",
       "status": "",
@@ -68444,7 +68253,7 @@
           "is24_7": false,
           "closed": false,
           "opening": "9:00",
-          "closing": "0:00",
+          "closing": "00:00",
           "note": null
         }
       ],
@@ -69290,19 +69099,22 @@
     {
       "name": "500 La Trobe St Car Park",
       "bookText": null,
-      "canBookABay": false,
+      "canBookABay": true,
       "selectedFeatures": "",
       "carParkFeature": [
         "Night Parking",
         "Weekend Parking",
         "Early Bird Parking",
+        "Book a Bay",
         "Flexi Parking",
         "Entry height at least 2",
         "Elevate Only",
         "Spott Saver",
         "Spott"
       ],
-      "services": [],
+      "services": [
+        "book a bay"
+      ],
       "carParkName": "500 La Trobe St Car Park",
       "carParkNumber": 3348,
       "carParkPhoto": "/siteassets/parking-location-images/vic/mel348.jpg",
@@ -69466,7 +69278,7 @@
       ],
       "url": "/parking-locations/victoria/melbourne-cbd/500-la-trobe-st-car-park/",
       "serviceConfiguration": {
-        "canBookABay": false,
+        "canBookABay": true,
         "bookABayIconLabel": "Prepay Online",
         "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
         "monthlyParkingServiceIsAvailable": false,
@@ -70061,12 +69873,7 @@
         "spottIsAvailable": true,
         "spottIconLabel": "Spott",
         "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
-        "additionalServices": [
-          {
-            "label": null,
-            "icon": null
-          }
-        ]
+        "additionalServices": []
       },
       "state": "VIC",
       "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
@@ -88066,20 +87873,12 @@
               "price": 10.0
             },
             {
-              "timeSpan": "1.0 - 1.5 hrs",
-              "price": 15.0
-            },
-            {
-              "timeSpan": "1.5 - 2.0 hrs",
+              "timeSpan": "1.0 - 2.0 hrs",
               "price": 20.0
             },
             {
-              "timeSpan": "2.0 - 2.5 hrs",
+              "timeSpan": "2.0 + hrs",
               "price": 25.0
-            },
-            {
-              "timeSpan": "2.5+ hrs",
-              "price": 30.0
             }
           ]
         },
@@ -103656,7 +103455,7 @@
           "rates": [
             {
               "timeSpan": "Drive up Flat Rate",
-              "price": 4.0
+              "price": 5.0
             }
           ]
         }
