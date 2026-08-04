@@ -1091,17 +1091,17 @@
         },
         {
           "rateType": "Weekend",
-          "notes": "<p>&nbsp;</p>\n<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>\n<p>&nbsp;</p>",
+          "notes": "<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>",
           "rates": [
             {
-              "timeSpan": "Weekend varies from $24.75 - $26.75, depending on demand",
+              "timeSpan": "Weekend varies from $26.75 - $29.75, depending on demand",
               "price": 29.0
             }
           ]
         }
       ],
       "fromText": "From",
-      "fromPrice": "20.75",
+      "fromPrice": "22",
       "location": {
         "longitude": 151.206025574126,
         "latitude": -33.8683208520192,
@@ -1268,16 +1268,6 @@
             {
               "timeSpan": "2.0 + hrs",
               "price": 95.0
-            }
-          ]
-        },
-        {
-          "rateType": "Night",
-          "notes": "<p>Flat rate: Entry after 6pm, exit before midnight otherwise casual rates apply from time of entry</p>\n<p>&nbsp;</p>",
-          "rates": [
-            {
-              "timeSpan": "Mon - Fri",
-              "price": 39.0
             }
           ]
         }
@@ -1470,10 +1460,10 @@
         },
         {
           "rateType": "Weekend",
-          "notes": "<p>&nbsp;</p>\n<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>\n<p>&nbsp;</p>",
+          "notes": "<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>",
           "rates": [
             {
-              "timeSpan": "Weekend varies from $24.75 - $28.75, depending on demand",
+              "timeSpan": "Weekend varies from $26.75 - $29.75, depending on demand",
               "price": 32.0
             }
           ]
@@ -1490,7 +1480,7 @@
         }
       ],
       "fromText": "From",
-      "fromPrice": "24.75",
+      "fromPrice": "26.75",
       "location": {
         "longitude": 151.21217250824,
         "latitude": -33.8670214766653,
@@ -1950,7 +1940,7 @@
         }
       ],
       "fromText": "From",
-      "fromPrice": "20",
+      "fromPrice": "17.75",
       "location": {
         "longitude": 151.208070040919,
         "latitude": -33.8719873729927,
@@ -2836,7 +2826,7 @@
           "notes": "<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>",
           "rates": [
             {
-              "timeSpan": "Weekend varies from $29.75 - $32.75, depending on demand",
+              "timeSpan": "Weekend varies from $31.75 - $33.75, depending on demand",
               "price": 35.0
             }
           ]
@@ -3557,7 +3547,7 @@
           "notes": "<div class=\"\" data-block=\"true\" data-editor=\"99adp\" data-offset-key=\"8pskg444-0-0\">\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"8pskg444-0-0\">\n<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend Rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the <strong>Prepay Now</strong> link below to get started.<br />Rates shown include transaction fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>\n</div>\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"8pskg444-0-0\">&nbsp;</div>\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"8pskg444-0-0\">&nbsp;</div>\n</div>",
           "rates": [
             {
-              "timeSpan": "Weekend varies from $24.75 - $26.75, depending on demand",
+              "timeSpan": "Weekend varies from $22.75 - $24.75, depending on demand",
               "price": 32.0
             }
           ]
@@ -4692,17 +4682,17 @@
         },
         {
           "rateType": "Weekend",
-          "notes": "<p>&nbsp;</p>\n<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>\n<p>&nbsp;</p>",
+          "notes": "<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>",
           "rates": [
             {
-              "timeSpan": "Weekend varies from $32.75 - $34.75, depending on demand",
+              "timeSpan": "Weekend varies from $34.75 - $36.75, depending on demand",
               "price": 40.0
             }
           ]
         },
         {
           "rateType": "Night",
-          "notes": "<p>Monday to Friday:&nbsp;Entry after 5pm, exit before 7am the following day</p>\n<h6>&nbsp;</h6>",
+          "notes": "<p>Monday to Friday:&nbsp;Entry after 5pm, exit before 7am the following day</p>",
           "rates": [
             {
               "timeSpan": "Night (Mon - Friday) from",
@@ -5104,7 +5094,7 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Monday - Friday</p>\n<p>Rates charge from 6am daily</p>",
+          "notes": "<p>Monday - Sunday</p>\n<p>Rates charge from 6am daily</p>",
           "rates": [
             {
               "timeSpan": "0.0 - 1.0 hrs",
@@ -5134,39 +5124,13 @@
           "rates": [
             {
               "timeSpan": "Mon - Fri",
-              "price": 15.0
-            }
-          ]
-        },
-        {
-          "rateType": "Weekend",
-          "notes": "<p>&nbsp;</p>\n<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>\n<p>&nbsp;</p>",
-          "rates": [
-            {
-              "timeSpan": "0.0 – 1.0 hr",
-              "price": 5.0
-            },
-            {
-              "timeSpan": "1.0 – 2.0 hrs",
-              "price": 10.0
-            },
-            {
-              "timeSpan": "2.0 – 3.0 hrs",
-              "price": 15.0
-            },
-            {
-              "timeSpan": "3.0 – 4.0 hrs",
-              "price": 20.0
-            },
-            {
-              "timeSpan": "4.0 + hrs",
-              "price": 25.0
+              "price": 19.0
             }
           ]
         }
       ],
       "fromText": "From",
-      "fromPrice": "5",
+      "fromPrice": "10",
       "location": {
         "longitude": 151.213630939915,
         "latitude": -33.8720952621081,
@@ -7476,17 +7440,7 @@
           "notes": "<p>Entry after 5pm, exit before 6am following day<br />Casual rates apply if conditions are not met</p>\n<p>Online rates include transaction fee. Click the <strong>Prepay&nbsp;now</strong> link below to get started.</p>",
           "rates": [
             {
-              "timeSpan": "Mon - Fri from",
-              "price": 42.0
-            }
-          ]
-        },
-        {
-          "rateType": "Weekend",
-          "notes": "<p>Flat Rate: entry from 6am, exit before 12am</p>\n<p><strong>Prepay Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the <strong>Prepay Now</strong> link below to get started.<br />Rates shown include transaction fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>",
-          "rates": [
-            {
-              "timeSpan": "Sat - Sun & Public Holiday varies from $35.75 - $39.75, depending on demand",
+              "timeSpan": "Mon - Sun from",
               "price": 45.0
             }
           ]
@@ -37148,27 +37102,27 @@
             },
             {
               "timeSpan": "0.25 - 1.0 hrs",
-              "price": 8.3
+              "price": 8.7
             },
             {
               "timeSpan": "1.0 - 2.0 hrs",
-              "price": 12.3
+              "price": 12.8
             },
             {
               "timeSpan": "2.0 - 3.0 hrs",
-              "price": 16.6
+              "price": 17.3
             },
             {
               "timeSpan": "3.0 - 4.0 hrs",
-              "price": 19.3
+              "price": 20.1
             },
             {
               "timeSpan": "4.0 - 5.0 hrs",
-              "price": 22.2
+              "price": 23.2
             },
             {
               "timeSpan": "5.0 + hrs",
-              "price": 24.7
+              "price": 25.8
             },
             {
               "timeSpan": "3 Hours",
@@ -37176,15 +37130,15 @@
             },
             {
               "timeSpan": "1 Day",
-              "price": 6.9
+              "price": 7.2
             },
             {
               "timeSpan": "3 Day Pass",
-              "price": 13.8
+              "price": 14.4
             },
             {
               "timeSpan": "7 Day Pass",
-              "price": 27.6
+              "price": 28.8
             }
           ]
         }
@@ -60186,7 +60140,7 @@
       "costCenter": 1003195,
       "direction": "Entry & exit via St Andrews Place",
       "heightRestriction": 2.1,
-      "information": "<p><u></u><span style=\"color: #ff1e25;\"><strong><u>Event Dates 2026:<br /></u></strong>July - 30th</span><br /><span style=\"color: #ff1e25;\">August - 8th, 15th, 16th, 21st, 22nd</span><br /><span style=\"color: #ff1e25;\">Event<em>&nbsp;rates will apply.<br /></em><em>On event dates, please allow additional time to exit.</em></span></p>\n<p>Wilson Parking offer affordable &amp; secure parking at Park Hyatt Car Park, located at St Andrews Place&nbsp;in the heart of East Melbourne. Open 7 days, this undercover car park provides convenient access to Princess Theatre, Comedy Theatre, Parliament House and with 24 hour access is perfect for restaurant and hotel parking. Offering Hourly, Early Bird, Weekend and Night Parking options with exclusive discounts when you prepay online, permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the Park Hyatt Car Park will meet all your business and leisure parking needs.&nbsp;</p>\n<p>This car park accepts credit card payment only. Download the Wilson Parking App to plan your journey and access parking discounts when you prepay online;&nbsp;enjoy unlimited 24/7 access when you subscribe to monthly parking; pay as you go on one convenient monthly invoice when you use your Wilson Parking Card to access the car park.&nbsp;</p>",
+      "information": "<p><u></u><span style=\"color: #ff1e25;\"><strong><u>Event Dates 2026</u></strong></span><br /><span style=\"color: #ff1e25;\"><strong>AUGUST:</strong> 8th, 15th, 16th, 21st, 22nd</span><br /><span style=\"color: #ff1e25;\">Event<em>&nbsp;rates will apply.<br /></em><em>On event dates, please allow additional time to exit.</em></span></p>\n<p>Wilson Parking offer affordable &amp; secure parking at Park Hyatt Car Park, located at St Andrews Place&nbsp;in the heart of East Melbourne. Open 7 days, this undercover car park provides convenient access to Princess Theatre, Comedy Theatre, Parliament House and with 24 hour access is perfect for restaurant and hotel parking. Offering Hourly, Early Bird, Weekend and Night Parking options with exclusive discounts when you prepay online, permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the Park Hyatt Car Park will meet all your business and leisure parking needs.&nbsp;</p>\n<p>This car park accepts credit card payment only. Download the Wilson Parking App to plan your journey and access parking discounts when you prepay online;&nbsp;enjoy unlimited 24/7 access when you subscribe to monthly parking; pay as you go on one convenient monthly invoice when you use your Wilson Parking Card to access the car park.&nbsp;</p>",
       "isWilsonOne": true,
       "spottIsAvailable": true,
       "legacyID": 120,
@@ -60212,15 +60166,15 @@
               "price": 22.0
             },
             {
-              "timeSpan": "1.0 - 2.0 Hours\t",
+              "timeSpan": "1.0 - 2.0 Hours",
               "price": 44.0
             },
             {
-              "timeSpan": "2.0 - 3.0 hrs",
+              "timeSpan": "2.0 - 3.0 Hours",
               "price": 66.0
             },
             {
-              "timeSpan": "3.0 + hrs",
+              "timeSpan": "3.0 + Hours",
               "price": 80.0
             }
           ]
@@ -61109,7 +61063,7 @@
       "costCenter": 1003300,
       "direction": null,
       "heightRestriction": 2.05,
-      "information": "<p><span style=\"color: #ff1e25;\"><u></u><u></u><strong><u>Event Dates 2026:<br /></u></strong>July - 30th<br />August - 8th, 15th, 16th, 21st, 22nd<br />Event<em>&nbsp;rates will apply.<br /></em><em>On event dates, please allow additional time to exit.</em></span></p>\n<p>Wilson Parking offers affordable &amp; secure parking at 11 Exhibition St&nbsp;Car Park, located at 11 Exhibition St in the heart of East End. Open 7 days, this undercover car park provides convenient access to nearby the MCG, Federation Square, Birrarung Marr, Melbourne Park and many other popular attractions. This car park offers flat rate parking at the times you need when you prepay online a Flexi Saver rate online. Casual Hourly, Weekend and Night Parking options are also available, with permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the 11 Exhibition St Car Park will meet all your business and leisure parking needs.&nbsp;</p>\n<p>This car park accepts Credit Card payments only.&nbsp;Download the Wilson Parking App to plan your journey and access the best parking value when you prepay online; enjoy unlimited 24/7 access when you subscribe to monthly parking; pay as you go on one convenient monthly invoice when you use your Wilson Parking Card to access the car park.</p>",
+      "information": "<p><span style=\"color: #ff1e25;\"><u></u><u></u><strong><u>Event Dates 2026<br /></u>AUGUST:</strong> 8th, 15th, 16th, 21st, 22nd<br />Event<em>&nbsp;rates will apply.<br /></em><em>On event dates, please allow additional time to exit.</em></span></p>\n<p>Wilson Parking offers affordable &amp; secure parking at 11 Exhibition St&nbsp;Car Park, located at 11 Exhibition St in the heart of East End. Open 7 days, this undercover car park provides convenient access to nearby the MCG, Federation Square, Birrarung Marr, Melbourne Park and many other popular attractions. This car park offers flat rate parking at the times you need when you prepay online a Flexi Saver rate online. Casual Hourly, Weekend and Night Parking options are also available, with permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the 11 Exhibition St Car Park will meet all your business and leisure parking needs.&nbsp;</p>\n<p>This car park accepts Credit Card payments only.&nbsp;Download the Wilson Parking App to plan your journey and access the best parking value when you prepay online; enjoy unlimited 24/7 access when you subscribe to monthly parking; pay as you go on one convenient monthly invoice when you use your Wilson Parking Card to access the car park.</p>",
       "isWilsonOne": true,
       "spottIsAvailable": true,
       "legacyID": 497,
@@ -62689,7 +62643,7 @@
       "costCenter": 1003250,
       "direction": "Entry via Russell St (Extension) or off Batman Ave (at Tennis Centre)\nOn event dates and busy periods, please use the Batman Ave Exit from Level 1 and allow additional time to exit. ",
       "heightRestriction": 2.1,
-      "information": "<p><u></u><u></u><u></u><span style=\"color: #ff1e25;\"><strong><u>Event Dates 2026:<br /></u>JULY :</strong>&nbsp;30th&nbsp;and 31st from 4:00pm to 11:59pm</span><br /><span style=\"color: #ff1e25;\"><strong>AUGUST :</strong>&nbsp;1st, 11th, 18th, 19th, 20th, 21st from 4:00pm to 11:59pm</span><br /><span style=\"color: #ff1e25;\">2nd, 8th, 15th, 16th, 29th&nbsp;from 11:00am to 11:59pm</span><br /><span style=\"color: #ff1e25;\">22nd and 23rd&nbsp;from 8:00am to 11:59pm</span><br /><span style=\"color: #ff1e25;\"><em>Event rates will apply.<br /></em><em>On event dates, please allow additional time to exit.</em></span></p>\n<p>Wilson Parking offers affordable &amp; secure parking at Federation Square Car Park, located on Russell St (Extension) in the Melbourne CBD. This car park is nearby to many popular attractions, including Federation Square, Flinders St Station, Birrarung Marr, Rod Laver Arena and Melbourne Park. Offering casual Early Bird, Hourly, Night and Weekend parking, with exclusive discounts when you prepay online, the Federation Square Car Park will meet all of your parking needs.</p>\n<p><span style=\"color: #000000;\"><strong>On event dates and busy periods, please use the Batman Avenue Exit from Level 1 and allow additional time to exit.</strong></span></p>\n<p>Download the Wilson Parking App to plan your journey and access exclusive discounts when you prepay online; pay as you go with one convenient monthly invoice when you use your Wilson Parking Card; enjoy 24/7 unlimited access when you subscribe to Monthly Parking; or just drive up to pay with a credit card at the car park.</p>",
+      "information": "<p><u></u><u></u><u></u><span style=\"color: #ff1e25;\"><strong><u>Event Dates 2026</u></strong></span><br /><span style=\"color: #ff1e25;\"><strong>AUGUST:</strong>&nbsp;1st, 11th, 18th, 19th, 20th, 21st from 4:00pm to 11:59pm</span><br /><span style=\"color: #ff1e25;\">2nd, 8th, 15th, 16th, 29th&nbsp;from 11:00am to 11:59pm</span><br /><span style=\"color: #ff1e25;\">22nd and 23rd&nbsp;from 8:00am to 11:59pm</span><br /><span style=\"color: #ff1e25;\"><em>Event rates will apply.<br /></em><em>On event dates, please allow additional time to exit.</em></span></p>\n<p>Wilson Parking offers affordable &amp; secure parking at Federation Square Car Park, located on Russell St (Extension) in the Melbourne CBD. This car park is nearby to many popular attractions, including Federation Square, Flinders St Station, Birrarung Marr, Rod Laver Arena and Melbourne Park. Offering casual Early Bird, Hourly, Night and Weekend parking, with exclusive discounts when you prepay online, the Federation Square Car Park will meet all of your parking needs.</p>\n<p><span style=\"color: #000000;\"><strong>On event dates and busy periods, please use the Batman Avenue Exit from Level 1 and allow additional time to exit.</strong></span></p>\n<p>Download the Wilson Parking App to plan your journey and access exclusive discounts when you prepay online; pay as you go with one convenient monthly invoice when you use your Wilson Parking Card; enjoy 24/7 unlimited access when you subscribe to Monthly Parking; or just drive up to pay with a credit card at the car park.</p>",
       "isWilsonOne": true,
       "spottIsAvailable": false,
       "legacyID": 94,
@@ -62704,7 +62658,7 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Rates apply Monday - Friday.</p>",
+          "notes": "<p>Rates apply Monday - Friday</p>",
           "rates": [
             {
               "timeSpan": "0.0 - 1.0 hrs ",
@@ -62726,7 +62680,7 @@
         },
         {
           "rateType": "Early Bird",
-          "notes": "<p><strong>Drive-up Conditions</strong></p>\n<p>Enter between 6am and 10am, exit between 3pm and 12am (midnight).</p>\n<p>If conditions not met Hourly rates apply from time of entry.</p>\n<p>&nbsp;</p>\n<p>Pay in advance to access the best possible rates.&nbsp;Enjoy greater flexibility when you prepay online your Flexi Saver Parking online. Enter and exit at the time you need with one flat rate.&nbsp;</p>\n<p>The Flexi Saver Product is only available online and includes transaction fees.</p>\n<p><span class=\"ui-provider a b c d e f g h i j k l m n o p q r s t u v w x y z ab ac ae af ag ah ai aj ak\" dir=\"ltr\"><em>*A one hour grace period applies before your selected entry time and following your selected exit time. Prepaid parking is for one entry and one exit only.</em></span></p>\n<p>Discount parking available online<br />Select the <strong>Prepay Now</strong> link below to get started.<br />Rates shown include transaction fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>\n<p>&nbsp;</p>",
+          "notes": "<p><strong>Drive-up Conditions</strong></p>\n<p>Enter between 6am and 10am, exit between 3pm and 12am (midnight).</p>\n<p>If conditions not met Hourly rates apply from time of entry.</p>\n<p>Pay in advance to access the best possible rates.&nbsp;Enjoy greater flexibility when you prepay online your Flexi Saver Parking online. Enter and exit at the time you need with one flat rate.&nbsp;</p>\n<p>The Flexi Saver Product is only available online and includes transaction fees.</p>\n<p><span class=\"ui-provider a b c d e f g h i j k l m n o p q r s t u v w x y z ab ac ae af ag ah ai aj ak\" dir=\"ltr\"><em>*A one hour grace period applies before your selected entry time and following your selected exit time. Prepaid parking is for one entry and one exit only.</em></span></p>\n<p>Discount parking available online<br />Select the <strong>Prepay Now</strong> link below to get started<br />Rates shown include transaction fee</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>\n<p>&nbsp;</p>",
           "rates": [
             {
               "timeSpan": "Mon - Fri",
@@ -62736,10 +62690,10 @@
         },
         {
           "rateType": "Night",
-          "notes": "<p>Entry after 4pm and exit before 4am.</p>\n<p>Online rate shown includes transaction fee. Click the Prepay now link below to get started.</p>\n<p><span style=\"color: #ff1e25;\"><strong>Event parking</strong></span></p>\n<p>Event Rate may be applicable on peak precinct event days.</p>\n<p>Online night rate will not be available. Flexi Saver rates will apply at these times.</p>\n<p><span class=\"ui-provider ee bms bpw bpx bpy bpz bqa bqb bqc bqd bqe bqf bqg bqh bqi bqj bqk bql bqm bqn bqo bqp bqq bqr bqs bqt bqu bqv bqw bqx bqy bqz bra brb brc\" dir=\"ltr\">Drive up event rate will replace the drive up night rate for any vehicle entering before midnight</span></p>\n<p>&nbsp;</p>",
+          "notes": "<p>Entry after 4pm and exit before 4am.</p>\n<p>Online rate shown includes transaction fee. Click the Prepay now link below to get started.</p>\n<p><span style=\"color: #ff1e25;\"><strong>Event parking</strong></span></p>\n<p>Event Rate may be applicable on peak precinct event days.</p>\n<p>Online night rate will not be available. Flexi Saver rates will apply at these times.</p>\n<p><span class=\"ui-provider ee bms bpw bpx bpy bpz bqa bqb bqc bqd bqe bqf bqg bqh bqi bqj bqk bql bqm bqn bqo bqp bqq bqr bqs bqt bqu bqv bqw bqx bqy bqz bra brb brc\" dir=\"ltr\">Drive up event rate will replace the drive up night rate for any vehicle entering before midnight.</span></p>",
           "rates": [
             {
-              "timeSpan": "Mon - Thu",
+              "timeSpan": "Mon - Thurs",
               "price": 17.0
             },
             {
@@ -63327,7 +63281,7 @@
       "costCenter": 1003169,
       "direction": "Entry via Flinders St or 195 Flinders Lane",
       "heightRestriction": 2.0,
-      "information": "<p><span style=\"color: #ff1e25;\"><u></u><u></u><strong style=\"color: #ff1e25;\"><u>Event Dates 2026:<br /></u></strong>July - 30th<br />August - 8th, 15th, 16th, 21st, 22nd,&nbsp;<br />Event<em style=\"color: #ff1e25;\"> rates will apply.<br /></em><em style=\"color: #ff1e25;\">On event dates, please allow additional time to exit.</em></span></p>\n<p>Wilson Parking offers affordable &amp; convenient parking at Flinders Gate Car Park, located at 172-192 Flinders Street, Melbourne. This car park is nearby to many Melbourne attractions including St Paul's Cathedral, The Ian Potter Centre and Flinders St Station.</p>\n<p>Offering online discounts for Flexi Saver, Night, Overnight and Weekend parking as well as competitive drive up rates, the Flinders Gate car park will meet all of your parking needs when visiting the Melbourne CBD.</p>\n<p><strong>This car park accepts Credit Card payments only.</strong></p>\n<p>Pay as you go with a Wilson Parking Card, or enjoy unlimited 24/7 access when you subscribe to a Monthly parking account.</p>\n<p><em>Site can be affected by road closures. Please refer to the <a title=\"https://www.melbourne.vic.gov.au/parking-and-transport/roads/Pages/road-closures.aspx\" href=\"https://www.melbourne.vic.gov.au/parking-and-transport/roads/Pages/road-closures.aspx\" target=\"_blank\" rel=\"noopener\">City of Melbourne website</a> for more information.</em></p>",
+      "information": "<p><span style=\"color: #ff1e25;\"><u></u><u></u><strong style=\"color: #ff1e25;\"><u>Event Dates 2026</u></strong><br /><strong>AUGUST:</strong> 8th, 15th, 16th, 21st, 22nd<br />Event<em style=\"color: #ff1e25;\"> rates will apply.<br /></em><em style=\"color: #ff1e25;\">On event dates, please allow additional time to exit.</em></span></p>\n<p>Wilson Parking offers affordable &amp; convenient parking at Flinders Gate Car Park, located at 172-192 Flinders Street, Melbourne. This car park is nearby to many Melbourne attractions including St Paul's Cathedral, The Ian Potter Centre and Flinders St Station.</p>\n<p>Offering online discounts for Flexi Saver, Night, Overnight and Weekend parking as well as competitive drive up rates, the Flinders Gate car park will meet all of your parking needs when visiting the Melbourne CBD.</p>\n<p><strong>This car park accepts Credit Card payments only.</strong></p>\n<p>Pay as you go with a Wilson Parking Card, or enjoy unlimited 24/7 access when you subscribe to a Monthly parking account.</p>\n<p><em>Site can be affected by road closures. Please refer to the <a title=\"https://www.melbourne.vic.gov.au/parking-and-transport/roads/Pages/road-closures.aspx\" href=\"https://www.melbourne.vic.gov.au/parking-and-transport/roads/Pages/road-closures.aspx\" target=\"_blank\" rel=\"noopener\">City of Melbourne website</a> for more information.</em></p>",
       "isWilsonOne": true,
       "spottIsAvailable": true,
       "legacyID": 253,
@@ -65584,7 +65538,7 @@
       "costCenter": 1003394,
       "direction": "Entry via 370 Little Lonsdale St, Melbourne",
       "heightRestriction": 2.1,
-      "information": "<p>Wilson Parking offers affordable &amp; secure parking at the Victoria University Car Park in the heart of Melbourne CBD.</p>\n<p>Car park entry is<strong>&nbsp;via 370 Little Lonsdale St, Melbourne only.</strong></p>\n<p>Offering Hourly, Night, Weekend &amp; permanent monthly parking for regular parkers, with exclusive discounts when you prepay online, Victoria University Car Park will meet all your business and leisure parking needs.</p>\n<p>Pay as you go with a Wilson Parking card, or enjoy 24/7 unlimited access when you subscribe to Monthly Parking.</p>",
+      "information": "<p><span style=\"color: #ff1e25;\"><strong>Notice :&nbsp;</strong>Car park will be temporarily unavailable on&nbsp;<br /><strong>Saturday, August 8<sup>th</sup> &ndash; from 6:00am to 1:00pm<br /></strong></span><em><span style=\"color: #ff1e25;\">No Access to loading dock or car park during this time</span></em></p>\n<p>Wilson Parking offers affordable &amp; secure parking at the Victoria University Car Park in the heart of Melbourne CBD.</p>\n<p>Car park entry is<strong>&nbsp;via 370 Little Lonsdale St, Melbourne only.</strong></p>\n<p>Offering Hourly, Night, Weekend &amp; permanent monthly parking for regular parkers, with exclusive discounts when you prepay online, Victoria University Car Park will meet all your business and leisure parking needs.</p>\n<p>Pay as you go with a Wilson Parking card, or enjoy 24/7 unlimited access when you subscribe to Monthly Parking.</p>",
       "isWilsonOne": true,
       "spottIsAvailable": true,
       "legacyID": 3394,
@@ -70541,7 +70495,7 @@
       "costCenter": 1003225,
       "direction": "Entry via Enterprize Way. Car park is on the right.",
       "heightRestriction": 2.0,
-      "information": "<p><u></u><strong style=\"color: #ff1e25;\"><u>Event Dates 2026:<br /></u></strong><span style=\"color: #ff1e25;\">August - 1st, 2nd, 6th, 9th, 15th, 16th, 20th, 22nd, 23rd, 27th<br /></span><span style=\"color: #ff1e25;\"><em>Event rates will apply. Drive up only.</em><br /><em>On event dates, please allow additional time to exit.</em></span></p>\n<p><span style=\"color: #ff1e25;\"><em><br /></em></span>Wilson Parking offer affordable parking at 800 Bourke St Car Park, located at Enterprize Way, Docklands. This car park, located on the Yarra River,&nbsp; is nearby to Marvel Stadium, Docklands Park and other Docklands attractions. Offering Hourly, Weekend and night parking, as well as discount online parking options, the 800 Bourke St Car Park will meet all of your parking needs.</p>\n<p>Experience the convenience of&nbsp;pay as you go with a Wilson Parking card, or enjoy 24/7 unlimited access when you subscribe to Monthly Parking.</p>",
+      "information": "<p><u></u><strong style=\"color: #ff1e25;\"><u>Event Dates 2026<br /></u></strong><span style=\"color: #ff1e25;\"><strong>AUGUST:</strong> 1st, 2nd, 6th, 9th, 15th, 16th, 20th, 22nd, 23rd, 27th<br /></span><span style=\"color: #ff1e25;\"><em>Event rates will apply. Drive up only.</em><br /><em>On event dates, please allow additional time to exit.<br /><br /></em></span>Wilson Parking offer affordable parking at 800 Bourke St Car Park, located at Enterprize Way, Docklands. This car park, located on the Yarra River,&nbsp; is nearby to Marvel Stadium, Docklands Park and other Docklands attractions. Offering Hourly, Weekend and night parking, as well as discount online parking options, the 800 Bourke St Car Park will meet all of your parking needs.</p>\n<p>Experience the convenience of&nbsp;pay as you go with a Wilson Parking card, or enjoy 24/7 unlimited access when you subscribe to Monthly Parking.</p>",
       "isWilsonOne": true,
       "spottIsAvailable": true,
       "legacyID": 41,
@@ -79624,16 +79578,6 @@
               "price": 45.0
             }
           ]
-        },
-        {
-          "rateType": "Weekend",
-          "notes": "<p>Weekend rates charged Saturday, Sunday and Public Holidays</p>\n<p>Rates charged from 6am daily</p>",
-          "rates": [
-            {
-              "timeSpan": "Sat - Sun",
-              "price": 18.5
-            }
-          ]
         }
       ],
       "fromText": "From",
@@ -79979,16 +79923,6 @@
             {
               "timeSpan": "3.0 + hrs",
               "price": 30.0
-            }
-          ]
-        },
-        {
-          "rateType": "Weekend",
-          "notes": "<p>Per exit, per day</p>",
-          "rates": [
-            {
-              "timeSpan": "Flat rate",
-              "price": 12.0
             }
           ]
         }
@@ -108653,7 +108587,11 @@
               "price": 6.0
             },
             {
-              "timeSpan": "2.0 - 12.0 hrs",
+              "timeSpan": "2.0 - 3.0 hrs",
+              "price": 8.0
+            },
+            {
+              "timeSpan": "3.0 - 12.0 hrs",
               "price": 9.0
             }
           ]
