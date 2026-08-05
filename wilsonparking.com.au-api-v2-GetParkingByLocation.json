@@ -1085,7 +1085,7 @@
           "rates": [
             {
               "timeSpan": "Mon - Fri",
-              "price": 25.0
+              "price": 29.0
             }
           ]
         },
@@ -1095,13 +1095,13 @@
           "rates": [
             {
               "timeSpan": "Weekend varies from $26.75 - $29.75, depending on demand",
-              "price": 29.0
+              "price": 35.0
             }
           ]
         }
       ],
       "fromText": "From",
-      "fromPrice": "22",
+      "fromPrice": "23.75",
       "location": {
         "longitude": 151.206025574126,
         "latitude": -33.8683208520192,
@@ -1464,7 +1464,7 @@
           "rates": [
             {
               "timeSpan": "Weekend varies from $26.75 - $29.75, depending on demand",
-              "price": 32.0
+              "price": 34.0
             }
           ]
         },
@@ -1474,7 +1474,7 @@
           "rates": [
             {
               "timeSpan": "Mon - Fri",
-              "price": 32.0
+              "price": 34.0
             }
           ]
         }
@@ -1924,7 +1924,7 @@
           "rates": [
             {
               "timeSpan": "Mon - Fri",
-              "price": 25.0
+              "price": 19.0
             }
           ]
         },
@@ -2366,7 +2366,7 @@
           "rates": [
             {
               "timeSpan": "Mon - Fri",
-              "price": 20.0
+              "price": 15.0
             }
           ]
         },
@@ -2376,13 +2376,13 @@
           "rates": [
             {
               "timeSpan": "Weekend varies from $20.75- $22.75, depending on demand",
-              "price": 29.0
+              "price": 25.0
             }
           ]
         }
       ],
       "fromText": "From",
-      "fromPrice": "14.75",
+      "fromPrice": "12.75",
       "location": {
         "longitude": 151.20582640171051,
         "latitude": -33.871101476069974,
@@ -2817,7 +2817,7 @@
           "rates": [
             {
               "timeSpan": "Mon - Fri",
-              "price": 30.0
+              "price": 32.0
             }
           ]
         },
@@ -2827,7 +2827,7 @@
           "rates": [
             {
               "timeSpan": "Weekend varies from $31.75 - $33.75, depending on demand",
-              "price": 35.0
+              "price": 37.0
             }
           ]
         }
@@ -3538,7 +3538,7 @@
           "rates": [
             {
               "timeSpan": "Mon - Fri",
-              "price": 20.0
+              "price": 18.0
             }
           ]
         },
@@ -3548,7 +3548,7 @@
           "rates": [
             {
               "timeSpan": "Weekend varies from $22.75 - $24.75, depending on demand",
-              "price": 32.0
+              "price": 29.0
             }
           ]
         }
@@ -3751,7 +3751,7 @@
           "rates": [
             {
               "timeSpan": "Mon - Friday from",
-              "price": 25.0
+              "price": 27.0
             }
           ]
         },
@@ -3760,14 +3760,14 @@
           "notes": "<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>",
           "rates": [
             {
-              "timeSpan": "Weekend varies from $29.75- $31.75, depending on demand",
-              "price": 35.0
+              "timeSpan": "Weekend varies from $31.75- $33.75, depending on demand",
+              "price": 37.0
             }
           ]
         }
       ],
       "fromText": "From",
-      "fromPrice": "20.75",
+      "fromPrice": "22.75",
       "location": {
         "longitude": 151.21009111404419,
         "latitude": -33.86449142275498,
@@ -4686,7 +4686,7 @@
           "rates": [
             {
               "timeSpan": "Weekend varies from $34.75 - $36.75, depending on demand",
-              "price": 40.0
+              "price": 42.0
             }
           ]
         },
@@ -4696,7 +4696,7 @@
           "rates": [
             {
               "timeSpan": "Night (Mon - Friday) from",
-              "price": 36.0
+              "price": 38.0
             }
           ]
         }
@@ -5756,7 +5756,7 @@
       "costCenter": 1002303,
       "direction": "St Mary's Road, Sydney",
       "heightRestriction": 1.9,
-      "information": "<p style=\"text-align: left;\"><span style=\"color: #ff1e25;\">Please note that one of the lifts at The Domain Car Park is currently out of order. We apologise for any inconvenience this may cause. For those with accessibility needs, please park on Ground level and access the car park via Sir John Young Crescent.</span></p>\n<p>Affordable &amp; secure parking is available at The Domain Car Park which is located at St Mary&rsquo;s Rd in the heart of Sydney. The Domain is home of Music Festivals, Carols in the Domain, Concerts &amp; Marathon events. Offering Hourly, Night and Weekend parking as well as discount online parking options, and open 24 hours a day, The Domain Car Park suits all your parking needs.</p>\n<p><strong>Spott is now available at The Domain Car Park. Download the Wilson Parking App to enjoy easy, stress free, automatic parking using advanced vehicle recognition (LPR) and QR code technology at this car park.</strong></p>\n<p>Save when you prepay for your parking online or with the Wilson Parking App or enjoy unlimited 24/7 access when you subscribe to monthly parking if you visit frequently.&nbsp;</p>",
+      "information": "<p style=\"text-align: left;\"><span style=\"color: #ff1e25;\">Please note that one of the lifts at The Domain Car Park is currently out of order. We apologise for any inconvenience this may cause. For those with accessibility needs, please park on Ground level and access the car park via Sir John Young Crescent.</span></p>\n<p>Affordable &amp; secure parking is available at The Domain Car Park which is located at St Mary&rsquo;s Rd in the heart of Sydney. The Domain is home of Music Festivals, Carols in the Domain, Concerts &amp; Marathon events. Offering Hourly, Night and Weekend parking as well as discount online parking options, and open 24 hours a day, The Domain Car Park suits all your parking needs.</p>\n<p><strong>Spott is available at The Domain Car Park. Download the Wilson Parking App to enjoy easy, stress free, automatic parking using advanced vehicle recognition (LPR) and QR code technology at this car park.</strong></p>\n<p>Save when you prepay for your parking online or with the Wilson Parking App or enjoy unlimited 24/7 access when you subscribe to monthly parking if you visit frequently.&nbsp;</p>",
       "isWilsonOne": true,
       "spottIsAvailable": true,
       "legacyID": 562,
@@ -7049,11 +7049,11 @@
         },
         {
           "rateType": "Weekend",
-          "notes": "<p>&nbsp;</p>\n<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>\n<p>&nbsp;</p>",
+          "notes": "<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>",
           "rates": [
             {
               "timeSpan": "Weekend varies from $35.75 - $37.75, depending on demand",
-              "price": 39.0
+              "price": 40.0
             }
           ]
         }
@@ -37097,11 +37097,11 @@
           "notes": "<p>Rates apply Monday to Sunday<br />Rates charged from 6am daily<br />Casual rates apply for Public Holidays, Weekends and Nights. <br />Concession rates only apply to valid card holders. Must see onsite attendant to purchase.</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 0.25 hrs",
+              "timeSpan": "0.0 - 0.5 hrs",
               "price": 0.0
             },
             {
-              "timeSpan": "0.25 - 1.0 hrs",
+              "timeSpan": "0.5 - 1.0 hrs",
               "price": 8.7
             },
             {
@@ -38527,32 +38527,32 @@
           "notes": "<p>Rates are charged from 6am daily.</p>\n<p>Concessional Rates are for&nbsp;eligible patients, their carers, and holders of concession cards. Please see staff onsite with identification prior to exiting the car park.&nbsp;Visit&nbsp;<a href=\"http://www.parking.health.nsw.gov.au/\" target=\"_blank\" rel=\"noopener\">www.parking.health.nsw.gov.au</a>&nbsp;for further information on concessional parking at your local public hospital.</p>",
           "rates": [
             {
-              "timeSpan": "0 - 15 mins",
+              "timeSpan": "0 - 30 mins",
               "price": 0.0
             },
             {
-              "timeSpan": "15 mins - 1.0 hr",
-              "price": 8.3
+              "timeSpan": "30 mins - 1.0 hr",
+              "price": 8.7
             },
             {
               "timeSpan": "1.0 - 2.0 hrs",
-              "price": 12.3
+              "price": 12.8
             },
             {
               "timeSpan": "2.0 - 3.0 hrs",
-              "price": 16.6
+              "price": 17.3
             },
             {
               "timeSpan": "3.0 - 4.0 hrs",
-              "price": 19.3
+              "price": 20.1
             },
             {
               "timeSpan": "4.0 - 5.0 hrs",
-              "price": 22.2
+              "price": 23.2
             },
             {
               "timeSpan": "5.0 + hrs",
-              "price": 24.7
+              "price": 25.8
             },
             {
               "timeSpan": "0.0 - 3.0 hrs",
@@ -38560,15 +38560,15 @@
             },
             {
               "timeSpan": "1 Exit",
-              "price": 6.9
+              "price": 7.2
             },
             {
               "timeSpan": "3 Day Pass",
-              "price": 13.8
+              "price": 14.4
             },
             {
               "timeSpan": "7 Day Pass",
-              "price": 27.6
+              "price": 28.8
             }
           ]
         }
@@ -61349,8 +61349,12 @@
           "notes": "<p>Saturday or Sunday &amp; Public Holidays.</p>\n<p>Day applies from 6:00 am - 6:00 am next day.</p>\n<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>",
           "rates": [
             {
-              "timeSpan": "Sat - Sun & Public Holiday varies from $16.75 - $20.75",
-              "price": 22.0
+              "timeSpan": "Weekend Day - exit before 4pm",
+              "price": 21.0
+            },
+            {
+              "timeSpan": "Weekend Night - exit after 4pm",
+              "price": 25.0
             }
           ]
         }
@@ -61673,6 +61677,14 @@
             {
               "timeSpan": "Sat - Sun & Public Holiday varies from $15.75 - $19.75, depending on demand",
               "price": 22.0
+            },
+            {
+              "timeSpan": "Weekend Day - exit before 4pm",
+              "price": 20.0
+            },
+            {
+              "timeSpan": "Weekend Night - exit after 4pm",
+              "price": 24.0
             }
           ]
         }
@@ -67346,7 +67358,7 @@
             },
             {
               "timeSpan": "4.0 + hrs (Max Daily Rate)",
-              "price": 80.0
+              "price": 85.0
             }
           ]
         },
