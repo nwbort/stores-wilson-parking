@@ -7411,7 +7411,7 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Rates apply Monday to Friday.</p>\n<p>Online rates include transaction fee. Click the <strong>Prepay&nbsp;now</strong> link below to get started.</p>",
+          "notes": "<p>Rates apply Monday to Sunday.</p>\n<p>Online rates include transaction fee. Click the <strong>Prepay&nbsp;now</strong> link below to get started.</p>",
           "rates": [
             {
               "timeSpan": "0.0 - 0.5 hrs",
@@ -43429,7 +43429,10 @@
       "carParkFeature": [
         "Weekend Parking",
         "Epark",
-        "Entry height at least 2"
+        "Entry height at least 2",
+        "LPR",
+        "Elevate Only",
+        "Spott"
       ],
       "services": [],
       "carParkName": "36 Mort Street Car Park",
@@ -43441,7 +43444,7 @@
       "heightRestriction": 0.0,
       "information": "<p>Wilson Parking offer affordable parking at 36 Mort Street Car Park, located at 36 Mort St, Braddon. Open 24/7 and centrally located, this open air car park offers options for hotel or restaurant parking, or casual business and leisure parking. Offering casual Hourly Parking all day, the 36 Mort Street Car Park will meet all of your Braddon parking needs.</p>",
       "isWilsonOne": false,
-      "spottIsAvailable": false,
+      "spottIsAvailable": true,
       "legacyID": 604,
       "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
@@ -43476,7 +43479,7 @@
         }
       ],
       "fromText": "From",
-      "fromPrice": "5",
+      "fromPrice": "4",
       "location": {
         "longitude": 149.13171172142029,
         "latitude": -35.2735697125008,
@@ -43580,7 +43583,7 @@
         "evChargerIsAvailable": false,
         "evChargerIconLabel": "EV Charging",
         "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "spottIsAvailable": false,
+        "spottIsAvailable": true,
         "spottIconLabel": "Spott",
         "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
         "additionalServices": []
@@ -48966,7 +48969,7 @@
       "costCenter": 1012003,
       "direction": null,
       "heightRestriction": 2.2,
-      "information": "<p>Wilson Parking offer affordable parking at The Realm Hotel Car Park, located at Burbury Close, Barton. This undercover car park is open 24/7, providing parking for The Realm patrons, and those working or visiting local Barton businesses. Offering casual Hourly Parking, with the first hour free, as well as Free overnight and weekend parking, The Realm Hotel Car Park will meet all of your Barton parking needs.</p>",
+      "information": "<p>Wilson Parking offer affordable parking at The Realm Hotel Car Park, located at Burbury Close, Barton. This undercover car park is open 24/7, providing parking for The Realm patrons, and those working or visiting local Barton businesses. Offering casual Hourly Parking and free Weekend Parking, The Realm Hotel Car Park will meet all of your Barton parking needs.</p>",
       "isWilsonOne": false,
       "spottIsAvailable": false,
       "legacyID": 256,
@@ -48981,7 +48984,7 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": null,
+          "notes": "<p>Mon - Fri</p>",
           "rates": [
             {
               "timeSpan": "0.0 - 1.0 hrs",
@@ -60202,7 +60205,7 @@
           "notes": "<p>Enter after 6:00 am exit before close.&nbsp;</p>\n<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the <strong>Prepay Now</strong> link below to get started.<br />Rates shown include transaction fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>",
           "rates": [
             {
-              "timeSpan": "Sat, Sun & Public Holiday varies from $20.75 - $23.75, depending on demand",
+              "timeSpan": "Sat, Sun & Public Holiday varies from $18.75 - $23.75, depending on demand",
               "price": 25.0
             }
           ]
@@ -61476,10 +61479,6 @@
         "spottIconLabel": "Spott",
         "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
         "additionalServices": [
-          {
-            "label": null,
-            "icon": null
-          },
           {
             "label": null,
             "icon": null
@@ -89853,7 +89852,7 @@
           "rates": [
             {
               "timeSpan": "0.0 - 1.0 hrs",
-              "price": 9.0
+              "price": 8.0
             },
             {
               "timeSpan": "1.0 - 2.0 hrs",
@@ -89861,11 +89860,11 @@
             },
             {
               "timeSpan": "2.0 - 3.0 hrs",
-              "price": 23.0
+              "price": 24.0
             },
             {
               "timeSpan": "3.0 + hrs",
-              "price": 30.0
+              "price": 31.0
             }
           ]
         }
@@ -90025,7 +90024,7 @@
           "rates": [
             {
               "timeSpan": "0.0 - 1.0 hrs",
-              "price": 9.0
+              "price": 8.0
             },
             {
               "timeSpan": "1.0 - 2.0 hrs",
@@ -90033,11 +90032,11 @@
             },
             {
               "timeSpan": "2.0 - 3.0 hrs",
-              "price": 23.0
+              "price": 24.0
             },
             {
               "timeSpan": "3.0 + hrs",
-              "price": 30.0
+              "price": 31.0
             }
           ]
         }
@@ -92433,7 +92432,7 @@
       "carParkPhoto": "/contentassets/ca151af77ba848a8a7950e6de5610cf5/capture.jpg",
       "category": "",
       "costCenter": 1006212,
-      "direction": "<b>**Car Park only operational on selected event days**</b><br>\n\n</b><br>31st July -  AFL Fremantle Dockers Vs Western Bulldogs<b>\n</b><br>(Gate opens at 4:30pm and closes at 10:00pm sharp)<b>\n\n</b><br>5th Aug - AC Milan Vs InterSoccer<b>\n</b><br>(Gate opens at 5:30pm and closes at 10:30pm sharp)<b>\n\n</b><br>8th Aug - Juventus Vs Inter<b>\n</b><br>(Gate opens at 5:30pm and closes at 10:30pm sharp)<b>\n\n</b><br>9th Aug - West Coast Eagles Vs Collingwood<b>\n</b><br>(Gate opens at 12:30pm and closes at 6:30pm sharp)<b>",
+      "direction": "<b>**Car Park only operational on selected event days**</b><br>\n\n</b><br>8th Aug - Juventus Vs Inter<b>\n</b><br>(Gate opens at 5:30pm and closes at 10:30pm sharp)<b>\n\n</b><br>9th Aug - West Coast Eagles Vs Collingwood<b>\n</b><br>(Gate opens at 12:30pm and closes at 6:30pm sharp)<b>",
       "heightRestriction": 0.0,
       "information": "<p>Wilson Parking offers affordable parking at Belmont Racecourse Car Park for Optus Stadium event parking only. Located a short walk from Optus Stadium, this car park is the perfect location for footy, cricket, concerts and other Optus Stadium events. Operational days are shown under the parking rates to the left.</p>\n<p>Parking must be prepaid in advance through the Wilson Parking App or website. No payments can be taken at the gate. Must present prepaid confirmation to access car park.</p>",
       "isWilsonOne": false,
@@ -99421,7 +99420,7 @@
       "carParkPhoto": "/contentassets/4faae83752104baa985fa2f50b062667/20230419_151728.jpg",
       "category": "",
       "costCenter": 1006059,
-      "direction": "Entry via Mounts Bay Road\n\n",
+      "direction": "Entry via Mounts Bay Road\n\n</br></br>Dear Customers, </br>\n</br></br>Please note the car park is scheduled for high pressure cleaning on 15th of August from 7PM till 3AM the following morning. </br>",
       "heightRestriction": 2.1,
       "information": "<p>Wilson Parking offer affordable and convenient parking at Westralia Square, located at 24 Mounts Bay Rd, Perth. Open 7 days, and late on Friday and Saturday, this car park is ideal for visitors to Elizabeth Quay and other surrounding Perth businesses. Offering casual Hourly, Early Bird, Night and Weekend, as well as exclusive savings when you prepay online or with the Wilson Parking App,&nbsp;the Westralia Square Car Park will meet all of your parking needs.</p>\n<p>Download the Wilson Parking App to plan your journey, prepay ahead and access exclusive savings, or just drive up, pay with your credit card, pay as you go with the Wilson Parking Card.</p>",
       "isWilsonOne": true,
