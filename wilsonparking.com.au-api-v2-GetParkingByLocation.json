@@ -24512,7 +24512,203 @@
       "featuredIndex": 0
     },
     {
-      "name": "Gordon Park&Ride",
+      "name": "Gordon - Henry St (South) Park&Ride",
+      "bookText": null,
+      "canBookABay": false,
+      "selectedFeatures": "",
+      "carParkFeature": [],
+      "services": [],
+      "carParkName": "Gordon - Henry St (South) Park&Ride",
+      "carParkNumber": 2431,
+      "carParkPhoto": null,
+      "category": "",
+      "costCenter": 1002431,
+      "direction": null,
+      "heightRestriction": 2.2,
+      "information": "<p>Transport Park&amp;Ride is designed to free-up more spaces at commuter car parks for those who want to travel on public transport.</p>\n<p>Park&amp;Ride provides up to 18 hours free parking each day. All you have to do is complete a public transport trip by tapping on and tapping off using an accepted:</p>\n<ol>\n<li><strong>Opal card</strong>&nbsp;or</li>\n<li><strong>credit/debit/Opal card&nbsp;</strong>linked to a&nbsp;<a href=\"https://connect.transportnsw.info/sign-up\">Transport Connect account</a></li>\n</ol>\n<p>Located close to public transport hubs, Park&amp;Ride car parks help you connect more easily to train, bus and ferry services.</p>",
+      "isWilsonOne": false,
+      "spottIsAvailable": false,
+      "legacyID": 2431,
+      "monthlyParkingServiceIsAvailable": false,
+      "evChargerIsAvailable": false,
+      "disabledParkingIsAvailable": false,
+      "phoneNumber": null,
+      "products": [],
+      "staticMapPhoto": null,
+      "streetViewHeading": null,
+      "streetViewLocation": null,
+      "rates": [
+        {
+          "rateType": "Hourly",
+          "notes": "<p><u>Casual Parking (non-commuter)</u>: Applies if you are not using public transport or you have exceeded the 18 hours free parking, per day.<br /><br /><u>Commuter Parking</u>: Parking is free for up to 18 hours when you complete a valid public transport trip&nbsp;using an accepted Opal card, or credit/debit card linked with a Transport Connect account. More information is available at <a href=\"http://www.transportnsw.info/parkandride\">www.transportnsw.info/parkandride</a></p>\n<p>If you are not using public transport or you have exceeded the 18 hours free parking, you will be charged Casual Parking rate.</p>\n<p><br /><u>Public Holidays</u>: Weekend Rates Apply</p>",
+          "rates": [
+            {
+              "timeSpan": "0.0 - 24.0 hrs",
+              "price": 30.0
+            },
+            {
+              "timeSpan": "0.0 - 18.0 hrs",
+              "price": 0.0
+            },
+            {
+              "timeSpan": "18.0 - 24.0 hrs",
+              "price": 30.0
+            }
+          ]
+        },
+        {
+          "rateType": "Weekend",
+          "notes": "<p><u>Weekend Parking (non-commuter)</u>: Applies if you are not using public transport or you have exceeded the 18 hours free parking, per day</p>\n<p><br /><u>Commuter Parking</u>: Parking is free for up to 18 hours when you complete a valid public transport trip&nbsp;using an accepted Opal card, or credit/debit card linked with a Transport Connect account. More information is available at <a href=\"http://www.transportnsw.info/parkandride\">www.transportnsw.info/parkandride</a></p>\n<p>If you are not using public transport or you have exceeded the 18 hours free parking, you will be charged Casual Parking rate.</p>",
+          "rates": [
+            {
+              "timeSpan": "0.0 - 3.0 hrs",
+              "price": 5.0
+            },
+            {
+              "timeSpan": "3..0 - 18.0 hrs",
+              "price": 10.0
+            },
+            {
+              "timeSpan": "0.0 - 18.0 hrs",
+              "price": 0.0
+            },
+            {
+              "timeSpan": "18.0 - 24.0 hrs",
+              "price": 10.0
+            }
+          ]
+        },
+        {
+          "rateType": "Night",
+          "notes": "<p><u>Weekend Parking (non-commuter)</u>: Applies if you are not using public transport or you have exceeded the 18 hours free parking, per day</p>\n<p><br /><u>Commuter Parking</u>: Parking is free for up to 18 hours when you complete a valid public transport trip&nbsp;using an accepted Opal card, or credit/debit card linked with a Transport Connect account. More information is available at <a href=\"http://www.transportnsw.info/parkandride\">www.transportnsw.info/parkandride</a></p>\n<p>If you are not using public transport or you have exceeded the 18 hours free parking, you will be charged Casual Parking rate.</p>",
+          "rates": [
+            {
+              "timeSpan": "Night - 5pm to Midnight (Mon - Fri)",
+              "price": 10.0
+            }
+          ]
+        }
+      ],
+      "fromText": "From",
+      "fromPrice": "0",
+      "location": {
+        "longitude": 151.155215477789,
+        "latitude": -33.7579493118229,
+        "zoom": 13,
+        "address": "Henry Street (South), Gordon",
+        "region": {
+          "name": "Upper North Shore",
+          "longitude": 151.15147742858881,
+          "latitude": -33.757427039208,
+          "status": "",
+          "state": {
+            "name": "New South Wales",
+            "abbreviation": "NSW",
+            "country": "Australia",
+            "longitude": 151.207430362701,
+            "latitude": -33.8662642500823,
+            "status": ""
+          }
+        }
+      },
+      "openingTimes": [
+        {
+          "day_TimePeriod": "Monday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Tuesday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Wednesday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Thursday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Friday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Saturday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Sunday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Public Holiday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        }
+      ],
+      "url": "/parking-locations/new-south-wales/upper-north-shore/gordon-henry-st-south-parkride/",
+      "serviceConfiguration": {
+        "canBookABay": false,
+        "bookABayIconLabel": "Prepay Online",
+        "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
+        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingIconLabel": "Monthly Subscription",
+        "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
+        "isWilsonOne": false,
+        "wilsonOneIconLabel": "Parking Card",
+        "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
+        "disabledParkingIsAvailable": false,
+        "disabledParkingIconLabel": "Disabled Parking",
+        "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
+        "evChargerIsAvailable": false,
+        "evChargerIconLabel": "EV Charging",
+        "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
+        "spottIsAvailable": false,
+        "spottIconLabel": "Spott",
+        "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
+        "additionalServices": []
+      },
+      "state": "NSW",
+      "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
+      "price": "",
+      "status": "",
+      "cpmsCarparkCode": null,
+      "externalCarParkInfo": null,
+      "featuredIndex": 0
+    },
+    {
+      "name": "Gordon (North) Park&Ride",
       "bookText": null,
       "canBookABay": false,
       "selectedFeatures": "",
@@ -24521,7 +24717,7 @@
         "Weekend Parking"
       ],
       "services": [],
-      "carParkName": "Gordon Park&Ride",
+      "carParkName": "Gordon (North) Park&Ride",
       "carParkNumber": 2332,
       "carParkPhoto": null,
       "category": "",
@@ -70358,7 +70554,7 @@
         }
       ],
       "fromText": "From",
-      "fromPrice": "21.75",
+      "fromPrice": "22.75",
       "location": {
         "longitude": 144.94911924004555,
         "latitude": -37.819607355005637,
@@ -79544,7 +79740,6 @@
       "selectedFeatures": "",
       "carParkFeature": [
         "Night Parking",
-        "Weekend Parking",
         "Entry height at least 2"
       ],
       "services": [],
@@ -79555,7 +79750,7 @@
       "costCenter": 1004084,
       "direction": "Entry via 325 Herston Road",
       "heightRestriction": 2.1,
-      "information": "<p>Wilson Parking offers affordable parking at the Herston Medical Precinct Car Park, conveniently located at 325 Herston Road, Herston, directly opposite the Royal Brisbane and Women&rsquo;s Hospital (RBWH) and within easy reach of nearby health, research and education precincts.</p>\n<p>Open 7 days, this multistorey car park provides seamless access for hospital visitors, staff, patients and those travelling to surrounding facilities. Offering Hourly, Weekend and Night parking options, the Herston Medical Precinct Car Park will meet all your parking needs.&nbsp;</p>",
+      "information": "<p>Wilson Parking offers affordable parking at the Herston Medical Precinct Car Park, conveniently located at 325 Herston Road, Herston, directly opposite the Royal Brisbane and Women&rsquo;s Hospital (RBWH) and within easy reach of nearby health, research and education precincts.</p>\n<p>Open 7 days, this multistorey car park provides seamless access for hospital visitors, staff, patients and those travelling to surrounding facilities. Offering Hourly parking options, the Herston Medical Precinct Car Park will meet all your parking needs.&nbsp;</p>",
       "isWilsonOne": false,
       "spottIsAvailable": false,
       "legacyID": 4084,
@@ -79595,16 +79790,6 @@
             {
               "timeSpan": "3.0 + Hrs",
               "price": 49.0
-            }
-          ]
-        },
-        {
-          "rateType": "Weekend",
-          "notes": "<p>Weekend rates charged Saturday, Sunday and Public Holidays</p>\n<p>Rates charged from 6am daily</p>",
-          "rates": [
-            {
-              "timeSpan": "Sat - Sun",
-              "price": 18.5
             }
           ]
         }
@@ -95935,7 +96120,7 @@
       "carParkPhoto": "/contentassets/ebe0e5edc3f94faa9ed99860074a70a2/per113c.jpg",
       "category": "",
       "costCenter": 1006113,
-      "direction": "Entry via Hay Street or Pier Street\n\nMotorbike parking must be paid for using the 517 Hay St (Kings Complex) - Motorcycle parking location\n",
+      "direction": "Entry via Hay Street or Pier Street\n\nMotorbike parking must be paid for using the 517 Hay St (Kings Complex) - Motorcycle parking location\n\n</br></br>Dear Customers</br>\n</br></br>Please note that due to scheduled works the car park will be accessible via Pier Street only from 12th to 15th Aug between 7am and 4pm </br>\n",
       "heightRestriction": 2.0,
       "information": "<p>Wilson Parking offer affordable parking at Kings Complex Car Park, located at 517 Hay Street, Perth. This undercover car park is open 24/7 close to Perth's legal distrtict, providing parking options for nearby restaurants and businesses, as well as the Magistrates Court of Western Australia and District Court of Western Australia. Offering casual Hourly, Online Early Bird Flexi, Night and Weekend Parking as well as exclusive discounts available when you prepay online or with the Wilson Parking App, the Central Park Car Park will meet all of your parking needs.</p>\n<p>The car park offers two convenient entries. Enter via Hay St or Pier Street, heading southbound, after the Hay Street intersection.</p>\n<p>Download the Wilson Parking App to prepay ahead and access exclusive savings, or simply drive up and pay with your Credit Card, pay as you go with a Wilson Parking card.</p>",
       "isWilsonOne": true,
