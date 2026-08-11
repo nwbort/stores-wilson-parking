@@ -3493,7 +3493,7 @@
       "costCenter": 1002235,
       "direction": "Entry via 383 Kent or 170 Sussex Streets (opposite Hyatt Regency Sydney) ",
       "heightRestriction": 2.1,
-      "information": "<p>Wilson Parking offer affordable &amp; secure parking at 383 Kent Street Car Park which is located at 383 Kent St or 170 Sussex St, Sydney in the heart of the Sydney CBD, King St Wharf, Barangaroo, Crown Casino, Restaurant and Hotel Precinct.&nbsp;</p>\n<p>The 383 Kent St Car Park suits all your leisure and business parking needs. With Monthly &amp; Online parking options,&nbsp;drive up Casual parking, or use your Wilson Parking Card and pay as you go</p>",
+      "information": "<p>Wilson Parking offer affordable &amp; secure parking at 383 Kent Street Car Park which is located at 383 Kent St or 170 Sussex St, Sydney in the heart of the Sydney CBD, King St Wharf, Barangaroo, Crown Casino, Restaurant and Hotel Precinct.&nbsp;</p>\n<p>The 383 Kent St Car Park suits all your leisure and business parking needs. With Monthly &amp; Online parking options,&nbsp;drive up Casual parking, or use your Wilson Parking Card and pay as you go.</p>",
       "isWilsonOne": true,
       "spottIsAvailable": true,
       "legacyID": 235,
@@ -3945,7 +3945,7 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Parking from $25 per Hour - Maximum daily rate of $85</p>\n<p>Hourly rates apply Monday to Friday</p>\n<p>Rates are charged from 6am daily</p>\n<div class=\"\" data-block=\"true\" data-editor=\"99adp\" data-offset-key=\"1akcde78-0-0\">&nbsp;</div>\n<div class=\"\" data-block=\"true\" data-editor=\"99adp\" data-offset-key=\"8pskg444-0-0\">\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"8pskg444-0-0\">&nbsp;</div>\n</div>",
+          "notes": "<p>Parking from $25 per Hour - Maximum daily rate of $85</p>\n<p>Hourly rates apply Monday to Friday</p>\n<p>Rates are charged from 5am daily</p>\n<div class=\"\" data-block=\"true\" data-editor=\"99adp\" data-offset-key=\"1akcde78-0-0\">&nbsp;</div>\n<div class=\"\" data-block=\"true\" data-editor=\"99adp\" data-offset-key=\"8pskg444-0-0\">\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"8pskg444-0-0\">&nbsp;</div>\n</div>",
           "rates": [
             {
               "timeSpan": "0.0 - 1.0 hrs",
@@ -3967,7 +3967,7 @@
         },
         {
           "rateType": "Night",
-          "notes": "<p>Entry after 5pm, exit before 6am the following morning.&nbsp;</p>\n<p>If entry and exit conditions not met, then Hourly rates apply from time of entry.&nbsp;</p>\n<div class=\"\" data-block=\"true\" data-editor=\"99adp\" data-offset-key=\"1akcde78-0-0\">\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"1akcde78-0-0\"><span data-offset-key=\"1akcde78-0-0\">Online rate shown includes transaction fee.</span></div>\n</div>\n<div class=\"\" data-block=\"true\" data-editor=\"99adp\" data-offset-key=\"8pskg444-0-0\">\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"8pskg444-0-0\"><span data-offset-key=\"8pskg444-0-0\">Click the <strong>Prepay&nbsp;now</strong> link below to get started.</span></div>\n</div>",
+          "notes": "<p>Entry after 5pm, exit before 5am the following morning.&nbsp;</p>\n<p>If entry and exit conditions not met, then Hourly rates apply from time of entry.&nbsp;</p>\n<div class=\"\" data-block=\"true\" data-editor=\"99adp\" data-offset-key=\"1akcde78-0-0\">\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"1akcde78-0-0\"><span data-offset-key=\"1akcde78-0-0\">Online rate shown includes transaction fee.</span></div>\n</div>\n<div class=\"\" data-block=\"true\" data-editor=\"99adp\" data-offset-key=\"8pskg444-0-0\">\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"8pskg444-0-0\"><span data-offset-key=\"8pskg444-0-0\">Click the <strong>Prepay&nbsp;now</strong> link below to get started.</span></div>\n</div>",
           "rates": [
             {
               "timeSpan": "Mon - Fri",
@@ -4021,64 +4021,64 @@
           "day_TimePeriod": "Monday",
           "is24_7": false,
           "closed": false,
-          "opening": "06:00",
-          "closing": "00:00",
+          "opening": "05:00",
+          "closing": "02:00",
           "note": null
         },
         {
           "day_TimePeriod": "Tuesday",
           "is24_7": false,
           "closed": false,
-          "opening": "06:00",
-          "closing": "00:00",
+          "opening": "05:00",
+          "closing": "02:00",
           "note": null
         },
         {
           "day_TimePeriod": "Wednesday",
           "is24_7": false,
           "closed": false,
-          "opening": "06:00",
-          "closing": "00:00",
+          "opening": "05:00",
+          "closing": "02:00",
           "note": null
         },
         {
           "day_TimePeriod": "Thursday",
           "is24_7": false,
           "closed": false,
-          "opening": "06:00",
-          "closing": "00:00",
+          "opening": "05:00",
+          "closing": "02:00",
           "note": null
         },
         {
           "day_TimePeriod": "Friday",
           "is24_7": false,
           "closed": false,
-          "opening": "06:00",
-          "closing": "00:00",
+          "opening": "05:00",
+          "closing": "02:00",
           "note": null
         },
         {
           "day_TimePeriod": "Saturday",
           "is24_7": false,
           "closed": false,
-          "opening": "06:00",
-          "closing": "00:00",
+          "opening": "05:00",
+          "closing": "02:00",
           "note": null
         },
         {
           "day_TimePeriod": "Sunday",
           "is24_7": false,
           "closed": false,
-          "opening": "06:00",
-          "closing": "00:00",
+          "opening": "05:00",
+          "closing": "02:00",
           "note": null
         },
         {
           "day_TimePeriod": "Public Holiday",
           "is24_7": false,
           "closed": false,
-          "opening": "06:00",
-          "closing": "00:00",
+          "opening": "05:00",
+          "closing": "02:00",
           "note": null
         }
       ],
@@ -4441,7 +4441,7 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Parking from $25 per Hour - Maximum daily rate of $85</p>\n<p>Hourly rates apply Monday to Friday</p>\n<p>Rates are charged from 6am daily</p>",
+          "notes": "<p>Parking from $25 per Hour - Maximum daily rate of $85</p>\n<p>Hourly rates apply Monday to Friday</p>\n<p>Rates are charged from 5am daily</p>",
           "rates": [
             {
               "timeSpan": "0.0 - 1.0 hrs",
@@ -4463,7 +4463,7 @@
         },
         {
           "rateType": "Night",
-          "notes": "<p>Entry after 5pm, exit before car park close (12am)</p>",
+          "notes": "<p>Entry after 5pm, exit before car park close (2am)</p>",
           "rates": [
             {
               "timeSpan": "Mon - Fri",
@@ -4517,64 +4517,64 @@
           "day_TimePeriod": "Monday",
           "is24_7": false,
           "closed": false,
-          "opening": "06:00",
-          "closing": "00:00",
+          "opening": "05:00",
+          "closing": "02:00",
           "note": null
         },
         {
           "day_TimePeriod": "Tuesday",
           "is24_7": false,
           "closed": false,
-          "opening": "06:00",
-          "closing": "00:00",
+          "opening": "05:00",
+          "closing": "02:00",
           "note": null
         },
         {
           "day_TimePeriod": "Wednesday",
           "is24_7": false,
           "closed": false,
-          "opening": "06:00",
-          "closing": "00:00",
+          "opening": "05:00",
+          "closing": "02:00",
           "note": null
         },
         {
           "day_TimePeriod": "Thursday",
           "is24_7": false,
           "closed": false,
-          "opening": "06:00",
-          "closing": "00:00",
+          "opening": "05:00",
+          "closing": "02:00",
           "note": null
         },
         {
           "day_TimePeriod": "Friday",
           "is24_7": false,
           "closed": false,
-          "opening": "06:00",
-          "closing": "00:00",
+          "opening": "05:00",
+          "closing": "02:00",
           "note": null
         },
         {
           "day_TimePeriod": "Saturday",
           "is24_7": false,
           "closed": false,
-          "opening": "06:00",
-          "closing": "00:00",
+          "opening": "05:00",
+          "closing": "02:00",
           "note": null
         },
         {
           "day_TimePeriod": "Sunday",
           "is24_7": false,
           "closed": false,
-          "opening": "06:00",
-          "closing": "00:00",
+          "opening": "05:00",
+          "closing": "02:00",
           "note": null
         },
         {
           "day_TimePeriod": "Public Holiday",
           "is24_7": false,
           "closed": false,
-          "opening": "06:00",
-          "closing": "00:00",
+          "opening": "05:00",
+          "closing": "02:00",
           "note": null
         }
       ],
@@ -89011,164 +89011,6 @@
       "featuredIndex": 0
     },
     {
-      "name": "11 Russell St Car Park",
-      "bookText": null,
-      "canBookABay": false,
-      "selectedFeatures": "",
-      "carParkFeature": [
-        "Monthly Parking",
-        "Entry height at least 2"
-      ],
-      "services": [
-        "monthly"
-      ],
-      "carParkName": "11 Russell St Car Park",
-      "carParkNumber": 5096,
-      "carParkPhoto": "/contentassets/e2c4b55a89d34bdcb8470202e54014ca/ade126-resized.jpg",
-      "category": "",
-      "costCenter": 1005096,
-      "direction": "Entry via 9-11 Russell Street",
-      "heightRestriction": 0.0,
-      "information": "<p>Wilson Parking offer affordable &amp; secure parking at 11 Russell St Car Park, located at 11 Russell St, Adelaide CBD. Offering monthly parking in the heart of the Adelaide CBD</p>\n<p>This car park is monthly parking only. Subscribe to monthly parking to enjoy unlimited 24/7 access.</p>\n<p>&nbsp;</p>",
-      "isWilsonOne": false,
-      "spottIsAvailable": false,
-      "legacyID": 531,
-      "monthlyParkingServiceIsAvailable": true,
-      "evChargerIsAvailable": false,
-      "disabledParkingIsAvailable": false,
-      "phoneNumber": "1800 PARKING",
-      "products": [],
-      "staticMapPhoto": null,
-      "streetViewHeading": "285.1027101545587",
-      "streetViewLocation": "https://www.google.com/maps/@?api=1&map_action=pano&pano=0hSgxwPi1oEKl1ontTpjxA&viewpoint=-34.9321021095839,138.59680790655364&heading=285.1027101545587&pitch=-0.872616228106196",
-      "rates": [],
-      "fromText": "",
-      "fromPrice": "",
-      "location": {
-        "longitude": 138.59670281410217,
-        "latitude": -34.932094215582538,
-        "zoom": 13,
-        "address": "9-11 Russell Street, Adelaide",
-        "region": {
-          "name": "Adelaide CBD",
-          "longitude": 138.6000394821167,
-          "latitude": -34.923941522692786,
-          "status": "",
-          "state": {
-            "name": "South Australia",
-            "abbreviation": "SA",
-            "country": "Australia",
-            "longitude": 138.600039482117,
-            "latitude": -34.9239415226928,
-            "status": ""
-          }
-        }
-      },
-      "openingTimes": [
-        {
-          "day_TimePeriod": "Monthly",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Monday",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Tuesday",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Wednesday",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Thursday",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Friday",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Saturday",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Sunday",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Public Holiday",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        }
-      ],
-      "url": "/parking-locations/south-australia/adelaide-cbd/11-russell-st-car-park/",
-      "serviceConfiguration": {
-        "canBookABay": false,
-        "bookABayIconLabel": "Prepay Online",
-        "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": true,
-        "monthlyParkingIconLabel": "Monthly Subscription",
-        "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
-        "isWilsonOne": false,
-        "wilsonOneIconLabel": "Parking Card",
-        "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
-        "disabledParkingIsAvailable": false,
-        "disabledParkingIconLabel": "Disabled Parking",
-        "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
-        "evChargerIsAvailable": false,
-        "evChargerIconLabel": "EV Charging",
-        "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "spottIsAvailable": false,
-        "spottIconLabel": "Spott",
-        "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
-        "additionalServices": []
-      },
-      "state": "SA",
-      "imgUrl": "/contentassets/e2c4b55a89d34bdcb8470202e54014ca/ade126-resized.jpg",
-      "price": "",
-      "status": "",
-      "cpmsCarparkCode": null,
-      "externalCarParkInfo": null,
-      "featuredIndex": 0
-    },
-    {
       "name": "14-24 Rosina St Car Park",
       "bookText": null,
       "canBookABay": false,
@@ -92635,7 +92477,7 @@
       "carParkPhoto": "/contentassets/ca151af77ba848a8a7950e6de5610cf5/capture.jpg",
       "category": "",
       "costCenter": 1006212,
-      "direction": "<b>**Car Park only operational on selected event days**</b><br>\n\n</b><br>8th Aug - Juventus Vs Inter<b>\n</b><br>(Gate opens at 5:30pm and closes at 10:30pm sharp)<b>\n\n</b><br>9th Aug - West Coast Eagles Vs Collingwood<b>\n</b><br>(Gate opens at 12:30pm and closes at 6:30pm sharp)<b>",
+      "direction": "<b>**Car Park only operational on selected event days**</b><br>\n\n</b><br>9th Aug - West Coast Eagles Vs Hawthorn<b>\n</b><br>(Gate opens at 5:00pm and closes at 10:30pm sharp)<b>\n\n</b><br>14th Aug - Fremantle Dockers Vs Adelaide Crows<b>\n</b><br>(Gate opens at 4:30pm and closes at 10:00pm sharp)<b>",
       "heightRestriction": 0.0,
       "information": "<p>Wilson Parking offers affordable parking at Belmont Racecourse Car Park for Optus Stadium event parking only. Located a short walk from Optus Stadium, this car park is the perfect location for footy, cricket, concerts and other Optus Stadium events. Operational days are shown under the parking rates to the left.</p>\n<p>Parking must be prepaid in advance through the Wilson Parking App or website. No payments can be taken at the gate. Must present prepaid confirmation to access car park.</p>",
       "isWilsonOne": false,
