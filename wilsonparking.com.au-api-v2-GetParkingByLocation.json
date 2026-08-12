@@ -424,7 +424,7 @@
       "carParkPhoto": "/siteassets/parking-location-images/nsw/syd389.gif",
       "category": "Book a Bay",
       "costCenter": 1002389,
-      "direction": "Entry via 60 Elizabeth Street",
+      "direction": "<p>Entry via 60 Elizabeth Street</p>\n<p>Important Notice: Lift upgrade works from 20/08/2026 until 30/11/2026, lift not available.</p>",
       "heightRestriction": 1.85,
       "information": "<p>Wilson Parking offer affordable parking at 60 Elizabeth Street Car Park, located in the heart of Sydney CBD. Open 7 days, this car park provides convenient access to nearby Martin Place, Circular Quay and the Domain. Offering casual Hourly, Weekend and Night Parking options with exclusive discounts when you prepay online, permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the 60 Elizabeth St Car Park will meet all your business and leisure parking needs.&nbsp;</p>\n<p>Download the Wilson Parking App to plan your journey and access parking discounts when you prepay online.</p>\n<p>Enjoy unlimited 24/7 access when you subscribe to monthly parking, submit a request to get a quote.</p>",
       "isWilsonOne": true,
@@ -15493,7 +15493,7 @@
       "costCenter": 1002059,
       "direction": null,
       "heightRestriction": 1.9,
-      "information": "<p>Wilson Parking offer affordable &amp; reliable parking at 201 Miller Car Park, located at&nbsp;Bullivant Lane in the heart of North Sydney.</p>\n<p>Open 7 days, this undercover car park provides convenient access to nearby hotels, businesses and the Metro train line and offers Casual, Night and Weekend Parking options, with excluisve discounts available when you prepay online.</p>\n<p>Download the Wilson Parking App to plan your journey, access the best value and enjoy easy, stressfree, automatic parking when you use Spott vehicle recognition at this car park.<br /><br />The 201 Miller St Car Park will meet all your parking needs.&nbsp;</p>",
+      "information": "<p>Wilson Parking offer affordable &amp; reliable parking at 201 Miller Car Park, located at&nbsp;Bullivant Lane in the heart of North Sydney.</p>\n<p>Open 7 days, this undercover car park provides convenient access to nearby hotels, businesses and the Metro train line and offers Casual, Night and Weekend Parking options, with excluisve discounts available when you prepay online.</p>\n<p>Download the Wilson Parking App to plan your journey, access the best value and enjoy easy, stressfree, automatic parking when you use Spott vehicle recognition at this car park.<br /><br />The 201 Miller St Car Park will meet all your parking needs.</p>",
       "isWilsonOne": true,
       "spottIsAvailable": true,
       "legacyID": 156,
@@ -65172,7 +65172,7 @@
           "rates": [
             {
               "timeSpan": "Sat - Sun & Public Holiday varies from $12.75 - $14.75, depending on demand",
-              "price": 15.0
+              "price": 16.0
             }
           ]
         }
@@ -74572,7 +74572,7 @@
       "costCenter": 1004356,
       "direction": "Entry off Little Cribb Street",
       "heightRestriction": 2.2,
-      "information": "<p><span style=\"color: #ff1e25;\">Event Parking is available at this car park on the following dates: 8, 15, 21, 27 August.<br /></span></p>\n<p>Wilson Parking offers affordable &amp; secure parking at Milton Green&nbsp;car park, located at 19 Little Cribb Street&nbsp;in the heart of Milton. Open 7 days, this undercover car park provides convenient access to nearby Suncorp Stadium and surrounding entertainment and retail precinct. Offering hourly, night and weekend parking options with discounts when you prepay online, permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the Milton Green&nbsp;car park will meet all your business and leisure parking needs.&nbsp;</p>",
+      "information": "<p><span style=\"color: #ff1e25;\">Event Parking is available at this car park on the following dates: 15, 21, 27 August.<br /></span></p>\n<p>Wilson Parking offers affordable &amp; secure parking at Milton Green&nbsp;car park, located at 19 Little Cribb Street&nbsp;in the heart of Milton. Open 7 days, this undercover car park provides convenient access to nearby Suncorp Stadium and surrounding entertainment and retail precinct. Offering hourly, night and weekend parking options with discounts when you prepay online, permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the Milton Green&nbsp;car park will meet all your business and leisure parking needs.&nbsp;</p>",
       "isWilsonOne": true,
       "spottIsAvailable": false,
       "legacyID": 1004356,
@@ -75672,14 +75672,14 @@
           "notes": "<p>Weekend rates apply on Public Holidays</p>\n<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>\n<p>&nbsp;</p>",
           "rates": [
             {
-              "timeSpan": "Weekend varies from $12.75 - $14.75, depending on demand",
+              "timeSpan": "Weekend varies from $9.75 - $11.75, depending on demand",
               "price": 18.0
             }
           ]
         }
       ],
       "fromText": "From",
-      "fromPrice": "12",
+      "fromPrice": "9.75",
       "location": {
         "longitude": 153.02616027486874,
         "latitude": -27.470194798869642,
@@ -76529,7 +76529,7 @@
       "costCenter": 1004060,
       "direction": "Entry via Market Street",
       "heightRestriction": 2.0,
-      "information": "<p>Wilson Parking offers affordable and secure parking at 10 Eagle Street, Brisbane. Conveniently located near Eagle Street Pier, popular Brisbane restaurants, and the Brisbane CBD, this is perfect for both commuter and leisure parking. Offering Hourly, Night and Weekend parking, as well as discount online parking options, the 10 Eagle Street (Gold Tower) car park, will meet all your parking needs.&nbsp;</p>\n<p>Save when you prepay your parking online or with the Wilson Parking App; enjoy convenient unlimited 24/7 access; or pay as you go with the queue-less, contact free Wilson Parking Card.</p>\n<p><strong>Car park access</strong><br />Car park roller doors are open on weekdays 6am-6pm (excluding public holidays). Please refer to instructions at the entry of the car park for access outside these times.</p>",
+      "information": "<p>Wilson Parking offers affordable and secure parking at 10 Eagle Street, Brisbane. Conveniently located near Eagle Street Pier, popular Brisbane restaurants, and the Brisbane CBD, this is perfect for both commuter and leisure parking. Offering Hourly, Night and Weekend parking, as well as discount online parking options, the 10 Eagle Street (Gold Tower) car park, will meet all your parking needs.&nbsp;</p>\n<p>Save when you prepay your parking online or with the Wilson Parking App; enjoy convenient unlimited 24/7 access; or pay as you go with the queue-less, contact free Wilson Parking Card.</p>\n<p><strong>Car park access</strong></p>\n<p class=\"isSelectedEnd\">The car park roller doors are open Monday to Friday&nbsp;<strong>6:00am to 6:00pm</strong>.<br />However, the car park remains accessible <strong>every day 6:00am to 11:00pm</strong>.<br />The entry equipment is located outside the roller door. When a credit card/access card is tapped or a ticket is taken, the roller door will automatically open to allow entry.</p>",
       "isWilsonOne": true,
       "spottIsAvailable": true,
       "legacyID": 486,
@@ -76544,7 +76544,7 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Motorbikes - see attendant weekdays 6am-6pm for directions</p>",
+          "notes": "<p>Motorbikes - see attendant weekdays 6am-6pm for directions.&nbsp;<br /><br /><strong>Car park access</strong></p>\n<p class=\"isSelectedEnd\">The car park roller doors are open Monday to Friday&nbsp;<strong>6:00am to 6:00pm</strong>.<br />However, the car park remains accessible <strong>every day 6:00am to 11:00pm</strong>.<br />The entry equipment is located outside the roller door. When a credit card/access card is tapped or a ticket is taken, the roller door will automatically open to allow entry.</p>",
           "rates": [
             {
               "timeSpan": "0.0 - 0.5 hrs",
@@ -76625,7 +76625,7 @@
           "is24_7": false,
           "closed": false,
           "opening": "06:00",
-          "closing": "18:00",
+          "closing": "23:00",
           "note": null
         },
         {
@@ -76633,7 +76633,7 @@
           "is24_7": false,
           "closed": false,
           "opening": "06:00",
-          "closing": "18:00",
+          "closing": "23:00",
           "note": null
         },
         {
@@ -76641,7 +76641,7 @@
           "is24_7": false,
           "closed": false,
           "opening": "06:00",
-          "closing": "18:00",
+          "closing": "23:00",
           "note": null
         },
         {
@@ -76649,7 +76649,7 @@
           "is24_7": false,
           "closed": false,
           "opening": "06:00",
-          "closing": "18:00",
+          "closing": "23:00",
           "note": null
         },
         {
@@ -76657,31 +76657,31 @@
           "is24_7": false,
           "closed": false,
           "opening": "06:00",
-          "closing": "18:00",
+          "closing": "23:00",
           "note": null
         },
         {
           "day_TimePeriod": "Saturday",
-          "is24_7": true,
+          "is24_7": false,
           "closed": false,
-          "opening": "",
-          "closing": "",
+          "opening": "06:00",
+          "closing": "23:00",
           "note": null
         },
         {
           "day_TimePeriod": "Sunday",
-          "is24_7": true,
+          "is24_7": false,
           "closed": false,
-          "opening": "",
-          "closing": "",
+          "opening": "06:00",
+          "closing": "23:00",
           "note": null
         },
         {
           "day_TimePeriod": "Public Holiday",
-          "is24_7": true,
+          "is24_7": false,
           "closed": false,
-          "opening": "",
-          "closing": "",
+          "opening": "06:00",
+          "closing": "23:00",
           "note": null
         }
       ],
@@ -78061,7 +78061,7 @@
       "costCenter": 1004298,
       "direction": "Entry via Dowse Street",
       "heightRestriction": 2.3,
-      "information": "<p><span style=\"color: #ff1e25;\">Event Parking is available at this car park on the following dates: 8, 15, 21, 27 August.</span></p>\n<p>Wilson Parking offers affordable and secure parking at&nbsp;Darling &amp; Co car park, located in the heart of Paddington. Open 7 days, this undercover car park provides convenient access to Lang Park (Suncorp Stadium). Offering casual and night parking, and exclusive discounts when you pay via the Wilson Parking app, the&nbsp;Darling &amp; Co car park will meet all your business and leisure parking needs.</p>\n<p>Car park closes at 11pm on event nights.</p>",
+      "information": "<p><span style=\"color: #ff1e25;\">Event Parking is available at this car park on the following dates: 15, 21, 27 August.</span></p>\n<p>Wilson Parking offers affordable and secure parking at&nbsp;Darling &amp; Co car park, located in the heart of Paddington. Open 7 days, this undercover car park provides convenient access to Lang Park (Suncorp Stadium). Offering casual and night parking, and exclusive discounts when you pay via the Wilson Parking app, the&nbsp;Darling &amp; Co car park will meet all your business and leisure parking needs.</p>\n<p>Car park closes at 11pm on event nights.</p>",
       "isWilsonOne": false,
       "spottIsAvailable": false,
       "legacyID": 4298,
