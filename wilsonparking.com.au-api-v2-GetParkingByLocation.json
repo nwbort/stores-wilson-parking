@@ -64847,7 +64847,7 @@
         },
         {
           "rateType": "Night",
-          "notes": "<p><strong>From 5:00pm to close</strong></p>\n<p>Online rate shown includes transaction fee. Click the <strong>Prepay now</strong> link below to get started.</p>",
+          "notes": "<p><strong>Entry from 4PM, Exit before close.</strong></p>\n<p>Online rate shown includes transaction fee. Click the <strong>Prepay now</strong> link below to get started.</p>",
           "rates": [
             {
               "timeSpan": "Mon - Fri",
