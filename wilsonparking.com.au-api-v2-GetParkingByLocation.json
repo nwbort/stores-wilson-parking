@@ -3527,7 +3527,7 @@
             },
             {
               "timeSpan": "3.0 + hrs",
-              "price": 85.0
+              "price": 89.0
             }
           ]
         },
@@ -3724,22 +3724,18 @@
           "rates": [
             {
               "timeSpan": "0.0 - 0.5 hrs",
-              "price": 29.0
+              "price": 30.0
             },
             {
               "timeSpan": "0.5 - 1.0 hrs",
-              "price": 49.0
+              "price": 50.0
             },
             {
               "timeSpan": "1.0 - 2.0 hrs",
               "price": 75.0
             },
             {
-              "timeSpan": "2.0 - 3.0 hrs",
-              "price": 85.0
-            },
-            {
-              "timeSpan": "3.0 + hrs",
+              "timeSpan": "2.0 + hrs",
               "price": 95.0
             }
           ]
@@ -4265,7 +4261,7 @@
             },
             {
               "timeSpan": "2.0 - 3.0hrs",
-              "price": 69.0
+              "price": 75.0
             },
             {
               "timeSpan": "3.0 + hrs",
@@ -5249,7 +5245,7 @@
       "costCenter": 1002270,
       "direction": "Entry via Castlereagh St",
       "heightRestriction": 1.9,
-      "information": "<p>Wilson Parking offer affordable &amp; secure parking at 201 Elizabeth St Car Park, located at Castlereagh St in the heart of Sydney. This car park is closeby to Hyde Park, China Town and Pitt St Mall and is open from Monday - Friday. Offering Hourly and Early Bird parking options, the&nbsp;201 Elizabeth St Car Park meet all your parking needs.</p>\n<p>Enjoy unlimited 24/7 access when you subscribe to monthly parking.&nbsp;</p>",
+      "information": "<p>Wilson Parking offer affordable &amp; secure parking at 201 Elizabeth St Car Park, located at Castlereagh St in the heart of Sydney. This car park is closeby to Hyde Park, China Town and Pitt St Mall and is open from Monday - Friday. Offering Hourly and Early Bird parking options, the&nbsp;201 Elizabeth St Car Park meet all your parking needs.</p>\n<p>Enjoy unlimited 24/7 access when you subscribe to monthly parking.</p>",
       "isWilsonOne": false,
       "spottIsAvailable": false,
       "legacyID": 409,
@@ -5268,19 +5264,19 @@
           "rates": [
             {
               "timeSpan": "0.0 - 1.0 hrs",
-              "price": 29.0
+              "price": 30.0
             },
             {
               "timeSpan": "1.0 - 2.0 hrs",
-              "price": 59.0
+              "price": 60.0
             },
             {
               "timeSpan": "2.0 - 3.0 hrs",
-              "price": 69.0
+              "price": 70.0
             },
             {
               "timeSpan": "3.0 + hrs",
-              "price": 79.0
+              "price": 80.0
             }
           ]
         },
@@ -5296,7 +5292,7 @@
         }
       ],
       "fromText": "From",
-      "fromPrice": "29",
+      "fromPrice": "30",
       "location": {
         "longitude": 151.20925426483154,
         "latitude": -33.87378053991403,
@@ -6203,11 +6199,7 @@
               "price": 69.0
             },
             {
-              "timeSpan": "2.0 - 3.0 hrs",
-              "price": 79.0
-            },
-            {
-              "timeSpan": "3.0 + hrs",
+              "timeSpan": "2.0+ hrs",
               "price": 89.0
             }
           ]
@@ -7839,23 +7831,15 @@
           "notes": "<p>Rates Apply Monday to Friday<br />Public Holidays: Weekend Rates Apply</p>\n<p>Online rates include transaction fee. Click the&nbsp;<strong>Prepay now&nbsp;</strong>link below to get started</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 0.5 hrs",
-              "price": 15.0
-            },
-            {
-              "timeSpan": "0.5 - 1.0 hrs",
+              "timeSpan": "0.0 - 1.0 hrs",
               "price": 25.0
             },
             {
               "timeSpan": "1.0 - 2.0 hrs",
-              "price": 45.0
+              "price": 50.0
             },
             {
-              "timeSpan": "2.0 - 3.0 hrs",
-              "price": 65.0
-            },
-            {
-              "timeSpan": "3.0 + hrs",
+              "timeSpan": "2.0+ hrs",
               "price": 75.0
             }
           ]
@@ -7882,7 +7866,7 @@
         }
       ],
       "fromText": "From",
-      "fromPrice": "15",
+      "fromPrice": "23.75",
       "location": {
         "longitude": 151.20835840702057,
         "latitude": -33.8609857487971,
@@ -24888,6 +24872,188 @@
       "featuredIndex": 0
     },
     {
+      "name": "Melrose Central",
+      "bookText": null,
+      "canBookABay": false,
+      "selectedFeatures": "",
+      "carParkFeature": [],
+      "services": [],
+      "carParkName": "Melrose Central",
+      "carParkNumber": 9249,
+      "carParkPhoto": null,
+      "category": "",
+      "costCenter": 1009249,
+      "direction": "Entry via Hope St, Melrose Park",
+      "heightRestriction": 2.2,
+      "information": "<p>Wilson Parking offer affordable &amp; reliable parking at Melrose Central&nbsp;Car Park.<br />In the heart of Melrose Park. Open 7 days, this undercover car park provides convenient access to nearby a&nbsp;growing selection of caf&eacute;s and restaurants, with more Asian-inspired dining and specialty retailers continuing to open as the precinct expands.</p>\n<p>Offering Casual, Hourly parking options,&nbsp;&nbsp;the Melrose Central Car Park will meet all your parking needs.&nbsp;</p>",
+      "isWilsonOne": false,
+      "spottIsAvailable": false,
+      "legacyID": 9249,
+      "monthlyParkingServiceIsAvailable": false,
+      "evChargerIsAvailable": false,
+      "disabledParkingIsAvailable": false,
+      "phoneNumber": "1800 PARKING (1800 727 5464)",
+      "products": [],
+      "staticMapPhoto": null,
+      "streetViewHeading": null,
+      "streetViewLocation": "https://www.google.com/maps/@?api=1&map_action=pano&pano=lTIePPsr529o-F1uidoopQ&viewpoint=-33.81408443726466,151.0706432185117&heading=347.47672493225326&pitch=-12.627262081730919&zoom=1.0000000000000002",
+      "rates": [
+        {
+          "rateType": "Hourly",
+          "notes": "<p>Rates charged from 7am, per exit per day</p>\n<p>Hourly rates apply all days (Monday to Sunday)&nbsp;</p>",
+          "rates": [
+            {
+              "timeSpan": "0.0 - 3.0 hrs",
+              "price": 0.0
+            },
+            {
+              "timeSpan": "3.0 - 4.0 hrs",
+              "price": 10.0
+            },
+            {
+              "timeSpan": "4.0 - 5.0 hrs",
+              "price": 15.0
+            },
+            {
+              "timeSpan": "5.0 - 6.0  hrs",
+              "price": 25.0
+            },
+            {
+              "timeSpan": "6.0 - 7.0 hrs",
+              "price": 35.0
+            },
+            {
+              "timeSpan": "7.0 + hrs",
+              "price": 45.0
+            }
+          ]
+        }
+      ],
+      "fromText": "From",
+      "fromPrice": "0",
+      "location": {
+        "longitude": 151.070366407142,
+        "latitude": -33.8141655512926,
+        "zoom": 13,
+        "address": "Hope St, Melrose Park",
+        "region": {
+          "name": "Inner West",
+          "longitude": 151.14801406860352,
+          "latitude": -33.886519974419969,
+          "status": "",
+          "state": {
+            "name": "New South Wales",
+            "abbreviation": "NSW",
+            "country": "Australia",
+            "longitude": 151.207430362701,
+            "latitude": -33.8662642500823,
+            "status": ""
+          }
+        }
+      },
+      "openingTimes": [
+        {
+          "day_TimePeriod": "Monday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "07:00",
+          "closing": "22:30",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Tuesday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "07:00",
+          "closing": "22:30",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Wednesday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "07:00",
+          "closing": "22:30",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Thursday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "07:00",
+          "closing": "22:30",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Friday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "07:00",
+          "closing": "22:30",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Saturday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "07:00",
+          "closing": "22:30",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Sunday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "07:00",
+          "closing": "22:30",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Public Holiday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "07:00",
+          "closing": "22:30",
+          "note": null
+        }
+      ],
+      "url": "/parking-locations/new-south-wales/inner-west/melrose-central/",
+      "serviceConfiguration": {
+        "canBookABay": false,
+        "bookABayIconLabel": "Prepay Online",
+        "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
+        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingIconLabel": "Monthly Subscription",
+        "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
+        "isWilsonOne": false,
+        "wilsonOneIconLabel": "Parking Card",
+        "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
+        "disabledParkingIsAvailable": false,
+        "disabledParkingIconLabel": "Disabled Parking",
+        "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
+        "evChargerIsAvailable": false,
+        "evChargerIconLabel": "EV Charging",
+        "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
+        "spottIsAvailable": false,
+        "spottIconLabel": "Spott",
+        "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
+        "additionalServices": []
+      },
+      "state": "NSW",
+      "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
+      "price": "",
+      "status": "",
+      "cpmsCarparkCode": null,
+      "externalCarParkInfo": {
+        "name": "InterPark",
+        "pinUrl": "/globalassets/icons/interpark-icons/pin-blue.png",
+        "logoUrl": "/siteassets/parking-stock-images/interpark-icons/interpark_logo.jpg",
+        "pageUrl": "",
+        "content": "<p>This is an Interpark carpark with LOGO</p>"
+      },
+      "featuredIndex": 0
+    },
+    {
       "name": "Hurstville Central Shopping Centre",
       "bookText": null,
       "canBookABay": false,
@@ -27457,7 +27623,7 @@
             },
             {
               "timeSpan": "3.0 + hrs",
-              "price": 59.0
+              "price": 60.0
             }
           ]
         },
@@ -27467,7 +27633,7 @@
           "rates": [
             {
               "timeSpan": "Sat - Sun",
-              "price": 14.0
+              "price": 15.0
             }
           ]
         }
@@ -37255,205 +37421,6 @@
       },
       "state": "NSW",
       "imgUrl": "/contentassets/e4d3277f387d477ab2f6e2fedf2f7db0/p368c.jpg",
-      "price": "",
-      "status": "",
-      "cpmsCarparkCode": null,
-      "externalCarParkInfo": null,
-      "featuredIndex": 0
-    },
-    {
-      "name": "Nepean Hospital Car Park",
-      "bookText": null,
-      "canBookABay": false,
-      "selectedFeatures": "",
-      "carParkFeature": [
-        "Night Parking",
-        "Weekend Parking"
-      ],
-      "services": [],
-      "carParkName": "Nepean Hospital Car Park",
-      "carParkNumber": 2334,
-      "carParkPhoto": null,
-      "category": "",
-      "costCenter": 1002334,
-      "direction": null,
-      "heightRestriction": 1.9,
-      "information": "<p>Wilson Parking offer affordable parking at Nepean Hospital Car Park which is located at Derby Street, Kingswood.</p>\n<p>With all day parking the Nepean Hospital Car Park available 7 days.&nbsp;</p>",
-      "isWilsonOne": false,
-      "spottIsAvailable": false,
-      "legacyID": 671,
-      "monthlyParkingServiceIsAvailable": false,
-      "evChargerIsAvailable": false,
-      "disabledParkingIsAvailable": false,
-      "phoneNumber": "1800 PARKING",
-      "products": [],
-      "staticMapPhoto": null,
-      "streetViewHeading": "268.56859721452685",
-      "streetViewLocation": "https://www.google.com/maps/@?api=1&map_action=pano&pano=b5j_6hZ088BmBlBN8tntMA&viewpoint=-33.76073169859528,150.7155538863134&heading=268.56859721452685&pitch=-0.07164034477565906",
-      "rates": [
-        {
-          "rateType": "Hourly",
-          "notes": "<p>Rates apply Monday to Sunday<br />Rates charged from 6am daily<br />Casual rates apply for Public Holidays, Weekends and Nights. <br />Concession rates only apply to valid card holders. Must see onsite attendant to purchase.</p>",
-          "rates": [
-            {
-              "timeSpan": "0.0 - 0.5 hrs",
-              "price": 0.0
-            },
-            {
-              "timeSpan": "0.5 - 1.0 hrs",
-              "price": 8.7
-            },
-            {
-              "timeSpan": "1.0 - 2.0 hrs",
-              "price": 12.8
-            },
-            {
-              "timeSpan": "2.0 - 3.0 hrs",
-              "price": 17.3
-            },
-            {
-              "timeSpan": "3.0 - 4.0 hrs",
-              "price": 20.1
-            },
-            {
-              "timeSpan": "4.0 - 5.0 hrs",
-              "price": 23.2
-            },
-            {
-              "timeSpan": "5.0 + hrs",
-              "price": 25.8
-            },
-            {
-              "timeSpan": "3 Hours",
-              "price": 0.0
-            },
-            {
-              "timeSpan": "1 Day",
-              "price": 7.2
-            },
-            {
-              "timeSpan": "3 Day Pass",
-              "price": 14.4
-            },
-            {
-              "timeSpan": "7 Day Pass",
-              "price": 28.8
-            }
-          ]
-        }
-      ],
-      "fromText": "From",
-      "fromPrice": "0",
-      "location": {
-        "longitude": 150.71539521217346,
-        "latitude": -33.760926598702163,
-        "zoom": 13,
-        "address": "Derby Street, Kingswood",
-        "region": {
-          "name": "Greater West",
-          "longitude": 150.94768524169922,
-          "latitude": -33.806252750539684,
-          "status": "",
-          "state": {
-            "name": "New South Wales",
-            "abbreviation": "NSW",
-            "country": "Australia",
-            "longitude": 151.207430362701,
-            "latitude": -33.8662642500823,
-            "status": ""
-          }
-        }
-      },
-      "openingTimes": [
-        {
-          "day_TimePeriod": "Monday",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Tuesday",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Wednesday",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Thursday",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Friday",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Saturday",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Sunday",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Public Holiday",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        }
-      ],
-      "url": "/parking-locations/new-south-wales/greater-west/nepean-hospital-car-park/",
-      "serviceConfiguration": {
-        "canBookABay": false,
-        "bookABayIconLabel": "Prepay Online",
-        "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": false,
-        "monthlyParkingIconLabel": "Monthly Subscription",
-        "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
-        "isWilsonOne": false,
-        "wilsonOneIconLabel": "Parking Card",
-        "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
-        "disabledParkingIsAvailable": false,
-        "disabledParkingIconLabel": "Disabled Parking",
-        "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
-        "evChargerIsAvailable": false,
-        "evChargerIconLabel": "EV Charging",
-        "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "spottIsAvailable": false,
-        "spottIconLabel": "Spott",
-        "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
-        "additionalServices": []
-      },
-      "state": "NSW",
-      "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
       "price": "",
       "status": "",
       "cpmsCarparkCode": null,
@@ -71330,7 +71297,7 @@
       "costCenter": 1003199,
       "direction": "Entry via Munro Street only.\r\n",
       "heightRestriction": 0.0,
-      "information": "<p><span style=\"color: #ff1e25;\"><strong>Freeway Car Park works entry/exit closure notification</strong></span><br />Munro St entry/exit will not be accessible from <strong>Tuesday 9th June to Friday 26th June 2026.<br /></strong>Convention Centre Place will be open throughout the works.</p>\n<p>Wilson Parking offer affordable &amp; secure parking at Freeway&nbsp;Car Park, located at 250 Munro St&nbsp;in the heart of Southbank. Open 7 days, this open air car park provides convenient access to nearby DFO Outlet Centre, Melbourne Exhibition Centre and South Melbourne Businesses. Offering Hourly, Daily Saver, Weekend and Night Parking options with exclusive discounts when you prepay online, permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the Freeway&nbsp;Car Park will meet all your business and leisure parking needs.&nbsp;</p>\n<p>Download the Wilson Parking App to plan your journey and access parking discounts when you prepay online; enjoy unlimited 24/7 access when you subscribe to monthly parking; pay as you go on one convenient monthly invoice when you use your Wilson Parking Card to access the car park.</p>",
+      "information": "<p>Wilson Parking offer affordable &amp;&nbsp;convenient parking at Freeway&nbsp;Car Park, located at 250 Munro St&nbsp;in the heart of Southbank. Open 7 days, this open air car park provides convenient access to nearby DFO Outlet Centre, Melbourne Exhibition Centre and South Melbourne Businesses. Offering Hourly, Flexi Saver, Weekend and Night Parking options with exclusive discounts when you prepay online, the Freeway&nbsp;Car Park will meet all your business and leisure parking needs.&nbsp;</p>\n<p>Download the Wilson Parking App to plan your journey ahead of time to access better value rates.</p>",
       "isWilsonOne": true,
       "spottIsAvailable": false,
       "legacyID": 101,
@@ -74575,7 +74542,7 @@
       "costCenter": 1004356,
       "direction": "Entry off Little Cribb Street",
       "heightRestriction": 2.2,
-      "information": "<p><span style=\"color: #ff1e25;\">Event Parking is available at this car park on the following dates: 15, 21, 27 August.<br /></span></p>\n<p>Wilson Parking offers affordable &amp; secure parking at Milton Green&nbsp;car park, located at 19 Little Cribb Street&nbsp;in the heart of Milton. Open 7 days, this undercover car park provides convenient access to nearby Suncorp Stadium and surrounding entertainment and retail precinct. Offering hourly, night and weekend parking options with discounts when you prepay online, permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the Milton Green&nbsp;car park will meet all your business and leisure parking needs.&nbsp;</p>",
+      "information": "<p><span style=\"color: #ff1e25;\">Event Parking is available at this car park on the following dates: 21, 27 August.<br /></span></p>\n<p>Wilson Parking offers affordable &amp; secure parking at Milton Green&nbsp;car park, located at 19 Little Cribb Street&nbsp;in the heart of Milton. Open 7 days, this undercover car park provides convenient access to nearby Suncorp Stadium and surrounding entertainment and retail precinct. Offering hourly, night and weekend parking options with discounts when you prepay online, permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the Milton Green&nbsp;car park will meet all your business and leisure parking needs.&nbsp;</p>",
       "isWilsonOne": true,
       "spottIsAvailable": false,
       "legacyID": 1004356,
@@ -77664,27 +77631,23 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Weekdays 0500-1700h</p>\n<p>Online rate shown includes transaction fee. Click the <strong>Prepay now</strong> link below to get started.</p>",
+          "notes": "<p>Weekdays 0500-1700h</p>",
           "rates": [
             {
-              "timeSpan": "0 - 0.5 hrs",
-              "price": 15.0
-            },
-            {
-              "timeSpan": "0.5 - 1.0 hrs",
-              "price": 29.0
+              "timeSpan": "0.0 - 1.0 hrs",
+              "price": 25.0
             },
             {
               "timeSpan": "1.0 - 2.0 hrs",
-              "price": 49.0
+              "price": 50.0
             },
             {
               "timeSpan": "2.0 - 3.0 hrs",
-              "price": 69.0
+              "price": 75.0
             },
             {
               "timeSpan": "3.0 + hrs (daily maximum)",
-              "price": 79.0
+              "price": 80.0
             },
             {
               "timeSpan": "Motorcycles",
@@ -78064,7 +78027,7 @@
       "costCenter": 1004298,
       "direction": "Entry via Dowse Street",
       "heightRestriction": 2.3,
-      "information": "<p><span style=\"color: #ff1e25;\">Event Parking is available at this car park on the following dates: 15, 21, 27 August.</span></p>\n<p>Wilson Parking offers affordable and secure parking at&nbsp;Darling &amp; Co car park, located in the heart of Paddington. Open 7 days, this undercover car park provides convenient access to Lang Park (Suncorp Stadium). Offering casual and night parking, and exclusive discounts when you pay via the Wilson Parking app, the&nbsp;Darling &amp; Co car park will meet all your business and leisure parking needs.</p>\n<p>Car park closes at 11pm on event nights.</p>",
+      "information": "<p><span style=\"color: #ff1e25;\">Event Parking is available at this car park on the following dates: 21, 27 August.</span></p>\n<p>Wilson Parking offers affordable and secure parking at&nbsp;Darling &amp; Co car park, located in the heart of Paddington. Open 7 days, this undercover car park provides convenient access to Lang Park (Suncorp Stadium). Offering casual and night parking, and exclusive discounts when you pay via the Wilson Parking app, the&nbsp;Darling &amp; Co car park will meet all your business and leisure parking needs.</p>\n<p>Car park closes at 11pm on event nights.</p>",
       "isWilsonOne": false,
       "spottIsAvailable": false,
       "legacyID": 4298,
@@ -79743,6 +79706,7 @@
       "selectedFeatures": "",
       "carParkFeature": [
         "Night Parking",
+        "Weekend Parking",
         "Entry height at least 2"
       ],
       "services": [],
@@ -79753,7 +79717,7 @@
       "costCenter": 1004084,
       "direction": "Entry via 325 Herston Road",
       "heightRestriction": 2.1,
-      "information": "<p>Wilson Parking offers affordable parking at the Herston Medical Precinct Car Park, conveniently located at 325 Herston Road, Herston, directly opposite the Royal Brisbane and Women&rsquo;s Hospital (RBWH) and within easy reach of nearby health, research and education precincts.</p>\n<p>Open 7 days, this multistorey car park provides seamless access for hospital visitors, staff, patients and those travelling to surrounding facilities. Offering Hourly parking options, the Herston Medical Precinct Car Park will meet all your parking needs.&nbsp;</p>",
+      "information": "<p>Wilson Parking offers affordable parking at the Herston Medical Precinct Car Park, conveniently located at 325 Herston Road, Herston, directly opposite the Royal Brisbane and Women&rsquo;s Hospital (RBWH) and within easy reach of nearby health, research and education precincts.</p>\n<p>Open 7 days, this multistorey car park provides seamless access for hospital visitors, staff, patients and those travelling to surrounding facilities. Offering Hourly, Weekend and Night parking options, the Herston Medical Precinct Car Park will meet all your parking needs.&nbsp;</p>",
       "isWilsonOne": false,
       "spottIsAvailable": false,
       "legacyID": 4084,
@@ -79792,7 +79756,17 @@
             },
             {
               "timeSpan": "3.0 + Hrs",
-              "price": 49.0
+              "price": 45.0
+            }
+          ]
+        },
+        {
+          "rateType": "Weekend",
+          "notes": "<p>Weekend rates charged Saturday, Sunday and Public Holidays</p>\n<p>Rates charged from 6am daily</p>",
+          "rates": [
+            {
+              "timeSpan": "Sat - Sun",
+              "price": 18.5
             }
           ]
         }
@@ -80140,6 +80114,16 @@
             {
               "timeSpan": "3.0 + hrs",
               "price": 30.0
+            }
+          ]
+        },
+        {
+          "rateType": "Weekend",
+          "notes": "<p>Per exit, per day</p>",
+          "rates": [
+            {
+              "timeSpan": "Flat rate",
+              "price": 12.0
             }
           ]
         }
