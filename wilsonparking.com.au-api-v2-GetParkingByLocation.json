@@ -2117,19 +2117,19 @@
           "rates": [
             {
               "timeSpan": "0.0 - 1.0 hrs",
-              "price": 29.0
+              "price": 25.0
             },
             {
               "timeSpan": "1.0 - 2.0 hrs",
-              "price": 49.0
+              "price": 50.0
             },
             {
               "timeSpan": "2.0 - 3.0 hrs",
-              "price": 79.0
+              "price": 75.0
             },
             {
               "timeSpan": "3.0 + hrs",
-              "price": 89.0
+              "price": 95.0
             },
             {
               "timeSpan": "Motorbike Rate",
@@ -3184,30 +3184,18 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Parking from $15.00, per 30 Mins - Maximum daily rate is $90</p>\n<p>Hourly rates apply Monday to Friday.&nbsp;&nbsp;</p>\n<p>Rates are charged from 6am daily.</p>\n<p>&nbsp;</p>\n<p><strong>*Motorbike Rate:</strong> $25.00 - see attendant onsite for discount to apply<br /><br /></p>",
+          "notes": "<p>Hourly rates apply Monday to Friday.&nbsp;&nbsp;</p>\n<p>Rates are charged from 6am daily.</p>\n<p>&nbsp;</p>\n<p><strong>*Motorbike Rate:</strong> $25.00 - see attendant onsite for discount to apply<br /><br /></p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 0.5 hrs",
-              "price": 15.0
-            },
-            {
-              "timeSpan": "0.5 - 1.0 hrs",
+              "timeSpan": "0.0 - 1.0 hrs",
               "price": 30.0
             },
             {
-              "timeSpan": "1.0 - 1.5 hrs",
-              "price": 45.0
-            },
-            {
-              "timeSpan": "1.5 - 2.0 hrs",
+              "timeSpan": "1.0 - 2.0 hrs",
               "price": 60.0
             },
             {
-              "timeSpan": "2.0 - 2.5 hrs",
-              "price": 75.0
-            },
-            {
-              "timeSpan": "2.5 + hrs",
+              "timeSpan": "2.0 + hrs",
               "price": 90.0
             },
             {
@@ -3238,7 +3226,7 @@
         }
       ],
       "fromText": "From",
-      "fromPrice": "15",
+      "fromPrice": "20",
       "location": {
         "longitude": 151.20784342288971,
         "latitude": -33.864825501071259,
@@ -4649,7 +4637,7 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Rates apply Monday to Friday<br />Public Holidays: Weekend Rates Apply<br />Overnight: Charged in addtion to vehicles left in car park past close</p>\n<p>&nbsp;</p>",
+          "notes": "<p>Rates apply Monday to Friday<br />Public Holidays: Weekend Rates Apply<br />Overnight: Charged in addtion to vehicles left in car park past close</p>",
           "rates": [
             {
               "timeSpan": "0.0 - 0.5 hrs",
@@ -4661,14 +4649,10 @@
             },
             {
               "timeSpan": "1.0 - 2.0 hrs",
-              "price": 69.0
+              "price": 75.0
             },
             {
-              "timeSpan": "2.0 - 3.0 hrs",
-              "price": 85.0
-            },
-            {
-              "timeSpan": "3.0 + hrs",
+              "timeSpan": "2.0 + hrs",
               "price": 95.0
             },
             {
@@ -7014,19 +6998,15 @@
           "rates": [
             {
               "timeSpan": "0.0 - 1.0 hrs",
-              "price": 29.0
+              "price": 30.0
             },
             {
               "timeSpan": "1.0 - 2.0 hrs",
-              "price": 59.0
+              "price": 60.0
             },
             {
-              "timeSpan": "2.0 - 3.0 hrs",
-              "price": 79.0
-            },
-            {
-              "timeSpan": "3.0 + hrs",
-              "price": 89.0
+              "timeSpan": "2.0 + hrs",
+              "price": 90.0
             }
           ]
         },
@@ -7052,7 +7032,7 @@
         }
       ],
       "fromText": "From",
-      "fromPrice": "29",
+      "fromPrice": "30",
       "location": {
         "longitude": 151.20344996452332,
         "latitude": -33.864226386360848,
@@ -9317,27 +9297,19 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>*Motorbike Rate: $12.00, see attendant onsite or press intercom for rate to apply<br />Public Holidays: Casual Rates Apply<br /><br /><u>Disabled Parking Bays: available on Level 1 Red &amp; Level 6</u><br />Bays are available on a casual basis &amp; cannot be booked in advance. If bays are full best alternative options are Level 1 Green and Level 5 Blue near elevators</p>\n<p>Online rate shown includes transaction fee. Click the Prepay now link below to get started.</p>\n<p>&nbsp;</p>",
+          "notes": "<p>*Motorbike Rate: $12.00, see attendant onsite or press intercom for rate to apply<br /><br />Public Holidays: Casual Rates Apply<br /><br /><u>Disabled Parking Bays: available on Level 1 Red &amp; Level 6<br /></u>Bays are available on a casual basis &amp; cannot be booked in advance. If bays are full best alternative options are Level 1 Green and Level 5 Blue near elevators<br /><br />Online rate shown includes transaction fee. Click the Prepay now link below to get started.</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 0.5 hrs",
-              "price": 9.0
-            },
-            {
-              "timeSpan": "0.5 - 1.0 hrs",
-              "price": 19.0
+              "timeSpan": "0.0 - 1.0 hrs",
+              "price": 20.0
             },
             {
               "timeSpan": "1.0 - 2.0 hrs",
-              "price": 39.0
+              "price": 40.0
             },
             {
-              "timeSpan": "2.0 - 3.0 hrs",
-              "price": 49.0
-            },
-            {
-              "timeSpan": "3.0 + hrs ",
-              "price": 59.0
+              "timeSpan": "2.0 + hrs ",
+              "price": 60.0
             },
             {
               "timeSpan": "Motorbike*",
@@ -9375,7 +9347,7 @@
         }
       ],
       "fromText": "From",
-      "fromPrice": "9",
+      "fromPrice": "12",
       "location": {
         "longitude": 151.2135511636734,
         "latitude": -33.859099217921653,
@@ -9945,30 +9917,22 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Parking from $10.00, per 30 Mins - Maximum daily rate is $60</p>\n<p>Hourly rates apply Monday to Friday</p>\n<p>Rates are charged from 6am daily</p>",
+          "notes": "<p>Rates apply Monday to Friday<br />Rates charged from 6am daily</p>\n<p>&nbsp;</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 0.5 hrs",
-              "price": 10.0
+              "timeSpan": "0.0 - 1.0 hrs",
+              "price": 15.0
             },
             {
-              "timeSpan": "0.5 - 1.0 hrs",
-              "price": 20.0
-            },
-            {
-              "timeSpan": "1.0 - 1.5 hrs",
+              "timeSpan": "1.0 - 2.0 hrs",
               "price": 30.0
             },
             {
-              "timeSpan": "1.5 - 2.0 hrs",
-              "price": 40.0
+              "timeSpan": "2.0 - 3.0 hrs",
+              "price": 45.0
             },
             {
-              "timeSpan": "2.0 - 2.5 hrs",
-              "price": 50.0
-            },
-            {
-              "timeSpan": "2.5 + hrs  (Max Daily)",
+              "timeSpan": "3.0 + hrs  (Max Daily)",
               "price": 60.0
             }
           ]
@@ -9995,7 +9959,7 @@
         }
       ],
       "fromText": "From",
-      "fromPrice": "10",
+      "fromPrice": "15",
       "location": {
         "longitude": 151.203918406152,
         "latitude": -33.8571494272753,
@@ -10174,31 +10138,23 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Rates apply Monday to Friday</p>\n<p>&nbsp;</p>",
+          "notes": "<p>Rates apply Monday to Friday</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 0.5 hr",
-              "price": 9.0
-            },
-            {
-              "timeSpan": "0.5 - 1.0 hr",
-              "price": 19.0
+              "timeSpan": "0.0 - 1.0 hrs",
+              "price": 15.0
             },
             {
               "timeSpan": "1.0 - 2.0 hrs",
-              "price": 29.0
+              "price": 30.0
             },
             {
               "timeSpan": "2.0 - 3.0 hrs",
-              "price": 39.0
+              "price": 45.0
             },
             {
-              "timeSpan": "3.0 - 4.0 hrs",
-              "price": 49.0
-            },
-            {
-              "timeSpan": "4.0 hrs",
-              "price": 59.0
+              "timeSpan": "3.0 + hrs",
+              "price": 60.0
             }
           ]
         },
@@ -10224,7 +10180,7 @@
         }
       ],
       "fromText": "From",
-      "fromPrice": "9",
+      "fromPrice": "15",
       "location": {
         "longitude": 151.203063726425,
         "latitude": -33.8571146404615,
@@ -14605,27 +14561,23 @@
           "rates": [
             {
               "timeSpan": "0.0 - 0.5 hrs",
-              "price": 9.0
+              "price": 10.0
             },
             {
               "timeSpan": "0.5 - 1.0 hrs",
-              "price": 19.0
+              "price": 20.0
             },
             {
               "timeSpan": "1.0 - 1.5 hrs",
-              "price": 29.0
+              "price": 30.0
             },
             {
               "timeSpan": "1.5 - 2.0 hrs",
-              "price": 39.0
+              "price": 40.0
             },
             {
-              "timeSpan": "2.0 - 3.0 hrs",
-              "price": 44.0
-            },
-            {
-              "timeSpan": "3.0 + hrs",
-              "price": 49.0
+              "timeSpan": "2.0 + hrs",
+              "price": 50.0
             }
           ]
         },
@@ -32750,7 +32702,7 @@
       "costCenter": 1002380,
       "direction": null,
       "heightRestriction": 2.0,
-      "information": "<p>Wilson Parking offer affordable &amp; secure parking at Castle Towers Car Park which is located at 6-14 Castle Street &amp; accessible off 2 Old Castle Hill Road, Castle Hill.&nbsp;</p>\n<p>With casual, weekend and night parking the Castle Towers Car Park is at the heart of the Castle Towers shopping district and available 7 days to meet all of your parking needs.</p>",
+      "information": "<p><span style=\"color: #ff1e25;\"><span style=\"font-size: 11.0pt;\">6 Ampol chargers available<br /></span><span style=\"font-size: 11pt;\">Speed &ndash; 120 KW<br /></span><span style=\"font-size: 11pt;\">Cost - $0.75/KWh<br /></span><span style=\"font-size: 11pt;\">Location &ndash; Red car park</span></span></p>\n<p>Wilson Parking offer affordable &amp; secure parking at Castle Towers Car Park which is located at 6-14 Castle Street &amp; accessible off 2 Old Castle Hill Road, Castle Hill.&nbsp;</p>\n<p>With casual, weekend and night parking the Castle Towers Car Park is at the heart of the Castle Towers shopping district and available 7 days to meet all of your parking needs.</p>",
       "isWilsonOne": false,
       "spottIsAvailable": false,
       "legacyID": 2380,
@@ -63658,23 +63610,23 @@
           "notes": "<p>Monday - Friday, charged from 6am daily</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 0.5 hour",
+              "timeSpan": "0.0 - 0.5 hr",
               "price": 4.0
             },
             {
-              "timeSpan": "0.5 - 1.0 hour",
+              "timeSpan": "0.5 - 1.0 hr",
               "price": 8.0
             },
             {
-              "timeSpan": "1.0 - 2.0 hours",
+              "timeSpan": "1.0 - 2.0 hrs",
               "price": 12.0
             },
             {
-              "timeSpan": "2.0 - 3.0 hours",
+              "timeSpan": "2.0 - 3.0 hrs",
               "price": 15.0
             },
             {
-              "timeSpan": "3.0 + hours",
+              "timeSpan": "3.0 + hrs",
               "price": 18.0
             }
           ]
@@ -63694,15 +63646,15 @@
           "notes": "<p>Sartuday, Sunday and Public Holidays - rates charged from 6am daily</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 1.0 hours",
+              "timeSpan": "0.0 - 1.0 hr",
               "price": 5.0
             },
             {
-              "timeSpan": "1.0 - 2.0 hours",
+              "timeSpan": "1.0 - 2.0 hrs",
               "price": 7.0
             },
             {
-              "timeSpan": "2.0 + hours",
+              "timeSpan": "2.0 + hrs",
               "price": 9.0
             }
           ]
@@ -74319,6 +74271,16 @@
       "streetViewLocation": "https://www.google.com/maps/@?api=1&map_action=pano&pano=zw_xevT5nz2aRWDtD17efA&viewpoint=-27.47307205030777,153.0277657330581&heading=350.9618104431637&pitch=0.3958496630347099",
       "rates": [
         {
+          "rateType": "Prepay Online",
+          "notes": "<div>\n<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Flexi Saver Rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The flexi saver price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n</div>\n<div>Discount parking available online</div>\n<div>Select the <strong>Prepay Now</strong> link below to get started.</div>\n<div>Rates shown include transaction fee.</div>\n<div>&nbsp;</div>\n<div><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></div>",
+          "rates": [
+            {
+              "timeSpan": "Riverfire - 5th September",
+              "price": 40.0
+            }
+          ]
+        },
+        {
           "rateType": "Hourly",
           "notes": null,
           "rates": [
@@ -74347,6 +74309,10 @@
             {
               "timeSpan": "Weekends",
               "price": 22.0
+            },
+            {
+              "timeSpan": "Riverfire - 5th September",
+              "price": 40.0
             }
           ]
         },
@@ -75193,6 +75159,20 @@
             {
               "timeSpan": "Weekend varies from $17.75 - $19.75, depending on demand",
               "price": 22.0
+            },
+            {
+              "timeSpan": "Riverfire - 5th September",
+              "price": 40.0
+            }
+          ]
+        },
+        {
+          "rateType": "Prepay Online",
+          "notes": "<div>&nbsp;</div>\n<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Flexi Saver &amp; Weekend Rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The flexi saver price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>\n<div>&nbsp;</div>",
+          "rates": [
+            {
+              "timeSpan": "Riverfire - 5th September",
+              "price": 40.0
             }
           ]
         }
@@ -75363,6 +75343,16 @@
       "streetViewLocation": "https://www.google.com/maps/@?api=1&map_action=pano&pano=dUNv8xo6E_v4AUJSGatVbA&viewpoint=-27.470955672762315,153.0294869606487&heading=253.80709422158554&pitch=-11.608026436721985&zoom=1",
       "rates": [
         {
+          "rateType": "Prepay Online",
+          "notes": "<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Flexi Saver &amp; Weekend Rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The flexi saver price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>\n<p>&nbsp;</p>",
+          "rates": [
+            {
+              "timeSpan": "Riverfire - 5th September",
+              "price": 40.0
+            }
+          ]
+        },
+        {
           "rateType": "Hourly",
           "notes": null,
           "rates": [
@@ -75401,6 +75391,10 @@
             {
               "timeSpan": "Weekend varies from $9.75 - $11.75, depending on demand",
               "price": 15.0
+            },
+            {
+              "timeSpan": "Riverfire - 5th September",
+              "price": 40.0
             }
           ]
         }
@@ -75604,12 +75598,26 @@
           ]
         },
         {
+          "rateType": "Prepay Online",
+          "notes": "<div>\n<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Flexi Saver Rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The flexi saver price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n</div>\n<div>Discount parking available online</div>\n<div>Select the <strong>Prepay Now</strong> link below to get started.</div>\n<div>Rates shown include transaction fee.</div>\n<div>&nbsp;</div>\n<div><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></div>",
+          "rates": [
+            {
+              "timeSpan": "Riverfire - 5th September",
+              "price": 40.0
+            }
+          ]
+        },
+        {
           "rateType": "Weekend",
           "notes": "<p>Weekend rates apply on Public Holidays</p>\n<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>\n<p>&nbsp;</p>",
           "rates": [
             {
               "timeSpan": "Weekend varies from $9.75 - $11.75, depending on demand",
               "price": 14.0
+            },
+            {
+              "timeSpan": "Riverfire - 5th September",
+              "price": 40.0
             }
           ]
         }
@@ -76126,6 +76134,16 @@
           ]
         },
         {
+          "rateType": "Prepay Online",
+          "notes": "<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Flexi Saver &amp; Weekend Rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The flexi saver price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the <strong>Prepay Now</strong> link below to get started.<br />Rates shown include transaction fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>\n<p>&nbsp;</p>",
+          "rates": [
+            {
+              "timeSpan": "Riverfire - 5th September",
+              "price": 40.0
+            }
+          ]
+        },
+        {
           "rateType": "Night",
           "notes": "<p>Per exit. Entry after 5pm and exit before 5am</p>",
           "rates": [
@@ -76142,6 +76160,10 @@
             {
               "timeSpan": "Weekend varies from $9.75 - $11.75, depending on demand",
               "price": 16.0
+            },
+            {
+              "timeSpan": "Riverfire - 5th September",
+              "price": 40.0
             }
           ]
         }
@@ -76517,6 +76539,20 @@
             {
               "timeSpan": "Weekends",
               "price": 16.0
+            },
+            {
+              "timeSpan": "Riverfire - 5th September",
+              "price": 40.0
+            }
+          ]
+        },
+        {
+          "rateType": "Prepay Online",
+          "notes": "<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Flexi Saver Rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The flexi saver price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the <strong>Prepay Now</strong> link below to get started.<br />Rates shown include transaction fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>\n<p>&nbsp;</p>",
+          "rates": [
+            {
+              "timeSpan": "Riverfire - 5th September",
+              "price": 40.0
             }
           ]
         }
@@ -77091,12 +77127,26 @@
           ]
         },
         {
+          "rateType": "Prepay Online",
+          "notes": "<div>\n<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Flexi Saver Rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The flexi saver price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n</div>\n<div>Discount parking available online</div>\n<div>Select the <strong>Prepay Now</strong> link below to get started.</div>\n<div>Rates shown include transaction fee.</div>\n<div>&nbsp;</div>\n<div><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></div>",
+          "rates": [
+            {
+              "timeSpan": "Riverfire - 5th September",
+              "price": 40.0
+            }
+          ]
+        },
+        {
           "rateType": "Weekend",
           "notes": "<p>Drive up Weekend rates apply on Public Holidays</p>\n<p>Flat rate per day, per exit. Enter after 6:00am and exit before 10:00pm</p>\n<p>&nbsp;</p>",
           "rates": [
             {
               "timeSpan": "Weekends",
               "price": 16.0
+            },
+            {
+              "timeSpan": "Riverfire - 5th September",
+              "price": 40.0
             }
           ]
         }
@@ -77406,6 +77456,20 @@
             {
               "timeSpan": "Weekend varies from $9.75 - $11.75, depending on demand",
               "price": 16.0
+            },
+            {
+              "timeSpan": "Riverfire - 5th September",
+              "price": 40.0
+            }
+          ]
+        },
+        {
+          "rateType": "Prepay Online",
+          "notes": "<div>\n<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Flexi Saver &amp; Weekend Rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The flexi saver price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n</div>\n<div>Discount parking available online</div>\n<div>Select the <strong>Prepay Now</strong> link below to get started.</div>\n<div>Rates shown include transaction fee.</div>\n<div>&nbsp;</div>\n<div><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></div>",
+          "rates": [
+            {
+              "timeSpan": "Riverfire - 5th September",
+              "price": 40.0
             }
           ]
         }
@@ -77622,6 +77686,20 @@
             {
               "timeSpan": "Weekend varies from $13.75 - $15.75, depending on demand",
               "price": 16.0
+            },
+            {
+              "timeSpan": "Riverfire - 5th September",
+              "price": 40.0
+            }
+          ]
+        },
+        {
+          "rateType": "Prepay Online",
+          "notes": "<div>\n<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Flexi Saver &amp; Weekend Rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The flexi saver price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n</div>\n<div>Discount parking available online</div>\n<div>Select the <strong>Prepay Now</strong> link below to get started.</div>\n<div>Rates shown include transaction fee.</div>\n<div>&nbsp;</div>\n<div><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></div>",
+          "rates": [
+            {
+              "timeSpan": "Riverfire - 5th September",
+              "price": 40.0
             }
           ]
         }
@@ -77834,6 +77912,20 @@
             {
               "timeSpan": "Weekend varies from $9.75 - $11.75, depending on demand",
               "price": 16.0
+            },
+            {
+              "timeSpan": "Riverfire - 5th September",
+              "price": 40.0
+            }
+          ]
+        },
+        {
+          "rateType": "Prepay Online",
+          "notes": "<div>&nbsp;</div>\n<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Flexi Saver &amp; Weekend Rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The flexi saver price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>\n<div>&nbsp;</div>",
+          "rates": [
+            {
+              "timeSpan": "Riverfire - 5th September",
+              "price": 40.0
             }
           ]
         }
@@ -77962,14 +78054,11 @@
       "canBookABay": false,
       "selectedFeatures": "",
       "carParkFeature": [
-        "Monthly Parking",
         "Epark",
         "Entry height at least 2",
         "Footy Parking"
       ],
-      "services": [
-        "monthly"
-      ],
+      "services": [],
       "carParkName": "Darling & Co",
       "carParkNumber": 4298,
       "carParkPhoto": null,
@@ -77981,7 +78070,7 @@
       "isWilsonOne": false,
       "spottIsAvailable": false,
       "legacyID": 4298,
-      "monthlyParkingServiceIsAvailable": true,
+      "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
       "phoneNumber": "1800 PARKING (1800  727 5464)",
@@ -78087,7 +78176,7 @@
         "canBookABay": false,
         "bookABayIconLabel": "Prepay Online",
         "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": true,
+        "monthlyParkingServiceIsAvailable": false,
         "monthlyParkingIconLabel": "Monthly Subscription",
         "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
         "isWilsonOne": false,
@@ -78204,6 +78293,20 @@
             {
               "timeSpan": "Weekend varies from $8.75 - $10.75, depending on demand",
               "price": 14.0
+            },
+            {
+              "timeSpan": "Riverfire - 5th September",
+              "price": 40.0
+            }
+          ]
+        },
+        {
+          "rateType": "Prepay Online",
+          "notes": "<div>\n<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Flexi Saver &amp; Weekend Rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The flexi saver price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n</div>\n<div>Discount parking available online</div>\n<div>Select the <strong>Prepay Now</strong> link below to get started.</div>\n<div>Rates shown include transaction fee.</div>\n<div>&nbsp;</div>\n<div><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></div>",
+          "rates": [
+            {
+              "timeSpan": "Riverfire - 5th September",
+              "price": 40.0
             }
           ]
         }
@@ -78417,6 +78520,20 @@
             {
               "timeSpan": "Weekend varies from $8.75 - $10.75, depending on demand",
               "price": 14.0
+            },
+            {
+              "timeSpan": "Riverfire - 5th September",
+              "price": 40.0
+            }
+          ]
+        },
+        {
+          "rateType": "Prepay Online",
+          "notes": "<div>\n<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Flexi Saver Rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The flexi saver price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n</div>\n<div>Discount parking available online</div>\n<div>Select the <strong>Prepay Now</strong> link below to get started.</div>\n<div>Rates shown include transaction fee.</div>\n<div>&nbsp;</div>\n<div><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></div>",
+          "rates": [
+            {
+              "timeSpan": "Riverfire - 5th September",
+              "price": 40.0
             }
           ]
         }
@@ -102824,160 +102941,6 @@
       },
       "state": "WA",
       "imgUrl": "/siteassets/parking-location-images/wa/per321.jpg",
-      "price": "",
-      "status": "",
-      "cpmsCarparkCode": null,
-      "externalCarParkInfo": null,
-      "featuredIndex": 0
-    },
-    {
-      "name": "357 Oxford Street",
-      "bookText": null,
-      "canBookABay": false,
-      "selectedFeatures": "",
-      "carParkFeature": [
-        "Night Parking",
-        "Weekend Parking",
-        "Epark"
-      ],
-      "services": [],
-      "carParkName": "357 Oxford Street",
-      "carParkNumber": 6530,
-      "carParkPhoto": "/contentassets/098ea60ded1749e8a5ebf7920f807de6/screenshot-2025-11-27-134040.png",
-      "category": "",
-      "costCenter": 1006530,
-      "direction": "Entry via Britannia Road",
-      "heightRestriction": 2.0,
-      "information": "<p>Wilson Parking offer affordable parking at 357 Oxford Street Car Park, located at 357 Oxford Street, Mount Hawthorn. This open air car park is open 24/7 and is situated on the main street of Mount Hawthorn, within waking distance of popular cafes and unique shops. Offering casual All Day Parking with the convenience of payment with the Wilson Parking App, the 357 Oxford Street Car Park will meet all your Mount Hawthorn parking needs.&nbsp;</p>\n<p>Download the Wilson Parking App to easily pay for your parking directly from your phone</p>",
-      "isWilsonOne": false,
-      "spottIsAvailable": false,
-      "legacyID": 6530,
-      "monthlyParkingServiceIsAvailable": false,
-      "evChargerIsAvailable": false,
-      "disabledParkingIsAvailable": false,
-      "phoneNumber": "1800 PARKING (1800 727 546)",
-      "products": [],
-      "staticMapPhoto": null,
-      "streetViewHeading": null,
-      "streetViewLocation": null,
-      "rates": [],
-      "fromText": "From",
-      "fromPrice": "5",
-      "location": {
-        "longitude": 115.840719,
-        "latitude": -31.925999,
-        "zoom": 13,
-        "address": "357 Oxford Street, Mount Hawthorn",
-        "region": {
-          "name": "Mt Hawthorn",
-          "longitude": 115.83847045898438,
-          "latitude": -31.9220799697275,
-          "status": "",
-          "state": {
-            "name": "Western Australia",
-            "abbreviation": "WA",
-            "country": "Australia",
-            "longitude": 123.41536223888397,
-            "latitude": -25.833723163507287,
-            "status": ""
-          }
-        }
-      },
-      "openingTimes": [
-        {
-          "day_TimePeriod": "Monday",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Tuesday",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Wednesday",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Thursday",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Friday",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Saturday",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Sunday",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Monthly",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        }
-      ],
-      "url": "/parking-locations/western-australia/mt-hawthorn/357-oxford-street/",
-      "serviceConfiguration": {
-        "canBookABay": false,
-        "bookABayIconLabel": "Prepay Online",
-        "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": false,
-        "monthlyParkingIconLabel": "Monthly Subscription",
-        "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
-        "isWilsonOne": false,
-        "wilsonOneIconLabel": "Parking Card",
-        "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
-        "disabledParkingIsAvailable": false,
-        "disabledParkingIconLabel": "Disabled Parking",
-        "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
-        "evChargerIsAvailable": false,
-        "evChargerIconLabel": "EV Charging",
-        "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "spottIsAvailable": false,
-        "spottIconLabel": "Spott",
-        "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
-        "additionalServices": [
-          {
-            "label": null,
-            "icon": null
-          }
-        ]
-      },
-      "state": "WA",
-      "imgUrl": "/contentassets/098ea60ded1749e8a5ebf7920f807de6/screenshot-2025-11-27-134040.png",
       "price": "",
       "status": "",
       "cpmsCarparkCode": null,
