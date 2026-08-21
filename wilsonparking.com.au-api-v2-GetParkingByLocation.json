@@ -61698,9 +61698,9 @@
       "carParkPhoto": "/siteassets/parking-location-images/vic/mel215_480.jpg",
       "category": "",
       "costCenter": 1003215,
-      "direction": null,
+      "direction": "Entry via 180 Russell St",
       "heightRestriction": 2.0,
-      "information": "<p>Wilson Parking offer affordable &amp; secure parking at 180 Russell St Car Park, located at 180 Russell Street in the Melbourne CBD. Nearby to many popular attractions, including Chinatown and Melbourne CBD shopping. Offering Early Bird, Hourly, Night and Weekend parking options&nbsp;with exclusive discounts when you prepay online, permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the 180 Russell St Car Park will meet all of your business and leisure parking needs.&nbsp;</p>\n<p>Download the Wilson Parking App to plan your journey and access parking discounts when you prepay online;&nbsp;enjoy unlimited 24/7 access when you subscribe to monthly parking;&nbsp;pay as you go on one convenient monthly invoice when you use your Wilson Parking Card to access the car park.</p>",
+      "information": "<p>Wilson Parking offer affordable &amp; secure parking at 180 Russell St Car Park, located at 180 Russell St in the Melbourne CBD. Nearby to many popular attractions, including Chinatown and Melbourne CBD shopping. Offering Early Bird, Hourly, Night and Weekend parking options&nbsp;with exclusive discounts when you prepay online, permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the 180 Russell St Car Park will meet all of your business and leisure parking needs.&nbsp;</p>\n<p>Download the Wilson Parking App to plan your journey and access parking discounts when you prepay online;&nbsp;enjoy unlimited 24/7 access when you subscribe to monthly parking;&nbsp;pay as you go on one convenient monthly invoice when you use your Wilson Parking Card to access the car park.</p>",
       "isWilsonOne": true,
       "spottIsAvailable": true,
       "legacyID": 11,
@@ -61718,11 +61718,11 @@
           "notes": "<p>Rates apply Monday - Friday</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 0.5 hrs",
+              "timeSpan": "0.0 - 0.5 hr",
               "price": 10.0
             },
             {
-              "timeSpan": "0.5 - 1.0 hrs",
+              "timeSpan": "0.5 - 1.0 hr",
               "price": 20.0
             },
             {
@@ -61741,7 +61741,7 @@
         },
         {
           "rateType": "Night",
-          "notes": "<p>Entry after 4:00 pm and exit before 5:00 am next day.</p>\n<p>Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>",
+          "notes": "<p>Entry after 4pm, exit before 5am the following day.<br />If conditions not met, Hourly rates apply from time of entry.</p>\n<p>Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>",
           "rates": [
             {
               "timeSpan": "Mon - Thurs",
@@ -61755,7 +61755,7 @@
         },
         {
           "rateType": "Weekend",
-          "notes": "<p>Enter after 5:00 am and exit before 5:00 am next day.</p>\n<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>",
+          "notes": "<p>Entry after 5am, exit before 5am the following day.</p>\n<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.<br /></em></p>",
           "rates": [
             {
               "timeSpan": "Sat - Sun & Public Holiday varies from $15.75 - $19.75, depending on demand",
@@ -62150,11 +62150,11 @@
           "notes": "<p>Rates apply Monday - Friday</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 0.5 hrs",
+              "timeSpan": "0.0 - 0.5 hr",
               "price": 10.0
             },
             {
-              "timeSpan": "0.5 - 1.0 hrs",
+              "timeSpan": "0.5 - 1.0 hr",
               "price": 20.0
             },
             {
@@ -62173,7 +62173,7 @@
         },
         {
           "rateType": "Night",
-          "notes": "<p>Enter after 4:00 pm, exit before car park close</p>",
+          "notes": "<p>Entry after 5pm, exit before car park close.<br />If conditions not met, Hourly rates apply from time of entry.<br />Select the <strong>Prepay now</strong> link below to get started.<br />Rates shown include transaction fee.</p>",
           "rates": [
             {
               "timeSpan": "Mon - Thurs",
@@ -62187,7 +62187,7 @@
         },
         {
           "rateType": "Weekend",
-          "notes": "<p>Rates charged per exit per day. Enter after 6:00 am, exit before car park close.</p>\n<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>",
+          "notes": "<p>Rates charged per exit per day. Enter after 6am, exit before car park close.</p>\n<p>Pay in advance to access the best possible rates.</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>",
           "rates": [
             {
               "timeSpan": "Sat - Sun & Public Holiday varies from $17.75 - $19.75, depending on demand",
@@ -62202,7 +62202,7 @@
         "longitude": 144.967146,
         "latitude": -37.812007,
         "zoom": 16,
-        "address": "179 Little Bourke St Melbourne",
+        "address": "179 Little Bourke Street, Melbourne",
         "region": {
           "name": "Melbourne CBD",
           "longitude": 144.96444940567017,
@@ -62510,10 +62510,8 @@
         "Wilson One",
         "Overnight Parking",
         "Flexi Parking",
-        "Epark",
         "Entry height at least 2",
         "Disabled Parking",
-        "Elevate",
         "LPR",
         "Spott"
       ],
@@ -62528,9 +62526,9 @@
       "carParkPhoto": "/siteassets/parking-location-images/vic/mel042_480.jpg",
       "category": "",
       "costCenter": 1003042,
-      "direction": "Entry via Little Collins Street",
+      "direction": "Notice - Power shutdown Saturday Aug 29. Staff will be onsite to assist<br>\n<br>Entry via Little Collins Street",
       "heightRestriction": 2.0,
-      "information": "<p>Wilson Parking offers affordable &amp; secure parking at Scots Church Car Park, located at 181 Little Collins St, Melbourne. This car park is nearby to the Melbourne Town Hall and is perfect for local restaurant parking. Offering Hourly, Weekend and Night parking, as well as discount online parking options, the Scots Church, 181 Little Collins St Car Park will meet all of your parking needs.</p>\n<p><strong>This car park accepts Credit Card payments only</strong>.</p>\n<p>Pay as you go with the Wilson Parking Card, or enjoy convenient unlimited 24/7 access when you subscribe to Monthly Parking.</p>",
+      "information": "<p><strong><span style=\"color: #ff1e25;\">Notice: Power Shutdown</span></strong><br /><span style=\"color: #ff1e25;\">Saturday 29th August 2026 - 7am to 2pm.</span><br /><span style=\"color: #ff1e25;\">Staff will be onsite to assist during this time.&nbsp;<br /><br /></span>Wilson Parking offers affordable &amp; secure parking at Scots Church Car Park, located at 181 Little Collins St, Melbourne. This car park is nearby to the Melbourne Town Hall and is perfect for local restaurant parking. Offering Hourly, Weekend and Night parking, as well as discount online parking options, the Scots Church, 181 Little Collins St Car Park will meet all of your parking needs.</p>\n<p><strong>This car park accepts Credit Card payments only</strong>.</p>\n<p>Pay as you go with the Wilson Parking Card, or enjoy convenient unlimited 24/7 access when you subscribe to Monthly Parking.</p>",
       "isWilsonOne": true,
       "spottIsAvailable": true,
       "legacyID": 384,
@@ -64258,7 +64256,7 @@
       "costCenter": 1003204,
       "direction": "Entry via La Trobe and A'Beckett Street",
       "heightRestriction": 2.0,
-      "information": "<p><span style=\"color: #ff1e25;\">Notice : Power Shutdown</span><br /><span style=\"color: #ff1e25;\">Sunday 26th July 2026 -&nbsp; 7am to 9am.&nbsp;</span><br /><span style=\"color: #ff1e25;\">Onsite staff will be onsite during this time.&nbsp;</span></p>\n<p>Wilson Parking offers affordable &amp; reliable parking at 300 La Trobe St Car Park,&nbsp; located at 300 La Trobe Street, Melbourne. Nearby to Melbourne Central,&nbsp;VCAT, Melbourne Institute of Technology and other local attractions, this undercover car park offers casual, Hourly, Night and Weekend parking, with additional savings when you prepay online. Regular parkers can enjoy unlimited access with the best parking value when you subscribe to monthly parking. The 300 La Trobe St Car Park will meet all of your parking needs.</p>\n<p>This car park accepts Credit Card payments only.&nbsp;</p>\n<p>Pay as you go with a Wilson Parking card, or enjoy 24/7 unlimited access when you subscribe to Monthly Parking.</p>",
+      "information": "<p><span style=\"color: #ff1e25;\">Notice : Power Shutdown</span><br /><span style=\"color: #ff1e25;\">Sunday 26th July 2026 -&nbsp; 7am to 9am.&nbsp;</span><br /><span style=\"color: #ff1e25;\">Onsite staff will be onsite during this time.&nbsp;</span></p>\n<p>Wilson Parking offers affordable &amp; reliable parking at 300 La Trobe St Car Park,&nbsp; located at 300 La Trobe St, Melbourne. Nearby to Melbourne Central,&nbsp;VCAT, Melbourne Institute of Technology and other local attractions, this undercover car park offers casual, Hourly, Night and Weekend parking, with additional savings when you prepay online. Regular parkers can enjoy unlimited access with the best parking value when you subscribe to monthly parking. The 300 La Trobe St Car Park will meet all of your parking needs.</p>\n<p>This car park accepts Credit Card payments only.&nbsp;</p>\n<p>Pay as you go with a Wilson Parking card, or enjoy 24/7 unlimited access when you subscribe to Monthly Parking.</p>",
       "isWilsonOne": true,
       "spottIsAvailable": true,
       "legacyID": 20,
@@ -64273,7 +64271,7 @@
       "rates": [
         {
           "rateType": "Night",
-          "notes": "<p>Entry after 5pm &amp; exit before 6am next day.</p>\n<p>Online rate shown includes transaction fee. Click the <strong>Prepay now</strong> link below to get started.</p>",
+          "notes": "<p>Entry after 5pm, exit before 6am <span data-offset-key=\"1akcde78-0-0\"> the following day.<br /></span>If conditions not met, Hourly rates apply from time of entry.<br />Select the <strong>Prepay now</strong> link below to get started.<br />Rates shown include transaction fee.</p>",
           "rates": [
             {
               "timeSpan": "Mon - Fri",
@@ -64283,7 +64281,7 @@
         },
         {
           "rateType": "Weekend",
-          "notes": "<p>Entry after 6am exit before 6am next day.</p>\n<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the <strong>Prepay Now</strong> link below to get started.<br />Rates shown include transaction fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>",
+          "notes": "<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the <strong>Prepay Now</strong> link below to get started.<br />Rates shown include transaction fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>",
           "rates": [
             {
               "timeSpan": "Weekend varies from $10.75 - $16.75, depending on demand",
@@ -64296,11 +64294,11 @@
           "notes": "<p>Rates apply Monday to Friday<br />Rates charged from 6am daily<br />Public Holidays: Weekend Rates Apply</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 0.5 hrs",
+              "timeSpan": "0.0 - 0.5 hr",
               "price": 7.0
             },
             {
-              "timeSpan": "0.5 - 1.0 hrs",
+              "timeSpan": "0.5 - 1.0 hr",
               "price": 14.0
             },
             {
@@ -70417,7 +70415,7 @@
       "costCenter": 1003289,
       "direction": "Entry via Fishplate Lane",
       "heightRestriction": 2.2,
-      "information": "<p>Wilson Parking offer affordable &amp; secure parking at 750 Collins St Car Park, located at 750 Collins St&nbsp;in the heart of Docklands. Open Monday - Friday, this undercover car park provides convenient access to nearby West Melbourne attractions including Marvel Stadium. Offering Hourly and Early Bird Parking with exclusive discounts when you prepay online, permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the 750 Collins St&nbsp;Car Park will meet all your business and leisure parking needs.&nbsp;</p>",
+      "information": "<p>Wilson Parking offer affordable &amp; secure parking at 750 Collins St Car Park, located at 750 Collins St&nbsp;in the heart of Docklands. Open Monday to Friday, this undercover car park provides convenient access to nearby West Melbourne attractions including Marvel Stadium. Offering Hourly and Early Bird Parking with exclusive discounts when you prepay online, permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the 750 Collins St&nbsp;Car Park will meet all your business and leisure parking needs.</p>",
       "isWilsonOne": true,
       "spottIsAvailable": true,
       "legacyID": 379,
@@ -70432,7 +70430,7 @@
       "rates": [
         {
           "rateType": "Daily",
-          "notes": "<p>Monday to Friday 7:00 am to 7:00 pm</p>",
+          "notes": "<p>Monday to Friday 7am to 7pm</p>",
           "rates": [
             {
               "timeSpan": "All Day Flat Rate",
@@ -75090,8 +75088,8 @@
         "Overnight Parking",
         "Entry height at least 2",
         "Dine BNE",
-        "Elevate",
         "LPR",
+        "Riverfire",
         "Spott Saver",
         "Spott"
       ],
@@ -75316,6 +75314,7 @@
         "Flexi Parking",
         "Daily Pass Bundles",
         "LPR",
+        "Riverfire",
         "Spott"
       ],
       "services": [
@@ -77843,8 +77842,8 @@
         "Wilson One",
         "Overnight Parking",
         "Entry height at least 2",
-        "Elevate",
         "LPR",
+        "Riverfire",
         "Spott Saver",
         "Spott"
       ],
@@ -86734,9 +86733,12 @@
       "canBookABay": false,
       "selectedFeatures": "",
       "carParkFeature": [
+        "Monthly Parking",
         "Entry height at least 2"
       ],
-      "services": [],
+      "services": [
+        "monthly"
+      ],
       "carParkName": "Stockley Alley Car Park",
       "carParkNumber": 5126,
       "carParkPhoto": "/contentassets/3c644d69f6bd49fb833b2a3fd158dd23/ade126-resized.jpg",
@@ -86748,7 +86750,7 @@
       "isWilsonOne": false,
       "spottIsAvailable": false,
       "legacyID": 705,
-      "monthlyParkingServiceIsAvailable": false,
+      "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
       "phoneNumber": "1800 parking",
@@ -86858,7 +86860,7 @@
         "canBookABay": false,
         "bookABayIconLabel": "Prepay Online",
         "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingServiceIsAvailable": true,
         "monthlyParkingIconLabel": "Monthly Subscription",
         "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
         "isWilsonOne": false,
