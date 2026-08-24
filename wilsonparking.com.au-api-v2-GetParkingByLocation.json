@@ -24613,7 +24613,7 @@
       "featuredIndex": 0
     },
     {
-      "name": "Gordon (North) Park&Ride",
+      "name": "Gordon - Henry St (North) Park&Ride",
       "bookText": null,
       "canBookABay": false,
       "selectedFeatures": "",
@@ -24622,7 +24622,7 @@
         "Weekend Parking"
       ],
       "services": [],
-      "carParkName": "Gordon (North) Park&Ride",
+      "carParkName": "Gordon - Henry St (North) Park&Ride",
       "carParkNumber": 2332,
       "carParkPhoto": null,
       "category": "",
@@ -62736,7 +62736,7 @@
       "costCenter": 1003250,
       "direction": "Entry via Russell St (Extension) or off Batman Ave (at Tennis Centre)\nOn event dates and busy periods, please use the Batman Ave Exit from Level 1 and allow additional time to exit. ",
       "heightRestriction": 2.1,
-      "information": "<p><u></u><u></u><u></u><u></u><span style=\"color: #ff1e25;\"><strong><u>Event Dates 2026<br /></u>August:</strong>&nbsp; 20th, 21st from 4:00pm</span><br /><span style=\"color: #ff1e25;\">29th&nbsp;from 11:00am</span><br /><span style=\"color: #ff1e25;\">22nd and 23rd&nbsp;from 8:00am</span><br /><span style=\"color: #ff1e25;\"><strong>September:&nbsp;</strong>4th, 5th, 8th,20th, 21st, 28<sup>th</sup>&nbsp;and 29<sup>th</sup>&nbsp;from 4:00pm</span><br /><span style=\"color: #ff1e25;\">6<sup>th</sup>&nbsp;and 19<sup>th</sup>&nbsp;from 11:00am</span><br /><span style=\"color: #ff1e25;\">26<sup>th</sup>&nbsp;from 7:00am</span><br /><span style=\"color: #ff1e25;\">Event<em> rates will apply.<br />On event dates, please allow additional time to exit.</em></span></p>\n<p>Wilson Parking offers affordable &amp; secure parking at Federation Square Car Park, located on Russell St (Extension) in the Melbourne CBD. This car park is nearby to many popular attractions, including Federation Square, Flinders St Station, Birrarung Marr, Rod Laver Arena and Melbourne Park. Offering casual Early Bird, Hourly, Night and Weekend parking, with exclusive discounts when you prepay online, the Federation Square Car Park will meet all of your parking needs.</p>\n<p><span style=\"color: #000000;\"><strong>On event dates and busy periods, please use the Batman Avenue Exit from Level 1 and allow additional time to exit.</strong></span></p>\n<p>Download the Wilson Parking App to plan your journey and access exclusive discounts when you prepay online; pay as you go with one convenient monthly invoice when you use your Wilson Parking Card; enjoy 24/7 unlimited access when you subscribe to Monthly Parking; or just drive up to pay with a credit card at the car park.</p>",
+      "information": "<p><u></u><u></u><u></u><u></u><span style=\"color: #ff1e25;\"><strong><u>Event Dates 2026<br /></u>August:</strong>&nbsp; 28th from 4:00pm</span><br /><span style=\"color: #ff1e25;\">29th&nbsp;from 11:00am</span><br /><span style=\"color: #ff1e25;\"><strong>September:&nbsp;</strong>4th, 5th, 8th,20th, 21st, 28<sup>th</sup>&nbsp;and 29<sup>th</sup>&nbsp;from 4:00pm</span><br /><span style=\"color: #ff1e25;\">6<sup>th</sup>&nbsp;and 19<sup>th</sup>&nbsp;from 11:00am</span><br /><span style=\"color: #ff1e25;\">26<sup>th</sup>&nbsp;from 7:00am</span><br /><span style=\"color: #ff1e25;\">Event<em> rates will apply.<br />On event dates, please allow additional time to exit.</em></span></p>\n<p>Wilson Parking offers affordable &amp; secure parking at Federation Square Car Park, located on Russell St (Extension) in the Melbourne CBD. This car park is nearby to many popular attractions, including Federation Square, Flinders St Station, Birrarung Marr, Rod Laver Arena and Melbourne Park. Offering casual Early Bird, Hourly, Night and Weekend parking, with exclusive discounts when you prepay online, the Federation Square Car Park will meet all of your parking needs.</p>\n<p><span style=\"color: #000000;\"><strong>On event dates and busy periods, please use the Batman Avenue Exit from Level 1 and allow additional time to exit.</strong></span></p>\n<p>Download the Wilson Parking App to plan your journey and access exclusive discounts when you prepay online; pay as you go with one convenient monthly invoice when you use your Wilson Parking Card; enjoy 24/7 unlimited access when you subscribe to Monthly Parking; or just drive up to pay with a credit card at the car park.</p>",
       "isWilsonOne": true,
       "spottIsAvailable": false,
       "legacyID": 94,
@@ -64691,7 +64691,7 @@
       "category": "",
       "costCenter": 1003392,
       "direction": "Entry via 369 Little Collins St. ",
-      "heightRestriction": 2.0,
+      "heightRestriction": 2.4,
       "information": "<p>Wilson Parking offer affordable &amp; secure parking at 350 Collins St Car Park, located at 369 Little Collins St&nbsp;in the heart of the CBD. Open 7 days, this undercover car park provides convenient access to nearby Collins St, Elizabeth St, Flinders Lane business areas and surrounding restaurants. Offering Hourly, Weekend and Night Parking options with exclusive discounts when you prepay online with the Wilson Parking App, the 350 Collins St Car Park will meet all your business and leisure parking needs.&nbsp;</p>",
       "isWilsonOne": true,
       "spottIsAvailable": false,
@@ -71783,7 +71783,7 @@
       "costCenter": 1003365,
       "direction": "Enter from Ballarat Rd or Geelong Rd",
       "heightRestriction": 2.2,
-      "information": "<p>Wilson Parking offer affordable &amp; reliable parking at the New Footscray Hospital Car Park, located at 89 Ballarat Rd, Footscray. Open 24 hours, 7 days, and entries from both Ballarat Rd and Geelong Rd, this car park provides convenient access for staff, patients and visitors to The New Footscray Hospital. Offering Hourly, Weekend and special concession rates (on validation at the hospital), The Footscray Hospital Car Park will meet all your hospital parking needs.&nbsp;</p>",
+      "information": "<p>Wilson Parking offer affordable &amp; reliable parking at the New Footscray Hospital Car Park, located at 89 Ballarat Rd, Footscray. Open 24 hours, 7 days, and entries from both Ballarat Rd and Geelong Rd, this car park provides convenient access for staff, patients and visitors to The New Footscray Hospital. Offering Hourly, Weekend and special concession rates (on validation at the hospital), The Footscray Hospital Car Park will meet all your hospital parking needs.</p>",
       "isWilsonOne": false,
       "spottIsAvailable": false,
       "legacyID": 1003365,
@@ -71798,45 +71798,45 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Available Monday - Friday</p>\n<p>*Concession/Pensioner Rate: must validate at main reception at the New Footscray Hospital</p>",
+          "notes": "<p>Available Monday - Friday</p>\n<p>*Concession/Pensioner Rate: must validate at main reception at the New Footscray Hospital.</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 0.5 hrs",
+              "timeSpan": "0.0 - 0.5 hr",
               "price": 0.0
             },
             {
-              "timeSpan": "0.5 - 1.0 hrs",
-              "price": 8.5
+              "timeSpan": "0.5 - 1.0 hr",
+              "price": 8.7
             },
             {
               "timeSpan": "1.0 - 2.0 hrs",
-              "price": 12.4
+              "price": 12.8
             },
             {
               "timeSpan": "2.0 - 3.0 hrs",
-              "price": 16.4
+              "price": 16.9
             },
             {
-              "timeSpan": "3.0+ hrs",
-              "price": 20.8
+              "timeSpan": "3.0 + hrs",
+              "price": 21.4
             }
           ]
         },
         {
           "rateType": "Weekend",
-          "notes": "<p>Available Sat and Sun. Rates are per entry per day and reset at 6am.</p>\n<p><strong>*Concession/Pensioner Rate:</strong> must validate at main reception at the New Footscray Hospital.&nbsp;</p>",
+          "notes": "<p>Available Sat and Sun. Rates are per entry per day and reset at 6am.</p>\n<p><strong>*Concession/Pensioner Rate:</strong> must validate at main reception at the New Footscray Hospital.</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 0.5 hrs",
+              "timeSpan": "0.0 - 0.5 hr",
               "price": 0.0
             },
             {
-              "timeSpan": "0.5 - 1.0 hrs",
-              "price": 8.5
+              "timeSpan": "0.5 - 1.0 hr",
+              "price": 8.7
             },
             {
-              "timeSpan": "1.0+ hrs",
-              "price": 12.4
+              "timeSpan": "1.0 + hrs",
+              "price": 12.8
             }
           ]
         }
@@ -71967,7 +71967,7 @@
       "costCenter": 1003393,
       "direction": "176 Furlong Rd, St Albans",
       "heightRestriction": 2.1,
-      "information": "<p>Wilson Parking offer affordable &amp; reliable parking at Sunshine Hospital Car Park, located at 176 Furlong Rd, St Albans. Open 24 hours, 7 days, this car park provides convenient access for staff, patients and visitors to the Sunshine Hospital. Offering Hourly, Weekend and special concession rates (on validation at the hospital), the Sunshine Hospital will meet all your parking needs.&nbsp;</p>",
+      "information": "<p>Wilson Parking offer affordable &amp; reliable parking at Sunshine Hospital Car Park, located at 176 Furlong Rd, St Albans. Open 24 hours, 7 days, this car park provides convenient access for staff, patients and visitors to the Sunshine Hospital. Offering Hourly, Weekend and special concession rates (on validation at the hospital), the Sunshine Hospital will meet all your parking needs.</p>",
       "isWilsonOne": false,
       "spottIsAvailable": false,
       "legacyID": 1003393,
@@ -71985,24 +71985,24 @@
           "notes": "<p>Available Monday - Friday</p>\n<p><strong>*Concession / Pensioner Rate:</strong> must validate via kiosk at main reception or Joan Kerner Centre reception. For valid cardholders only.</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 0.5hrs",
+              "timeSpan": "0.0 - 0.5 hr",
               "price": 0.0
             },
             {
-              "timeSpan": "0.5 - 1.0hrs",
-              "price": 8.5
+              "timeSpan": "0.5 - 1.0 hr",
+              "price": 8.7
             },
             {
-              "timeSpan": "1.0 - 2.0hrs",
-              "price": 12.4
+              "timeSpan": "1.0 - 2.0 hrs",
+              "price": 12.8
             },
             {
-              "timeSpan": "2.0 - 3.0hrs",
-              "price": 16.4
+              "timeSpan": "2.0 - 3.0 hrs",
+              "price": 16.9
             },
             {
-              "timeSpan": "3.0+ hrs",
-              "price": 20.8
+              "timeSpan": "3.0 + hrs",
+              "price": 21.4
             },
             {
               "timeSpan": "Concession / Pensioner*",
@@ -72012,23 +72012,23 @@
         },
         {
           "rateType": "Weekend",
-          "notes": "<p>Available Sat and Sun.&nbsp;Rates are per entry per day and reset at 6am</p>\n<p><strong>*Concession / Pensioner Rate:</strong> must validate via kiosk at main reception or Joan Kerner Centre reception. For valid cardholders only.</p>",
+          "notes": "<p>Available Sat and Sun.&nbsp;Rates are per entry per day and reset at 6am.</p>\n<p><strong>*Concession / Pensioner Rate:</strong> must validate via kiosk at main reception or Joan Kerner Centre reception. For valid cardholders only.</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 0.5hr",
+              "timeSpan": "0.0 - 0.5 hr",
               "price": 0.0
             },
             {
-              "timeSpan": "0.5 - 1.0hrs",
-              "price": 8.5
+              "timeSpan": "0.5 - 1.0 hr",
+              "price": 8.7
             },
             {
-              "timeSpan": "1.0+ hrs",
-              "price": 12.4
+              "timeSpan": "1.0 + hrs",
+              "price": 12.8
             },
             {
               "timeSpan": "Concession / Pensioner*",
-              "price": 7.2
+              "price": 7.4
             }
           ]
         }
@@ -74472,7 +74472,7 @@
       "costCenter": 1004356,
       "direction": "Entry off Little Cribb Street",
       "heightRestriction": 2.2,
-      "information": "<p><span style=\"color: #ff1e25;\">Event Parking is available at this car park on the following dates: 21, 27 August.<br /></span></p>\n<p>Wilson Parking offers affordable &amp; secure parking at Milton Green&nbsp;car park, located at 19 Little Cribb Street&nbsp;in the heart of Milton. Open 7 days, this undercover car park provides convenient access to nearby Suncorp Stadium and surrounding entertainment and retail precinct. Offering hourly, night and weekend parking options with discounts when you prepay online, permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the Milton Green&nbsp;car park will meet all your business and leisure parking needs.&nbsp;</p>",
+      "information": "<p><span style=\"color: #ff1e25;\">Event Parking is available at this car park on the following dates: 27 August.<br /></span></p>\n<p>Wilson Parking offers affordable &amp; secure parking at Milton Green&nbsp;car park, located at 19 Little Cribb Street&nbsp;in the heart of Milton. Open 7 days, this undercover car park provides convenient access to nearby Suncorp Stadium and surrounding entertainment and retail precinct. Offering hourly, night and weekend parking options with discounts when you prepay online, permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the Milton Green&nbsp;car park will meet all your business and leisure parking needs.&nbsp;</p>",
       "isWilsonOne": true,
       "spottIsAvailable": false,
       "legacyID": 1004356,
@@ -78041,164 +78041,6 @@
       },
       "state": "QLD",
       "imgUrl": "/siteassets/parking-location-images/qld/bne359.jpg",
-      "price": "",
-      "status": "",
-      "cpmsCarparkCode": null,
-      "externalCarParkInfo": null,
-      "featuredIndex": 0
-    },
-    {
-      "name": "Darling & Co",
-      "bookText": null,
-      "canBookABay": false,
-      "selectedFeatures": "",
-      "carParkFeature": [
-        "Epark",
-        "Entry height at least 2",
-        "Footy Parking"
-      ],
-      "services": [],
-      "carParkName": "Darling & Co",
-      "carParkNumber": 4298,
-      "carParkPhoto": null,
-      "category": "",
-      "costCenter": 1004298,
-      "direction": "Entry via Dowse Street",
-      "heightRestriction": 2.3,
-      "information": "<p><span style=\"color: #ff1e25;\">Event Parking is available at this car park on the following dates: 21, 27 August.</span></p>\n<p>Wilson Parking offers affordable and secure parking at&nbsp;Darling &amp; Co car park, located in the heart of Paddington. Open 7 days, this undercover car park provides convenient access to Lang Park (Suncorp Stadium). Offering casual and night parking, and exclusive discounts when you pay via the Wilson Parking app, the&nbsp;Darling &amp; Co car park will meet all your business and leisure parking needs.</p>\n<p>Car park closes at 11pm on event nights.</p>",
-      "isWilsonOne": false,
-      "spottIsAvailable": false,
-      "legacyID": 4298,
-      "monthlyParkingServiceIsAvailable": false,
-      "evChargerIsAvailable": false,
-      "disabledParkingIsAvailable": false,
-      "phoneNumber": "1800 PARKING (1800  727 5464)",
-      "products": [
-        "Monthly Parking",
-        "Epark",
-        "Entry height at least 2"
-      ],
-      "staticMapPhoto": null,
-      "streetViewHeading": "283.2276916750857",
-      "streetViewLocation": "https://www.google.com/maps/@?api=1&map_action=pano&pano=WGP--mmtxiC-PZQsFoASWA&viewpoint=-27.46203848927686,153.0091437557722&heading=283.2276916750857&pitch=-11.516661927273404",
-      "rates": [],
-      "fromText": "From",
-      "fromPrice": "2",
-      "location": {
-        "longitude": 153.00894846429,
-        "latitude": -27.4621241757271,
-        "zoom": 13,
-        "address": "157 Given Terrace, Paddington QLD 4064 ",
-        "region": {
-          "name": "Paddington",
-          "longitude": 153.001499994,
-          "latitude": -27.456998172,
-          "status": "",
-          "state": {
-            "name": "Queensland",
-            "abbreviation": "QLD",
-            "country": "Australia",
-            "longitude": 153.029420017695,
-            "latitude": -27.46777640825,
-            "status": ""
-          }
-        }
-      },
-      "openingTimes": [
-        {
-          "day_TimePeriod": "Monday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "05:00",
-          "closing": "23:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Tuesday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "05:00",
-          "closing": "23:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Wednesday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "05:00",
-          "closing": "23:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Thursday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "05:00",
-          "closing": "23:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Friday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "05:00",
-          "closing": "23:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Saturday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "05:00",
-          "closing": "23:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Sunday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "05:00",
-          "closing": "23:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Public Holiday",
-          "is24_7": false,
-          "closed": true,
-          "opening": "",
-          "closing": "",
-          "note": null
-        }
-      ],
-      "url": "/parking-locations/queensland/paddington/darling-co/",
-      "serviceConfiguration": {
-        "canBookABay": false,
-        "bookABayIconLabel": "Prepay Online",
-        "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": false,
-        "monthlyParkingIconLabel": "Monthly Subscription",
-        "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
-        "isWilsonOne": false,
-        "wilsonOneIconLabel": "Parking Card",
-        "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
-        "disabledParkingIsAvailable": false,
-        "disabledParkingIconLabel": "Disabled Parking",
-        "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
-        "evChargerIsAvailable": false,
-        "evChargerIconLabel": "EV Charging",
-        "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "spottIsAvailable": false,
-        "spottIconLabel": "Spott",
-        "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
-        "additionalServices": [
-          {
-            "label": null,
-            "icon": null
-          }
-        ]
-      },
-      "state": "QLD",
-      "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
       "price": "",
       "status": "",
       "cpmsCarparkCode": null,
@@ -81968,7 +81810,7 @@
       "costCenter": 1004252,
       "direction": null,
       "heightRestriction": 0.0,
-      "information": "<p>This car park is only open to the general public on cruise ship days<br /><br /><span style=\"color: #ff1e25;\">For Accessible Parking, please contact customer care to receive a <strong>promo code</strong> to make your prepayment.&nbsp;</span></p>\n<p>Wilson Parking offers premium &amp; convenient parking at Brisbane International Cruise Terminal P2 - Car Park 2, located at <strong>1 Cruise Terminal Drive, Pinkenba QLD 4008</strong></p>\n<p>- 250 - 400m to the terminal building<br />- Consisting of open air bays<br />- Accessible parking bays</p>\n<p>Please note</p>\n<p><strong>This is car park accepts prepaid parking only. Alternate travel options or parking at P3 should be considered when there are no bays available for prepaid parking.</strong></p>\n<p><strong>Disability bays can be prepaid by emailing bict@wilsongroupau.com - this is subject to availability</strong></p>\n<p>Notes<br />All regular sized vehicles, including popular model dual cab utes, can fit in the allocated parks. Oversized models, as well as trailers, are not permitted</p>\n<p>Please contact our national customer care team for further information on</p>\n<p>1800 727 546 and follow the prompts</p>",
+      "information": "<p>This car park is only open to the general public on cruise ship days<br /><br /><span style=\"color: #ff1e25;\">For Accessible Parking, please contact customer care to receive a <strong>promo code</strong> to make your prepayment.&nbsp;</span></p>\n<p>Wilson Parking offers premium &amp; convenient parking at Brisbane International Cruise Terminal P2 - Car Park 2, located at <strong>1 Cruise Terminal Drive, Pinkenba QLD 4008</strong></p>\n<p>- 250 - 400m to the terminal building<br />- Consisting of open air bays<br />- Accessible parking bays</p>\n<p>Please note</p>\n<p><strong>This is car park accepts prepaid parking only. Alternate travel options or parking at P3 should be considered when there are no bays available for prepaid parking.</strong></p>\n<p>Notes<br />All regular sized vehicles, including popular model dual cab utes, can fit in the allocated parks. Oversized models, as well as trailers, are not permitted</p>\n<p>Please contact our national customer care team for further information on</p>\n<p>1800 727 546 and follow the prompts</p>",
       "isWilsonOne": false,
       "spottIsAvailable": false,
       "legacyID": 4252,
@@ -82121,7 +81963,7 @@
       "costCenter": 1004251,
       "direction": "Entry via Cruise Terminal Drive, Pinkenba QLD 4008",
       "heightRestriction": 2.5,
-      "information": "<p><span style=\"text-decoration-line: underline;\">This car park is only open to the general public on cruise ship days<br /></span><br /><span style=\"color: #ff1e25;\">For Accessible Parking, please contact customer care to receive a <strong>promo code</strong> to make your prepayment.&nbsp;</span></p>\n<p>Wilson Parking offers premium &amp; convenient parking at Brisbane International Cruise Terminal P1 - Premium, located at <strong>1 Cruise Terminal Drive, Pinkenba QLD 4008</strong>. The Premium car park offers parking options under shade structures plus open air parking.</p>\n<p>- Closest to the terminal building (50 - 220m)<br />- Consisting of bays under shade (not enclosed) &amp; open air bays<br />- Accessible parking bays<br />- Electric vehicle charging station (types 1 and 2 cable and plug; IEC 62196-2)</p>\n<p>Please note</p>\n<p><strong>This is car park accepts prepaid parking&nbsp;only. Alternate travel options or parking at P3 should be considered when there are no bays available for prepaid parking.</strong></p>\n<p><strong>ACCESS TO SHADED BAYS IS NOT GUARANTEED</strong></p>\n<p><strong>Disability bays can be prepaid&nbsp;by emailing bict@wilsongroupau.com - this is subject to availability</strong></p>\n<p>Notes<br />All regular sized vehicles, including popular model dual cab utes, can fit in the allocated parks. Oversized models, as well as trailers, are not permitted</p>",
+      "information": "<p><span style=\"text-decoration-line: underline;\">This car park is only open to the general public on cruise ship days<br /></span><br /><span style=\"color: #ff1e25;\">For Accessible Parking, please contact customer care to receive a <strong>promo code</strong> to make your prepayment.&nbsp;</span></p>\n<p>Wilson Parking offers premium &amp; convenient parking at Brisbane International Cruise Terminal P1 - Premium, located at <strong>1 Cruise Terminal Drive, Pinkenba QLD 4008</strong>. The Premium car park offers parking options under shade structures plus open air parking.</p>\n<p>- Closest to the terminal building (50 - 220m)<br />- Consisting of bays under shade (not enclosed) &amp; open air bays<br />- Accessible parking bays<br />- Electric vehicle charging station (types 1 and 2 cable and plug; IEC 62196-2)</p>\n<p>Please note</p>\n<p><strong>This is car park accepts prepaid parking&nbsp;only. Alternate travel options or parking at P3 should be considered when there are no bays available for prepaid parking.</strong></p>\n<p><strong>ACCESS TO SHADED BAYS IS NOT GUARANTEED</strong></p>\n<p>Notes<br />All regular sized vehicles, including popular model dual cab utes, can fit in the allocated parks. Oversized models, as well as trailers, are not permitted</p>",
       "isWilsonOne": false,
       "spottIsAvailable": false,
       "legacyID": 4251,
