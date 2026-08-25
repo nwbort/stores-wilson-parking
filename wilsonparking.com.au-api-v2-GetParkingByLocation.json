@@ -16361,23 +16361,15 @@
           "notes": "<p>Rates apply Monday to Friday</p>\n<p><u>Overnight Charge</u>: +$10.00 - applies in addition to casual rates for vehicles remaining in the car park after midnight (12am).<br /><br />Rates are charged from 6am daily</p>\n<p>&nbsp;</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 0.5 hrs",
+              "timeSpan": "0.0 - 1.0 hrs",
               "price": 10.0
-            },
-            {
-              "timeSpan": "0.5 - 1.0 hrs",
-              "price": 15.0
             },
             {
               "timeSpan": "1.0 - 2.0 hrs",
               "price": 20.0
             },
             {
-              "timeSpan": "2.0 - 3.0 hrs",
-              "price": 25.0
-            },
-            {
-              "timeSpan": "3.0 + hrs",
+              "timeSpan": "2.0 + hrs",
               "price": 30.0
             },
             {
@@ -16927,23 +16919,15 @@
           "notes": "<p>Rates apply Monday to Friday<br /><u>Overnight Charge</u>: +$10.00 - applies in addition to casual rates for vehicles remaining in the car park after midnight (12am).<br /><br />Rates are charged from 6am daily</p>\n<p>&nbsp;</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 0.5 hrs",
+              "timeSpan": "0.0 - 1.0 hrs",
               "price": 10.0
-            },
-            {
-              "timeSpan": "0.5 - 1.0 hrs",
-              "price": 15.0
             },
             {
               "timeSpan": "1.0 - 2.0 hrs",
               "price": 20.0
             },
             {
-              "timeSpan": "2.0 - 3.0 hrs",
-              "price": 25.0
-            },
-            {
-              "timeSpan": "3.0 + hrs",
+              "timeSpan": "2.0 + hrs",
               "price": 30.0
             },
             {
@@ -33796,182 +33780,6 @@
         "wilsonOneIconLabel": "Parking Card",
         "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
         "disabledParkingIsAvailable": true,
-        "disabledParkingIconLabel": "Disabled Parking",
-        "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
-        "evChargerIsAvailable": false,
-        "evChargerIconLabel": "EV Charging",
-        "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "spottIsAvailable": false,
-        "spottIconLabel": "Spott",
-        "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
-        "additionalServices": []
-      },
-      "state": "NSW",
-      "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
-      "price": "",
-      "status": "",
-      "cpmsCarparkCode": null,
-      "externalCarParkInfo": {
-        "name": "InterPark",
-        "pinUrl": "/globalassets/icons/interpark-icons/pin-blue.png",
-        "logoUrl": "/siteassets/parking-stock-images/interpark-icons/interpark_logo.jpg",
-        "pageUrl": "",
-        "content": "<p>This is an Interpark carpark with LOGO</p>"
-      },
-      "featuredIndex": 0
-    },
-    {
-      "name": "Esplanade Norwest Car Park",
-      "bookText": null,
-      "canBookABay": false,
-      "selectedFeatures": "",
-      "carParkFeature": [
-        "Entry height at least 2"
-      ],
-      "services": [],
-      "carParkName": "Esplanade Norwest Car Park",
-      "carParkNumber": 9225,
-      "carParkPhoto": null,
-      "category": "",
-      "costCenter": 1009225,
-      "direction": "Entry via 1-13 Solent Circuit Norwest, NSW",
-      "heightRestriction": 2.0,
-      "information": "<div>The Esplanade Norwest Car Park is located at 11-13 Solent Circuit, Norwest and is open 7 days a week. The car park offers convenient and affordable casual hourly parking for retail customers, residents, and visitors to the surrounding area. It provides easy access to nearby residences, and local businesses.</div>\n<div>&nbsp;</div>",
-      "isWilsonOne": false,
-      "spottIsAvailable": false,
-      "legacyID": 9225,
-      "monthlyParkingServiceIsAvailable": false,
-      "evChargerIsAvailable": false,
-      "disabledParkingIsAvailable": false,
-      "phoneNumber": "1800 PARKING (1800 727 546)",
-      "products": [],
-      "staticMapPhoto": null,
-      "streetViewHeading": null,
-      "streetViewLocation": null,
-      "rates": [
-        {
-          "rateType": "Hourly",
-          "notes": "<p>Rates apply Monday - Sunday</p>",
-          "rates": [
-            {
-              "timeSpan": "0.0 - 2.0 ",
-              "price": 0.0
-            },
-            {
-              "timeSpan": "2.0 - 3.0 ",
-              "price": 6.0
-            },
-            {
-              "timeSpan": "3.0 - 4.0 ",
-              "price": 9.0
-            },
-            {
-              "timeSpan": "4.0 - 5.0 ",
-              "price": 12.0
-            },
-            {
-              "timeSpan": "5.0 - 6.0",
-              "price": 15.0
-            },
-            {
-              "timeSpan": "6.0+ hrs",
-              "price": 18.0
-            }
-          ]
-        }
-      ],
-      "fromText": "From",
-      "fromPrice": "0",
-      "location": {
-        "longitude": 150.961603123384,
-        "latitude": -33.7318669506833,
-        "zoom": 13,
-        "address": "11-13 Solent Circuit Norwest, NSW",
-        "region": {
-          "name": "Greater West",
-          "longitude": 150.94768524169922,
-          "latitude": -33.806252750539684,
-          "status": "",
-          "state": {
-            "name": "New South Wales",
-            "abbreviation": "NSW",
-            "country": "Australia",
-            "longitude": 151.207430362701,
-            "latitude": -33.8662642500823,
-            "status": ""
-          }
-        }
-      },
-      "openingTimes": [
-        {
-          "day_TimePeriod": "Monday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "06:00",
-          "closing": "23:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Tuesday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "06:00",
-          "closing": "23:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Wednesday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "06:00",
-          "closing": "23:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Thursday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "06:00",
-          "closing": "23:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Friday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "06:00",
-          "closing": "23:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Saturday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "06:00",
-          "closing": "23:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Sunday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "06:00",
-          "closing": "23:00",
-          "note": null
-        }
-      ],
-      "url": "/parking-locations/new-south-wales/greater-west/",
-      "serviceConfiguration": {
-        "canBookABay": false,
-        "bookABayIconLabel": "Prepay Online",
-        "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": false,
-        "monthlyParkingIconLabel": "Monthly Subscription",
-        "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
-        "isWilsonOne": false,
-        "wilsonOneIconLabel": "Parking Card",
-        "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
-        "disabledParkingIsAvailable": false,
         "disabledParkingIconLabel": "Disabled Parking",
         "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
         "evChargerIsAvailable": false,
@@ -60227,7 +60035,7 @@
       "costCenter": 1003195,
       "direction": "Entry & exit via St Andrews Place",
       "heightRestriction": 2.1,
-      "information": "<p><u></u><u></u><span style=\"color: #ff1e25;\"><strong style=\"color: #ff1e25;\"><u>Event Dates 2026</u></strong><br /><strong>August:</strong> 8th, 15th, 16th, 21st, 22nd<br /><strong>September:</strong> 11th<br />Event<em style=\"color: #ff1e25;\"> rates will apply.<br /></em><em style=\"color: #ff1e25;\">On event dates, please allow additional time to exit.</em></span></p>\n<p>Wilson Parking offer affordable &amp; secure parking at Park Hyatt Car Park, located at St Andrews Place&nbsp;in the heart of East Melbourne. Open 7 days, this undercover car park provides convenient access to Princess Theatre, Comedy Theatre, Parliament House and with 24 hour access is perfect for restaurant and hotel parking. Offering Hourly, Early Bird, Weekend and Night Parking options with exclusive discounts when you prepay online, permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the Park Hyatt Car Park will meet all your business and leisure parking needs.&nbsp;</p>\n<p>This car park accepts credit card payment only. Download the Wilson Parking App to plan your journey and access parking discounts when you prepay online;&nbsp;enjoy unlimited 24/7 access when you subscribe to monthly parking; pay as you go on one convenient monthly invoice when you use your Wilson Parking Card to access the car park.&nbsp;</p>",
+      "information": "<p><u></u><u></u><span style=\"color: #ff1e25;\"><u></u><u></u><strong style=\"color: #ff1e25;\"><u>Event Dates 2026</u></strong><br /><strong>August:</strong>&nbsp;28th, 29th<br /><strong>September:</strong>&nbsp;4th, 11th<br />Event<em style=\"color: #ff1e25;\"> rates will apply.<br /></em><em style=\"color: #ff1e25;\">On event dates, please allow additional time to exit.</em></span></p>\n<p>Wilson Parking offer affordable &amp; secure parking at Park Hyatt Car Park, located at St Andrews Place&nbsp;in the heart of East Melbourne. Open 7 days, this undercover car park provides convenient access to Princess Theatre, Comedy Theatre, Parliament House and with 24 hour access is perfect for restaurant and hotel parking. Offering Hourly, Early Bird, Weekend and Night Parking options with exclusive discounts when you prepay online, permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the Park Hyatt Car Park will meet all your business and leisure parking needs.&nbsp;</p>\n<p>This car park accepts credit card payment only. Download the Wilson Parking App to plan your journey and access parking discounts when you prepay online;&nbsp;enjoy unlimited 24/7 access when you subscribe to monthly parking; pay as you go on one convenient monthly invoice when you use your Wilson Parking Card to access the car park.&nbsp;</p>",
       "isWilsonOne": true,
       "spottIsAvailable": true,
       "legacyID": 120,
@@ -61150,7 +60958,7 @@
       "costCenter": 1003300,
       "direction": null,
       "heightRestriction": 2.05,
-      "information": "<p><span style=\"color: #ff1e25;\"><u></u><u></u><strong><u>Event Dates 2026<br /></u>August:</strong> 8th, 15th, 16th, 21st, 22nd<br /></span><span style=\"color: #ff1e25;\"><strong>September: </strong>11th<br />Event<em>&nbsp;rates will apply.<br /></em><em>On event dates, please allow additional time to exit.</em></span></p>\n<p>Wilson Parking offers affordable &amp; secure parking at 11 Exhibition St&nbsp;Car Park, located at 11 Exhibition St in the heart of East End. Open 7 days, this undercover car park provides convenient access to nearby the MCG, Federation Square, Birrarung Marr, Melbourne Park and many other popular attractions. This car park offers flat rate parking at the times you need when you prepay online a Flexi Saver rate online. Casual Hourly, Weekend and Night Parking options are also available, with permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the 11 Exhibition St Car Park will meet all your business and leisure parking needs.&nbsp;</p>\n<p>This car park accepts Credit Card payments only.&nbsp;Download the Wilson Parking App to plan your journey and access the best parking value when you prepay online; enjoy unlimited 24/7 access when you subscribe to monthly parking; pay as you go on one convenient monthly invoice when you use your Wilson Parking Card to access the car park.</p>",
+      "information": "<p><u></u><u></u><u></u><span style=\"color: #ff1e25;\"><strong style=\"color: #ff1e25;\"><u>Event Dates 2026</u></strong><br /><strong>August:</strong>&nbsp;28th, 29th<br /><strong>September:</strong>&nbsp;4th, 11th<br />Event<em style=\"color: #ff1e25;\"> rates will apply.<br /></em><em style=\"color: #ff1e25;\">On event dates, please allow additional time to exit.</em></span></p>\n<p>Wilson Parking offers affordable &amp; secure parking at 11 Exhibition St&nbsp;Car Park, located at 11 Exhibition St in the heart of East End. Open 7 days, this undercover car park provides convenient access to nearby the MCG, Federation Square, Birrarung Marr, Melbourne Park and many other popular attractions. This car park offers flat rate parking at the times you need when you prepay online a Flexi Saver rate online. Casual Hourly, Weekend and Night Parking options are also available, with permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the 11 Exhibition St Car Park will meet all your business and leisure parking needs.&nbsp;</p>\n<p>This car park accepts Credit Card payments only.&nbsp;Download the Wilson Parking App to plan your journey and access the best parking value when you prepay online; enjoy unlimited 24/7 access when you subscribe to monthly parking; pay as you go on one convenient monthly invoice when you use your Wilson Parking Card to access the car park.</p>",
       "isWilsonOne": true,
       "spottIsAvailable": true,
       "legacyID": 497,
@@ -63374,7 +63182,7 @@
       "costCenter": 1003169,
       "direction": "Entry via Flinders St or 195 Flinders Lane",
       "heightRestriction": 2.0,
-      "information": "<p><span style=\"color: #ff1e25;\"><u></u><u></u><strong style=\"color: #ff1e25;\"><u>Event Dates 2026</u></strong><br /><strong>August:</strong> 8th, 15th, 16th, 21st, 22nd<br /><strong>September:</strong> 11th<br />Event<em style=\"color: #ff1e25;\"> rates will apply.<br /></em><em style=\"color: #ff1e25;\">On event dates, please allow additional time to exit.</em></span></p>\n<p>Wilson Parking offers affordable &amp; convenient parking at Flinders Gate Car Park, located at 172-192 Flinders Street, Melbourne. This car park is nearby to many Melbourne attractions including St Paul's Cathedral, The Ian Potter Centre and Flinders St Station.</p>\n<p>Offering online discounts for Flexi Saver, Night, Overnight and Weekend parking as well as competitive drive up rates, the Flinders Gate car park will meet all of your parking needs when visiting the Melbourne CBD.</p>\n<p><strong>This car park accepts Credit Card payments only.</strong></p>\n<p>Pay as you go with a Wilson Parking Card, or enjoy unlimited 24/7 access when you subscribe to a Monthly parking account.</p>\n<p><em>Site can be affected by road closures. Please refer to the <a title=\"https://www.melbourne.vic.gov.au/parking-and-transport/roads/Pages/road-closures.aspx\" href=\"https://www.melbourne.vic.gov.au/parking-and-transport/roads/Pages/road-closures.aspx\" target=\"_blank\" rel=\"noopener\">City of Melbourne website</a> for more information.</em></p>",
+      "information": "<p><span style=\"color: #ff1e25;\"><u></u><u></u><u></u><u></u><strong style=\"color: #ff1e25;\"><u>Event Dates 2026</u></strong><br /><strong>August:</strong>&nbsp;28th, 29th<br /><strong>September:</strong>&nbsp;4th, 11th<br />Event<em style=\"color: #ff1e25;\"> rates will apply.<br /></em><em style=\"color: #ff1e25;\">On event dates, please allow additional time to exit.</em></span></p>\n<p>Wilson Parking offers affordable &amp; convenient parking at Flinders Gate Car Park, located at 172-192 Flinders Street, Melbourne. This car park is nearby to many Melbourne attractions including St Paul's Cathedral, The Ian Potter Centre and Flinders St Station.</p>\n<p>Offering online discounts for Flexi Saver, Night, Overnight and Weekend parking as well as competitive drive up rates, the Flinders Gate car park will meet all of your parking needs when visiting the Melbourne CBD.</p>\n<p><strong>This car park accepts Credit Card payments only.</strong></p>\n<p>Pay as you go with a Wilson Parking Card, or enjoy unlimited 24/7 access when you subscribe to a Monthly parking account.</p>\n<p><em>Site can be affected by road closures. Please refer to the <a title=\"https://www.melbourne.vic.gov.au/parking-and-transport/roads/Pages/road-closures.aspx\" href=\"https://www.melbourne.vic.gov.au/parking-and-transport/roads/Pages/road-closures.aspx\" target=\"_blank\" rel=\"noopener\">City of Melbourne website</a> for more information.</em></p>",
       "isWilsonOne": true,
       "spottIsAvailable": true,
       "legacyID": 253,
@@ -77877,7 +77685,7 @@
           "notes": null,
           "rates": [
             {
-              "timeSpan": "0.0 - 1.0 hrs",
+              "timeSpan": "0.0 - 1.0 hr",
               "price": 25.0
             },
             {
@@ -77920,7 +77728,7 @@
         },
         {
           "rateType": "Prepay Online",
-          "notes": "<div>&nbsp;</div>\n<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Flexi Saver &amp; Weekend Rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The flexi saver price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>\n<div>&nbsp;</div>",
+          "notes": "<div>Pay in advance to access the best possible rates.&nbsp;</div>\n<p><strong>Flexi Saver &amp; Weekend Rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The flexi saver price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>",
           "rates": [
             {
               "timeSpan": "Riverfire - 5th September",
