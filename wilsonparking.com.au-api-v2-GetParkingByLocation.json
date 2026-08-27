@@ -5949,7 +5949,7 @@
       "costCenter": 1002346,
       "direction": null,
       "heightRestriction": 1.9,
-      "information": "<p><span style=\"color: #ff1e25;\">Closing times during&nbsp;<strong>Vivid Sydney 2026</strong>.&nbsp;<strong>22/5 &ndash; 13/6</strong></span><br /><span style=\"color: #ff1e25;\"><strong>Monday to Thursday</strong>&nbsp;close at 11pm</span><br /><span style=\"color: #ff1e25;\"><strong>Fridays and Saturdays</strong>&nbsp;close at midnight</span><br /><span style=\"color: #ff1e25;\"><strong>Sundays</strong>&nbsp;close at 11pm</span><br /><br />Wilson Parking offer affordable &amp; secure parking at Hudson House Car Park, located at 131 Macquarie St in the Sydney CBD. Open 7 days a week, this undercover car park is nearby to popular locations including Sydney Opera House, Sydney Conservatorium of Music, Royal Botanic Gardens and Circular Quay.&nbsp;</p>\n<p>Offering casual Hourly, Night and Weekend, with discounts for motorbike parking and permanent monthly parking for regular parkers, the Hudson House Car Park will suit all your leisure and business parking needs.</p>",
+      "information": "<p>Wilson Parking offer affordable &amp; secure parking at Hudson House Car Park, located at 131 Macquarie St in the Sydney CBD. Open 7 days a week, this undercover car park is nearby to popular locations including Sydney Opera House, Sydney Conservatorium of Music, Royal Botanic Gardens and Circular Quay.&nbsp;</p>\n<p>Offering casual Hourly, Night and Weekend, with discounts for motorbike parking and permanent monthly parking for regular parkers, the Hudson House Car Park will suit all your leisure and business parking needs.</p>",
       "isWilsonOne": false,
       "spottIsAvailable": false,
       "legacyID": 740,
@@ -82947,7 +82947,7 @@
           "notes": "<p>*Online rate only available when you Pay by App with the Wilson Parking App.&nbsp;</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\" target=\"_blank\" rel=\"noopener\" aria-label=\"Link Click here\">Click here</a>&nbsp;to download the Wilson Parking App</p>\n<p><strong>Hourly Rates</strong> - available Monday to Sunday</p>\n<p><strong>Event Rate</strong> - available&nbsp;on selected days only within 2 hours of event start time</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 1.0  hrs",
+              "timeSpan": "0.0 - 1.0  hr",
               "price": 3.0
             },
             {
@@ -82956,7 +82956,7 @@
             },
             {
               "timeSpan": "2.0 + hrs",
-              "price": 6.0
+              "price": 7.0
             },
             {
               "timeSpan": "Event Rate",
