@@ -64301,23 +64301,23 @@
           "notes": "<p>Rates apply Monday - Friday</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 0.5 Hours\t",
+              "timeSpan": "0.0 - 0.5 hr",
               "price": 6.0
             },
             {
-              "timeSpan": "0.5 - 1.0 Hours\t",
+              "timeSpan": "0.5 - 1.0 hr",
               "price": 12.0
             },
             {
-              "timeSpan": "1.0 - 2.0 Hours ",
+              "timeSpan": "1.0 - 2.0 hrs",
               "price": 24.0
             },
             {
-              "timeSpan": "2.0 - 3.0 Hours",
+              "timeSpan": "2.0 - 3.0 hrs",
               "price": 36.0
             },
             {
-              "timeSpan": "3.0 + Hours",
+              "timeSpan": "3.0 + hrs",
               "price": 45.0
             }
           ]
@@ -64334,7 +64334,7 @@
         },
         {
           "rateType": "Weekend",
-          "notes": "<p>Enter after 7:00 am Exit before 6:00 am next day</p>\n<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>",
+          "notes": "<p>Entry after 7am, Exit before 6am next day.</p>\n<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started<br />Rates shown include transaction fee</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>",
           "rates": [
             {
               "timeSpan": "Sat - Sun & Public Holiday varies from $13.75 - $16.75, depending on demand",
