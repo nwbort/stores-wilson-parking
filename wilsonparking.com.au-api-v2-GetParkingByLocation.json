@@ -24451,7 +24451,7 @@
           "rates": [
             {
               "timeSpan": "0.0 - 3.0 hrs",
-              "price": 5.0
+              "price": 0.0
             },
             {
               "timeSpan": "3..0 - 18.0 hrs",
@@ -24459,7 +24459,7 @@
             },
             {
               "timeSpan": "0.0 - 18.0 hrs",
-              "price": 0.0
+              "price": 5.0
             },
             {
               "timeSpan": "18.0 - 24.0 hrs",
@@ -24469,7 +24469,7 @@
         },
         {
           "rateType": "Night",
-          "notes": "<p><u>Weekend Parking (non-commuter)</u>: Applies if you are not using public transport or you have exceeded the 18 hours free parking, per day</p>\n<p><br /><u>Commuter Parking</u>: Parking is free for up to 18 hours when you complete a valid public transport trip&nbsp;using an accepted Opal card, or credit/debit card linked with a Transport Connect account. More information is available at <a href=\"http://www.transportnsw.info/parkandride\">www.transportnsw.info/parkandride</a></p>\n<p>If you are not using public transport or you have exceeded the 18 hours free parking, you will be charged Casual Parking rate.</p>",
+          "notes": "<p><u>Night (non-commuter)</u>: Applies if you are not using public transport or you have exceeded the 18 hours free parking, per day</p>\n<p><br /><u>Commuter Parking</u>: Parking is free for up to 18 hours when you complete a valid public transport trip&nbsp;using an accepted Opal card, or credit/debit card linked with a Transport Connect account. More information is available at <a href=\"http://www.transportnsw.info/parkandride\">www.transportnsw.info/parkandride</a></p>\n<p>If you are not using public transport or you have exceeded the 18 hours free parking, you will be charged Casual Parking rate.</p>",
           "rates": [
             {
               "timeSpan": "Night - 5pm to Midnight (Mon - Fri)",
@@ -25567,6 +25567,10 @@
           "notes": "<p><u>Casual Parking</u>: Applies if you are not using public transport or you have exceeded the 18 hour free parking , per day.<br /><br /><u>Commuter Parking</u>: Parking is free for up to 18 hours when you complete a valid public transport trip&nbsp;using an accepted Opal card, or credit/debit card linked with a Transport Connect account. More information is available at <a href=\"http://www.transportnsw.info/parkandride\">www.transportnsw.info/parkandride</a></p>\n<p>If you are not using public transport or you have exceeded the 18 hour free parking, you will be charged Casual Parking rate.</p>\n<p><br /><u>Public Holidays</u>: Weekend Rates Apply</p>",
           "rates": [
             {
+              "timeSpan": "0.0 - 3.0 hrs (entry & exit between 10am & midnight)",
+              "price": 0.0
+            },
+            {
               "timeSpan": "0.0 - 24.0 hrs",
               "price": 30.0
             },
@@ -25582,15 +25586,19 @@
           "rates": [
             {
               "timeSpan": "0.0 - 3.0 hrs",
-              "price": 5.0
+              "price": 0.0
             },
             {
               "timeSpan": "3.0 - 24.0 hrs",
-              "price": 10.0
+              "price": 5.0
             },
             {
               "timeSpan": "0.0 - 18.0 hrs",
               "price": 0.0
+            },
+            {
+              "timeSpan": "18.0 - 24.0 hrs",
+              "price": 5.0
             }
           ]
         },
@@ -29573,186 +29581,6 @@
         "pageUrl": "",
         "content": "<p>This is an Interpark carpark with LOGO</p>"
       },
-      "featuredIndex": 0
-    },
-    {
-      "name": "Sutherland Hospital Car Park",
-      "bookText": null,
-      "canBookABay": false,
-      "selectedFeatures": "",
-      "carParkFeature": [],
-      "services": [],
-      "carParkName": "Sutherland Hospital Car Park",
-      "carParkNumber": 2252,
-      "carParkPhoto": null,
-      "category": "",
-      "costCenter": 1002252,
-      "direction": "Entry via Kareena Road",
-      "heightRestriction": 2.2,
-      "information": "<p>Wilson Parking offer affordable &amp; secure parking at Sutherland Hospital Car Park which is located at Cnr Kingsway &amp; Kareena Road, Caringbah - entry via&nbsp;Kareena Rd</p>\n<p>With Casual Parking options available 24 hours, 7 days the Sutherland Hospital Car Park will meet all your parking needs.&nbsp;</p>",
-      "isWilsonOne": false,
-      "spottIsAvailable": false,
-      "legacyID": 390,
-      "monthlyParkingServiceIsAvailable": false,
-      "evChargerIsAvailable": false,
-      "disabledParkingIsAvailable": false,
-      "phoneNumber": "1800 PARKING",
-      "products": [],
-      "staticMapPhoto": null,
-      "streetViewHeading": "125.60674038734732",
-      "streetViewLocation": "https://www.google.com/maps/@?api=1&map_action=pano&pano=PcfcXHiaFZlnGfuss9ZAoQ&viewpoint=-34.03614489646326,151.1133392574996&heading=125.60674038734732&pitch=-11.10941539564999",
-      "rates": [
-        {
-          "rateType": "Hourly",
-          "notes": "<p>Rates apply Monday to Sunday</p>",
-          "rates": [
-            {
-              "timeSpan": "0.0 - 0.25 hrs",
-              "price": 0.0
-            },
-            {
-              "timeSpan": "0.25 - 1.0 hrs",
-              "price": 8.1
-            },
-            {
-              "timeSpan": "1.0 - 2.0 hrs",
-              "price": 12.0
-            },
-            {
-              "timeSpan": "2.0 - 3.0 hrs",
-              "price": 16.2
-            },
-            {
-              "timeSpan": "3.0 - 4.0 hrs",
-              "price": 18.9
-            },
-            {
-              "timeSpan": "4.0 - 5.0 hrs",
-              "price": 21.7
-            },
-            {
-              "timeSpan": "5.0 + hrs",
-              "price": 24.2
-            }
-          ]
-        }
-      ],
-      "fromText": "From",
-      "fromPrice": "0",
-      "location": {
-        "longitude": 151.11408948898315,
-        "latitude": -34.03695983435275,
-        "zoom": 13,
-        "address": "Cnr Kingsway & Kareena Road, Caringbah",
-        "region": {
-          "name": "Sutherland",
-          "longitude": 151.0565185546875,
-          "latitude": -34.031536311869921,
-          "status": "",
-          "state": {
-            "name": "New South Wales",
-            "abbreviation": "NSW",
-            "country": "Australia",
-            "longitude": 151.207430362701,
-            "latitude": -33.8662642500823,
-            "status": ""
-          }
-        }
-      },
-      "openingTimes": [
-        {
-          "day_TimePeriod": "Monday",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Tuesday",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Wednesday",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Thursday",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Friday",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Saturday",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Sunday",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Public Holiday",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        }
-      ],
-      "url": "/parking-locations/new-south-wales/sutherland/sutherland-hospital-car-park/",
-      "serviceConfiguration": {
-        "canBookABay": false,
-        "bookABayIconLabel": "Prepay Online",
-        "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": false,
-        "monthlyParkingIconLabel": "Monthly Subscription",
-        "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
-        "isWilsonOne": false,
-        "wilsonOneIconLabel": "Parking Card",
-        "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
-        "disabledParkingIsAvailable": false,
-        "disabledParkingIconLabel": "Disabled Parking",
-        "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
-        "evChargerIsAvailable": false,
-        "evChargerIconLabel": "EV Charging",
-        "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "spottIsAvailable": false,
-        "spottIconLabel": "Spott",
-        "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
-        "additionalServices": []
-      },
-      "state": "NSW",
-      "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
-      "price": "",
-      "status": "",
-      "cpmsCarparkCode": null,
-      "externalCarParkInfo": null,
       "featuredIndex": 0
     },
     {
@@ -37178,35 +37006,35 @@
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": null,
-      "streetViewLocation": "-33.75312411584736,150.7015942190005",
+      "streetViewLocation": "https://www.google.com/maps/@?api=1&map_action=pano&pano=TvFehuPJkhQuubHPmsysqQ&viewpoint=-33.75382941767948,150.704404082324&heading=116.49466823193661&pitch=-7.515532424229448&zoom=0.9999999999999997",
       "rates": [
         {
           "rateType": "Hourly",
           "notes": "<p>Rates available Monday - Sunday</p>",
           "rates": [
             {
-              "timeSpan": "0 -1.0 hrs",
+              "timeSpan": "0 - 1.0 hr",
               "price": 0.0
             },
             {
               "timeSpan": "1.0 - 1.5 hrs",
-              "price": 6.0
+              "price": 7.0
             },
             {
               "timeSpan": "1.5 - 2.0 hrs",
-              "price": 8.0
+              "price": 10.0
             },
             {
               "timeSpan": "2.0 - 3.0 hrs",
-              "price": 15.0
+              "price": 18.0
             },
             {
               "timeSpan": "3.0 - 4.0 hrs",
-              "price": 22.0
+              "price": 27.0
             },
             {
               "timeSpan": "4.0 + hrs",
-              "price": 28.0
+              "price": 36.0
             }
           ]
         }
@@ -40389,7 +40217,7 @@
       "costCenter": 1002172,
       "direction": null,
       "heightRestriction": 1.8,
-      "information": "<p>Wilson Parking offer affordable &amp; secure parking at Wharf Rd Car Park, located at 26 Centenary Rd in the heart of Newcastle CBD, Honeysuckle and Newcastle Waterfront restaurant Precincts.&nbsp;</p>\n<p>Wharf Rd Car Park suits all your leisure and business parking needs. With Monthly, Casual, Weekend Parking options available.</p>",
+      "information": "<p>Wilson Parking offer affordable parking at Wharf Rd Car Park, located at 26 Centenary Rd in the heart of Newcastle CBD, Honeysuckle and Newcastle Waterfront restaurant Precincts.&nbsp;</p>\n<p>Wharf Rd Car Park suits all your leisure and business parking needs. With Monthly, Casual, Weekend Parking options available.</p>",
       "isWilsonOne": false,
       "spottIsAvailable": false,
       "legacyID": 576,
@@ -74084,7 +73912,7 @@
       "costCenter": 1004356,
       "direction": "Entry off Little Cribb Street",
       "heightRestriction": 2.2,
-      "information": "<p><span style=\"color: #ff1e25;\">Event Parking is available at this car park on the following dates: 27 August.<br /></span></p>\n<p>Wilson Parking offers affordable &amp; secure parking at Milton Green&nbsp;car park, located at 19 Little Cribb Street&nbsp;in the heart of Milton. Open 7 days, this undercover car park provides convenient access to nearby Suncorp Stadium and surrounding entertainment and retail precinct. Offering hourly, night and weekend parking options with discounts when you prepay online, permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the Milton Green&nbsp;car park will meet all your business and leisure parking needs.&nbsp;</p>",
+      "information": "<p><span style=\"color: #ff1e25;\">Event Parking is available at this car park on the following dates: 29 September.<br /></span></p>\n<p>Wilson Parking offers affordable &amp; secure parking at Milton Green&nbsp;car park, located at 19 Little Cribb Street&nbsp;in the heart of Milton. Open 7 days, this undercover car park provides convenient access to nearby Suncorp Stadium and surrounding entertainment and retail precinct. Offering hourly, night and weekend parking options with discounts when you prepay online, permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the Milton Green&nbsp;car park will meet all your business and leisure parking needs.&nbsp;</p>",
       "isWilsonOne": true,
       "spottIsAvailable": false,
       "legacyID": 1004356,
@@ -75695,7 +75523,7 @@
       "carParkPhoto": "/siteassets/parking-location-images/qld/bne027.jpeg",
       "category": "",
       "costCenter": 1004027,
-      "direction": "entry via Mary Street",
+      "direction": "Entry via 200 Mary Street",
       "heightRestriction": 1.9,
       "information": "<p>Wilson Parking offers affordable &amp; secure parking at the 200 Mary Street&nbsp;car park, located&nbsp;in the heart of Brisbane. This undercover car park provides convenient access to nearby hotels, restaurants and the Brisbane Botanical Gardens. Offering casual hourly, night and weekend with exclusive discounts when you prepay online and permanent monthly (subscription) parking with convenience of payment from your phone via the Wilson Parking App, the 200 Mary Street car park will meet all your business and leisure parking needs.</p>",
       "isWilsonOne": true,
@@ -75704,7 +75532,7 @@
       "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
-      "phoneNumber": "1800 PARKING (1800 727 5464)",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [
         "Monthly Parking",
         "Night Parking",
@@ -75720,14 +75548,14 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": null,
+          "notes": "<p>Rates apply Monday to Friday<br />Rates charged from 5am daily<br />Public Holidays: Weekend Rates Apply</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 0.5 hrs",
+              "timeSpan": "0.0 - 0.5 hr",
               "price": 15.0
             },
             {
-              "timeSpan": "0.5 - 1 .0 hrs",
+              "timeSpan": "0.5 - 1 .0 hr",
               "price": 29.0
             },
             {
@@ -75746,7 +75574,7 @@
         },
         {
           "rateType": "Prepay Online",
-          "notes": "<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Flexi Saver &amp; Weekend Rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The flexi saver price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the <strong>Prepay Now</strong> link below to get started.<br />Rates shown include transaction fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>\n<p>&nbsp;</p>",
+          "notes": "<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Flexi Saver &amp; Weekend Rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The flexi saver price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the <strong>Prepay Now</strong> link below to get started.<br />Rates shown include transaction fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>",
           "rates": [
             {
               "timeSpan": "Riverfire - 5th September",
@@ -75756,17 +75584,17 @@
         },
         {
           "rateType": "Night",
-          "notes": "<p>Per exit. Entry after 5pm and exit before 5am</p>",
+          "notes": "<p><span data-offset-key=\"1akcde78-0-0\">Entry after 5pm, exit before 5am the following day.<br /></span>If conditions not met, Hourly rates apply from time of entry.<br />Select the&nbsp;<strong>Prepay now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>",
           "rates": [
             {
-              "timeSpan": "Weeknights",
+              "timeSpan": "Mon - Fri",
               "price": 16.0
             }
           ]
         },
         {
           "rateType": "Weekend",
-          "notes": "<p>Weekend rates apply on Public Holidays.</p>\n<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>\n<p>&nbsp;</p>",
+          "notes": "<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Weekend rates apply on Public Holidays.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>",
           "rates": [
             {
               "timeSpan": "Weekend varies from $9.75 - $11.75, depending on demand",
@@ -76059,6 +75887,221 @@
       },
       "state": "QLD",
       "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
+      "price": "",
+      "status": "",
+      "cpmsCarparkCode": null,
+      "externalCarParkInfo": null,
+      "featuredIndex": 0
+    },
+    {
+      "name": "10 Eagle Street (Gold Tower)",
+      "bookText": null,
+      "canBookABay": true,
+      "selectedFeatures": "",
+      "carParkFeature": [
+        "Monthly Parking",
+        "Night Parking",
+        "Weekend Parking",
+        "Early Bird Parking",
+        "Book a Bay",
+        "Wilson One",
+        "Flexi Parking",
+        "Daily Pass Bundles",
+        "Special Event Parking",
+        "Elevate",
+        "LPR",
+        "Riverfire",
+        "Spott Saver",
+        "Spott"
+      ],
+      "services": [
+        "book a bay",
+        "wilson one",
+        "monthly"
+      ],
+      "carParkName": "10 Eagle Street (Gold Tower)",
+      "carParkNumber": 4060,
+      "carParkPhoto": "/siteassets/parking-location-images/qld/bne060.jpeg",
+      "category": "",
+      "costCenter": 1004060,
+      "direction": "Entry via Market Street",
+      "heightRestriction": 2.0,
+      "information": "<p>Wilson Parking offers affordable and secure parking at 10 Eagle Street, Brisbane. Conveniently located near Eagle Street Pier, popular Brisbane restaurants, and the Brisbane CBD, this is perfect for both commuter and leisure parking. Offering Hourly, Night and Weekend parking, as well as discount online parking options, the 10 Eagle Street (Gold Tower) car park, will meet all your parking needs.&nbsp;</p>\n<p>Save when you prepay your parking online or with the Wilson Parking App; enjoy convenient unlimited 24/7 access; or pay as you go with the queue-less, contact free Wilson Parking Card.</p>\n<p><strong>Car park access</strong><br />Car park roller doors are open on weekdays 6am-6pm (excluding public holidays). Please refer to instructions at the entry of the car park for access outside these times.</p>",
+      "isWilsonOne": true,
+      "spottIsAvailable": true,
+      "legacyID": 486,
+      "monthlyParkingServiceIsAvailable": true,
+      "evChargerIsAvailable": false,
+      "disabledParkingIsAvailable": false,
+      "phoneNumber": "1800 PARKING",
+      "products": [],
+      "staticMapPhoto": null,
+      "streetViewHeading": "36.85241018262773",
+      "streetViewLocation": "https://www.google.com/maps/@?api=1&map_action=pano&pano=e1HR9v0Rf4l9RQvEA7ySvQ&viewpoint=-27.46970793645703,153.02987930693553&heading=36.85241018262773&pitch=-5.546560832945445",
+      "rates": [
+        {
+          "rateType": "Hourly",
+          "notes": "<p>Motorbikes - see attendant weekdays 6am-6pm for directions</p>",
+          "rates": [
+            {
+              "timeSpan": "0.0 - 1.0 hrs",
+              "price": 25.0
+            },
+            {
+              "timeSpan": "1.0 - 2.0 hrs",
+              "price": 50.0
+            },
+            {
+              "timeSpan": "2.0 - 3.0 hrs",
+              "price": 75.0
+            },
+            {
+              "timeSpan": "3.0 + hrs",
+              "price": 80.0
+            }
+          ]
+        },
+        {
+          "rateType": "Night",
+          "notes": "<p>Per exit. Enter after 5:00pm and exit before 10:00pm.</p>\n<p>Online rates include transaction fee. Click the&nbsp;<strong>Prepay now</strong> link below to get started.</p>\n<p><strong>For car park access after 6pm</strong>, please refer to roller door instructions at the entry of the car park.</p>",
+          "rates": [
+            {
+              "timeSpan": "Weeknights",
+              "price": 16.0
+            }
+          ]
+        },
+        {
+          "rateType": "Weekend",
+          "notes": "<p>Flat rate per day, per exit. Enter after 6:00am and exit before 6:00am</p>\n<p><strong>For car park access</strong>, please refer to roller door instructions at the entry of the car park.</p>",
+          "rates": [
+            {
+              "timeSpan": "Weekends",
+              "price": 16.0
+            }
+          ]
+        }
+      ],
+      "fromText": "From",
+      "fromPrice": "16",
+      "location": {
+        "longitude": 153.02979368710248,
+        "latitude": -27.469459055893104,
+        "zoom": 13,
+        "address": "9 Market Street, Brisbane",
+        "region": {
+          "name": "Brisbane CBD",
+          "longitude": 153.02942001769532,
+          "latitude": -27.46777640824995,
+          "status": "",
+          "state": {
+            "name": "Queensland",
+            "abbreviation": "QLD",
+            "country": "Australia",
+            "longitude": 153.029420017695,
+            "latitude": -27.46777640825,
+            "status": ""
+          }
+        }
+      },
+      "openingTimes": [
+        {
+          "day_TimePeriod": "Monthly",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Monday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "06:00",
+          "closing": "18:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Tuesday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "06:00",
+          "closing": "18:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Wednesday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "06:00",
+          "closing": "18:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Thursday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "06:00",
+          "closing": "18:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Friday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "06:00",
+          "closing": "18:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Saturday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Sunday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Public Holiday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        }
+      ],
+      "url": "/parking-locations/queensland/brisbane-cbd/10-eagle-street-gold-tower-car-park/",
+      "serviceConfiguration": {
+        "canBookABay": true,
+        "bookABayIconLabel": "Prepay Online",
+        "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
+        "monthlyParkingServiceIsAvailable": true,
+        "monthlyParkingIconLabel": "Monthly Subscription",
+        "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
+        "isWilsonOne": true,
+        "wilsonOneIconLabel": "Parking Card",
+        "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
+        "disabledParkingIsAvailable": false,
+        "disabledParkingIconLabel": "Disabled Parking",
+        "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
+        "evChargerIsAvailable": false,
+        "evChargerIconLabel": "EV Charging",
+        "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
+        "spottIsAvailable": true,
+        "spottIconLabel": "Spott",
+        "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
+        "additionalServices": []
+      },
+      "state": "QLD",
+      "imgUrl": "/siteassets/parking-location-images/qld/bne060.jpeg",
       "price": "",
       "status": "",
       "cpmsCarparkCode": null,
@@ -77012,7 +77055,7 @@
       "costCenter": 1004029,
       "direction": "The Riverside Centre car park has two entries on Eagle Street. The northern entry is near Pig N Whistle Riverside. The southern entry is via the left lane under Jade Buddha.",
       "heightRestriction": 2.0,
-      "information": "<p>Wilson Parking offers affordable &amp; secure parking at Riverside Centre, located at 123 Eagle Street, Brisbane. Nearby to Riverside Ferry Terminal, Eagle Street Pier, in the Brisbane CBD, the car park, open 24 hours will cater for both commuter and leisure parking. Offering Hourly, Flexi, Weekend and Night parking, along with discount online parking options, the Riverside Centre car park will meet all of your parking needs.</p>\n<p>Save when you prepay online or with the Wilson Parking App; enjoy the convenience of 24/7 access when you subscribe to monthly parking; or pay as you go with the queue-less, contact free Wilson Parking Card.</p>",
+      "information": "<p><span style=\"color: #ff1e25;\"><strong>Notice: Power Shutdown<br /></strong>Saturday 7<sup>th</sup> November 2026 -&nbsp;3am to 3pm.</span><span style=\"color: #ff1e25;\">&nbsp;</span></p>\n<p>Wilson Parking offers affordable &amp; secure parking at Riverside Centre, located at 123 Eagle Street, Brisbane. Nearby to Riverside Ferry Terminal, Eagle Street Pier, in the Brisbane CBD, the car park, open 24 hours will cater for both commuter and leisure parking. Offering Hourly, Flexi, Weekend and Night parking, along with discount online parking options, the Riverside Centre car park will meet all of your parking needs.</p>\n<p>Save when you prepay online or with the Wilson Parking App; enjoy the convenience of 24/7 access when you subscribe to monthly parking; or pay as you go with the queue-less, contact free Wilson Parking Card.</p>",
       "isWilsonOne": true,
       "spottIsAvailable": false,
       "legacyID": 244,
@@ -81713,7 +81756,7 @@
       "costCenter": 1003352,
       "direction": "CAR PARK OPENS MAY 23, 2026\n\nEntry via 7 Cavendish St, Geelong\n",
       "heightRestriction": 2.1,
-      "information": "<p>Wilson Parking offers affordable &amp; reliable parking at the Nyaal Banyul - Geelong Convention &amp; Event Centre&nbsp;Car Park, located 80 Western Beach Rd, entry via 7 Cavendish St&nbsp;in the heart of Geelong. Open 7 days, this undercover car park provides convenient access to nearby Nyaal Banyul Geelong Convention &amp; Event Centre, Western Beach precinct cafes, restaurants and Cunningham Pier.</p>\n<p>Offering casual Hourly, Night and Weekend parking, with exclusive discounts when you prepay online, or the convenience of unlimited 24/7 access for regular user who subscribe to monthly parking, the Nyaal Banyul - Geelong Convention &amp; Event Centre Car Park will meet all of your parking needs.</p>",
+      "information": "<p>Wilson Parking offers affordable &amp; reliable parking at the Nyaal Banyul - Geelong Convention &amp; Event Centre&nbsp;Car Park, located 80 Western Beach Rd, entry via 7 Cavendish St&nbsp;in the heart of Geelong. Open 7 days, this undercover car park provides convenient access to nearby Nyaal Banyul Geelong Convention &amp; Event Centre, Western Beach precinct cafes, restaurants and Cunningham Pier.</p>\n<p>Offering casual Hourly, Night and Weekend parking, with exclusive discounts when you prepay online, the Nyaal Banyul - Geelong Convention &amp; Event Centre Car Park will meet all of your parking needs.</p>",
       "isWilsonOne": true,
       "spottIsAvailable": false,
       "legacyID": 3352,
@@ -84485,12 +84528,9 @@
       "canBookABay": false,
       "selectedFeatures": "",
       "carParkFeature": [
-        "Monthly Parking",
         "Entry height at least 2"
       ],
-      "services": [
-        "monthly"
-      ],
+      "services": [],
       "carParkName": "Moger Lane",
       "carParkNumber": 5156,
       "carParkPhoto": null,
@@ -84498,11 +84538,11 @@
       "costCenter": 1005156,
       "direction": null,
       "heightRestriction": 3.0,
-      "information": "<p>Wilson Parking offer affordable &amp; secure parking at Moger Lane car park, located at 12 Moger Lane in the heart of the Adelaide CBD. This car park is available for monthly parking only, enjoy unlimited 24/7 access when you subscribe to monthly parking.</p>",
+      "information": "<p><span style=\"color: #ff1e25;\">Monthly Parking spaces are currently unavailable</span></p>\n<p>Wilson Parking offer affordable &amp; secure parking at Moger Lane car park, located at 12 Moger Lane in the heart of the Adelaide CBD. This car park is available for monthly parking only, enjoy unlimited 24/7 access when you subscribe to monthly parking.</p>",
       "isWilsonOne": false,
       "spottIsAvailable": false,
       "legacyID": 5156,
-      "monthlyParkingServiceIsAvailable": true,
+      "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
       "phoneNumber": "1800 PARKING (1800 727 5464)",
@@ -84548,7 +84588,7 @@
         "canBookABay": false,
         "bookABayIconLabel": "Prepay Online",
         "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": true,
+        "monthlyParkingServiceIsAvailable": false,
         "monthlyParkingIconLabel": "Monthly Subscription",
         "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
         "isWilsonOne": false,
@@ -91758,7 +91798,7 @@
       "carParkPhoto": "/contentassets/ca151af77ba848a8a7950e6de5610cf5/capture.jpg",
       "category": "",
       "costCenter": 1006212,
-      "direction": "<b>**Car Park only operational on selected event days**</b><br>\n\n</b><br>3rd Sep - Fremantle Dockers Vs Hawthorn<b>\n</b><br>(Gate opens at 4:30pm and closes at 10:00pm sharp)<b>",
+      "direction": "<b>**Car Park only operational on selected event days**</b><br>\n\n</b><br>3rd Sep - Fremantle Dockers Vs Hawthorn<b>\n</b><br>(Gate opens at 4:30pm and closes at 10:00pm sharp)<b>\n\n</b><br>20th Sep - WAFL Grand Final<b>\n</b><br>(Gate opens at 8:30am and closes at 8:00pm sharp)<b>\n\n</b><br>27th Sep - Wallabies Vs Springboks<b>\n</b><br>(Gate opens at 12:30pm and closes at 10:00pm sharp)<b>",
       "heightRestriction": 0.0,
       "information": "<p>Wilson Parking offers affordable parking at Belmont Racecourse Car Park for Optus Stadium event parking only. Located a short walk from Optus Stadium, this car park is the perfect location for footy, cricket, concerts and other Optus Stadium events. Operational days are shown under the parking rates to the left.</p>\n<p>Parking must be prepaid in advance through the Wilson Parking App or website. No payments can be taken at the gate. Must present prepaid confirmation to access car park.</p>",
       "isWilsonOne": false,
@@ -100290,7 +100330,7 @@
       "costCenter": 1006055,
       "direction": "Entry off Spring Street.\n",
       "heightRestriction": 2.0,
-      "information": "<p>Wilson Parking offer affordable &amp; convenient parking at our St Georges Square Car Park, located at 225 St Georges Tce, Perth, with the entry of Spring St. Open 7 days until late, this undercover car park is conveniently located in the Perth CBD, offering all day parking for visitors to nearby Perth businesses. Offering casual Hourly, Night and Weekend Parking and exclusive discounts when you prepay online or with the Wilson Parking App, the St Georges Square Car Park will meet all your Perth parking needs.&nbsp;</p>\n<p>Download the Wilson Parking App or prepay online to plan ahead and access exclusive discounts, or just drive up and pay with your credit card,&nbsp;pay as you go with a Wilson Parking card, or enjoy unlimited access within the operational hours of the car park when you subscribe to Monthly Parking. &nbsp;</p>",
+      "information": "<p>Wilson Parking offer affordable &amp; convenient parking at our St Georges Square Car Park, located at 225 St Georges Tce, Perth, with the entry of Spring St. Open 7 days until late, this undercover car park is conveniently located in the Perth CBD, offering all day parking for visitors to nearby Perth businesses. Offering casual Hourly, Night and Weekend Parking and exclusive discounts when you prepay online or with the Wilson Parking App, the St Georges Square Car Park will meet all your Perth parking needs.&nbsp;</p>\n<p>Download the Wilson Parking App or prepay online to plan ahead and access exclusive discounts, or just drive up and pay with your credit card,&nbsp;pay as you go with a Wilson Parking card, or enjoy unlimited access within the operational hours of the car park when you subscribe to Monthly Parking.</p>",
       "isWilsonOne": true,
       "spottIsAvailable": true,
       "legacyID": 136,
@@ -100305,7 +100345,7 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Rates apply Monday - Friday, 5am to 5pm. Night rates apply from 5pm.</p>",
+          "notes": "<p>Rates apply Monday - Friday, 5am to 5pm. <br />Night rates apply from 5pm.</p>",
           "rates": [
             {
               "timeSpan": "0.0 - 0.25 hrs",
