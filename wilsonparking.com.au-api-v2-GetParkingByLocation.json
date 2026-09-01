@@ -22779,7 +22779,7 @@
       "information": "<p>Campsie Centre Car Park is located at 14-28 Amy St, Campsie. Close to Campsie Library, Canterbury Hospital, Campsie RSL Club, Saint John's Anglican Church, Shopping and Retail and open until 8pm, this car park is in the ideal location when looking for parking in Campsie.</p>\n<p>Offering Hourly options, the Campsie Centre will meet all your parking needs.&nbsp;</p>\n<p>This car park accepts credit card and cash.</p>",
       "isWilsonOne": false,
       "spottIsAvailable": false,
-      "legacyID": 0,
+      "legacyID": 9161,
       "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": true,
@@ -22787,7 +22787,7 @@
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": null,
-      "streetViewLocation": null,
+      "streetViewLocation": "https://www.google.com/maps/@?api=1&map_action=pano&pano=Ktkcfv9pJsfK-MXfcrLWIA&viewpoint=-33.912550363828665,151.1023219929883&heading=184.28961696882862&pitch=-9.043616378938452&zoom=0.9999999999999997",
       "rates": [
         {
           "rateType": "Hourly",
@@ -25537,7 +25537,6 @@
       "canBookABay": false,
       "selectedFeatures": "",
       "carParkFeature": [
-        "Night Parking",
         "Weekend Parking",
         "Entry height at least 2"
       ],
@@ -25599,20 +25598,6 @@
             {
               "timeSpan": "18.0 - 24.0 hrs",
               "price": 5.0
-            }
-          ]
-        },
-        {
-          "rateType": "Night",
-          "notes": "<p><u>Night Parking</u>: Enter after 5pm, exit before 12am (midnight).<br />Applies if you are not using public transport or you have exceeded the 18 hour free parking , per day.</p>\n<p><br /><u>Commuter Parking</u>: Parking is free for up to 18 hours when you complete a valid public transport trip&nbsp;using an accepted Opal card, or credit/debit card linked with a Transport Connect account. More information is available at <a href=\"http://www.transportnsw.info/parkandride\">www.transportnsw.info/parkandride</a></p>\n<p>If you are not using public transport or you have exceeded the 18 hour free parking, you will be charged Casual Parking rate.</p>\n<p><br /><u>Public Holidays</u>: Weekend Rates Apply</p>",
-          "rates": [
-            {
-              "timeSpan": "Mon - Fri: 5pm to 12am (midnight)",
-              "price": 10.0
-            },
-            {
-              "timeSpan": "0.0 - 18.0 hrs",
-              "price": 0.0
             }
           ]
         }
@@ -29439,7 +29424,7 @@
       "information": "<p>Kareena Private Hospital Car Park is located at 86 Kareena Road, Caringbah. Close to Medical Facilities and Health Services and open 24/7, this car park is in the ideal location when looking for parking in Caringbah.</p>\n<p>Offering Hourly options, the Kareena Private Hospital Car Park will meet all your parking needs.</p>\n<p>This car park accepts credit card and cash.</p>",
       "isWilsonOne": false,
       "spottIsAvailable": false,
-      "legacyID": 0,
+      "legacyID": 9571,
       "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": true,
@@ -29447,7 +29432,7 @@
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": null,
-      "streetViewLocation": null,
+      "streetViewLocation": "https://www.google.com/maps/@?api=1&map_action=pano&pano=RD8pc_lBMHbdz1pfhUUNwg&viewpoint=-34.0346078897994,151.1136242913026&heading=95.59946594809698&pitch=-7.1494875736159855&zoom=0.8274327195668361",
       "rates": [
         {
           "rateType": "Hourly",
@@ -31081,7 +31066,7 @@
       "information": "<p class=\"xs-b-margin no-m-t\">South Village Car Park is located at 580 Princes Highway, Kirrawee. Close to Kirawee Train Station and open until Midnight, this car park is in the ideal location when looking for parking in Kirawee.</p>\n<p>Offering Hourly options, South Village Car Park will meet all your parking needs.&nbsp;</p>\n<p>This car park accepts credit card and cash.</p>",
       "isWilsonOne": false,
       "spottIsAvailable": false,
-      "legacyID": 0,
+      "legacyID": 9187,
       "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": true,
@@ -31089,7 +31074,7 @@
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": null,
-      "streetViewLocation": null,
+      "streetViewLocation": "https://www.google.com/maps/@?api=1&map_action=pano&pano=2dxBIo5tbavcV2Z25EcUXA&viewpoint=-34.03233667789282,151.07338217383938&heading=189.23355587696875&pitch=-0.5593911518996748&zoom=0.9999999999999997",
       "rates": [
         {
           "rateType": "Hourly",
@@ -53762,148 +53747,6 @@
       "featuredIndex": 0
     },
     {
-      "name": "Gold Coast Airport",
-      "bookText": null,
-      "canBookABay": false,
-      "selectedFeatures": "",
-      "carParkFeature": [],
-      "services": [],
-      "carParkName": "Gold Coast Airport",
-      "carParkNumber": 4208,
-      "carParkPhoto": null,
-      "category": "",
-      "costCenter": 1004208,
-      "direction": "<a href=\"https://www.goldcoastairport.com.au/parking-transport/gold-coast-airport-parking\" target=_blank>Click here</a> for further information about Gold Coast Airport Parking",
-      "heightRestriction": 2.5,
-      "information": "<p>Whether you're arriving or departing, there's nothing better than having your car close by. Parking at Gold Coast Airport means you park as close as possible to the terminal; which makes for a much better start, or finish, to your journey. With four car parks and over 2,000 spaces now available, there's an option to suit every budget for parking at the airport.<br /><br />Premium Parking <br />Terminal Parking <br />Budget Covered Parking<br />Budget Uncovered Parking</p>\n<p>For more information about Gold Coast Airport parking, visit&nbsp;<a href=\"https://www.goldcoastairport.com.au/parking-transport/gold-coast-airport-parking\" target=\"_blank\" rel=\"noopener\">https://www.goldcoastairport.com.au/parking-transport/gold-coast-airport-parking</a>&nbsp;or call direct on 07 5536 9573</p>\n<p>This car park does not support Wilson Parking Cards.</p>",
-      "isWilsonOne": false,
-      "spottIsAvailable": false,
-      "legacyID": 616,
-      "monthlyParkingServiceIsAvailable": false,
-      "evChargerIsAvailable": false,
-      "disabledParkingIsAvailable": false,
-      "phoneNumber": "+617 5536 9573",
-      "products": [],
-      "staticMapPhoto": null,
-      "streetViewHeading": "201.8383015090124",
-      "streetViewLocation": "https://www.google.com/maps/@?api=1&map_action=pano&pano=DNCq7E8Y8BX7ywK9vBwc_g&viewpoint=-28.16378220277982,153.51389046986776&heading=201.8383015090124&pitch=-18.180505178710007",
-      "rates": [],
-      "fromText": "",
-      "fromPrice": "",
-      "location": {
-        "longitude": 153.51538255560308,
-        "latitude": -28.166202844058617,
-        "zoom": 13,
-        "address": "Gold Coast Airport",
-        "region": {
-          "name": "Gold Coast Airport",
-          "longitude": 153.5090446472168,
-          "latitude": -28.165621539725326,
-          "status": "",
-          "state": {
-            "name": "Queensland",
-            "abbreviation": "QLD",
-            "country": "Australia",
-            "longitude": 153.029420017695,
-            "latitude": -27.46777640825,
-            "status": ""
-          }
-        }
-      },
-      "openingTimes": [
-        {
-          "day_TimePeriod": "Monday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "04:30",
-          "closing": "22:30",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Tuesday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "04:30",
-          "closing": "22:30",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Wednesday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "04:30",
-          "closing": "22:30",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Thursday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "04:30",
-          "closing": "22:30",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Friday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "04:30",
-          "closing": "22:30",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Saturday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "04:30",
-          "closing": "22:30",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Sunday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "04:30",
-          "closing": "22:30",
-          "note": null
-        }
-      ],
-      "url": "/parking-locations/queensland/gold-coast-airport/gold-coast-airport/",
-      "serviceConfiguration": {
-        "canBookABay": false,
-        "bookABayIconLabel": "Prepay Online",
-        "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": false,
-        "monthlyParkingIconLabel": "Monthly Subscription",
-        "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
-        "isWilsonOne": false,
-        "wilsonOneIconLabel": "Parking Card",
-        "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
-        "disabledParkingIsAvailable": false,
-        "disabledParkingIconLabel": "Disabled Parking",
-        "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
-        "evChargerIsAvailable": false,
-        "evChargerIconLabel": "EV Charging",
-        "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "spottIsAvailable": false,
-        "spottIconLabel": "Spott",
-        "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
-        "additionalServices": [
-          {
-            "label": null,
-            "icon": null
-          }
-        ]
-      },
-      "state": "QLD",
-      "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
-      "price": "",
-      "status": "",
-      "cpmsCarparkCode": null,
-      "externalCarParkInfo": null,
-      "featuredIndex": 0
-    },
-    {
       "name": "Palm Beach Hotel",
       "bookText": null,
       "canBookABay": false,
@@ -70455,7 +70298,7 @@
       "costCenter": 1003248,
       "direction": "Entry via Convention Centre place only.  Normanby Rd closed for construction works.",
       "heightRestriction": 2.05,
-      "information": "<p><span style=\"color: #ff1e25;\"><strong>DFO Car Park works entry/exit closure notification</strong></span><br />Munro St entry/exit will not be accessible from <strong>Tuesday 9th June to Friday 26th June 2026.<br /></strong>Convention Centre Place will be open throughout the works.</p>\n<p>Wilson Parking offer affordable &amp; secure parking at South Wharf Retail Car Park, located at 20 Convention Centre Pl,&nbsp;in the heart of Southbank. Open 7 days, this car park provides convenient access to nearby DFO Outlet Centre, Melbourne Exhibition Centre and South Wharf Promenade. Offering&nbsp;Hourly, All Day, Weekend and Night Parking options with exclusive discounts when you prepay online, permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the South Wharf Retail&nbsp;Car Park will meet all your business and leisure parking needs.&nbsp;</p>\n<p>Download the Wilson Parking App to plan your journey and access parking discounts when you prepay online;&nbsp; pay as you go on one convenient monthly invoice when you use your Wilson Parking Card to access the car park.</p>",
+      "information": "<p>Wilson Parking offer affordable &amp; secure parking at South Wharf Retail Car Park, located at 20 Convention Centre Pl,&nbsp;in the heart of Southbank. Open 7 days, this car park provides convenient access to nearby DFO Outlet Centre, Melbourne Exhibition Centre and South Wharf Promenade. Offering&nbsp;Hourly, All Day, Weekend and Night Parking options with exclusive discounts when you prepay online, permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the South Wharf Retail&nbsp;Car Park will meet all your business and leisure parking needs.&nbsp;</p>\n<p>Download the Wilson Parking App to plan your journey and access parking discounts when you prepay online;&nbsp; pay as you go on one convenient monthly invoice when you use your Wilson Parking Card to access the car park.</p>",
       "isWilsonOne": true,
       "spottIsAvailable": false,
       "legacyID": 127,
