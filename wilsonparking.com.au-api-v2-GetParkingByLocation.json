@@ -42195,208 +42195,6 @@
       "featuredIndex": 0
     },
     {
-      "name": "24 Girrahween St Car Park",
-      "bookText": null,
-      "canBookABay": false,
-      "selectedFeatures": "",
-      "carParkFeature": [
-        "Monthly Parking",
-        "Early Bird Parking",
-        "Epark",
-        "Entry height at least 2"
-      ],
-      "services": [
-        "monthly"
-      ],
-      "carParkName": "24 Girrahween St Car Park",
-      "carParkNumber": 1050,
-      "carParkPhoto": null,
-      "category": "",
-      "costCenter": 1012050,
-      "direction": null,
-      "heightRestriction": 2.2,
-      "information": "<p>Wilson Parking offer affordable parking at 24 Girrahween Street Car Park, located at 24 Girrahween Street, Braddon. Open until 10pm 7 days, this undercover car park provides convenient access to Haig Park Village Markets, Haig Park and many popular Braddon cafes and restaurants. Offering casual&nbsp; Hourly and Early Bird Parking, the 24 Girrahween Street Car Park will meet all of your Braddon parking needs.</p>",
-      "isWilsonOne": false,
-      "spottIsAvailable": false,
-      "legacyID": 536,
-      "monthlyParkingServiceIsAvailable": true,
-      "evChargerIsAvailable": false,
-      "disabledParkingIsAvailable": false,
-      "phoneNumber": "1800 PARKING",
-      "products": [],
-      "staticMapPhoto": null,
-      "streetViewHeading": "221.49953742912325",
-      "streetViewLocation": "https://www.google.com/maps/@?api=1&map_action=pano&pano=9YA2XV0xh6h8MM1Yp01n-w&viewpoint=-35.27071471073941,149.133919677238&heading=221.49953742912325&pitch=-17.39073273506449",
-      "rates": [
-        {
-          "rateType": "Hourly",
-          "notes": "<p>*Online rate only available when purchasing through the Wilson Parking App. Online rates includes Transaction fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a> to download the Wilson Parking App</p>\n<p>Rates apply Monday - Sunday</p>",
-          "rates": [
-            {
-              "timeSpan": "0.0 - 1.0 hrs",
-              "price": 4.5
-            },
-            {
-              "timeSpan": "1.0 - 2.0 hrs",
-              "price": 6.5
-            },
-            {
-              "timeSpan": "2.0 - 3.0 hrs",
-              "price": 9.5
-            },
-            {
-              "timeSpan": "3.0 - 4.0 hrs",
-              "price": 11.5
-            },
-            {
-              "timeSpan": "4.0 - 5.0 hrs",
-              "price": 13.5
-            },
-            {
-              "timeSpan": "5.0 + hrs",
-              "price": 15.5
-            }
-          ]
-        },
-        {
-          "rateType": "Early Bird",
-          "notes": "<p>*Online rate only available when purchasing through the Wilson Parking App. Online rates includes Transaction fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a> to download the Wilson Parking App</p>\n<p>Entry before 9.30am, exit before close</p>",
-          "rates": [
-            {
-              "timeSpan": "Mon - Fri",
-              "price": 12.5
-            }
-          ]
-        }
-      ],
-      "fromText": "From",
-      "fromPrice": "4",
-      "location": {
-        "longitude": 149.13393527269363,
-        "latitude": -35.270795231025367,
-        "zoom": 13,
-        "address": "24 Girrahween Street, Braddon",
-        "region": {
-          "name": "Braddon",
-          "longitude": 149.13101434707642,
-          "latitude": -35.272777013204575,
-          "status": "",
-          "state": {
-            "name": "Australian Capital Territory",
-            "abbreviation": "ACT",
-            "country": "Australia",
-            "longitude": 149.12884712219238,
-            "latitude": 35.281991116036352,
-            "status": ""
-          }
-        }
-      },
-      "openingTimes": [
-        {
-          "day_TimePeriod": "Monday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "06:00",
-          "closing": "22:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Tuesday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "06:00",
-          "closing": "22:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Wednesday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "06:00",
-          "closing": "22:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Thursday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "06:00",
-          "closing": "22:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Friday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "06:00",
-          "closing": "22:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Saturday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "06:00",
-          "closing": "22:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Sunday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "06:00",
-          "closing": "22:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Public Holiday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "06:00",
-          "closing": "22:00",
-          "note": null
-        }
-      ],
-      "url": "/parking-locations/australian-capital-territory/braddon/24-girrahween-st-car-park/",
-      "serviceConfiguration": {
-        "canBookABay": false,
-        "bookABayIconLabel": "Prepay Online",
-        "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": true,
-        "monthlyParkingIconLabel": "Monthly Subscription",
-        "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
-        "isWilsonOne": false,
-        "wilsonOneIconLabel": "Parking Card",
-        "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
-        "disabledParkingIsAvailable": false,
-        "disabledParkingIconLabel": "Disabled Parking",
-        "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
-        "evChargerIsAvailable": false,
-        "evChargerIconLabel": "EV Charging",
-        "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "spottIsAvailable": false,
-        "spottIconLabel": "Spott",
-        "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
-        "additionalServices": [
-          {
-            "label": null,
-            "icon": null
-          },
-          {
-            "label": null,
-            "icon": null
-          }
-        ]
-      },
-      "state": "ACT",
-      "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
-      "price": "",
-      "status": "",
-      "cpmsCarparkCode": null,
-      "externalCarParkInfo": null,
-      "featuredIndex": 0
-    },
-    {
       "name": "Mode3 Car Park",
       "bookText": null,
       "canBookABay": false,
@@ -59931,7 +59729,7 @@
       "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
-      "phoneNumber": "1800 PARKING",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": null,
@@ -59939,14 +59737,14 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Rates apply Monday to Friday 6am daily</p>",
+          "notes": "<p>Hourly rate charged from 6am daily, Monday to Friday</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 0.5 hrs",
+              "timeSpan": "0.0 - 0.5 hr",
               "price": 10.0
             },
             {
-              "timeSpan": "0.5 - 1.0 hrs",
+              "timeSpan": "0.5 - 1.0 hr",
               "price": 20.0
             },
             {
@@ -59961,7 +59759,7 @@
         },
         {
           "rateType": "Night",
-          "notes": "<p>Entry after 4:00 PM - Exit before close (7:00 PM)</p>\n<p>Online rate shown includes transaction fee. Click the Prepay now link below to get started.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>",
+          "notes": "<div><span class=\"ql-bg-#ffffff ql-color-#212529\">Entry after 4pm, exit before 7pm close</span></div>\n<div><span class=\"ql-bg-#ffffff ql-color-#212529\">Hourly rate applies if conditions are not met<br /><br /></span>Online rate shown includes transaction fee. Click the <strong>Prepay Now</strong> link below to get started.</div>",
           "rates": [
             {
               "timeSpan": "Mon - Fri",
@@ -63322,7 +63120,7 @@
       "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
-      "phoneNumber": "1800 727 546",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": null,
@@ -63330,14 +63128,14 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Rates apply Monday - Friday</p>",
+          "notes": "<p>Hourly rate charged from 5am daily, Monday to Friday</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 0.5 hrs",
+              "timeSpan": "0.0 - 0.5 hr",
               "price": 9.0
             },
             {
-              "timeSpan": "0.5 - 1.0 hrs",
+              "timeSpan": "0.5 - 1.0 hr",
               "price": 18.0
             },
             {
@@ -63364,7 +63162,7 @@
         },
         {
           "rateType": "Night",
-          "notes": "<p>Enter after 4:00 pm and exit before car park close.</p>",
+          "notes": "<div><span class=\"ql-bg-#ffffff ql-color-#212529\">Entry after 4pm, exit before 12am close</span></div>\n<div><span class=\"ql-bg-#ffffff ql-color-#212529\">Hourly rate applies if conditions are not met</span></div>\n<div>&nbsp;</div>\n<div>\n<div><span class=\"ql-bg-#ffffff ql-color-#212529\">Online rate shown includes transaction fee. Click the </span><strong class=\"ql-bg-#ffffff ql-color-#212529\">Prepay Now</strong><span class=\"ql-bg-#ffffff ql-color-#212529\"> link below to get started.</span></div>\n</div>",
           "rates": [
             {
               "timeSpan": "Mon - Fri",
@@ -63374,10 +63172,10 @@
         },
         {
           "rateType": "Weekend",
-          "notes": "<p>Rates Apply Saturday - Sunday &amp; Public Holidays</p>\n<p>Rates are charged per exit per day</p>\n<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>",
+          "notes": "<p>Rates apply Saturday, Sunday and Public Holidays - Rates charged from 5am daily</p>\n<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>",
           "rates": [
             {
-              "timeSpan": "Sat - Sun & Public Holiday varies from $17.75 - $18.75, depending on demand",
+              "timeSpan": "Weekend varies from $17.75 - $18.75, depending on demand",
               "price": 19.0
             }
           ]
@@ -63970,7 +63768,7 @@
       "carParkPhoto": "/siteassets/parking-location-images/vic/mel360.jpg",
       "category": "",
       "costCenter": 1003392,
-      "direction": "Entry via 369 Little Collins St. ",
+      "direction": "Entry via 369 Little Collins St",
       "heightRestriction": 2.4,
       "information": "<p>Wilson Parking offer affordable &amp; secure parking at 350 Collins St Car Park, located at 369 Little Collins St&nbsp;in the heart of the CBD. Open 7 days, this undercover car park provides convenient access to nearby Collins St, Elizabeth St, Flinders Lane business areas and surrounding restaurants. Offering Hourly, Weekend and Night Parking options with exclusive discounts when you prepay online with the Wilson Parking App, the 350 Collins St Car Park will meet all your business and leisure parking needs.&nbsp;</p>",
       "isWilsonOne": true,
@@ -63979,7 +63777,7 @@
       "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
-      "phoneNumber": "1800 PARKING",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": "145.54488607873634",
@@ -63987,14 +63785,14 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Rates apply Monday - Friday</p>",
+          "notes": "<p>Hourly rate charged from 7am daily, Monday to Friday</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 0.5 hrs",
+              "timeSpan": "0.0 - 0.5 hr",
               "price": 14.0
             },
             {
-              "timeSpan": "0.5 - 1.0 hrs",
+              "timeSpan": "0.5 - 1.0 hr",
               "price": 28.0
             },
             {
@@ -64009,7 +63807,7 @@
         },
         {
           "rateType": "Night",
-          "notes": "<p><strong>Entry from 4PM, Exit before close.</strong></p>\n<p>Online rate shown includes transaction fee. Click the <strong>Prepay now</strong> link below to get started.</p>",
+          "notes": "<p>Entry after 4pm, exit before 7pm close<br />Hourly rate applies if conditions are not met</p>\n<p>Online rate shown includes transaction fee. Click the <strong>Prepay Now</strong> link below to get started.</p>",
           "rates": [
             {
               "timeSpan": "Mon - Fri",
@@ -64019,14 +63817,14 @@
         },
         {
           "rateType": "Weekend",
-          "notes": "<p>Sat 7:00 am - 12:00 am (Midnight)</p>\n<p>Sun &amp; Public Holidays 7:00 am - 7:00 pm&nbsp;</p>\n<p>Online rate shown includes transaction fee. Click the <strong>Prepay now</strong> link below to get started.</p>",
+          "notes": "<div>Sat - Entry after 7am, exit before 12am close</div>\n<p><span class=\"ql-bg-#ffffff ql-color-#212529\">Sun &amp; Public Holidays - Entry after 7am, exit before 7pm close</span></p>\n<p>Online rate shown includes transaction fee. Click the <strong>Prepay Now</strong> link below to get started.</p>",
           "rates": [
             {
-              "timeSpan": "Sat",
+              "timeSpan": "Weekend (Sat)",
               "price": 22.0
             },
             {
-              "timeSpan": "Sun & Public Holidays",
+              "timeSpan": "Weekend (Sun & Public Holidays)",
               "price": 22.0
             }
           ]
@@ -64926,14 +64724,14 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Rates apply Monday to Friday - Rates are charged from 7am daily</p>\n<p>&nbsp;</p>",
+          "notes": "<div>Hourly rate charged from 7am daily, Monday to Friday</div>",
           "rates": [
             {
-              "timeSpan": "0.0 - 0.5 hrs ",
+              "timeSpan": "0.0 - 0.5 hr",
               "price": 9.0
             },
             {
-              "timeSpan": "0.5 - 1.0 hrs",
+              "timeSpan": "0.5 - 1.0 hr",
               "price": 18.0
             },
             {
@@ -64956,7 +64754,7 @@
         },
         {
           "rateType": "Night",
-          "notes": "<p>Night rate available Monday to Friday</p>\n<p>Enter after 4pm, exit before 10pm (close)</p>",
+          "notes": "<p>Entry after 4pm, exit before 10pm close<br />Hourly rate applies if conditions are not met<br /><br />Online rate shown includes transaction fee. Click the <strong>Prepay Now</strong> link below to get started.</p>",
           "rates": [
             {
               "timeSpan": "Mon - Fri",
@@ -64966,10 +64764,10 @@
         },
         {
           "rateType": "Weekend",
-          "notes": "<p>Rates apply Saturday, Sunday and Public Holidays - Rates are charged from 7am daily</p>",
+          "notes": "<p>Rates apply Saturday, Sunday and Public Holidays - Rates charged from 7am daily<br /><br />Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>",
           "rates": [
             {
-              "timeSpan": "Sat or Sun from",
+              "timeSpan": "Sat  - Sun",
               "price": 16.0
             }
           ]
@@ -64979,7 +64777,7 @@
           "notes": "<div>\n<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Flexi Saver rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The flexi saver price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>\n</div>",
           "rates": [
             {
-              "timeSpan": "Night (Mon - Fri) from",
+              "timeSpan": "Night from",
               "price": 16.0
             },
             {
@@ -65140,7 +64938,7 @@
       "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
-      "phoneNumber": "1800 PARKING",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": "/globalassets/parking-location-images/189-queen-street-melbourne/adina-2-0029.jpg",
       "streetViewHeading": "141.46112608066835",
@@ -65148,14 +64946,14 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>New day starts at 5:30am.</p>",
+          "notes": "<p>Hourly rate charged from 5:30am daily, Monday to Friday</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 0.5 hrs",
+              "timeSpan": "0.0 - 0.5 hr",
               "price": 13.0
             },
             {
-              "timeSpan": "0.5 - 1.0 hrs",
+              "timeSpan": "0.5 - 1.0 hr",
               "price": 26.0
             },
             {
@@ -65174,7 +64972,7 @@
         },
         {
           "rateType": "Night",
-          "notes": "<p>Monday-Thursday: Enter after 4pm Exit before close.<br />Friday: Enter after 4pm Exit before close.</p>\n<p>Online rate shown includes transaction fee. Click the&nbsp;<strong>Prepay now</strong> link below to get started.</p>",
+          "notes": "<p>Entry after 4pm, exit before 12am close<br /><br />Online rate shown includes transaction fee. Click the&nbsp;<strong>Prepay now</strong> link below to get started.</p>",
           "rates": [
             {
               "timeSpan": "Mon - Thurs",
@@ -65188,7 +64986,7 @@
         },
         {
           "rateType": "Weekend",
-          "notes": "<p>Enter after 6:00 am Exit before close.</p>\n<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>",
+          "notes": "<p>Rates apply Saturday, Sunday and Public Holidays - Rates charged from 5:30am daily</p>\n<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>",
           "rates": [
             {
               "timeSpan": "Sat - Sun & Public Holiday varies from $16.75 - $17.75, depending on demand",
@@ -65864,7 +65662,7 @@
       "carParkPhoto": "/contentassets/d20b8394fecd483f8840021fc11a1330/coventry.jpg",
       "category": "",
       "costCenter": 1003370,
-      "direction": null,
+      "direction": "Entry via Coventry St / Anthony Ln",
       "heightRestriction": 0.0,
       "information": "<p>Wilson Parking offer affordable &amp; secure parking at The Gateway&nbsp;Car Park, located at 312 St Kilda Rd, with an entry of Coventry St. Open Monday - Friday, this car park provides convenient access to nearby Victoria Barracks, the Shrine of Remembrance and a selection of cafes and businesses. Offering casual Hourly and Early Bird Parking,&nbsp;The Gateway&nbsp;Car Park will meet all your parking needs.</p>",
       "isWilsonOne": true,
@@ -65873,7 +65671,7 @@
       "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
-      "phoneNumber": "1800 727 546",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": "180.60002593361892",
@@ -65881,20 +65679,20 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Flat Rate available Monday - Friday</p>",
+          "notes": "<p>Flat Rate, Monday to Friday</p>",
           "rates": [
             {
-              "timeSpan": "Flat Rate",
+              "timeSpan": "Mon - Fri",
               "price": 28.0
             }
           ]
         },
         {
           "rateType": "Early Bird",
-          "notes": "<p>Drive up Conditions: Monday - Friday Enter between 6am &amp; 10am. Exit between 2:00pm &amp; Close.</p>\n<p>We have replaced the Online Early Bird Parking product and it's time conditions at this car park with Online Flexi Saver Parking.</p>\n<p><span class=\"ui-provider a b c d e f g h i j k l m n o p q r s t u v w x y z ab ac ae af ag ah ai aj ak\" dir=\"ltr\">Enjoy greater flexibility, select your Flexi Saver Parking to enter and exit at the time you need with one flat rate.</span></p>\n<p>Flexi Saver Rate is only available online and includes transaction fee.</p>\n<p><em>*A one hour grace period applies before your selected entry time and following your selected exit time. Prepaid parking is for one entry and one exit only.</em></p>\n<p>&nbsp;</p>",
+          "notes": "<p>Drive up Early Bird conditions: Entry between 6am and 10am, Exit after 2pm and before 10pm close.<br /><br />Online Early Bird parking is no longer available at The Gateway car park.</p>\n<p>Enjoy greater flexibility, prepay online your Flexi Saver Parking.</p>\n<p><strong>Flexi Saver Rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The flexi saver price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>\n<p><span class=\"ui-provider a b c d e f g h i j k l m n o p q r s t u v w x y z ab ac ae af ag ah ai aj ak\" dir=\"ltr\"><em>*A one hour grace period applies before your selected entry time and following your selected exit time. Prepaid parking is for one entry and one exit only.</em></span></p>",
           "rates": [
             {
-              "timeSpan": "Drive Up Early Bird",
+              "timeSpan": "Drive up Early Bird",
               "price": 21.0
             }
           ]
@@ -67052,7 +66850,7 @@
       "carParkPhoto": "/contentassets/e69c67d6d5d84f549962e1a5aa58a23e/mel389.jpg",
       "category": "VIC",
       "costCenter": 1003389,
-      "direction": "Entry only via 15 William Street, Melbourne ",
+      "direction": "Entry only via 15 William Street, Melbourne",
       "heightRestriction": 0.0,
       "information": "<p>Wilson Parking offers affordable &amp; secure parking at the 15 William St Car Park, Melbourne.</p>\n<p>All Casual parking &amp; Prepaid parking is accessed via 15 William St.&nbsp;</p>\n<p>Nearby local attractions include Aquarium, Degraved Street and the National Gallery of Victoria and offering Flexi Saver, Weekend, Night parking &amp; permanent monthly parking for regular parkers, the 15 William St&nbsp;Car Park will meet all your business and leisure parking needs.</p>\n<p>This car park accepts Credit Card payments only.&nbsp;Pay as you go with a Wilson Parking card, or enjoy 24/7 unlimited access when you subscribe to Monthly Parking.</p>",
       "isWilsonOne": true,
@@ -67061,7 +66859,7 @@
       "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
-      "phoneNumber": "1800 PARKING (1800 727 5464)",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [
         "VIC"
       ],
@@ -67071,18 +66869,18 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Entry via 15 William St</p>\n<p>Rates apply Monday - Friday</p>",
+          "notes": "<p>Entry via 15 William St<br /><br />Hourly rate charged from 6am daily, Monday to Friday</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 0.5 Hours",
+              "timeSpan": "0.0 - 0.5 hr",
               "price": 12.0
             },
             {
-              "timeSpan": "0.5 - 1.0 Hours",
+              "timeSpan": "0.5 - 1.0 hr",
               "price": 24.0
             },
             {
-              "timeSpan": "1.0 - 2.0 Hours",
+              "timeSpan": "1.0 - 2.0 hrs",
               "price": 48.0
             },
             {
@@ -67093,7 +66891,7 @@
         },
         {
           "rateType": "Night",
-          "notes": "<p>Entry via 15 William St</p>\n<p>Entry after 4:00 pm, exit before close.</p>\n<p>Select the&nbsp;<strong>Prepay now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>",
+          "notes": "<p>Entry via 15 William St</p>\n<div><span class=\"ql-bg-#ffffff ql-color-#212529\">Entry after 4pm, exit before 12am close</span></div>\n<div><span class=\"ql-bg-#ffffff ql-color-#212529\">Hourly rate applies if conditions are not met<br /><br /></span>Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</div>",
           "rates": [
             {
               "timeSpan": "Mon - Thurs",
@@ -67107,7 +66905,7 @@
         },
         {
           "rateType": "Weekend",
-          "notes": "<p>Entry via 15 William St</p>\n<p>Flat rate per exit, per day</p>\n<p>Saturday, Sunday &amp; Public Holidays</p>\n<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>",
+          "notes": "<p>Entry via 15 William St<br /><br />Rates apply Saturday, Sunday and Public Holidays - Rates charged from 6am daily<br /><br />Pay in advance to access the best possible rates. <br /><br />Rates apply Saturday, Sunday and Public Holidays - Rates charged from #am daily<br /><br /><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.<br /><br />Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>\n<div><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></div>",
           "rates": [
             {
               "timeSpan": "Sat varies from $12.75 - $13.75, depending on demand",
@@ -67445,7 +67243,7 @@
       "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
-      "phoneNumber": "1800 PARKING (1800 727 5464)",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [
         "VIC"
       ],
@@ -67455,18 +67253,18 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Rates apply Monday - Friday</p>",
+          "notes": "<p>Entry via 450 Flinders St</p>\n<div><span class=\"ql-bg-#ffffff ql-color-#212529\">Hourly rate charged from 6am daily, Monday to Friday</span></div>",
           "rates": [
             {
-              "timeSpan": "0.0 - 0.5 Hours",
+              "timeSpan": "0.0 - 0.5 hr",
               "price": 12.0
             },
             {
-              "timeSpan": "0.5 - 1.0 Hours",
+              "timeSpan": "0.5 - 1.0 hr",
               "price": 24.0
             },
             {
-              "timeSpan": "1.0 - 2.0 Hours",
+              "timeSpan": "1.0 - 2.0 hrs",
               "price": 48.0
             },
             {
@@ -67477,21 +67275,17 @@
         },
         {
           "rateType": "Night",
-          "notes": "<p>Monday - Friday Entry after 4:00 pm.</p>\n<p>Online Rates shown include transaction fee.&nbsp;Click the <strong>Prepay&nbsp;now</strong>&nbsp;link below to get started.</p>",
+          "notes": "<p>Entry via 450 Flinders St<br /><br />Entry after 4pm, exit before 12am close<br />Hourly rate applies if conditions are not met<br /><br />Online Rates shown include transaction fee.&nbsp;Click the <strong>Prepay Now</strong>&nbsp;link below to get started.</p>",
           "rates": [
             {
-              "timeSpan": "Mon – Thurs ",
-              "price": 15.0
-            },
-            {
-              "timeSpan": "Fri",
+              "timeSpan": "Mon – Fri",
               "price": 15.0
             }
           ]
         },
         {
           "rateType": "Weekend",
-          "notes": "<p>Flat rate per exit, per day.</p>\n<p>Saturday, Sunday &amp; Public Holidays</p>\n<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>",
+          "notes": "<p>Entry via 450 Flinders St<br /><br />Rates apply Saturday, Sunday and Public Holidays - Rates charged from 9am daily<br /><br />Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>",
           "rates": [
             {
               "timeSpan": "Sat - Sun & Public Holiday varies from $12.75 - $13.75, depending on demand",
@@ -67857,7 +67651,7 @@
       "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
-      "phoneNumber": "1800 PARKING",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": "41.37772394418068",
@@ -67865,37 +67659,37 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Rates Apply Monday - Friday<br />24/7 access available from Ground Floor<br />Basement Level access available from 6:30am to 7pm only.</p>",
+          "notes": "<p>Hourly rate charged from 6am daily, Monday to Friday.<br /><br />24/7 access available from Ground Floor.<br /><br />Basement Level access available from 6:30am to 7pm only.</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 0.5 Hours",
+              "timeSpan": "0.0 - 0.5 hr",
               "price": 8.0
             },
             {
-              "timeSpan": "0.5 - 1.0 Hours",
+              "timeSpan": "0.5 - 1.0 hr",
               "price": 18.0
             },
             {
-              "timeSpan": "1.0 - 2.0 Hours",
+              "timeSpan": "1.0 - 2.0 hrs",
               "price": 39.0
             },
             {
-              "timeSpan": "2.0 - 3.0 Hours",
+              "timeSpan": "2.0 - 3.0 hrs",
               "price": 58.0
             },
             {
-              "timeSpan": "3.0 - 4.0 Hours",
+              "timeSpan": "3.0 - 4.0 hrs",
               "price": 63.0
             },
             {
-              "timeSpan": "4.0 + Hours",
+              "timeSpan": "4.0 + hrs",
               "price": 67.0
             }
           ]
         },
         {
           "rateType": "Night",
-          "notes": "<p>Entry after 4pm and exit before 6am next day.</p>\n<p>Online rate shown includes transaction fee. Click the Prepay now link below to get started.</p>",
+          "notes": "<div><span class=\"ql-bg-#ffffff ql-color-#212529\">Entry after 4pm, exit before 6am next day</span></div>\n<div><span class=\"ql-bg-#ffffff ql-color-#212529\">Hourly rate applies if conditions are not met</span></div>\n<div>\n<div><span class=\"ql-bg-#ffffff ql-color-#212529\"><br />Online rate shown includes transaction fee. Click the </span><strong class=\"ql-bg-#ffffff ql-color-#212529\">Prepay Now</strong><span class=\"ql-bg-#ffffff ql-color-#212529\"> link below to get started.</span></div>\n</div>",
           "rates": [
             {
               "timeSpan": "Mon - Fri",
@@ -67905,10 +67699,10 @@
         },
         {
           "rateType": "Weekend",
-          "notes": "<p>Flat rate per exit, per day.</p>\n<p>Online rate shown includes transaction fee. Click the Prepay now link below to get started.</p>\n<p><span style=\"color: #ff1e25;\"><strong>Event parking</strong></span></p>\n<p>Event Rates may be applicable on peak precinct event days.</p>\n<p>Prepay online parking only prior to 12pm on peak precinct event days.</p>\n<p><span class=\"ui-provider ee bms bpw bpx bpy bpz bqa bqb bqc bqd bqe bqf bqg bqh bqi bqj bqk bql bqm bqn bqo bqp bqq bqr bqs bqt bqu bqv bqw bqx bqy bqz bra brb brc\" dir=\"ltr\">Drive-up Event Parking will not be available until after 12pm. Limited space available.&nbsp;&nbsp;</span></p>",
+          "notes": "<p>Rates apply Saturday, Sunday and Public Holidays - Rates charged from 6am daily<br /><br />Online rate shown includes transaction fee. Click the <strong>Prepay Now</strong> link below to get started.<br /><br /><strong style=\"color: #ff1e25;\">Event parking<br /><br /></strong>Event Rates may be applicable on peak precinct event days.<br /><br />Prepay online parking only prior to 12pm on peak precinct event days.<br /><br />Drive up Event Parking will not be available until after 12pm. Limited space available.</p>",
           "rates": [
             {
-              "timeSpan": "Sat - Sun & Public Holidays",
+              "timeSpan": "Sat - Sun",
               "price": 16.0
             },
             {
@@ -67919,7 +67713,7 @@
         },
         {
           "rateType": "Event Rate",
-          "notes": "<p>Event Rate applies on Event Days</p>\n<p>Drive Up Only - per exit, per day</p>",
+          "notes": "<p>Event Rate applies on Event Days</p>\n<p>Drive up only - per exit, per day</p>",
           "rates": [
             {
               "timeSpan": "Event Day",
@@ -81594,7 +81388,7 @@
       "carParkPhoto": "/siteassets/parking-location-images/vic/mel352.png",
       "category": "",
       "costCenter": 1003352,
-      "direction": "CAR PARK OPENS MAY 23, 2026\n\nEntry via 7 Cavendish St, Geelong\n",
+      "direction": "Entry via 7 Cavendish St, Geelong\n",
       "heightRestriction": 2.1,
       "information": "<p>Wilson Parking offers affordable &amp; reliable parking at the Nyaal Banyul - Geelong Convention &amp; Event Centre&nbsp;Car Park, located 80 Western Beach Rd, entry via 7 Cavendish St&nbsp;in the heart of Geelong. Open 7 days, this undercover car park provides convenient access to nearby Nyaal Banyul Geelong Convention &amp; Event Centre, Western Beach precinct cafes, restaurants and Cunningham Pier.</p>\n<p>Offering casual Hourly, Night and Weekend parking, with exclusive discounts when you prepay online, the Nyaal Banyul - Geelong Convention &amp; Event Centre Car Park will meet all of your parking needs.</p>",
       "isWilsonOne": true,
@@ -81611,14 +81405,14 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Rates apply Monday to Friday<br />Rates charged from 6am daily</p>",
+          "notes": "<p>Hourly rate charged from 6am daily, Monday to Friday</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 0.5 hrs",
+              "timeSpan": "0.0 - 0.5 hr",
               "price": 4.0
             },
             {
-              "timeSpan": "0.5 - 1.0 hrs",
+              "timeSpan": "0.5 - 1.0 hr",
               "price": 8.0
             },
             {
@@ -81649,7 +81443,7 @@
         },
         {
           "rateType": "Night",
-          "notes": "<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"1akcde78-0-0\"><span data-offset-key=\"1akcde78-0-0\">Entry after 4pm, exit before 6am the following day.</span></div>",
+          "notes": "<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"1akcde78-0-0\"><span data-offset-key=\"1akcde78-0-0\">Entry after 4pm, exit before 6am the next day</span></div>",
           "rates": [
             {
               "timeSpan": "Mon - Fri",
