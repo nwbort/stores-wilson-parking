@@ -407,9 +407,7 @@
         "Early Bird Parking",
         "Book a Bay",
         "Wilson One",
-        "Daily Pass Bundles",
         "Summer Sale",
-        "Elevate",
         "LPR",
         "Spott Saver",
         "Spott"
@@ -3924,7 +3922,7 @@
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": "114.65972266288115",
-      "streetViewLocation": "https://www.google.com/maps/@?api=1&map_action=pano&pano=mV2yP1OEZ5t0DnSKXZ1j0Q&viewpoint=-33.867292533798675,151.20348319911054&heading=140.95250716540843&pitch=3.695987708284676&zoom=1.0000000000000002",
+      "streetViewLocation": "https://www.google.com/maps/@?api=1&map_action=pano&pano=gCDkRc5B2ex8lzS4BoAoUA&viewpoint=-33.86724966742,151.20341410089313&heading=126.63221487608794&pitch=-7.319479346922918&zoom=1",
       "rates": [
         {
           "rateType": "Hourly",
@@ -13892,7 +13890,7 @@
           "notes": "<p>Credit Card Only - tap credit card on entry &amp; exit equipment</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 1.0 hrs",
+              "timeSpan": "0.0 - 1.0 hr",
               "price": 20.0
             },
             {
@@ -78333,7 +78331,7 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Rates start at 6am daily.&nbsp;</p>",
+          "notes": "<p>Rates start at 5am daily.&nbsp;</p>",
           "rates": [
             {
               "timeSpan": "0.0 - 1.0 hr",
@@ -78419,7 +78417,7 @@
           "day_TimePeriod": "Monday",
           "is24_7": false,
           "closed": false,
-          "opening": "06:00",
+          "opening": "05:00",
           "closing": "00:00",
           "note": null
         },
@@ -78427,7 +78425,7 @@
           "day_TimePeriod": "Tuesday",
           "is24_7": false,
           "closed": false,
-          "opening": "06:00",
+          "opening": "05:00",
           "closing": "00:00",
           "note": null
         },
@@ -78435,7 +78433,7 @@
           "day_TimePeriod": "Wednesday",
           "is24_7": false,
           "closed": false,
-          "opening": "06:00",
+          "opening": "05:00",
           "closing": "00:00",
           "note": null
         },
@@ -78443,7 +78441,7 @@
           "day_TimePeriod": "Thursday",
           "is24_7": false,
           "closed": false,
-          "opening": "06:00",
+          "opening": "05:00",
           "closing": "00:00",
           "note": null
         },
@@ -78451,7 +78449,7 @@
           "day_TimePeriod": "Friday",
           "is24_7": false,
           "closed": false,
-          "opening": "06:00",
+          "opening": "05:00",
           "closing": "00:00",
           "note": null
         },
@@ -78459,7 +78457,7 @@
           "day_TimePeriod": "Saturday",
           "is24_7": false,
           "closed": false,
-          "opening": "06:00",
+          "opening": "05:00",
           "closing": "00:00",
           "note": null
         },
@@ -78467,7 +78465,7 @@
           "day_TimePeriod": "Sunday",
           "is24_7": false,
           "closed": false,
-          "opening": "06:00",
+          "opening": "05:00",
           "closing": "00:00",
           "note": null
         },
@@ -78475,7 +78473,7 @@
           "day_TimePeriod": "Public Holiday",
           "is24_7": false,
           "closed": false,
-          "opening": "06:00",
+          "opening": "05:00",
           "closing": "00:00",
           "note": null
         }
