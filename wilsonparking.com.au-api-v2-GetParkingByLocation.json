@@ -65044,7 +65044,7 @@
           "notes": "<p>Saturday or Sunday &amp; Public Holidays. Day applies from 6:00 am - 6:00 am next day.</p>\n<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the <strong>Prepay Now</strong> link below to get started.<br />Rates shown include transaction fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>",
           "rates": [
             {
-              "timeSpan": "Sat, Sun & Public Holiday varies from $19.75 - $23.75, depending on demand",
+              "timeSpan": "Sat, Sun & Public Holiday varies from $17.75 - $23.75, depending on demand",
               "price": 25.0
             }
           ]
@@ -65925,11 +65925,11 @@
           "notes": "<p>Monday - Friday</p>\n<p>Casual parking from Level 3 down as highlighted by red line marking.</p>\n<p>Credit card payments only.</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 0.5 hrs",
+              "timeSpan": "0.0 - 0.5 hr",
               "price": 16.0
             },
             {
-              "timeSpan": "0.5 - 1.0 hrs",
+              "timeSpan": "0.5 - 1.0 hr",
               "price": 32.0
             },
             {
@@ -68079,14 +68079,14 @@
       "costCenter": 1003348,
       "direction": "500 La Trobe St",
       "heightRestriction": 0.0,
-      "information": "<p>Wilson Parking offer affordable &amp; secure parking at 500 La Trobe St&nbsp;Car Park, located at 500 La Trobe St, West Melbourne. Open 7 days, this open air car park provides convenient access to nearby Flagstaff Gardens, popular restaurants, shops and Melbourne businesses.<br /><br />Offering casual Hourly, Night and Weekend Parking, with exclusive discounts when you prepay online, the 500 La Trobe St Car Park will meet all of your parking needs.</p>\n<p>&nbsp;</p>",
+      "information": "<p>Wilson Parking offer affordable &amp; secure parking at 500 La Trobe St&nbsp;Car Park, located at 500 La Trobe St, West Melbourne. Open 7 days, this open air car park provides convenient access to nearby Flagstaff Gardens, popular restaurants, shops and Melbourne businesses.<br /><br />Offering casual Hourly, Night and Weekend Parking, with exclusive discounts when you prepay online, the 500 La Trobe St Car Park will meet all of your parking needs.</p>",
       "isWilsonOne": false,
       "spottIsAvailable": true,
       "legacyID": 793,
       "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
-      "phoneNumber": "1800 727 546",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": "327.80540685289554",
@@ -68094,29 +68094,29 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Rates apply Monday - Friday</p>",
+          "notes": "<p>Hourly rate charged from 5am daily, Monday to Friday</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 1.0 Hours",
+              "timeSpan": "0.0 - 1.0 hr",
               "price": 13.0
             },
             {
-              "timeSpan": "1.0 - 2.0 Hours",
+              "timeSpan": "1.0 - 2.0 hrs",
               "price": 26.0
             },
             {
-              "timeSpan": "2.0 - 3.0 hours",
+              "timeSpan": "2.0 - 3.0 hrs",
               "price": 39.0
             },
             {
-              "timeSpan": "3.0 + Hours",
+              "timeSpan": "3.0 + hrs",
               "price": 52.0
             }
           ]
         },
         {
           "rateType": "Night",
-          "notes": "<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"1akcde78-0-0\"><span data-offset-key=\"1akcde78-0-0\">Entry after 4pm, exit before 6am the following day.</span></div>\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"1akcde78-0-0\"><span data-offset-key=\"1akcde78-0-0\">If conditions not met, Hourly rates apply from time of entry.<br /><br /></span>Select the <strong>Prepay now</strong> link below to get started.<br />Rates shown include transaction fee.</div>",
+          "notes": "<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"1akcde78-0-0\">Entry after 4pm, exit before 6am the next day</div>\n<p>Hourly rate applies if conditions are not met</p>\n<p>Online rate shown includes transaction fee. Click the <strong>Prepay Now</strong> link below to get started.</p>",
           "rates": [
             {
               "timeSpan": "Mon - Fri",
@@ -68126,17 +68126,17 @@
         },
         {
           "rateType": "Weekend",
-          "notes": "<p>Rates Apply Saturday - Sunday &amp; Public Holidays<br />Rates are charged per exit per day</p>",
+          "notes": "<p>Rates charged from 5am, Saturday - Sunday &amp; Public Holidays<br /><br />Rates are charged per exit per day</p>",
           "rates": [
             {
-              "timeSpan": "Saturday - Sunday & Public Holidays",
+              "timeSpan": "Sat - Sun & Public Holidays",
               "price": 17.0
             }
           ]
         },
         {
           "rateType": "Early Bird",
-          "notes": "<p>Enter between 5am and 9am, and exit between 2pm and midnight</p>",
+          "notes": "<p>Entry between 5am and 9am, exit between 2pm and 12am (midnight)</p>",
           "rates": [
             {
               "timeSpan": "Mon - Fri",
@@ -68701,14 +68701,14 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Enter after 6am and exit before 7pm.</p>\n<p>Payment via credit card only on entry.</p>",
+          "notes": "<p>Entry after 6am, exit before 7pm.</p>\n<p>Payment via credit card only on entry.</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 0.5 hrs",
+              "timeSpan": "0.0 - 0.5 hr",
               "price": 6.0
             },
             {
-              "timeSpan": "0.5 - 1.0 hrs",
+              "timeSpan": "0.5 - 1.0 hr",
               "price": 12.0
             },
             {
@@ -81060,16 +81060,6 @@
             {
               "timeSpan": "Monday - Friday",
               "price": 3.0
-            }
-          ]
-        },
-        {
-          "rateType": "Early Bird",
-          "notes": "<p>Enter before 9am<br />Exit After 1:30pm &amp; before close</p>",
-          "rates": [
-            {
-              "timeSpan": "Mon - Fri",
-              "price": 15.0
             }
           ]
         }
@@ -100405,7 +100395,7 @@
       "carParkPhoto": "/contentassets/b48319796ac84008a4049d618228de23/per400-car-park-photo.jpg",
       "category": "",
       "costCenter": 1006400,
-      "direction": "Entry off Mounts Bay Road Eastbound and Spring Street.",
+      "direction": "Entry off Mounts Bay Road Eastbound and Spring Street.\n\n</br></br>Dear Customers</br>\n</br></br>Due to scheduled works the car park will not be accessible from 6am to 11am on 26th of September.</br>",
       "heightRestriction": 2.1,
       "information": "<p>Wilson Parking offer affordable parking at Capital Square&nbsp;Car Park, providing parking for visitors to the Capital Square Towers and nearby businesses in the Perth CBD. Offering Hourly, <span style=\"color: #000000;\">Weekend and Night</span> Parking options, and exclusive discounts when you prepay online or through the Wilson Parking App, the Capital Square&nbsp;Car Park will meet all your business parking needs.&nbsp;</p>\n<p>The car park offers two convenient entries. Enter via Mounts Bay Road heading Eastbound or Spring Street.</p>\n<p>Download the Wilson Parking App to prepay ahead and access exclusive savings, or simply drive up and pay with your Credit Card, pay as you go with a Wilson Parking card.</p>\n<p>&nbsp;</p>",
       "isWilsonOne": true,
@@ -102649,153 +102639,6 @@
       },
       "state": "WA",
       "imgUrl": "/contentassets/d2ca779cb2c54c0f8f16d5dbacaadc8d/per077.jpg",
-      "price": "",
-      "status": "",
-      "cpmsCarparkCode": null,
-      "externalCarParkInfo": null,
-      "featuredIndex": 0
-    },
-    {
-      "name": "Catherine Street, Subiaco",
-      "bookText": null,
-      "canBookABay": false,
-      "selectedFeatures": "",
-      "carParkFeature": [
-        "Night Parking",
-        "Weekend Parking",
-        "Overnight Parking",
-        "Epark"
-      ],
-      "services": [],
-      "carParkName": "Catherine Street, Subiaco",
-      "carParkNumber": 6435,
-      "carParkPhoto": null,
-      "category": "",
-      "costCenter": 1006345,
-      "direction": null,
-      "heightRestriction": 2.0,
-      "information": "<p>Wilson Parking offer affordable parking at Catherine Street Subiaco Car Park, located near 420 Hay Street, Subiaco. Open 24/7 this open air car park offers parking for visitors to the Subiaco, surrounding retail outlets and restaurants and Subiaco Business Centre. Offering casual hourly Parking, payments with the Wilson Parking App only, the Catherine Street Car Park will meet all of your Subiaco parking needs.</p>\n<p>Download the Wilson Parking App to easily pay for your parking with you phone.&nbsp;</p>",
-      "isWilsonOne": false,
-      "spottIsAvailable": false,
-      "legacyID": 6345,
-      "monthlyParkingServiceIsAvailable": false,
-      "evChargerIsAvailable": false,
-      "disabledParkingIsAvailable": false,
-      "phoneNumber": "1800 PARKING (1800 727 546)",
-      "products": [],
-      "staticMapPhoto": null,
-      "streetViewHeading": null,
-      "streetViewLocation": null,
-      "rates": [],
-      "fromText": "From",
-      "fromPrice": "3",
-      "location": {
-        "longitude": 115.825642707521,
-        "latitude": -31.9465995169577,
-        "zoom": 13,
-        "address": "Catherine Street, Subiaco",
-        "region": {
-          "name": "Subiaco",
-          "longitude": 115.82764506340027,
-          "latitude": -31.945735074426217,
-          "status": "",
-          "state": {
-            "name": "Western Australia",
-            "abbreviation": "WA",
-            "country": "Australia",
-            "longitude": 123.41536223888397,
-            "latitude": -25.833723163507287,
-            "status": ""
-          }
-        }
-      },
-      "openingTimes": [
-        {
-          "day_TimePeriod": "Monday",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Tuesday",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Wednesday",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Thursday",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Friday",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Saturday",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Sunday",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        }
-      ],
-      "url": "/parking-locations/western-australia/subiaco/420-hay-street-subiaco/",
-      "serviceConfiguration": {
-        "canBookABay": false,
-        "bookABayIconLabel": "Prepay Online",
-        "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": false,
-        "monthlyParkingIconLabel": "Monthly Subscription",
-        "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
-        "isWilsonOne": false,
-        "wilsonOneIconLabel": "Parking Card",
-        "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
-        "disabledParkingIsAvailable": false,
-        "disabledParkingIconLabel": "Disabled Parking",
-        "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
-        "evChargerIsAvailable": false,
-        "evChargerIconLabel": "EV Charging",
-        "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "spottIsAvailable": false,
-        "spottIconLabel": "Spott",
-        "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
-        "additionalServices": [
-          {
-            "label": null,
-            "icon": null
-          }
-        ]
-      },
-      "state": "WA",
-      "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
       "price": "",
       "status": "",
       "cpmsCarparkCode": null,
