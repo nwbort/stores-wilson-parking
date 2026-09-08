@@ -14345,7 +14345,9 @@
         "Monthly Parking",
         "Weekend Parking",
         "Book a Bay",
-        "Entry height at least 2"
+        "Entry height at least 2",
+        "LPR",
+        "Spott"
       ],
       "services": [
         "book a bay",
@@ -14360,7 +14362,7 @@
       "heightRestriction": 2.0,
       "information": "<p>Wilson Parking offer affordable &amp; secure parking at 110 Walker St Car Park which is located at Little Walker St in the heart of North Sydney.</p>\n<p>With All Day, Weekend, Flexi Saver and Monthly Subscription Parking options available, the 110 Walker St Car Park suits all your leisure and business parking needs.</p>\n<p>Enjoy unlimited 24/7 access when you subscribe to monthly parking!</p>",
       "isWilsonOne": false,
-      "spottIsAvailable": false,
+      "spottIsAvailable": true,
       "legacyID": 2406,
       "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
@@ -14496,7 +14498,7 @@
         "evChargerIsAvailable": false,
         "evChargerIconLabel": "EV Charging",
         "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "spottIsAvailable": false,
+        "spottIsAvailable": true,
         "spottIconLabel": "Spott",
         "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
         "additionalServices": []
@@ -91254,7 +91256,7 @@
       "carParkPhoto": "/contentassets/ca151af77ba848a8a7950e6de5610cf5/capture.jpg",
       "category": "",
       "costCenter": 1006212,
-      "direction": "<b>**Car Park only operational on selected event days**</b><br>\n\n</b><br>3rd Sep - Fremantle Dockers Vs Hawthorn<b>\n</b><br>(Gate opens at 4:30pm and closes at 10:00pm sharp)<b>\n\n</b><br>20th Sep - WAFL Grand Final<b>\n</b><br>(Gate opens at 8:30am and closes at 8:00pm sharp)<b>\n\n</b><br>27th Sep - Wallabies Vs Springboks<b>\n</b><br>(Gate opens at 12:30pm and closes at 10:00pm sharp)<b>",
+      "direction": "<b>**Car Park only operational on selected event days**</b><br>\n\n</b><br>11th Sep - Fremantle Vs Geelong<b>\n</b><br>(Gate opens at 4:30am and closes at 10:00pm sharp)<b>\n\n</b><br>20th Sep - WAFL Grand Final<b>\n</b><br>(Gate opens at 8:30am and closes at 8:00pm sharp)<b>\n\n</b><br>27th Sep - Wallabies Vs Springboks<b>\n</b><br>(Gate opens at 12:30pm and closes at 10:00pm sharp)<b>",
       "heightRestriction": 0.0,
       "information": "<p>Wilson Parking offers affordable parking at Belmont Racecourse Car Park for Optus Stadium event parking only. Located a short walk from Optus Stadium, this car park is the perfect location for footy, cricket, concerts and other Optus Stadium events. Operational days are shown under the parking rates to the left.</p>\n<p>Parking must be prepaid in advance through the Wilson Parking App or website. No payments can be taken at the gate. Must present prepaid confirmation to access car park.</p>",
       "isWilsonOne": false,
