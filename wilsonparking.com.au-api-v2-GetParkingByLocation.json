@@ -1092,14 +1092,14 @@
           "notes": "<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>",
           "rates": [
             {
-              "timeSpan": "Weekend varies from $26.75 - $29.75, depending on demand",
-              "price": 35.0
+              "timeSpan": "Weekend varies from $28.75 - $32.75, depending on demand",
+              "price": 39.0
             }
           ]
         }
       ],
       "fromText": "From",
-      "fromPrice": "23.75",
+      "fromPrice": "24",
       "location": {
         "longitude": 151.206025574126,
         "latitude": -33.8683208520192,
@@ -4839,7 +4839,7 @@
       "carParkPhoto": "/siteassets/parking-location-images/nsw/syd021.jpg",
       "category": "",
       "costCenter": 1002021,
-      "direction": "Entry via 431 Kent or 204 Sussex Streets",
+      "direction": "Entry via 431 Kent or 204 Sussex Street",
       "heightRestriction": 2.0,
       "information": "<p>Wilson Parking offer affordable &amp; secure parking at Citipark Car Park which is located at 431 Kent Street, Sydney. Located near the 1 Market St office building, close to the bustling&nbsp;Sydney CBD, and the busy Pitt St Mall shopping precinct, this undercover car park is open 24 hours, 7 days a week. With a second entrance off 204 Sussex St, providing easy access to King St Wharf, Darling Harbour, Crown Casino and many other popular restaurants and bars, this is a convenient car park for all that Sydney has to offer.</p>\n<p>Offering casual Hourly, Night and Weekend parking, with exclusive discounts when you prepay online, or the convenience of unlimited 24/7 access for regular user who subscribe to monthly parking, the Citipark Car Park will meet all of your parking needs.</p>",
       "isWilsonOne": true,
@@ -4848,7 +4848,7 @@
       "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
-      "phoneNumber": "1800 PARKING",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": null,
@@ -4856,7 +4856,7 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Rates apply Monday to Friday<br />Rates charged from 6am daily<br />Public Holidays: Weekend Rates Apply</p>",
+          "notes": "<p>Hourly rate charged from 6am daily, Monday to Friday<br />Public Holidays: Weekend rates apply</p>",
           "rates": [
             {
               "timeSpan": "0.0 - 0.5 hrs",
@@ -4882,7 +4882,7 @@
         },
         {
           "rateType": "Night",
-          "notes": "<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"1akcde78-0-0\"><span data-offset-key=\"1akcde78-0-0\">Entry after 5pm, exit before 6am the following day.</span></div>\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"1akcde78-0-0\"><span data-offset-key=\"1akcde78-0-0\">If conditions not met, Hourly rates apply from time of entry.</span></div>\n<p>Select the <strong>Prepay now</strong> link below to get started.<br />Rates shown include transaction fee.</p>",
+          "notes": "<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"1akcde78-0-0\"><span data-offset-key=\"1akcde78-0-0\">Entry after 5pm, exit before 6am the following day.</span></div>\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"1akcde78-0-0\"><span data-offset-key=\"1akcde78-0-0\">If conditions not met, Hourly rates apply from time of entry.</span></div>\n<p>Select the <strong>Prepay Now</strong> link below to get started.<br />Rates shown include transaction fee.</p>",
           "rates": [
             {
               "timeSpan": "Mon - Fri",
@@ -5073,33 +5073,33 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Monday - Sunday</p>\n<p>Rates charge from 6am daily</p>",
+          "notes": "<p>Hourly rate charged from 6am daily, Monday to Sunday</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 1.0 hrs",
-              "price": 10.0
+              "timeSpan": "0.0 - 1.0 hr",
+              "price": 12.0
             },
             {
               "timeSpan": "1.0 - 2.0 hrs",
-              "price": 20.0
+              "price": 24.0
             },
             {
               "timeSpan": "2.0 - 3.0 hrs",
-              "price": 30.0
+              "price": 36.0
             },
             {
               "timeSpan": "3.0 - 4.0 hrs",
-              "price": 40.0
+              "price": 48.0
             },
             {
               "timeSpan": "4.0 + hrs",
-              "price": 50.0
+              "price": 60.0
             }
           ]
         },
         {
           "rateType": "Night",
-          "notes": "<p>Monday - Friday</p>\n<p>Enter after 5pm, exit before Midnight</p>",
+          "notes": "<div><span class=\"ql-bg-#ffffff ql-color-#212529\">Entry after 5pm, exit before close 12am (Midnight)</span></div>\n<div><span class=\"ql-bg-#ffffff ql-color-#212529\">Hourly rate applies if conditions are not met<br /></span></div>",
           "rates": [
             {
               "timeSpan": "Mon - Fri",
@@ -5109,7 +5109,7 @@
         }
       ],
       "fromText": "From",
-      "fromPrice": "10",
+      "fromPrice": "12",
       "location": {
         "longitude": 151.213630939915,
         "latitude": -33.8720952621081,
@@ -5427,7 +5427,7 @@
       "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": true,
-      "phoneNumber": "1800 PARKING",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": "241.28479171397714",
@@ -5435,7 +5435,7 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Hourly rate charged from 6am daily, Monday to Friday&nbsp;</p>\n<p><u>Motorbike Parking</u>&nbsp;available for $170 + GST per month,&nbsp;<a href=\"/monthly-parking/apply\">enquire now!</a></p>\n<p>Online rate shown includes transaction fee. Click the Prepay now link below to get started.</p>",
+          "notes": "<p>Hourly rate charged from 6am daily, Monday to Friday</p>\n<p><u>Motorbike Parking</u>&nbsp;available for $170 + GST per month,&nbsp;<a href=\"/monthly-parking/apply\">enquire now!</a></p>\n<p>Online rate shown includes transaction fee. Click the <strong>Prepay Now</strong> link below to get started.</p>",
           "rates": [
             {
               "timeSpan": "0.0 - 0.5 hrs",
@@ -5446,7 +5446,7 @@
               "price": 29.0
             },
             {
-              "timeSpan": "1.0 - 2.0",
+              "timeSpan": "1.0 - 2.0 hrs",
               "price": 59.0
             },
             {
@@ -5461,7 +5461,7 @@
         },
         {
           "rateType": "Night",
-          "notes": "<p>Entry after 5pm, exit before 6am the next day<br />Hourly rate applies if conditions are not met</p>\n<p>Online rate shown includes transaction fee. Click the Prepay now link below to get started.</p>",
+          "notes": "<p>Entry after 5pm, exit before 6am the next day<br />Hourly rate applies if conditions are not met</p>\n<p>Online rate shown includes transaction fee. Click the <strong>Prepay Now</strong> link below to get started.</p>",
           "rates": [
             {
               "timeSpan": "Mon - Fri",
@@ -5471,7 +5471,7 @@
         },
         {
           "rateType": "Weekend",
-          "notes": "<p>&nbsp;</p>\n<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>\n<p>&nbsp;</p>",
+          "notes": "<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.<br /></em></p>",
           "rates": [
             {
               "timeSpan": "Weekend varies from $25.00 - $27.00, depending on demand",
@@ -5742,7 +5742,7 @@
       "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
-      "phoneNumber": "1800 PARKING",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": "53.04432901727946",
@@ -5750,19 +5750,19 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Hourly rates apply Monday to Friday.&nbsp;Rates are charged from 6am daily.<br /><br /></p>\n<p>&nbsp;</p>",
+          "notes": "<p>Hourly rates apply Monday to Friday, Rates are charged from 6am daily.</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 1.0 hrs",
-              "price": 15.0
+              "timeSpan": "0.0 - 1.0 hr",
+              "price": 16.0
             },
             {
               "timeSpan": "1.0 - 2.0 hrs",
-              "price": 30.0
+              "price": 32.0
             },
             {
               "timeSpan": "2.0 -  3.0 hrs",
-              "price": 45.0
+              "price": 48.0
             },
             {
               "timeSpan": "3.0 + hrs",
@@ -5780,7 +5780,7 @@
         },
         {
           "rateType": "Night",
-          "notes": "<p>Entry after 5pm, exit before 6am the following day. Casual rates apply if entry and exit conditions are not met</p>\n<p>Online rates include transaction fee. Click the&nbsp;<strong>Prepay now</strong> link below to get started</p>",
+          "notes": "<p>Entry after 5pm, exit before 6am the following day. Casual rates apply if entry and exit conditions are not met</p>\n<p>Online rates include transaction fee. Click the&nbsp;<strong>Prepay Now</strong> link below to get started.</p>",
           "rates": [
             {
               "timeSpan": "Mon - Fri",
@@ -5790,7 +5790,7 @@
         },
         {
           "rateType": "Weekend",
-          "notes": "<p>&nbsp;</p>\n<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>\n<p>&nbsp;</p>",
+          "notes": "<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>",
           "rates": [
             {
               "timeSpan": "Weekend varies from $15.75 - $17.75, depending on demand",
@@ -11923,7 +11923,7 @@
       "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
-      "phoneNumber": "1800 727 546",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": "283.84771566871626",
@@ -11931,7 +11931,7 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Rates apply Monday - Friday</p>\n<p>&nbsp;</p>",
+          "notes": "<p>Hourly rate charged from 6am daily, Monday to Friday</p>",
           "rates": [
             {
               "timeSpan": "0.0 - 1.0 hrs",
@@ -11957,7 +11957,7 @@
         },
         {
           "rateType": "Night",
-          "notes": "<p>Rates apply all days - Monday to Sunday<br />Entry after 5pm, exit before 6am the following day</p>\n<p><em>Online rate includes transaction fee<br />Click the </em><strong><em>Prepay now</em></strong><em> link below to get started</em></p>",
+          "notes": "<p>Rates apply all days - Monday to Sunday<br />Entry after 5pm, exit before 12am (Midnight)</p>\n<p>Online rate includes transaction fee<br />Click the <strong>Prepay Now</strong> link below to get started</p>",
           "rates": [
             {
               "timeSpan": "Mon - Fri",
@@ -44438,7 +44438,7 @@
       "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
-      "phoneNumber": null,
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": null,
@@ -44449,7 +44449,7 @@
           "notes": "<p>Monday - Friday, rates charged from 7am daily</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 1.0 hrs",
+              "timeSpan": "0.0 - 1.0 hr",
               "price": 3.0
             },
             {
@@ -66913,7 +66913,7 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Monday to Friday - Rates charged from 6am daily</p>",
+          "notes": "<p>Hourly rate charged from 6am daily, Monday to Friday</p>",
           "rates": [
             {
               "timeSpan": "0.0 - 0.5 hr",
@@ -73365,7 +73365,9 @@
         "Flexi Parking",
         "Entry height at least 2",
         "Disabled Parking",
-        "Footy Parking"
+        "Footy Parking",
+        "LPR",
+        "Spott"
       ],
       "services": [
         "book a bay",
@@ -73382,7 +73384,7 @@
       "heightRestriction": 2.2,
       "information": "<p><span style=\"color: #ff1e25;\">Event Parking is available at this car park on the following dates: 29 September.<br /></span></p>\n<p>Wilson Parking offers affordable &amp; secure parking at Milton Green&nbsp;car park, located at 19 Little Cribb Street&nbsp;in the heart of Milton. Open 7 days, this undercover car park provides convenient access to nearby Suncorp Stadium and surrounding entertainment and retail precinct. Offering hourly, night and weekend parking options with discounts when you prepay online, permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the Milton Green&nbsp;car park will meet all your business and leisure parking needs.&nbsp;</p>",
       "isWilsonOne": true,
-      "spottIsAvailable": false,
+      "spottIsAvailable": true,
       "legacyID": 1004356,
       "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
@@ -73551,7 +73553,7 @@
         "evChargerIsAvailable": false,
         "evChargerIconLabel": "EV Charging",
         "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "spottIsAvailable": false,
+        "spottIsAvailable": true,
         "spottIconLabel": "Spott",
         "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
         "additionalServices": []
