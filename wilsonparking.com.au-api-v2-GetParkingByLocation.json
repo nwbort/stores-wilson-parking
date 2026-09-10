@@ -4859,24 +4859,20 @@
           "notes": "<p>Hourly rate charged from 6am daily, Monday to Friday<br />Public Holidays: Weekend rates apply</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 0.5 hrs",
-              "price": 15.0
-            },
-            {
-              "timeSpan": "0.5 - 1.0 hrs",
-              "price": 29.0
+              "timeSpan": "0.0 - 1.0 hr",
+              "price": 20.0
             },
             {
               "timeSpan": "1.0 - 2.0 hrs",
-              "price": 59.0
+              "price": 40.0
             },
             {
               "timeSpan": "2.0 - 3.0 hrs",
-              "price": 69.0
+              "price": 60.0
             },
             {
               "timeSpan": "3.0 + hrs",
-              "price": 79.0
+              "price": 80.0
             }
           ]
         },
@@ -4902,7 +4898,7 @@
         }
       ],
       "fromText": "From",
-      "fromPrice": "15",
+      "fromPrice": "17.75",
       "location": {
         "longitude": 151.20475620031357,
         "latitude": -33.871565251868496,
@@ -5438,24 +5434,20 @@
           "notes": "<p>Hourly rate charged from 6am daily, Monday to Friday</p>\n<p><u>Motorbike Parking</u>&nbsp;available for $170 + GST per month,&nbsp;<a href=\"/monthly-parking/apply\">enquire now!</a></p>\n<p>Online rate shown includes transaction fee. Click the <strong>Prepay Now</strong> link below to get started.</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 0.5 hrs",
-              "price": 15.0
-            },
-            {
-              "timeSpan": "0.5 - 1.0 hrs",
-              "price": 29.0
+              "timeSpan": "0.0 - 1.0 hr",
+              "price": 20.0
             },
             {
               "timeSpan": "1.0 - 2.0 hrs",
-              "price": 59.0
+              "price": 40.0
             },
             {
               "timeSpan": "2.0 - 3.0 hrs",
-              "price": 69.0
+              "price": 60.0
             },
             {
               "timeSpan": "3.0 + hrs",
-              "price": 79.0
+              "price": 80.0
             }
           ]
         },
@@ -5481,7 +5473,7 @@
         }
       ],
       "fromText": "From",
-      "fromPrice": "12",
+      "fromPrice": "16",
       "location": {
         "longitude": 151.20383449711679,
         "latitude": -33.8712071498935,
@@ -7589,24 +7581,20 @@
           "notes": "<p>Rates apply Monday to Friday<br />Public Holidays: Weekend Rates Apply <br />Motorbike Rate $10.00</p>\n<p>&nbsp;</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 0.5 hrs",
-              "price": 15.0
-            },
-            {
-              "timeSpan": "0.5 - 1.0 hrs",
-              "price": 29.0
+              "timeSpan": "0.0 - 1.0 hrs",
+              "price": 20.0
             },
             {
               "timeSpan": "1.0 - 2.0 hrs",
-              "price": 49.0
+              "price": 40.0
             },
             {
               "timeSpan": "2.0 - 3.0 hrs",
-              "price": 59.0
+              "price": 60.0
             },
             {
               "timeSpan": "3.0 + hrs",
-              "price": 69.0
+              "price": 80.0
             }
           ]
         },
@@ -7616,7 +7604,7 @@
           "rates": [
             {
               "timeSpan": "Mon - Fri",
-              "price": 30.0
+              "price": 29.0
             }
           ]
         },
@@ -7632,7 +7620,7 @@
         }
       ],
       "fromText": "From",
-      "fromPrice": "15",
+      "fromPrice": "20",
       "location": {
         "longitude": 151.207172870636,
         "latitude": -33.861609386201273,
@@ -8263,24 +8251,20 @@
           "notes": "<p>Rates apply Monday to Friday<br />Motorbike Rate $10.00<br />Public Holidays: Weekend Rates Apply</p>\n<p>&nbsp;</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 0.5 hrs",
-              "price": 15.0
-            },
-            {
-              "timeSpan": "0.5 - 1.0 hrs",
-              "price": 29.0
+              "timeSpan": "0.0 - 1.0 hrs",
+              "price": 20.0
             },
             {
               "timeSpan": "1.0 - 2.0 hrs",
-              "price": 49.0
+              "price": 40.0
             },
             {
               "timeSpan": "2.0 - 3.0 hrs",
-              "price": 59.0
+              "price": 60.0
             },
             {
               "timeSpan": "3.0 + hrs",
-              "price": 69.0
+              "price": 80.0
             }
           ]
         },
@@ -8306,7 +8290,7 @@
         }
       ],
       "fromText": "From",
-      "fromPrice": "15",
+      "fromPrice": "20",
       "location": {
         "longitude": 151.207771003246,
         "latitude": -33.8598899177539,
@@ -11900,6 +11884,7 @@
         "Wilson One",
         "Vivid",
         "Overnight Parking",
+        "Flexi Parking",
         "Daily Pass Bundles",
         "Summer Sale",
         "LPR",
@@ -11934,24 +11919,16 @@
           "notes": "<p>Hourly rate charged from 6am daily, Monday to Friday</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 1.0 hrs",
-              "price": 29.0
+              "timeSpan": "0.0 - 1.0 hr",
+              "price": 30.0
             },
             {
               "timeSpan": "1.0 - 2.0 hrs",
-              "price": 49.0
+              "price": 60.0
             },
             {
-              "timeSpan": "2.0 - 3.0 hrs",
-              "price": 69.0
-            },
-            {
-              "timeSpan": "3.0 - 4.0 hrs",
-              "price": 79.0
-            },
-            {
-              "timeSpan": "4.0+ hrs",
-              "price": 89.0
+              "timeSpan": "2.0 + hrs",
+              "price": 90.0
             }
           ]
         },
@@ -11961,7 +11938,7 @@
           "rates": [
             {
               "timeSpan": "Mon - Fri",
-              "price": 30.0
+              "price": 20.0
             }
           ]
         },
@@ -11970,14 +11947,14 @@
           "notes": "<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>",
           "rates": [
             {
-              "timeSpan": "Weekend varies from $29.75 - $32.75, depending on demand",
+              "timeSpan": "Weekend varies from $31.75 - $34.75, depending on demand",
               "price": 39.0
             }
           ]
         }
       ],
       "fromText": "From",
-      "fromPrice": "22.75",
+      "fromPrice": "17.75",
       "location": {
         "longitude": 151.209126014121,
         "latitude": -33.8862333566564,
@@ -27082,7 +27059,7 @@
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": "-33.81438342306202, 151.00934171267858",
-      "streetViewLocation": "https://www.google.com/maps/@-33.8144001,151.0094369,3a,60y,338.18h,86.73t/data=!3m6!1e1!3m4!1sig1GfJ7a8ElhXKqawXEVfw!2e0!7i16384!8i8192",
+      "streetViewLocation": "https://www.google.com/maps/@?api=1&map_action=pano&pano=1roypNAROycf4ohcby15sw&viewpoint=-33.81429921164403,151.00950571992442&heading=284.01633165107205&pitch=-4.8589821488711635&zoom=0.9999999999999997",
       "rates": [
         {
           "rateType": "Hourly",
@@ -69504,7 +69481,7 @@
       "costCenter": 1003225,
       "direction": "Entry via Enterprize Way. Car park is on the right.",
       "heightRestriction": 2.0,
-      "information": "<p><u></u><strong style=\"color: #ff1e25;\"><u>Event Dates 2026</u></strong><span style=\"color: #ff1e25;\"><br /><strong>September:&nbsp;</strong>24th<br /></span><span style=\"color: #ff1e25;\"><em>Event rates will apply. Drive up only.</em><br /><em>On event dates, please allow additional time to exit.<br /><br /></em></span>Wilson Parking offer affordable parking at 800 Bourke St Car Park, located at Enterprize Way, Docklands. This car park, located on the Yarra River,&nbsp; is nearby to Marvel Stadium, Docklands Park and other Docklands attractions. Offering Hourly, Weekend and night parking, as well as discount online parking options, the 800 Bourke St Car Park will meet all of your parking needs.</p>\n<p>Experience the convenience of&nbsp;pay as you go with a Wilson Parking card, or enjoy 24/7 unlimited access when you subscribe to Monthly Parking.</p>",
+      "information": "<p><u></u><strong style=\"color: #ff1e25;\"><u>Event Dates 2026</u></strong><span style=\"color: #ff1e25;\"><br /><strong>September:&nbsp;</strong>24th<br /></span><strong><span style=\"color: #ff1e25;\">October: </span></strong><span style=\"color: #ff1e25;\">17th</span><strong><span style=\"color: #ff1e25;\"><br /></span></strong><span style=\"color: #ff1e25;\"><strong>November: </strong>11th, 14th, 27th, 28th<br /></span><em style=\"color: #ff1e25;\">Event rates will apply. Drive up only.<br /></em><em style=\"color: #ff1e25;\">On event dates, please allow additional time to exit.<br /></em></p>\n<p>Wilson Parking offer affordable parking at 800 Bourke St Car Park, located at Enterprize Way, Docklands. This car park, located on the Yarra River,&nbsp; is nearby to Marvel Stadium, Docklands Park and other Docklands attractions. Offering Hourly, Weekend and night parking, as well as discount online parking options, the 800 Bourke St Car Park will meet all of your parking needs.</p>\n<p>Experience the convenience of&nbsp;pay as you go with a Wilson Parking card, or enjoy 24/7 unlimited access when you subscribe to Monthly Parking.</p>",
       "isWilsonOne": true,
       "spottIsAvailable": true,
       "legacyID": 41,
@@ -77797,203 +77774,6 @@
       "featuredIndex": 0
     },
     {
-      "name": "Urban Village Kelvin Grove",
-      "bookText": null,
-      "canBookABay": false,
-      "selectedFeatures": "",
-      "carParkFeature": [
-        "Night Parking",
-        "Weekend Parking"
-      ],
-      "services": [],
-      "carParkName": "Urban Village Kelvin Grove",
-      "carParkNumber": 4082,
-      "carParkPhoto": "/siteassets/parking-location-images/qld/bne082.jpg",
-      "category": "",
-      "costCenter": 1004082,
-      "direction": "Entry via Ramsgate Street",
-      "heightRestriction": 2.2,
-      "information": "<p>Wilson Parking offers affordable &amp; secure parking at Urban Village Kelvin Grove, located at 57 Musk Avenue, Kelvin Grove. Nearby to QUT Kelvin Grove Campus and McCaskie Park, this car park is perfectly located to get you where you need to go. Offering hourly and night parking options, with your first two hours free, the Urban Village Kelvin Grove car park will meet all of your parking needs.</p>",
-      "isWilsonOne": false,
-      "spottIsAvailable": false,
-      "legacyID": 291,
-      "monthlyParkingServiceIsAvailable": false,
-      "evChargerIsAvailable": false,
-      "disabledParkingIsAvailable": false,
-      "phoneNumber": "1800 PARKING",
-      "products": [],
-      "staticMapPhoto": null,
-      "streetViewHeading": "278.6401463929987",
-      "streetViewLocation": "https://www.google.com/maps/@?api=1&map_action=pano&pano=U6QKXT_iiIjVg5U_Q7YsgQ&viewpoint=-27.4541353912754,153.0151077156785&heading=278.6401463929987&pitch=-11.581098106036123",
-      "rates": [
-        {
-          "rateType": "Hourly",
-          "notes": "*Lost Ticket $35.00",
-          "rates": [
-            {
-              "timeSpan": "0.0 - 2.0 hrs",
-              "price": 0.0
-            },
-            {
-              "timeSpan": "2.0 - 3.0 hrs",
-              "price": 10.0
-            },
-            {
-              "timeSpan": "3.0 - 4.0 hrs",
-              "price": 15.0
-            },
-            {
-              "timeSpan": "4.0 - 5.0 hrs",
-              "price": 20.0
-            },
-            {
-              "timeSpan": "5.0 - 6.0 hrs",
-              "price": 25.0
-            },
-            {
-              "timeSpan": "6.0 - 7.0 hrs",
-              "price": 30.0
-            },
-            {
-              "timeSpan": "7.0 + hrs",
-              "price": 35.0
-            }
-          ]
-        },
-        {
-          "rateType": "Night",
-          "notes": "2 hours free from time of entry.  Exit before 11:00pm.",
-          "rates": [
-            {
-              "timeSpan": "0.0 - 2.0",
-              "price": 0.0
-            },
-            {
-              "timeSpan": "2.0 +hrs",
-              "price": 10.0
-            }
-          ]
-        }
-      ],
-      "fromText": "From",
-      "fromPrice": "0",
-      "location": {
-        "longitude": 153.01494605158996,
-        "latitude": -27.454106337721139,
-        "zoom": 13,
-        "address": "57 Musk Avenue, Kelvin Grove",
-        "region": {
-          "name": "Kelvin Grove",
-          "longitude": 153.01478862762451,
-          "latitude": -27.45213245406304,
-          "status": "",
-          "state": {
-            "name": "Queensland",
-            "abbreviation": "QLD",
-            "country": "Australia",
-            "longitude": 153.029420017695,
-            "latitude": -27.46777640825,
-            "status": ""
-          }
-        }
-      },
-      "openingTimes": [
-        {
-          "day_TimePeriod": "Monday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "06:00",
-          "closing": "23:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Tuesday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "06:00",
-          "closing": "23:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Wednesday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "06:00",
-          "closing": "23:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Thursday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "06:00",
-          "closing": "23:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Friday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "06:00",
-          "closing": "23:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Saturday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "06:00",
-          "closing": "23:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Sunday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "06:00",
-          "closing": "23:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Public Holiday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "06:00",
-          "closing": "23:00",
-          "note": null
-        }
-      ],
-      "url": "/parking-locations/queensland/kelvin-grove/urban-village-kg-car-park/",
-      "serviceConfiguration": {
-        "canBookABay": false,
-        "bookABayIconLabel": "Prepay Online",
-        "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": false,
-        "monthlyParkingIconLabel": "Monthly Subscription",
-        "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
-        "isWilsonOne": false,
-        "wilsonOneIconLabel": "Parking Card",
-        "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
-        "disabledParkingIsAvailable": false,
-        "disabledParkingIconLabel": "Disabled Parking",
-        "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
-        "evChargerIsAvailable": false,
-        "evChargerIconLabel": "EV Charging",
-        "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "spottIsAvailable": false,
-        "spottIconLabel": "Spott",
-        "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
-        "additionalServices": []
-      },
-      "state": "QLD",
-      "imgUrl": "/siteassets/parking-location-images/qld/bne082.jpg",
-      "price": "",
-      "status": "",
-      "cpmsCarparkCode": null,
-      "externalCarParkInfo": null,
-      "featuredIndex": 0
-    },
-    {
       "name": "162 Alfred Street",
       "bookText": null,
       "canBookABay": false,
@@ -84562,7 +84342,7 @@
       "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": true,
-      "phoneNumber": "1800 PARKING",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": "240.8994570531329",
@@ -84570,7 +84350,7 @@
       "rates": [
         {
           "rateType": "Early Bird",
-          "notes": "<p>Enter between 6am &amp; 9:30am and exit between 3:30pm &amp; 7pm.</p>\n<div class=\"\" data-block=\"true\" data-editor=\"2ql24\" data-offset-key=\"8pskg444-0-0\">\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"8pskg444-0-0\">&nbsp;</div>\n</div>",
+          "notes": "<p>Entry between 6am and 9:30am, exit between 3:30pm and 7pm.</p>\n<div class=\"\" data-block=\"true\" data-editor=\"2ql24\" data-offset-key=\"8pskg444-0-0\">\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"8pskg444-0-0\">&nbsp;</div>\n</div>",
           "rates": [
             {
               "timeSpan": "Mon - Fri",
@@ -84583,11 +84363,11 @@
           "notes": null,
           "rates": [
             {
-              "timeSpan": "0.0 - 0.5 hrs",
+              "timeSpan": "0.0 - 0.5 hr",
               "price": 4.0
             },
             {
-              "timeSpan": "0.5 - 1.0 hrs",
+              "timeSpan": "0.5 - 1.0 hr",
               "price": 10.0
             },
             {
@@ -85891,14 +85671,14 @@
       "costCenter": 1005052,
       "direction": "Enter off Wyatt Street or Freemasons Lane",
       "heightRestriction": 2.0,
-      "information": "<p>Wilson Parking offer affordable &amp; secure parking at Flinders Link, 80 Flinders St Car Park, located at 69 Wyatt Street, Adelaide. Nearby to Rundle Mall, Adelaide Town Hall and offering Hourly, Weekend and discount online parking options the Flinders Link, 80 Flinders St Car Park will meet all of your parking needs.</p>\n<p>Enjoy the conveince of pay as you go with a Wilson Parking card, or get 24/7 unlimited access when you subscribe to Monthly Parking.</p>",
+      "information": "<p>Wilson Parking offer affordable &amp; secure parking at Flinders Link - 80 Flinders St Car Park, located at 69 Wyatt Street, Adelaide. Nearby to Rundle Mall, Adelaide Town Hall and offering Hourly, Weekend and discount online parking options the Flinders Link - 80 Flinders St Car Park will meet all of your parking needs.</p>\n<p>Enjoy the conveince of pay as you go with a Wilson Parking card, or get 24/7 unlimited access when you subscribe to Monthly Parking.</p>",
       "isWilsonOne": true,
       "spottIsAvailable": true,
       "legacyID": 241,
       "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": true,
       "disabledParkingIsAvailable": true,
-      "phoneNumber": "1800 PARKING",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": "263.42698167498816",
@@ -85909,11 +85689,11 @@
           "notes": null,
           "rates": [
             {
-              "timeSpan": "0.0 - 0.5 hrs",
+              "timeSpan": "0.0 - 0.5 hr",
               "price": 6.0
             },
             {
-              "timeSpan": "0.5 - 1.0 hrs",
+              "timeSpan": "0.5 - 1.0 hr",
               "price": 12.0
             },
             {
@@ -85940,10 +85720,10 @@
         },
         {
           "rateType": "Weekend",
-          "notes": "<p>Flat rate per exit, per day.</p>\n<div class=\"\" data-block=\"true\" data-editor=\"2ql24\" data-offset-key=\"1akcde78-0-0\">\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"1akcde78-0-0\"><span data-offset-key=\"1akcde78-0-0\">Online rate shown includes transaction fee.</span></div>\n</div>\n<div class=\"\" data-block=\"true\" data-editor=\"2ql24\" data-offset-key=\"8pskg444-0-0\">\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"8pskg444-0-0\"><span data-offset-key=\"8pskg444-0-0\">Click the <strong>Prepay now</strong> link below to get started.</span></div>\n</div>",
+          "notes": "<p>Flat rate per exit, per day.</p>\n<div class=\"\" data-block=\"true\" data-editor=\"2ql24\" data-offset-key=\"1akcde78-0-0\">\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"1akcde78-0-0\"><span data-offset-key=\"1akcde78-0-0\">Online rate shown includes transaction fee.</span></div>\n</div>\n<div class=\"\" data-block=\"true\" data-editor=\"2ql24\" data-offset-key=\"8pskg444-0-0\">\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"8pskg444-0-0\"><span data-offset-key=\"8pskg444-0-0\">Click the <strong>Prepay Now</strong> link below to get started.</span></div>\n</div>",
           "rates": [
             {
-              "timeSpan": "Sat or Sun from",
+              "timeSpan": "Sat - Sun",
               "price": 10.0
             }
           ]
@@ -88492,149 +88272,6 @@
       },
       "state": "SA",
       "imgUrl": "/siteassets/parking-location-images/sa/ade083-resized.jpg",
-      "price": "",
-      "status": "",
-      "cpmsCarparkCode": null,
-      "externalCarParkInfo": null,
-      "featuredIndex": 0
-    },
-    {
-      "name": "47 Port Rd Car Park",
-      "bookText": null,
-      "canBookABay": false,
-      "selectedFeatures": "",
-      "carParkFeature": [
-        "Night Parking",
-        "Weekend Parking",
-        "Epark",
-        "Entry height at least 2",
-        "Special Event Parking"
-      ],
-      "services": [],
-      "carParkName": "47 Port Rd Car Park",
-      "carParkNumber": 5180,
-      "carParkPhoto": null,
-      "category": "",
-      "costCenter": 1005180,
-      "direction": "Left entry from Port Rd",
-      "heightRestriction": 0.0,
-      "information": "<p>Wilson Parking offer affordable, reliable parking at 47 Port Rd Car Park, located at 47 Port Rd in the heart of Thebarton. This open air car park is conveniently located across from Bonython Park, and is a short walk to the Entertainment Centre and the New Womens and Childrens Hospital. Open all day, 7 days a week, easily pay for and manage your parking when you Pay by App in the Wilson Parking App. The 47 Port Rd Car Park will suit all your parking needs.</p>\n<p>Whether you're catching a show or cheering on the 36ers or the Thunderbirds, our carpark at 47 Port Rd lands you right in the middle of the action.</p>",
-      "isWilsonOne": false,
-      "spottIsAvailable": false,
-      "legacyID": 1005180,
-      "monthlyParkingServiceIsAvailable": false,
-      "evChargerIsAvailable": false,
-      "disabledParkingIsAvailable": false,
-      "phoneNumber": null,
-      "products": [],
-      "staticMapPhoto": null,
-      "streetViewHeading": null,
-      "streetViewLocation": "https://www.google.com/maps/@?api=1&map_action=pano&pano=t2bnfC_T_rIgT3h0vpKK8A&viewpoint=-34.916175916959986,138.57812785073207&heading=322.3567274912121&pitch=-5.437187612348239&zoom=0.9999999999999997",
-      "rates": [],
-      "fromText": "From",
-      "fromPrice": "4",
-      "location": {
-        "longitude": 138.577832527532,
-        "latitude": -34.9157997716299,
-        "zoom": 13,
-        "address": "47 Port Rd Thebarton",
-        "region": {
-          "name": "Thebarton",
-          "longitude": 138.57270240783691,
-          "latitude": -34.91429976300298,
-          "status": "",
-          "state": {
-            "name": "South Australia",
-            "abbreviation": "SA",
-            "country": "Australia",
-            "longitude": 138.600039482117,
-            "latitude": -34.9239415226928,
-            "status": ""
-          }
-        }
-      },
-      "openingTimes": [
-        {
-          "day_TimePeriod": "Monday",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Tuesday",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Wednesday",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Thursday",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Friday",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Saturday",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Sunday",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        }
-      ],
-      "url": "/parking-locations/south-australia/thebarton/47-port-rd-car-park/",
-      "serviceConfiguration": {
-        "canBookABay": false,
-        "bookABayIconLabel": "Prepay Online",
-        "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": false,
-        "monthlyParkingIconLabel": "Monthly Subscription",
-        "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
-        "isWilsonOne": false,
-        "wilsonOneIconLabel": "Parking Card",
-        "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
-        "disabledParkingIsAvailable": false,
-        "disabledParkingIconLabel": "Disabled Parking",
-        "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
-        "evChargerIsAvailable": false,
-        "evChargerIconLabel": "EV Charging",
-        "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "spottIsAvailable": false,
-        "spottIconLabel": "Spott",
-        "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
-        "additionalServices": []
-      },
-      "state": "SA",
-      "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
       "price": "",
       "status": "",
       "cpmsCarparkCode": null,
