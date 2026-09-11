@@ -26850,7 +26850,7 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Hourly rates available Monday - Sunday</p>",
+          "notes": "<p>Hourly rates available Monday - Friday</p>",
           "rates": [
             {
               "timeSpan": "0 - 1.0hrs",
@@ -44027,7 +44027,7 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Rates apply Monday - Sunday</p>\n<p>Public Holidays: Weekend Rates Apply</p>",
+          "notes": "<p>Rates apply Monday - Friday</p>\n<p>Public Holidays: Weekend Rates Apply</p>",
           "rates": [
             {
               "timeSpan": "0.0 - 1.0 hrs",
@@ -58077,7 +58077,7 @@
       "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": true,
-      "phoneNumber": null,
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": null,
@@ -58085,14 +58085,14 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Rate available Monday - Friday</p>",
+          "notes": "<p>Rates available Monday - Friday</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 0.5 hrs",
+              "timeSpan": "0.0 - 0.5 hr",
               "price": 4.0
             },
             {
-              "timeSpan": "0.5 - 1.0 hrs",
+              "timeSpan": "0.5 - 1.0 hr",
               "price": 8.0
             },
             {
@@ -58107,7 +58107,7 @@
         },
         {
           "rateType": "Night",
-          "notes": "<p>Availabe for entry after 4pm, exit before car park close.</p>\n<p>*Night rates not applicable on Sunday.</p>\n<p>Online rate shown includes transaction fee.</p>\n<p>Click the<strong> Prepay now</strong> link below to get started.</p>",
+          "notes": "<p>Availabe for entry after 4pm, exit before car park close.</p>\n<p>*Night rates not applicable on Sunday.</p>\n<p>Online rate shown includes transaction fee.</p>\n<p>Click the<strong> Prepay Now</strong> link below to get started.</p>",
           "rates": [
             {
               "timeSpan": "Mon - Thurs",
@@ -58125,10 +58125,10 @@
         },
         {
           "rateType": "Weekend",
-          "notes": "<p>Rates apply Saturday, Sunday and Public Holidays</p>\n<p><em>* Night rate applies Saturday night after 5pm</em></p>\n<p>&nbsp;</p>",
+          "notes": "<p>Rates apply Saturday, Sunday and Public Holidays</p>\n<p><em>* Night rate applies Saturday night after 5pm<br /></em></p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 1.0 hrs",
+              "timeSpan": "0.0 - 1.0 hr",
               "price": 6.0
             },
             {
@@ -58156,7 +58156,7 @@
         "longitude": 144.968374872841,
         "latitude": -37.8001791021487,
         "zoom": 13,
-        "address": "249 Drummond St Carlton",
+        "address": "249 Drummond St, Carlton",
         "region": {
           "name": "Carlton",
           "longitude": -37.800548956037,
@@ -61611,7 +61611,9 @@
         "Early Bird Parking",
         "Book a Bay",
         "Wilson One",
-        "Melbourne Train Delays"
+        "Melbourne Train Delays",
+        "LPR",
+        "Spott"
       ],
       "services": [
         "book a bay",
@@ -61627,7 +61629,7 @@
       "heightRestriction": 2.1,
       "information": "<p><u></u><u></u><u></u><u></u><span style=\"color: #ff1e25;\"><strong><u>Event Dates 2026<br /></u></strong></span><span style=\"color: #ff1e25;\"><strong>September:&nbsp;</strong>4th, 5th, 8th, 20th, 21st, 28th and 29th from 4:00pm</span><br /><span style=\"color: #ff1e25;\">6th&nbsp;and 19th&nbsp;from 11:00am</span><br /><span style=\"color: #ff1e25;\">26th&nbsp;from 7:00am</span><br /><span style=\"color: #ff1e25;\">Event<em> rates will apply.<br />On event dates, please allow additional time to exit.</em></span></p>\n<p>Wilson Parking offers affordable &amp; secure parking at Federation Square Car Park, located on Russell St (Extension) in the Melbourne CBD. This car park is nearby to many popular attractions, including Federation Square, Flinders St Station, Birrarung Marr, Rod Laver Arena and Melbourne Park. Offering casual Early Bird, Hourly, Night and Weekend parking, with exclusive discounts when you prepay online, the Federation Square Car Park will meet all of your parking needs.</p>\n<p><span style=\"color: #000000;\"><strong>On event dates and busy periods, please use the Batman Avenue Exit from Level 1 and allow additional time to exit.</strong></span></p>\n<p>Download the Wilson Parking App to plan your journey and access exclusive discounts when you prepay online; pay as you go with one convenient monthly invoice when you use your Wilson Parking Card; enjoy 24/7 unlimited access when you subscribe to Monthly Parking; or just drive up to pay with a credit card at the car park.</p>",
       "isWilsonOne": true,
-      "spottIsAvailable": false,
+      "spottIsAvailable": true,
       "legacyID": 94,
       "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
@@ -61820,7 +61822,7 @@
         "evChargerIsAvailable": false,
         "evChargerIconLabel": "EV Charging",
         "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "spottIsAvailable": false,
+        "spottIsAvailable": true,
         "spottIconLabel": "Spott",
         "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
         "additionalServices": []
@@ -64473,10 +64475,6 @@
         "spottIconLabel": "Spott",
         "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
         "additionalServices": [
-          {
-            "label": null,
-            "icon": null
-          },
           {
             "label": null,
             "icon": null
@@ -84388,7 +84386,7 @@
             },
             {
               "timeSpan": "5.0 + hrs",
-              "price": 34.0
+              "price": 35.0
             }
           ]
         }
@@ -85714,7 +85712,7 @@
             },
             {
               "timeSpan": "5.0 + hrs",
-              "price": 39.0
+              "price": 40.0
             }
           ]
         },
@@ -94774,27 +94772,27 @@
           "rates": [
             {
               "timeSpan": "0.0 - 1.0 hrs",
-              "price": 3.0
+              "price": 4.0
             },
             {
               "timeSpan": "1.0 - 2.0 hrs",
-              "price": 6.0
+              "price": 7.0
             },
             {
               "timeSpan": "2.0 - 3.0 hrs",
-              "price": 9.0
+              "price": 10.0
             },
             {
               "timeSpan": "3.0 - 4.0 hrs",
-              "price": 12.0
+              "price": 13.0
             },
             {
               "timeSpan": "4.0 - 5.0 hrs",
-              "price": 16.0
+              "price": 17.0
             },
             {
               "timeSpan": "5.0 - 12.0 hrs MAX",
-              "price": 20.0
+              "price": 21.0
             }
           ]
         },
@@ -94804,13 +94802,13 @@
           "rates": [
             {
               "timeSpan": "Flat Rate",
-              "price": 10.0
+              "price": 11.0
             }
           ]
         }
       ],
       "fromText": "From",
-      "fromPrice": "2",
+      "fromPrice": "3",
       "location": {
         "longitude": 115.86305816434856,
         "latitude": -31.951655415822987,
@@ -98357,41 +98355,41 @@
           "rates": [
             {
               "timeSpan": "0.0 - 0.5 hrs",
-              "price": 3.0
+              "price": 4.0
             },
             {
               "timeSpan": "0.5 - 1.0 hrs",
-              "price": 6.0
+              "price": 7.0
             },
             {
               "timeSpan": "1.0 - 2.0 hrs",
-              "price": 9.0
+              "price": 10.0
             },
             {
               "timeSpan": "2.0 - 3.0 hrs",
-              "price": 12.0
+              "price": 13.0
             },
             {
               "timeSpan": "3.0 - 4.0 hrs",
-              "price": 16.0
+              "price": 17.0
             },
             {
               "timeSpan": "4.0 - 5.0 hrs",
-              "price": 19.0
+              "price": 20.0
             },
             {
               "timeSpan": "5.0 - 6.0 hrs",
-              "price": 21.0
+              "price": 22.0
             },
             {
               "timeSpan": "6.0 - 12.0 hrs",
-              "price": 24.0
+              "price": 25.0
             }
           ]
         }
       ],
       "fromText": "From",
-      "fromPrice": "2",
+      "fromPrice": "3",
       "location": {
         "longitude": 115.85528925061226,
         "latitude": -31.948190832007704,
@@ -99216,39 +99214,39 @@
           "rates": [
             {
               "timeSpan": "0.0 - 0.5 hrs",
-              "price": 5.0
+              "price": 6.0
             },
             {
               "timeSpan": "0.5 - 1.0 hrs",
-              "price": 10.0
+              "price": 11.0
             },
             {
               "timeSpan": "1.0 - 1.5 hrs",
-              "price": 15.0
+              "price": 16.0
             },
             {
               "timeSpan": "1.5 - 2.0 hrs",
-              "price": 20.0
+              "price": 21.0
             },
             {
               "timeSpan": "2.0 - 3.0 hrs",
-              "price": 25.0
+              "price": 26.0
             },
             {
               "timeSpan": "3.0 - 4.0 hrs",
-              "price": 30.0
+              "price": 31.0
             },
             {
               "timeSpan": "4.0 - 5.0 hrs",
-              "price": 35.0
+              "price": 36.0
             },
             {
               "timeSpan": "5.0 - 6.0 hrs",
-              "price": 40.0
+              "price": 41.0
             },
             {
               "timeSpan": "6.0 hrs +",
-              "price": 45.0
+              "price": 46.0
             }
           ]
         },
@@ -99258,7 +99256,7 @@
           "rates": [
             {
               "timeSpan": "Mon - Fri",
-              "price": 10.0
+              "price": 12.0
             }
           ]
         },
@@ -99268,13 +99266,13 @@
           "rates": [
             {
               "timeSpan": "Sat - Sun",
-              "price": 10.0
+              "price": 12.0
             }
           ]
         }
       ],
       "fromText": "From",
-      "fromPrice": "5",
+      "fromPrice": "6",
       "location": {
         "longitude": 115.8517,
         "latitude": -31.9527,
@@ -100308,7 +100306,7 @@
           "rates": [
             {
               "timeSpan": "Mon - Fri",
-              "price": 10.0
+              "price": 15.0
             }
           ]
         },
@@ -100318,7 +100316,7 @@
           "rates": [
             {
               "timeSpan": "Sat - Sun",
-              "price": 12.0
+              "price": 15.0
             }
           ]
         }
@@ -100492,19 +100490,19 @@
           "rates": [
             {
               "timeSpan": "0.0 - 1.0 hrs",
-              "price": 3.0
+              "price": 4.0
             },
             {
               "timeSpan": "1.0 - 2.0 hrs",
-              "price": 5.0
+              "price": 6.0
             },
             {
               "timeSpan": "2.0 - 3.0 hrs",
-              "price": 7.0
+              "price": 8.0
             },
             {
               "timeSpan": "3.0 - 4.0 hrs",
-              "price": 9.0
+              "price": 10.0
             },
             {
               "timeSpan": "12 hour max",
@@ -100514,7 +100512,7 @@
         }
       ],
       "fromText": "From",
-      "fromPrice": "2",
+      "fromPrice": "3",
       "location": {
         "longitude": 115.85137065418348,
         "latitude": -31.94661884035165,
@@ -105249,33 +105247,33 @@
           "rates": [
             {
               "timeSpan": "0.0 - 1.0 hrs",
-              "price": 3.0
+              "price": 4.0
             },
             {
               "timeSpan": "1.0 - 1.5 hrs",
-              "price": 5.0
+              "price": 6.0
             },
             {
               "timeSpan": "1.5 - 2.0 hrs",
-              "price": 7.0
+              "price": 8.0
             },
             {
               "timeSpan": "2.0 - 3.0 hrs",
-              "price": 9.0
+              "price": 10.0
             },
             {
               "timeSpan": "3.0 - 4.0 hrs",
-              "price": 11.0
+              "price": 12.0
             },
             {
               "timeSpan": "4.0 - 12.0 hrs",
-              "price": 15.0
+              "price": 16.0
             }
           ]
         }
       ],
       "fromText": "From",
-      "fromPrice": "2",
+      "fromPrice": "3",
       "location": {
         "longitude": 115.74964642524719,
         "latitude": -32.0514529418635,
@@ -105448,27 +105446,27 @@
           "rates": [
             {
               "timeSpan": "0.0 - 0.5 hrs",
-              "price": 6.0
+              "price": 7.0
             },
             {
               "timeSpan": "0.5 - 1.0 hrs ",
-              "price": 8.0
+              "price": 9.0
             },
             {
               "timeSpan": "1.0 - 1.5 hrs",
-              "price": 10.0
+              "price": 11.0
             },
             {
               "timeSpan": "1.5 - 2.0 hrs",
-              "price": 12.0
+              "price": 13.0
             },
             {
-              "timeSpan": "2.0 - 4.0 hrs",
-              "price": 14.0
+              "timeSpan": "2.0 - 3.0 hrs",
+              "price": 15.0
             },
             {
-              "timeSpan": "4.0 - 12.0 hrs",
-              "price": 16.0
+              "timeSpan": "3.0 - 12.0 hrs",
+              "price": 17.0
             }
           ]
         },
@@ -105478,13 +105476,13 @@
           "rates": [
             {
               "timeSpan": "Early Bird",
-              "price": 14.0
+              "price": 15.0
             }
           ]
         }
       ],
       "fromText": "From",
-      "fromPrice": "5",
+      "fromPrice": "6",
       "location": {
         "longitude": 115.74622392654419,
         "latitude": -32.052498683752496,
