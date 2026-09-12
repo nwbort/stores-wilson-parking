@@ -15562,7 +15562,9 @@
         "Wilson One",
         "Flexi Parking",
         "Disabled Parking",
-        "Daily Pass Bundles"
+        "Daily Pass Bundles",
+        "Elevate Only",
+        "Spott"
       ],
       "services": [
         "book a bay",
@@ -15579,7 +15581,7 @@
       "heightRestriction": 1.85,
       "information": "<p>Wilson Parking offer affordable &amp; secure parking at 20 Berry St Car Park which is located at Angelo St in the heart of North Sydney.</p>\n<p>20 Berry St Car Park will suit all your leisure and business parking needs. With Monthly, Hourly options available, via Prepay Online, or use your Wilson Parking Card and pay as you go!</p>",
       "isWilsonOne": true,
-      "spottIsAvailable": false,
+      "spottIsAvailable": true,
       "legacyID": 332,
       "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
@@ -15622,7 +15624,7 @@
         }
       ],
       "fromText": "From",
-      "fromPrice": "15",
+      "fromPrice": "12",
       "location": {
         "longitude": 151.20598196983337,
         "latitude": -33.836370707848182,
@@ -15734,7 +15736,7 @@
         "evChargerIsAvailable": false,
         "evChargerIconLabel": "EV Charging",
         "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "spottIsAvailable": false,
+        "spottIsAvailable": true,
         "spottIconLabel": "Spott",
         "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
         "additionalServices": [
