@@ -23498,7 +23498,9 @@
       "selectedFeatures": "",
       "carParkFeature": [
         "Weekend Parking",
-        "Entry height at least 2"
+        "Entry height at least 2",
+        "LPR",
+        "Spott"
       ],
       "services": [],
       "carParkName": "TAFE Kogarah Car Park",
@@ -23510,12 +23512,12 @@
       "heightRestriction": 0.0,
       "information": "<p>Wilson Parking offer affordable parking at TAFE Kogarah Car Park which is located at Wicks Lane in the heart Kogarah, TAFE &amp; Restaurtant precint.&nbsp;</p>\n<p>With weekend parking &amp; monthly parking for students, the TAFE Kogarah Car Park will meet all of your parking needs.</p>",
       "isWilsonOne": false,
-      "spottIsAvailable": false,
+      "spottIsAvailable": true,
       "legacyID": 417,
       "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
-      "phoneNumber": "1800 PARKING",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": "17.68461516464213",
@@ -23526,7 +23528,7 @@
           "notes": "<p>Rates apply Monday to Sunday</p>",
           "rates": [
             {
-              "timeSpan": "0.0 – 1.0 hrs",
+              "timeSpan": "0.0 – 1.0 hr",
               "price": 5.0
             },
             {
@@ -23657,7 +23659,7 @@
         "evChargerIsAvailable": false,
         "evChargerIconLabel": "EV Charging",
         "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "spottIsAvailable": false,
+        "spottIsAvailable": true,
         "spottIconLabel": "Spott",
         "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
         "additionalServices": []
@@ -44598,95 +44600,6 @@
       "featuredIndex": 0
     },
     {
-      "name": "64 Allara Street Car Park",
-      "bookText": null,
-      "canBookABay": false,
-      "selectedFeatures": "",
-      "carParkFeature": [],
-      "services": [],
-      "carParkName": "64 Allara Street Car Park",
-      "carParkNumber": 1078,
-      "carParkPhoto": null,
-      "category": "",
-      "costCenter": 1012078,
-      "direction": null,
-      "heightRestriction": 2.2,
-      "information": "<p>Wilson Parking offer affordable parking at 64 Allara Street, Canberra. Located in the heart of Canberra, near the ACT Human Rights Commission, Casino Canberra, the ACT Auditor General's Office, and many other Canberra businesses, the undercover 64 Allara St car park offers monthly parking to suit all your Canberra parking needs.&nbsp;</p>\n<p>This is a monthly parking only car park. Apply now to enjoy the convenience of unlimited 24/7 access to the car park.</p>",
-      "isWilsonOne": false,
-      "spottIsAvailable": false,
-      "legacyID": 653,
-      "monthlyParkingServiceIsAvailable": false,
-      "evChargerIsAvailable": false,
-      "disabledParkingIsAvailable": false,
-      "phoneNumber": "1800 727 546",
-      "products": [],
-      "staticMapPhoto": null,
-      "streetViewHeading": "344.772603075583",
-      "streetViewLocation": "https://www.google.com/maps/@?api=1&map_action=pano&pano=ncVEkGLqkiDu4Dz_sGEbnw&viewpoint=-35.28478330347632,149.1317914098408&heading=344.772603075583&pitch=6.028205278601163",
-      "rates": [],
-      "fromText": "",
-      "fromPrice": "",
-      "location": {
-        "longitude": 149.13163454729079,
-        "latitude": -35.284762736274914,
-        "zoom": 13,
-        "address": "64 Allara Street, Canberra",
-        "region": {
-          "name": "Canberra CBD",
-          "longitude": 149.12678718566895,
-          "latitude": -35.280449666148527,
-          "status": "",
-          "state": {
-            "name": "Australian Capital Territory",
-            "abbreviation": "ACT",
-            "country": "Australia",
-            "longitude": 149.12884712219238,
-            "latitude": 35.281991116036352,
-            "status": ""
-          }
-        }
-      },
-      "openingTimes": [
-        {
-          "day_TimePeriod": "Monthly",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        }
-      ],
-      "url": "/parking-locations/australian-capital-territory/canberra-cbd/64-allara-street-car-park/",
-      "serviceConfiguration": {
-        "canBookABay": false,
-        "bookABayIconLabel": "Prepay Online",
-        "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": false,
-        "monthlyParkingIconLabel": "Monthly Subscription",
-        "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
-        "isWilsonOne": false,
-        "wilsonOneIconLabel": "Parking Card",
-        "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
-        "disabledParkingIsAvailable": false,
-        "disabledParkingIconLabel": "Disabled Parking",
-        "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
-        "evChargerIsAvailable": false,
-        "evChargerIconLabel": "EV Charging",
-        "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "spottIsAvailable": false,
-        "spottIconLabel": "Spott",
-        "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
-        "additionalServices": []
-      },
-      "state": "ACT",
-      "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
-      "price": "",
-      "status": "",
-      "cpmsCarparkCode": null,
-      "externalCarParkInfo": null,
-      "featuredIndex": 0
-    },
-    {
       "name": "26 Ipswich St Car Park",
       "bookText": null,
       "canBookABay": false,
@@ -61654,7 +61567,7 @@
       "costCenter": 1003250,
       "direction": "Entry via Russell St (Extension) or off Batman Ave (at Tennis Centre)\nOn event dates and busy periods, please use the Batman Ave Exit from Level 1 and allow additional time to exit. ",
       "heightRestriction": 2.1,
-      "information": "<p><span style=\"color: #ff1e25;\"><strong><u>Event Dates 2026</u></strong></span><br /><span style=\"color: #ff1e25;\"><strong>September:&nbsp;</strong>20th, 21st, 28th, 29th&nbsp;from 4pm</span><br /><span style=\"color: #ff1e25;\">19th&nbsp;from 11am</span><br /><span style=\"color: #ff1e25;\">26th&nbsp;from 7am<br /></span><span style=\"color: #ff1e25;\"><strong><br />October:&nbsp;</strong>3rd from 8am</span><br /><span style=\"color: #ff1e25;\">31st&nbsp;from 10am</span><br /><span style=\"color: #ff1e25;\">5th, 6th, 14th, 15th,16th, 17th, 20th, 22nd, 24th, 25th, 26th, 27th, 28th, 29th&nbsp;from 4pm<br /><br />Event rates will apply.</span><br /><span style=\"color: #ff1e25;\"><em>On event dates, please allow additional time to exit.</em></span></p>\n<p>Wilson Parking offers affordable &amp; secure parking at Federation Square Car Park, located on Russell St (Extension) in the Melbourne CBD. This car park is nearby to many popular attractions, including Federation Square, Flinders St Station, Birrarung Marr, Rod Laver Arena and Melbourne Park. Offering casual Early Bird, Hourly, Night and Weekend parking, with exclusive discounts when you prepay online, the Federation Square Car Park will meet all of your parking needs.</p>\n<p><span style=\"color: #000000;\"><strong>On event dates and busy periods, please use the Batman Avenue Exit from Level 1 and allow additional time to exit.</strong></span></p>\n<p>Download the Wilson Parking App to plan your journey and access exclusive discounts when you prepay online; pay as you go with one convenient monthly invoice when you use your Wilson Parking Card; enjoy 24/7 unlimited access when you subscribe to Monthly Parking; or just drive up to pay with a credit card at the car park.</p>",
+      "information": "<p><span style=\"color: #ff1e25;\"><strong><u>Event Dates 2026</u></strong></span><br /><span style=\"color: #ff1e25;\"><strong>September:&nbsp;</strong>20th, 21st, 28th, 29th&nbsp;from 4pm</span><br /><span style=\"color: #ff1e25;\">19th&nbsp;from 11am /&nbsp;</span><span style=\"color: #ff1e25;\">26th&nbsp;from 7am<br /></span><span style=\"color: #ff1e25;\"><strong>October:&nbsp;</strong>3rd from 8am /&nbsp;</span><span style=\"color: #ff1e25;\">31st&nbsp;from 10am</span><br /><span style=\"color: #ff1e25;\">5th, 6th, 14th, 15th,16th, 17th, 20th, 22nd, 24th, 25th, 26th, 27th, 28th, 29th&nbsp;from 4pm<br />Event rates will apply.</span><br /><span style=\"color: #ff1e25;\"><em>On event dates, please allow additional time to exit.</em></span></p>\n<p>Wilson Parking offers affordable &amp; secure parking at Federation Square Car Park, located on Russell St (Extension) in the Melbourne CBD. This car park is nearby to many popular attractions, including Federation Square, Flinders St Station, Birrarung Marr, Rod Laver Arena and Melbourne Park. Offering casual Early Bird, Hourly, Night and Weekend parking, with exclusive discounts when you prepay online, the Federation Square Car Park will meet all of your parking needs.</p>\n<p><span style=\"color: #000000;\"><strong>On event dates and busy periods, please use the Batman Avenue Exit from Level 1 and allow additional time to exit.</strong></span></p>\n<p>Download the Wilson Parking App to plan your journey and access exclusive discounts when you prepay online; pay as you go with one convenient monthly invoice when you use your Wilson Parking Card; enjoy 24/7 unlimited access when you subscribe to Monthly Parking; or just drive up to pay with a credit card at the car park.</p>",
       "isWilsonOne": true,
       "spottIsAvailable": true,
       "legacyID": 94,
@@ -75161,16 +75074,16 @@
       "carParkPhoto": null,
       "category": "",
       "costCenter": 1004087,
-      "direction": "Entry on Felix Street.  Front of House Car Park.\n",
+      "direction": "Entry on Felix Street, Front of House Car Park\n",
       "heightRestriction": 2.5,
-      "information": "<p>Wilson Parking offers affordable &amp; secure parking at One Eagle Street Porte Cochere, located at 1 Eagle Street in Brisbane. Located within Brisbane&rsquo;s prestigious commercial hub, this car park offers premium parking options for tenants and visitors to the building. The car park is accessible 8am-4pm Monday to Friday, with tenant visitors receiving an hour of complimentary parking.</p>",
+      "information": "<p>Wilson Parking offers affordable &amp; secure parking at One Eagle Street Porte Cochere, located at 1 Eagle Street in Brisbane. Located within Brisbane&rsquo;s prestigious commercial hub, this car park offers premium parking options for tenants and visitors to the building. The car park is accessible 8am-4pm Monday to Friday, with tenant visitors receiving an hour of complimentary parking. Subject to availability. This must be booked with the dockmaster.</p>",
       "isWilsonOne": false,
       "spottIsAvailable": false,
       "legacyID": 196,
       "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
-      "phoneNumber": "1800 PARKING",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": "34.14065346216706",
@@ -75178,7 +75091,7 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>*Tenant visitors recieve 1 hour free parking, subject to availability. This must be booked with the dockmaster*</p>",
+          "notes": "<p><strong>*<span style=\"color: #000000;\">Tenant visitors</span> recieve 1 hour free parking, subject to availability. This must be booked with the dockmaster.</strong></p>",
           "rates": [
             {
               "timeSpan": "0.0 - 1.0 hr",
@@ -75201,14 +75114,22 @@
               "price": 79.0
             },
             {
-              "timeSpan": "5.0+ hrs",
+              "timeSpan": "5.0 - 6.0 hrs",
               "price": 84.0
+            },
+            {
+              "timeSpan": "6.0 + hrs",
+              "price": 89.0
+            },
+            {
+              "timeSpan": "Entry after 3pm (on entry)",
+              "price": 10.0
             }
           ]
         }
       ],
       "fromText": "From",
-      "fromPrice": "25",
+      "fromPrice": "10",
       "location": {
         "longitude": 153.03004503250122,
         "latitude": -27.470339345573347,
@@ -75234,40 +75155,40 @@
           "day_TimePeriod": "Monday",
           "is24_7": false,
           "closed": false,
-          "opening": "08:00",
-          "closing": "16:00",
+          "opening": "07:00",
+          "closing": "18:00",
           "note": null
         },
         {
           "day_TimePeriod": "Tuesday",
           "is24_7": false,
           "closed": false,
-          "opening": "08:00",
-          "closing": "16:00",
+          "opening": "07:00",
+          "closing": "18:00",
           "note": null
         },
         {
           "day_TimePeriod": "Wednesday",
           "is24_7": false,
           "closed": false,
-          "opening": "08:00",
-          "closing": "16:00",
+          "opening": "07:00",
+          "closing": "18:00",
           "note": null
         },
         {
           "day_TimePeriod": "Thursday",
           "is24_7": false,
           "closed": false,
-          "opening": "08:00",
-          "closing": "16:00",
+          "opening": "07:00",
+          "closing": "18:00",
           "note": null
         },
         {
           "day_TimePeriod": "Friday",
           "is24_7": false,
           "closed": false,
-          "opening": "08:00",
-          "closing": "16:00",
+          "opening": "07:00",
+          "closing": "18:00",
           "note": null
         },
         {
@@ -88242,7 +88163,7 @@
       "costCenter": 1005092,
       "direction": null,
       "heightRestriction": 0.0,
-      "information": "<p>Wilson Parking offer affordable parking at the Hope Street Car Park in Glenelg.&nbsp;Located nearby to the Glenelg Jetty, Glenelg Beach and Glenelg Public Library, the open air Henley Pavilion Car Park will meet all your parking needs.&nbsp;</p>\n<p>Download the Wilson Parking app to easily pay for your parking from your phone.</p>",
+      "information": "<p><span style=\"color: #ff1e25;\"><strong>Important Update</strong>&nbsp;</span><br /><span style=\"color: #ff1e25;\">Due to the City-Bay Fun Run this weekend, there will be no access to this car park from 2pm, Saturday 19 September until 3.30pm, Sunday 20 September.</span></p>\n<p>Wilson Parking offer affordable parking at the Hope Street Car Park in Glenelg.&nbsp;Located nearby to the Glenelg Jetty, Glenelg Beach and Glenelg Public Library, the open air Henley Pavilion Car Park will meet all your parking needs.&nbsp;</p>\n<p>Download the Wilson Parking app to easily pay for your parking from your phone.</p>",
       "isWilsonOne": false,
       "spottIsAvailable": false,
       "legacyID": 493,
@@ -88414,7 +88335,7 @@
       "costCenter": 1005091,
       "direction": null,
       "heightRestriction": 2.0,
-      "information": "<p>Wilson Parking offer affordable &amp; secure parking at The Beach House Car Park, located at 4 Colley Terrace, Glenelg. Nearby to Glenelg Surf Life Saving Club, Bay Discover Centre and Glenelg Beach, and offering affordable hourly parking rates, The Beach House Car Park with meet all your Glenelg Beach Parking needs.&nbsp;</p>\n<p>Download the Wilson Parking app to easily pay for your parking from your phone, or subscribe to monthly parking for convenient unlimited 24/7 access.</p>",
+      "information": "<p><span style=\"color: #ff1e25;\"><strong>Important Update</strong>&nbsp;</span><br /><span style=\"color: #ff1e25;\">Due to the City-Bay Fun Run this weekend, there will be no access to this car park from 2pm, Saturday 19 September until 3.30pm, Sunday 20 September.</span></p>\n<p>Wilson Parking offer affordable &amp; secure parking at The Beach House Car Park, located at 4 Colley Terrace, Glenelg. Nearby to Glenelg Surf Life Saving Club, Bay Discover Centre and Glenelg Beach, and offering affordable hourly parking rates, The Beach House Car Park with meet all your Glenelg Beach Parking needs.&nbsp;</p>\n<p>Download the Wilson Parking app to easily pay for your parking from your phone, or subscribe to monthly parking for convenient unlimited 24/7 access.</p>",
       "isWilsonOne": false,
       "spottIsAvailable": false,
       "legacyID": 492,
@@ -99649,7 +99570,7 @@
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": null,
-      "streetViewLocation": null,
+      "streetViewLocation": "https://www.google.com/maps/@?api=1&map_action=pano&pano=Qwaei_wk9yTlQpl__9OF5g&viewpoint=-31.95029465665489,115.8509352553018&heading=232.26105472412488&pitch=12.295042137791626&zoom=0.8983279185857233",
       "rates": [
         {
           "rateType": "Hourly",
@@ -99705,7 +99626,7 @@
         }
       ],
       "fromText": "From",
-      "fromPrice": "8",
+      "fromPrice": "9",
       "location": {
         "longitude": 115.850742102008,
         "latitude": -31.9506585475532,
