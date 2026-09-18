@@ -9260,11 +9260,11 @@
       "information": "<p>Wilson Parking offer affordable &amp; secure parking at Sydney Opera House Car Park located at 2A Macquarie St in the heart of Sydney CBD. The car park is nearby to Circular Quay, Ferry terminals, close to the Botanical Gardens, International Cruise Ship Terminal, Restaurants and Bar Precincts, with 24 hour access, 7 days a week. Offering Hourly, Night and Weekend Parking, as well as excvlusive discounts when you prepay online, the Sydney Opera House Car Park will suit every parking need when visiting your favourite restaurant or tourist destination in addition to commuter parking needs.</p>\n<p><span style=\"color: #05bd83;\">Spott is now available at the Sydney Opera House Car Park. Download the Wilson Parking App to enjoy easy, stress free, automatic parking using advanced vehicle recognition (LPR) and QR code technology at this car park. </span></p>\n<p>Come here often? Enjoy unlimited 24/7 access when you subscribe to monthly parking, or download the Wilson Parking App to purchase a bundle of daily passes for a better daily parking rate&nbsp;</p>",
       "isWilsonOne": true,
       "spottIsAvailable": true,
-      "legacyID": 143,
+      "legacyID": 142,
       "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": true,
-      "phoneNumber": "1800 PARKING",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": "0",
@@ -9272,10 +9272,10 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>*Motorbike Rate: $12.00, see attendant onsite or press intercom for rate to apply<br /><br />Public Holidays: Casual Rates Apply<br /><br /><u>Disabled Parking Bays: available on Level 1 Red &amp; Level 6<br /></u>Bays are available on a casual basis &amp; cannot be booked in advance. If bays are full best alternative options are Level 1 Green and Level 5 Blue near elevators<br /><br />Online rate shown includes platform fee. Click the Prepay now link below to get started.</p>",
+          "notes": "<p>*Motorbike Rate: $12.00, see attendant onsite or press intercom for rate to apply<br /><br />Public Holidays: Casual Rates Apply<br /><br /><u>Disabled Parking Bays: available on Level 1 Red &amp; Level 6<br /></u>Bays are available on a casual basis &amp; cannot be booked in advance. If bays are full best alternative options are Level 1 Green and Level 5 Blue near elevators.<br /><br />Online rate shown includes platform fee. Click the <strong>Prepay Now</strong> link below to get started.</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 1.0 hrs",
+              "timeSpan": "0.0 - 1.0 hr",
               "price": 20.0
             },
             {
@@ -9294,21 +9294,21 @@
         },
         {
           "rateType": "Night",
-          "notes": "<p>Entry after 5pm, exit before 6am.&nbsp;Casual rates apply if conditions are not met.</p>\n<p>Online rate shown includes platform fee. Click the Prepay now link below to get started.</p>\n<p>&nbsp;</p>",
+          "notes": "<p>Entry after 5pm, exit before 6am.&nbsp;Casual rates apply if conditions are not met.</p>\n<p>Online rate shown includes platform fee. Click the <strong>Prepay Now</strong> link below to get started.</p>",
           "rates": [
             {
-              "timeSpan": "Night (Mon - Friday)from",
+              "timeSpan": "Night (Mon - Fri) from",
               "price": 45.0
             },
             {
-              "timeSpan": "Night (Sat - Sunday) from",
+              "timeSpan": "Night (Sat - Sun) from",
               "price": 45.0
             }
           ]
         },
         {
           "rateType": "Weekend",
-          "notes": "<p><strong>Day Rate</strong>: Entry after 6am, exit before 5pm.</p>\n<p><strong>Night Rate</strong>: If exiting after 5pm Night Rate applies, even if entry was during day.</p>\n<p>Online rate shown includes platform fee. Click the Prepay now link below to get started.</p>\n<p>&nbsp;</p>",
+          "notes": "<p><strong>Day Rate</strong>: Entry after 6am, exit before 5pm.</p>\n<p><strong>Night Rate</strong>: If exiting after 5pm Night Rate applies, even if entry was during day.</p>\n<p>Online rate shown includes platform fee. Click the <strong>Prepay Now</strong> link below to get started.</p>\n<p>&nbsp;</p>",
           "rates": [
             {
               "timeSpan": "Sat - Sun: Day Rate",
@@ -10348,7 +10348,7 @@
         },
         {
           "rateType": "Night",
-          "notes": "<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"1akcde78-0-0\"><span data-offset-key=\"1akcde78-0-0\">Entry after 5pm, exit before 12am (Midnight).</span></div>\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"1akcde78-0-0\"><span data-offset-key=\"1akcde78-0-0\">If conditions not met, Hourly rates apply from time of entry.</span></div>\n<p>Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>",
+          "notes": "<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"1akcde78-0-0\"><span data-offset-key=\"1akcde78-0-0\">Entry after 5pm, exit before 12am (Midnight).</span></div>\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"1akcde78-0-0\"><span data-offset-key=\"1akcde78-0-0\">If conditions not met, Hourly rates apply from time of entry.</span></div>\n<p>Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include platform fee.</p>",
           "rates": [
             {
               "timeSpan": "Mon - Fri",
@@ -10358,7 +10358,7 @@
         },
         {
           "rateType": "Weekend",
-          "notes": "<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>",
+          "notes": "<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include platform fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>",
           "rates": [
             {
               "timeSpan": "Weekend varies from $27.75 - $29.75, depending on demand",
@@ -20933,7 +20933,7 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Validate ticket in shopping centre to receive 3 hours parking free. Validation machines are located throughout the centre.<br />Overnight rate is charged in addition to Casual rates for all vehicles left in car park past close.<br />Motorbike rate available via intercom.</p>\n<p>&nbsp;</p>",
+          "notes": "<p>Validate ticket in shopping centre to receive 3 hours parking free. Validation machines are located throughout the centre.</p>\n<p>Overnight rate is charged in addition to Casual rates for all vehicles left in car park past close.</p>\n<p>Motorbike rate available via intercom.</p>\n<p>&nbsp;</p>",
           "rates": [
             {
               "timeSpan": "0.0 - 3.0 hrs (with validation)",
@@ -23876,7 +23876,9 @@
         "Book a Bay",
         "Wilson One",
         "Overnight Parking",
-        "Flexi Parking"
+        "Flexi Parking",
+        "LPR",
+        "Spott"
       ],
       "services": [
         "book a bay",
@@ -23892,12 +23894,12 @@
       "heightRestriction": 1.9,
       "information": "<p>Wilson Parking offer affordable &amp; secure parking at Pierside Car Park which is located at 1 Burroway Road in the heart of Wentworth Point.&nbsp;</p>\n<p>Pierside Car Park&nbsp;suits all your leisure and business parking needs. With Monthly, Weekend and Daily Parking options available via Prepay online and Drive up or use your Wilson Parking Card and pay as you go.</p>",
       "isWilsonOne": true,
-      "spottIsAvailable": false,
+      "spottIsAvailable": true,
       "legacyID": 556,
       "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
-      "phoneNumber": "1800 PARKING",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": "342.1487858530327",
@@ -23905,7 +23907,7 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Rates apply Monday to Sunday<br />Public Holidays &amp; Weekends : Casual Rates Apply</p>",
+          "notes": "<p>Rates apply Monday to Sunday<br />Weekend and Public Holidays - Casual Rates Apply</p>",
           "rates": [
             {
               "timeSpan": "0.0 - 2.0 hrs",
@@ -24043,7 +24045,7 @@
         "evChargerIsAvailable": false,
         "evChargerIconLabel": "EV Charging",
         "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "spottIsAvailable": false,
+        "spottIsAvailable": true,
         "spottIconLabel": "Spott",
         "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
         "additionalServices": []
@@ -40041,7 +40043,7 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p><em>Payment only available&nbsp;through the Wilson Parking App.</em><em><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\" target=\"_blank\" rel=\"noopener\">Click here</a> to download the Wilson Parking App</em></p>\n<p><em>*Online rates includes Transaction fee.</em></p>",
+          "notes": "<p><em>Payment only available&nbsp;through the Wilson Parking App.&nbsp;</em><em><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\" target=\"_blank\" rel=\"noopener\">Click here</a> to download the Wilson Parking App</em></p>\n<p><em>*Online rates includes platform fee.</em></p>",
           "rates": [
             {
               "timeSpan": "Mon - Fri",
@@ -40051,7 +40053,7 @@
         },
         {
           "rateType": "Weekend",
-          "notes": "<p><em>Payment only available&nbsp;through the Wilson Parking App.</em><em><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\" target=\"_blank\" rel=\"noopener\">Click here</a> to download the Wilson Parking App</em></p>\n<p><em>*Online rates includes Transaction fee.</em></p>",
+          "notes": "<p><em>Payment only available&nbsp;through the Wilson Parking App.&nbsp;</em><em><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\" target=\"_blank\" rel=\"noopener\">Click here</a> to download the Wilson Parking App</em></p>\n<p><em>*Online rates includes platform fee.</em></p>",
           "rates": [
             {
               "timeSpan": "Sat - Sun",
@@ -53615,138 +53617,6 @@
       "featuredIndex": 0
     },
     {
-      "name": "Parkwood Tavern",
-      "bookText": null,
-      "canBookABay": false,
-      "selectedFeatures": "",
-      "carParkFeature": [
-        "Night Parking",
-        "Weekend Parking",
-        "Epark",
-        "Entry height at least 2",
-        "Disabled Parking"
-      ],
-      "services": [
-        "disabled parking"
-      ],
-      "carParkName": "Parkwood Tavern",
-      "carParkNumber": 4363,
-      "carParkPhoto": null,
-      "category": "",
-      "costCenter": 1004363,
-      "direction": "Enter via Wintergreen Drive",
-      "heightRestriction": 0.0,
-      "information": "<p>Wilson Parking offers affordable &amp; secure parking at Parkwood Tavern car park, located at car park address in the heart of Parkwood. Open 7 days, this car park provides convenient access to the Gold Coast University Hospital, campus, dining and retail precinct. Offering&nbsp;hourly parking options and the convenience of payment from your phone with the Wilson Parking App, the Parkwood Tavern car park&nbsp;will meet all your business and leisure parking needs.&nbsp;</p>\n<p>Download the Wilson Parking App to easily pay for your parking from your phone.</p>",
-      "isWilsonOne": false,
-      "spottIsAvailable": false,
-      "legacyID": 4363,
-      "monthlyParkingServiceIsAvailable": false,
-      "evChargerIsAvailable": false,
-      "disabledParkingIsAvailable": true,
-      "phoneNumber": "1800 PARKING (1800 727 546)",
-      "products": [],
-      "staticMapPhoto": null,
-      "streetViewHeading": null,
-      "streetViewLocation": "https://www.google.com/maps/@?api=1&map_action=pano&pano=SVeOblGpptK5eYnov-byzg&viewpoint=-27.959059047408676,153.3778787573278&heading=42.03843674538079&pitch=2.8302320939310164&zoom=0.09353954379549878",
-      "rates": [],
-      "fromText": "From",
-      "fromPrice": "5",
-      "location": {
-        "longitude": 153.378343635645,
-        "latitude": -27.9587142423813,
-        "zoom": 13,
-        "address": "1 Wintergreen Drive, Parkwood QLD 4214",
-        "region": null
-      },
-      "openingTimes": [
-        {
-          "day_TimePeriod": "Monday",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Tuesday",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Wednesday",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Thursday",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Friday",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Saturday",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Sunday",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        }
-      ],
-      "url": "/parking-locations/queensland/parkwood/parkwood-tavern/",
-      "serviceConfiguration": {
-        "canBookABay": false,
-        "bookABayIconLabel": "Prepay Online",
-        "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": false,
-        "monthlyParkingIconLabel": "Monthly Subscription",
-        "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
-        "isWilsonOne": false,
-        "wilsonOneIconLabel": "Parking Card",
-        "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
-        "disabledParkingIsAvailable": true,
-        "disabledParkingIconLabel": "Disabled Parking",
-        "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
-        "evChargerIsAvailable": false,
-        "evChargerIconLabel": "EV Charging",
-        "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "spottIsAvailable": false,
-        "spottIconLabel": "Spott",
-        "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
-        "additionalServices": []
-      },
-      "state": null,
-      "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
-      "price": "",
-      "status": "",
-      "cpmsCarparkCode": null,
-      "externalCarParkInfo": null,
-      "featuredIndex": 0
-    },
-    {
       "name": "Gold Coast Institute of TAFE - Southport Campus Car Park",
       "bookText": null,
       "canBookABay": false,
@@ -60214,7 +60084,7 @@
       "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
-      "phoneNumber": "1800 PARKING",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": "86.6974720409574",
@@ -60225,11 +60095,11 @@
           "notes": "<p>Monday - Friday, 6am to 4pm. Rates are charged by time periods above.</p>\n<p>Enjoy greater flexibility, prepay for your Flexi Saver Parking to enter and exit at the time you need with one flat rate. Flexi Saver Rate is only available online and includes platform fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>\n<p><em>*A one hour grace period applies before your selected entry time and following your selected exit time. Prepaid parking is for one entry and one exit only.</em></p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 0.5 hrs",
+              "timeSpan": "0.0 - 0.5 hr",
               "price": 12.0
             },
             {
-              "timeSpan": "0.5 - 1.0 hrs",
+              "timeSpan": "0.5 - 1.0 hr",
               "price": 24.0
             },
             {
@@ -60248,7 +60118,7 @@
         },
         {
           "rateType": "Night",
-          "notes": "<p>Entry after 4pm &amp; exit before 6am.</p>\n<p>Online rate shown includes platform fee. Click the Prepay now link below to get started.</p>",
+          "notes": "<p>Entry after 4pm, exit before 6am the next day.</p>\n<p>Online rate shown includes platform fee. Click the <strong>Prepay Now</strong> link below to get started.</p>",
           "rates": [
             {
               "timeSpan": "Mon - Thurs",
@@ -60262,7 +60132,7 @@
         },
         {
           "rateType": "Weekend",
-          "notes": "<p>Saturday or Sunday &amp; Public Holidays.</p>\n<p>Day applies from 6:00 am - 6:00 am next day.</p>\n<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include platform fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>",
+          "notes": "<p>Saturday or Sunday &amp; Public Holidays.</p>\n<p>Pay in advance to access the best possible rates.</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include platform fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>",
           "rates": [
             {
               "timeSpan": "Weekend Day - exit before 4pm",
@@ -83803,7 +83673,7 @@
         },
         {
           "rateType": "Weekend",
-          "notes": "<p><strong>Weekends</strong>: Saturday, Sunday &amp; Public Holidays <br />Flat Rate, per exit, per day - charged from 5.15am daily</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>",
+          "notes": "<p><strong>Weekends</strong>: Saturday, Sunday &amp; Public Holidays <br />Flat Rate, per exit, per day - charged from 5.15am daily</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include platform fee.</p>",
           "rates": [
             {
               "timeSpan": "Flat Rate",
@@ -84024,7 +83894,7 @@
         },
         {
           "rateType": "Early Bird",
-          "notes": "<p>Drive up Earlybird Conditions : Enter between 6:00am and 9:30am, exit any time after 9:30am</p>\n<div class=\"\" data-block=\"true\" data-editor=\"2ql24\" data-offset-key=\"1akcde78-0-0\">\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"1akcde78-0-0\"><span data-offset-key=\"1akcde78-0-0\">Online rate shown includes&nbsp;Platform Fee.</span></div>\n</div>\n<div class=\"\" data-block=\"true\" data-editor=\"2ql24\" data-offset-key=\"8pskg444-0-0\">\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"8pskg444-0-0\"><span data-offset-key=\"8pskg444-0-0\">Click the <strong>Prepay Now</strong> link below to get started.</span></div>\n</div>",
+          "notes": "<p>Drive up Earlybird Conditions : Enter between 6:00am and 9:30am, exit any time after 9:30am</p>\n<div class=\"\" data-block=\"true\" data-editor=\"2ql24\" data-offset-key=\"1akcde78-0-0\">\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"1akcde78-0-0\"><span data-offset-key=\"1akcde78-0-0\">Online rate shown includes platform fee.</span></div>\n</div>\n<div class=\"\" data-block=\"true\" data-editor=\"2ql24\" data-offset-key=\"8pskg444-0-0\">\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"8pskg444-0-0\"><span data-offset-key=\"8pskg444-0-0\">Click the <strong>Prepay Now</strong> link below to get started.</span></div>\n</div>",
           "rates": [
             {
               "timeSpan": "Mon-Fri from",
@@ -84034,7 +83904,7 @@
         },
         {
           "rateType": "Night",
-          "notes": "<p>Enter after 4:00pm, exit before 5:00am the next day</p>\n<div class=\"\" data-block=\"true\" data-editor=\"2ql24\" data-offset-key=\"1akcde78-0-0\">\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"1akcde78-0-0\"><span data-offset-key=\"1akcde78-0-0\">Online rate shown includes Platform Fee.</span></div>\n</div>\n<div class=\"\" data-block=\"true\" data-editor=\"2ql24\" data-offset-key=\"8pskg444-0-0\">\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"8pskg444-0-0\"><span data-offset-key=\"8pskg444-0-0\">Click the <strong>Prepay Now</strong> link below to get started.</span></div>\n</div>",
+          "notes": "<p>Enter after 4:00pm, exit before 5:00am the next day</p>\n<div class=\"\" data-block=\"true\" data-editor=\"2ql24\" data-offset-key=\"1akcde78-0-0\">\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"1akcde78-0-0\"><span data-offset-key=\"1akcde78-0-0\">Online rate shown includes platform fee.</span></div>\n</div>\n<div class=\"\" data-block=\"true\" data-editor=\"2ql24\" data-offset-key=\"8pskg444-0-0\">\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"8pskg444-0-0\"><span data-offset-key=\"8pskg444-0-0\">Click the <strong>Prepay Now</strong> link below to get started.</span></div>\n</div>",
           "rates": [
             {
               "timeSpan": "Mon-Fri",
@@ -84044,7 +83914,7 @@
         },
         {
           "rateType": "Weekend",
-          "notes": "<p>Enter after 5:00am, exit before 5:00am the next day.</p>\n<div class=\"\" data-block=\"true\" data-editor=\"2ql24\" data-offset-key=\"1akcde78-0-0\">\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"1akcde78-0-0\"><span data-offset-key=\"1akcde78-0-0\">Online rate shown includes Platform Fee.</span></div>\n</div>\n<div class=\"\" data-block=\"true\" data-editor=\"2ql24\" data-offset-key=\"8pskg444-0-0\">\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"8pskg444-0-0\"><span data-offset-key=\"8pskg444-0-0\">Click the<strong> Prepay Now</strong> link below to get started.</span></div>\n</div>",
+          "notes": "<p>Enter after 5:00am, exit before 5:00am the next day.</p>\n<div class=\"\" data-block=\"true\" data-editor=\"2ql24\" data-offset-key=\"1akcde78-0-0\">\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"1akcde78-0-0\"><span data-offset-key=\"1akcde78-0-0\">Online rate shown includes platform fee.</span></div>\n</div>\n<div class=\"\" data-block=\"true\" data-editor=\"2ql24\" data-offset-key=\"8pskg444-0-0\">\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"8pskg444-0-0\"><span data-offset-key=\"8pskg444-0-0\">Click the<strong> Prepay Now</strong> link below to get started.</span></div>\n</div>",
           "rates": [
             {
               "timeSpan": "Flat",
@@ -84874,7 +84744,7 @@
         },
         {
           "rateType": "Weekend",
-          "notes": "<div class=\"\" data-block=\"true\" data-editor=\"2ql24\" data-offset-key=\"1akcde78-0-0\">\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"1akcde78-0-0\"><span data-offset-key=\"1akcde78-0-0\">Online rate shown includes transaction fee.</span></div>\n</div>\n<div class=\"\" data-block=\"true\" data-editor=\"2ql24\" data-offset-key=\"8pskg444-0-0\">\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"8pskg444-0-0\"><span data-offset-key=\"8pskg444-0-0\">Click the <strong>Pre</strong></span><strong>pay now</strong> link below to get started.</div>\n</div>",
+          "notes": "<div class=\"\" data-block=\"true\" data-editor=\"2ql24\" data-offset-key=\"1akcde78-0-0\">\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"1akcde78-0-0\"><span data-offset-key=\"1akcde78-0-0\">Online rate shown includes platform fee.</span></div>\n</div>\n<div class=\"\" data-block=\"true\" data-editor=\"2ql24\" data-offset-key=\"8pskg444-0-0\">\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"8pskg444-0-0\"><span data-offset-key=\"8pskg444-0-0\">Click the <strong>Pre</strong></span><strong>pay now</strong> link below to get started.</div>\n</div>",
           "rates": [
             {
               "timeSpan": "Flat Rate",
@@ -85348,7 +85218,7 @@
         },
         {
           "rateType": "Weekend",
-          "notes": "<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include Platform Fee.<br /><br /><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>",
+          "notes": "<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include platform fee.<br /><br /><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>",
           "rates": [
             {
               "timeSpan": "0.0 - 0.5 hrs",
@@ -85587,7 +85457,7 @@
         },
         {
           "rateType": "Weekend",
-          "notes": "<p>Flat rate per exit, per day.</p>\n<div class=\"\" data-block=\"true\" data-editor=\"2ql24\" data-offset-key=\"1akcde78-0-0\">\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"1akcde78-0-0\"><span data-offset-key=\"1akcde78-0-0\">Online rate shown includes Platform Fee.</span></div>\n</div>\n<div class=\"\" data-block=\"true\" data-editor=\"2ql24\" data-offset-key=\"8pskg444-0-0\">\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"8pskg444-0-0\"><span data-offset-key=\"8pskg444-0-0\">Click the <strong>Prepay Now</strong> link below to get started.</span></div>\n</div>",
+          "notes": "<p>Flat rate per exit, per day.</p>\n<div class=\"\" data-block=\"true\" data-editor=\"2ql24\" data-offset-key=\"1akcde78-0-0\">\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"1akcde78-0-0\"><span data-offset-key=\"1akcde78-0-0\">Online rate shown includes platform fee.</span></div>\n</div>\n<div class=\"\" data-block=\"true\" data-editor=\"2ql24\" data-offset-key=\"8pskg444-0-0\">\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"8pskg444-0-0\"><span data-offset-key=\"8pskg444-0-0\">Click the <strong>Prepay Now</strong> link below to get started.</span></div>\n</div>",
           "rates": [
             {
               "timeSpan": "Sat - Sun",
@@ -87708,7 +87578,7 @@
         },
         {
           "rateType": "Weekend",
-          "notes": "<p>*Event rates may apply.</p>\n<p>Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include Platform Fee.</p>\n<div class=\"\" data-block=\"true\" data-editor=\"3bhv2\" data-offset-key=\"8pskg444-0-0\">\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"8pskg444-0-0\">&nbsp;</div>\n</div>",
+          "notes": "<p>*Event rates may apply.</p>\n<p>Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include platform fee.</p>\n<div class=\"\" data-block=\"true\" data-editor=\"3bhv2\" data-offset-key=\"8pskg444-0-0\">\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"8pskg444-0-0\">&nbsp;</div>\n</div>",
           "rates": [
             {
               "timeSpan": "Sat - Sun",
@@ -92000,41 +91870,41 @@
           "rates": [
             {
               "timeSpan": "0.0 - 0.5 hrs",
-              "price": 6.0
+              "price": 7.0
             },
             {
               "timeSpan": "0.5 - 1.0 hrs",
-              "price": 10.0
+              "price": 11.0
             },
             {
               "timeSpan": "1.0 - 1.5 hrs",
-              "price": 12.0
+              "price": 13.0
             },
             {
               "timeSpan": "1.5 - 2.0 hrs",
-              "price": 14.0
+              "price": 15.0
             },
             {
               "timeSpan": "2.0 - 3.0 hrs",
-              "price": 16.0
+              "price": 17.0
             },
             {
               "timeSpan": "3.0 - 4.0 hrs",
-              "price": 18.0
+              "price": 19.0
             },
             {
               "timeSpan": "4.0 - 12.0 hrs",
-              "price": 20.0
+              "price": 21.0
             },
             {
               "timeSpan": "24.0 hrs MAX",
-              "price": 26.0
+              "price": 27.0
             }
           ]
         }
       ],
       "fromText": "From",
-      "fromPrice": "5",
+      "fromPrice": "6",
       "location": {
         "longitude": 115.87846353650093,
         "latitude": -31.953573857066772,
@@ -92630,31 +92500,31 @@
           "rates": [
             {
               "timeSpan": "0.0 - 0.5 hrs",
-              "price": 7.0
+              "price": 8.0
             },
             {
               "timeSpan": "0.5 - 1.0 hrs",
-              "price": 10.0
+              "price": 11.0
             },
             {
               "timeSpan": "1.0 - 2.0 hrs",
-              "price": 14.0
+              "price": 15.0
             },
             {
               "timeSpan": "2.0 - 3.0 hrs",
-              "price": 18.0
+              "price": 19.0
             },
             {
               "timeSpan": "3.0 - 4.0 hrs",
-              "price": 22.0
+              "price": 23.0
             },
             {
               "timeSpan": "4.0 - 5.0 hrs",
-              "price": 26.0
+              "price": 27.0
             },
             {
               "timeSpan": "5.0 - 10.0 hrs MAX",
-              "price": 30.0
+              "price": 31.0
             }
           ]
         },
@@ -92664,21 +92534,21 @@
           "rates": [
             {
               "timeSpan": "0.0 - 1.0 hrs",
-              "price": 2.0
-            },
-            {
-              "timeSpan": "1.0 - 2.0 hrs",
               "price": 4.0
             },
             {
+              "timeSpan": "1.0 - 2.0 hrs",
+              "price": 8.0
+            },
+            {
               "timeSpan": "2.0 - 10.0 hrs ",
-              "price": 6.0
+              "price": 10.0
             }
           ]
         }
       ],
       "fromText": "From",
-      "fromPrice": "2",
+      "fromPrice": "4",
       "location": {
         "longitude": 115.86646199226379,
         "latitude": -31.956959612084525,
@@ -94061,7 +93931,7 @@
         },
         {
           "rateType": "Night",
-          "notes": "<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"1akcde78-0-0\"><span data-offset-key=\"1akcde78-0-0\">Entry after 6pm, exit before 6am the following day.</span></div>\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"1akcde78-0-0\"><span data-offset-key=\"1akcde78-0-0\">If conditions not met, Hourly rates apply from time of entry.</span></div>\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"1akcde78-0-0\">Select the&nbsp;<strong>Prepay now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</div>\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"1akcde78-0-0\">&nbsp;</div>\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"1akcde78-0-0\">Please note car park closes at 10pm and re-opens at 4.30am the following day. No car park access during these times.</div>",
+          "notes": "<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"1akcde78-0-0\"><span data-offset-key=\"1akcde78-0-0\">Entry after 6pm, exit before 6am the following day.</span></div>\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"1akcde78-0-0\"><span data-offset-key=\"1akcde78-0-0\">If conditions not met, Hourly rates apply from time of entry.</span></div>\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"1akcde78-0-0\">Select the&nbsp;<strong>Prepay now</strong>&nbsp;link below to get started.<br />Rates shown include platform fee.</div>\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"1akcde78-0-0\">&nbsp;</div>\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"1akcde78-0-0\">Please note car park closes at 10pm and re-opens at 4.30am the following day. No car park access during these times.</div>",
           "rates": [
             {
               "timeSpan": "0.0 - 1.0 hr",
@@ -94083,7 +93953,7 @@
         },
         {
           "rateType": "Weekend",
-          "notes": "<p>Rates apply per exit, per day.</p>\n<p>Select the&nbsp;<strong>Prepay now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>\n<p>Please note car park closes at 10pm and re-opens at 4.30am the following day. No car park access during these times.</p>",
+          "notes": "<p>Rates apply per exit, per day.</p>\n<p>Select the&nbsp;<strong>Prepay now</strong>&nbsp;link below to get started.<br />Rates shown include platform fee.</p>\n<p>Please note car park closes at 10pm and re-opens at 4.30am the following day. No car park access during these times.</p>",
           "rates": [
             {
               "timeSpan": "0.0 - 1.0 hrs",
@@ -96113,27 +95983,27 @@
           "rates": [
             {
               "timeSpan": "0.0 - 0.5 hrs",
-              "price": 8.0
+              "price": 9.0
             },
             {
               "timeSpan": "0.5 - 1.0 hrs",
-              "price": 15.0
+              "price": 16.0
             },
             {
               "timeSpan": "1.0 - 1.5 hrs",
-              "price": 17.0
+              "price": 18.0
             },
             {
               "timeSpan": "1.5 - 2.0 hrs",
-              "price": 19.0
+              "price": 20.0
             },
             {
               "timeSpan": "12 hr max",
-              "price": 28.0
+              "price": 29.0
             },
             {
               "timeSpan": "24 hr max",
-              "price": 32.0
+              "price": 33.0
             }
           ]
         },
@@ -96165,7 +96035,7 @@
         }
       ],
       "fromText": "From",
-      "fromPrice": "7",
+      "fromPrice": "8",
       "location": {
         "longitude": 115.85812656560665,
         "latitude": -31.949612293521088,
@@ -96966,41 +96836,41 @@
           "rates": [
             {
               "timeSpan": "0.0 - 0.5 hrs",
-              "price": 9.0
+              "price": 10.0
             },
             {
               "timeSpan": "0.5 - 1.0 hrs",
-              "price": 13.0
+              "price": 14.0
             },
             {
               "timeSpan": "1.0 - 1.5 hrs",
-              "price": 17.0
+              "price": 18.0
             },
             {
               "timeSpan": "1.5 - 2.0 hrs",
-              "price": 20.0
+              "price": 21.0
             },
             {
               "timeSpan": "2.0 - 3.0 hrs",
-              "price": 25.0
+              "price": 26.0
             },
             {
               "timeSpan": "3.0 - 4.0 hrs",
-              "price": 30.0
+              "price": 31.0
             },
             {
               "timeSpan": "4.0 - 5.0 hrs",
-              "price": 35.0
+              "price": 36.0
             },
             {
               "timeSpan": "5.0 - 12 hrs",
-              "price": 40.0
+              "price": 41.0
             }
           ]
         }
       ],
       "fromText": "From",
-      "fromPrice": "8",
+      "fromPrice": "9",
       "location": {
         "longitude": 115.85550785064697,
         "latitude": -31.955676049531181,
@@ -97829,7 +97699,7 @@
         },
         {
           "rateType": "Night",
-          "notes": "<p>Entry after 5pm, exit before 10pm, Monday - Friday.</p>\n<p>Select the&nbsp;<strong>Prepay now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>",
+          "notes": "<p>Entry after 5pm, exit before 10pm, Monday - Friday.</p>\n<p>Select the&nbsp;<strong>Prepay now</strong>&nbsp;link below to get started.<br />Rates shown include platform fee.</p>",
           "rates": [
             {
               "timeSpan": "Mon - Fri",
@@ -97839,7 +97709,7 @@
         },
         {
           "rateType": "Weekend",
-          "notes": "<p>From 4.30am - close, per exit, per day, Saturday and Sunday.</p>\n<p>Select the&nbsp;<strong>Prepay now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>",
+          "notes": "<p>From 4.30am - close, per exit, per day, Saturday and Sunday.</p>\n<p>Select the&nbsp;<strong>Prepay now</strong>&nbsp;link below to get started.<br />Rates shown include platform fee.</p>",
           "rates": [
             {
               "timeSpan": "Sat - Sun",
@@ -98708,7 +98578,7 @@
         },
         {
           "rateType": "Night",
-          "notes": "<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"1akcde78-0-0\"><span data-offset-key=\"1akcde78-0-0\">Entry after 6pm, exit before 5am the following day.</span></div>\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"1akcde78-0-0\"><span data-offset-key=\"1akcde78-0-0\">If conditions not met, Hourly rates apply from time of entry.</span></div>\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"1akcde78-0-0\">Select the&nbsp;<strong>Prepay now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</div>",
+          "notes": "<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"1akcde78-0-0\"><span data-offset-key=\"1akcde78-0-0\">Entry after 6pm, exit before 5am the following day.</span></div>\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"1akcde78-0-0\"><span data-offset-key=\"1akcde78-0-0\">If conditions not met, Hourly rates apply from time of entry.</span></div>\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"1akcde78-0-0\">Select the&nbsp;<strong>Prepay now</strong>&nbsp;link below to get started.<br />Rates shown include platform fee.</div>",
           "rates": [
             {
               "timeSpan": "Mon - Fri",
@@ -98718,7 +98588,7 @@
         },
         {
           "rateType": "Weekend",
-          "notes": "<p>Flat Rate: per exit, per day</p>\n<p>Select the&nbsp;<strong>Prepay now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>",
+          "notes": "<p>Flat Rate: per exit, per day</p>\n<p>Select the&nbsp;<strong>Prepay now</strong>&nbsp;link below to get started.<br />Rates shown include platform fee.</p>",
           "rates": [
             {
               "timeSpan": "Sat - Sun",
@@ -98911,11 +98781,11 @@
             },
             {
               "timeSpan": "1.0 - 1.5 hrs",
-              "price": 11.0
+              "price": 12.0
             },
             {
               "timeSpan": "1.5 - 2.0 hrs",
-              "price": 12.0
+              "price": 14.0
             },
             {
               "timeSpan": "12 hr max",
@@ -98923,7 +98793,17 @@
             },
             {
               "timeSpan": "24 hr max",
-              "price": 30.0
+              "price": 32.0
+            }
+          ]
+        },
+        {
+          "rateType": "Night",
+          "notes": "<p>Rates apply Monday - Sunday</p>\n<p>&nbsp;</p>",
+          "rates": [
+            {
+              "timeSpan": "Mon - Sun",
+              "price": 15.0
             }
           ]
         }
@@ -99377,7 +99257,7 @@
         },
         {
           "rateType": "Night",
-          "notes": "<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"1akcde78-0-0\">Credit card payment only at exit.</div>\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"1akcde78-0-0\">&nbsp;</div>\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"1akcde78-0-0\">Rates apply Monday - Friday</div>\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"1akcde78-0-0\"><span data-offset-key=\"1akcde78-0-0\">Entry after 6pm, exit before 5am the following day.</span></div>\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"1akcde78-0-0\"><span data-offset-key=\"1akcde78-0-0\">If conditions not met, Hourly rates apply from time of entry.&nbsp;</span>Rates shown include transaction fee.</div>\n<p>&nbsp;</p>",
+          "notes": "<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"1akcde78-0-0\">Credit card payment only at exit.</div>\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"1akcde78-0-0\">&nbsp;</div>\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"1akcde78-0-0\">Rates apply Monday - Friday</div>\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"1akcde78-0-0\"><span data-offset-key=\"1akcde78-0-0\">Entry after 6pm, exit before 5am the following day.</span></div>\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"1akcde78-0-0\"><span data-offset-key=\"1akcde78-0-0\">If conditions not met, Hourly rates apply from time of entry.&nbsp;</span>Rates shown include platform fee.</div>\n<p>&nbsp;</p>",
           "rates": [
             {
               "timeSpan": "0.0 - 2.0 hrs",
@@ -99391,7 +99271,7 @@
         },
         {
           "rateType": "Weekend",
-          "notes": "<p>Credit card payment only at exit.</p>\n<p>Rates apply Saturday &amp; Sunday</p>\n<p>Rates shown include transaction fee.</p>",
+          "notes": "<p>Credit card payment only at exit.</p>\n<p>Rates apply Saturday &amp; Sunday</p>\n<p>Rates shown include platform fee.</p>",
           "rates": [
             {
               "timeSpan": "0.0 - 2.0 hrs",
@@ -99596,7 +99476,7 @@
         },
         {
           "rateType": "Night",
-          "notes": "<p>Rates apply Monday - Sunday.</p>\n<p>Drive up rate applies from 4pm until 12am.</p>\n<p>Select the&nbsp;<strong>Prepay now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>\n<p>&nbsp;</p>",
+          "notes": "<p>Rates apply Monday - Sunday.</p>\n<p>Drive up rate applies from 4pm until 12am.</p>\n<p>Select the&nbsp;<strong>Prepay now</strong>&nbsp;link below to get started.<br />Rates shown include platform fee.</p>\n<p>&nbsp;</p>",
           "rates": [
             {
               "timeSpan": "Mon - Fri",
@@ -99606,7 +99486,7 @@
         },
         {
           "rateType": "Weekend",
-          "notes": "<p>Saturday, Sunday &amp; Public Holidays 4:30am to 12:00am.&nbsp;</p>\n<p>Select the&nbsp;<strong>Prepay now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>",
+          "notes": "<p>Saturday, Sunday &amp; Public Holidays 4:30am to 12:00am.&nbsp;</p>\n<p>Select the&nbsp;<strong>Prepay now</strong>&nbsp;link below to get started.<br />Rates shown include platform fee.</p>",
           "rates": [
             {
               "timeSpan": "Sat - Sun",
@@ -99616,7 +99496,7 @@
         },
         {
           "rateType": "Early Bird",
-          "notes": "<p>&nbsp;</p>\n<p>Drive Up Early Bird - Enter between 4:30am - 10am, Exit between 2pm - 7pm.</p>\n<p>Online Earlybird: Entry between 4:30am &amp; 10am Monday - Friday. Exit anytime.</p>\n<p>*Online Earlybird only available when purchasing through the Wilson Parking App. Online rates includes Transaction fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a>&nbsp;to download the Wilson Parking App</p>\n<p>&nbsp;</p>",
+          "notes": "<p>&nbsp;</p>\n<p>Drive Up Early Bird - Enter between 4:30am - 10am, Exit between 2pm - 7pm.</p>\n<p>Online Earlybird: Entry between 4:30am &amp; 10am Monday - Friday. Exit anytime.</p>\n<p>*Online Earlybird only available when purchasing through the Wilson Parking App. Online rates includes platform fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a>&nbsp;to download the Wilson Parking App</p>\n<p>&nbsp;</p>",
           "rates": [
             {
               "timeSpan": "Early Bird",
@@ -100869,7 +100749,7 @@
         },
         {
           "rateType": "Night",
-          "notes": "<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"1akcde78-0-0\"><span data-offset-key=\"1akcde78-0-0\">Entry after 6pm, exit before 6am the following day.</span></div>\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"1akcde78-0-0\"><span data-offset-key=\"1akcde78-0-0\">If conditions not met, Hourly rates apply from time of entry.</span></div>\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"1akcde78-0-0\">Select the&nbsp;<strong>Prepay now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</div>",
+          "notes": "<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"1akcde78-0-0\"><span data-offset-key=\"1akcde78-0-0\">Entry after 6pm, exit before 6am the following day.</span></div>\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"1akcde78-0-0\"><span data-offset-key=\"1akcde78-0-0\">If conditions not met, Hourly rates apply from time of entry.</span></div>\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"1akcde78-0-0\">Select the&nbsp;<strong>Prepay now</strong>&nbsp;link below to get started.<br />Rates shown include platform fee.</div>",
           "rates": [
             {
               "timeSpan": "Mon - Fri",
@@ -100879,7 +100759,7 @@
         },
         {
           "rateType": "Weekend",
-          "notes": "<p>Entry from 6am. Night rates apply for entry after 6pm.</p>\n<p>Rates apply per exit, per day.</p>\n<p>Select the&nbsp;<strong>Prepay now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>",
+          "notes": "<p>Entry from 6am. Night rates apply for entry after 6pm.</p>\n<p>Rates apply per exit, per day.</p>\n<p>Select the&nbsp;<strong>Prepay now</strong>&nbsp;link below to get started.<br />Rates shown include platform fee.</p>",
           "rates": [
             {
               "timeSpan": "0.0 - 1.0 hrs",
