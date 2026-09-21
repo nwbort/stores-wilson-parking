@@ -2549,7 +2549,7 @@
       "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
-      "phoneNumber": "1800 PARKING",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": "173.3192309966516",
@@ -2557,14 +2557,14 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Hourly rates apply Monday to Sunday</p>\n<p>Rates are charged from 6am daily</p>\n<p><strong><u>Overnight</u>: Charged in additional to all vehicles left in car park past close (12am)</strong></p>",
+          "notes": "<p>Hourly rates apply Monday to Sunday</p>\n<p>Rates are charged from 6am daily</p>\n<p><strong><u>Overnight</u>: Charged in additional to all vehicles left in car park past close (12am).</strong></p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 0.5 hrs",
+              "timeSpan": "0.0 - 0.5 hr",
               "price": 20.0
             },
             {
-              "timeSpan": "0.5 - 1.0 hrs",
+              "timeSpan": "0.5 - 1.0 hr",
               "price": 40.0
             },
             {
@@ -2587,10 +2587,10 @@
         },
         {
           "rateType": "Night",
-          "notes": "<p>Entry after 5pm, exit before 12am (midnight) - Hourly rates apply if conditions are not met</p>\n<p><strong><u>Overnight</u>: Charged in additional to all vehicles left in car park past close (12am)</strong></p>\n<p>Online rates include platform fee. Click the&nbsp;<strong>Prepay now</strong>&nbsp;link below to get started</p>",
+          "notes": "<p>Entry after 5pm, exit before 12am (midnight) - Hourly rates apply if conditions are not met</p>\n<p><strong><u>Overnight</u>: Charged in additional to all vehicles left in car park past close (12am)</strong></p>\n<p>Online rates include platform fee. Click the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.</p>",
           "rates": [
             {
-              "timeSpan": "Drive up Mon - Sun",
+              "timeSpan": "Drive Up (Mon - Sun)",
               "price": 35.0
             },
             {
@@ -2601,7 +2601,7 @@
         },
         {
           "rateType": "Weekend",
-          "notes": "<p><strong><u>Drive up : Hourly rates apply Monday - Sunday</u></strong></p>\n<p><strong><u>Overnight</u>: Charged in additional to all vehicles left in car park past close (12am)</strong></p>\n<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend Rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the <strong>Prepay Now</strong> link below to get started.<br />Rates shown include platform fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>",
+          "notes": "<p><strong><u>Drive up : Hourly rates apply Monday - Sunday</u></strong></p>\n<p><strong><u>Overnight</u>: Charged in additional to all vehicles left in car park past close (12am)</strong></p>\n<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend Rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the <strong>Prepay Now</strong> link below to get started.<br />Rates shown include platform fee</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>",
           "rates": [
             {
               "timeSpan": "Overnight, add an additional charge of",
@@ -39687,7 +39687,7 @@
       "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
-      "phoneNumber": "1800 PARKING",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": "349.5287061485385",
@@ -53324,7 +53324,7 @@
       ],
       "staticMapPhoto": null,
       "streetViewHeading": "353.41345795808206",
-      "streetViewLocation": "https://www.google.com/maps/@?api=1&map_action=pano&pano=D5qFRo8NrHN4nYHB-2O89A&viewpoint=-27.48212353736587,153.01941747112733&heading=353.41345795808206&pitch=2.670350010698229",
+      "streetViewLocation": "https://www.google.com/maps/@?api=1&map_action=pano&pano=st9Igp3wLq4ix0YBbDJhjA&viewpoint=-28.122010228433876,153.4723079006214&heading=346.59509801458057&pitch=-6.348533393928022&zoom=0.9999999999999997",
       "rates": [
         {
           "rateType": "Hourly",
@@ -53356,8 +53356,8 @@
       "fromText": "From",
       "fromPrice": "4",
       "location": {
-        "longitude": 153.47201266333298,
-        "latitude": -28.121279842440973,
+        "longitude": 153.472493832983,
+        "latitude": -28.1219971711435,
         "zoom": 13,
         "address": "1118 Gold Coast Highway",
         "region": {
@@ -73155,7 +73155,7 @@
       "costCenter": 1004356,
       "direction": "Entry off Little Cribb Street",
       "heightRestriction": 2.2,
-      "information": "<p><span style=\"color: #ff1e25;\">Event Parking is available at this car park on the following dates: 29th September.<br /></span></p>\n<p>Wilson Parking offers affordable &amp; secure parking at Milton Green&nbsp;car park, located at 19 Little Cribb Street&nbsp;in the heart of Milton. Open 7 days, this undercover car park provides convenient access to nearby Suncorp Stadium and surrounding entertainment and retail precinct. Offering hourly, night and weekend parking options with discounts when you prepay online, permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the Milton Green&nbsp;car park will meet all your business and leisure parking needs.</p>",
+      "information": "<p><span style=\"color: #ff1e25;\">Event Parking is available at this car park on the following dates:&nbsp;25, 29 September.<br /></span></p>\n<p>Wilson Parking offers affordable &amp; secure parking at Milton Green&nbsp;car park, located at 19 Little Cribb Street&nbsp;in the heart of Milton. Open 7 days, this undercover car park provides convenient access to nearby Suncorp Stadium and surrounding entertainment and retail precinct. Offering hourly, night and weekend parking options with discounts when you prepay online, permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the Milton Green&nbsp;car park will meet all your business and leisure parking needs.</p>",
       "isWilsonOne": true,
       "spottIsAvailable": true,
       "legacyID": 1004356,
@@ -87741,7 +87741,7 @@
       "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
-      "phoneNumber": "1800 PARKING (1800 727 5464)",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [
         "Epark"
       ],
@@ -89127,14 +89127,14 @@
       "costCenter": 1006531,
       "direction": "34 Orr Street",
       "heightRestriction": 2.0,
-      "information": "<p>Wilson Parking offer affordable parking at Centrepoint Church Car Park, located at 34 Orr Street, Maddington. This open air car park is open 24/7 and is situated off the Olga Road exit on Albany Highway. Offering casual All Day Parking with the convenience of payment with the Wilson Parking App.</p>\n<p>Download the Wilson Parking App to easily pay for your parking directly from your phone</p>",
+      "information": "<p>Wilson Parking offer affordable parking at Centrepoint Church Car Park, located at 34 Orr Street, Maddington. This open air car park is open 24/7 and is situated off the Olga Road exit on Albany Highway. Offering casual All Day Parking with the convenience of payment with the Wilson Parking App.</p>\n<p>Download the Wilson Parking App to easily pay for your parking directly from your phone.</p>",
       "isWilsonOne": false,
       "spottIsAvailable": false,
       "legacyID": 6531,
       "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
-      "phoneNumber": "1800 PARKING (1800 727 5464)",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": null,
@@ -89280,7 +89280,7 @@
       "carParkPhoto": "/contentassets/6900c936544a44738d71f07503e7b88e/20230419_084057-002.jpg",
       "category": "",
       "costCenter": 1006384,
-      "direction": "via Leige/Grey Street at roundabout",
+      "direction": "Entry via Leige and Grey Street at roundabout",
       "heightRestriction": 0.0,
       "information": "<p>Wilson Parking offer affordable parking at Greyhounds Public Car Park, located at 1430 Albany Highway, Cannington. Open 24 hours 7 days a week, this car park provides convenient access to WA Greyhounds, Cannington Exhibition Centre and Westfield Carousel. Offering casual Hourly Parking with the convenience of payment from your phone with the Wilson Parking app, the Greyhounds Public&nbsp;Car Park will meet all your business and leisure parking needs.&nbsp;</p>\n<p><em>Download the Wilson Parking&nbsp;</em><em>app to easily pay for your parking from your phone.</em></p>",
       "isWilsonOne": false,
@@ -89289,7 +89289,7 @@
       "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
-      "phoneNumber": "1800 727 546",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": "110.33361614599188",
@@ -89444,7 +89444,7 @@
       "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": true,
-      "phoneNumber": "1800 PARKING",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": "224.49924543945073",
@@ -89598,7 +89598,7 @@
       "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
-      "phoneNumber": "1800 PARKING",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": "239.56415161108487",
@@ -89750,7 +89750,7 @@
       "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
-      "phoneNumber": "1800 PARKING (1800 727 5464)",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [
         "Epark"
       ],
@@ -89889,14 +89889,14 @@
       "costCenter": 1006333,
       "direction": "Entry via Miller Street",
       "heightRestriction": 2.2,
-      "information": "<p>Wilson Parking offer affordable parking at our Vic Quarter Car Park, located at 660 Albany Highway, Victoria Park. Open 24/7, this undercover car park is centrally located, and provides options for nearby restaurant parking and visitors to nearby businesses. Offering casual Hourly Parking, with your first hour free, the Vic Quarter Car Park will meet all your Victoria Park parking needs.</p>\n<p>Download the Wilson Parking App to easily pay for your parking from your phone.&nbsp;</p>",
+      "information": "<p>Wilson Parking offer affordable parking at our Vic Quarter Car Park, located at 660 Albany Highway, Victoria Park. Open 24/7, this undercover car park is centrally located, and provides options for nearby restaurant parking and visitors to nearby businesses. Offering casual Hourly Parking, with your first hour free, the Vic Quarter Car Park will meet all your Victoria Park parking needs.</p>\n<p>Download the Wilson Parking App to easily pay for your parking from your phone.</p>",
       "isWilsonOne": false,
       "spottIsAvailable": false,
       "legacyID": 710,
       "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
-      "phoneNumber": "1800 PARKING",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": "344.9292510416444",
@@ -89904,30 +89904,30 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Rates apply Monday - Sunday, Max stay 12 hours.</p>\n<p>*Online rate only available when purchasing through the Wilson Parking App. Online rates includes Transaction fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a> to download the Wilson Parking App</p>",
+          "notes": "<p>Rates apply Monday - Sunday, Max stay 12 hours.</p>\n<p>*Online rate only available when purchasing through the Wilson Parking App. Online rates includes platform fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a> to download the Wilson Parking App.</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 1.0 hour",
+              "timeSpan": "0.0 - 1.0 hr",
               "price": 0.0
             },
             {
-              "timeSpan": "1.0 - 2.0 hours",
+              "timeSpan": "1.0 - 2.0 hrs",
               "price": 2.0
             },
             {
-              "timeSpan": "2.0 - 3.0 hours",
+              "timeSpan": "2.0 - 3.0 hrs",
               "price": 4.0
             },
             {
-              "timeSpan": "3.0 - 4.0 hours",
+              "timeSpan": "3.0 - 4.0 hrs",
               "price": 6.0
             },
             {
-              "timeSpan": "4.0 - 5.0 hours",
+              "timeSpan": "4.0 - 5.0 hrs",
               "price": 9.0
             },
             {
-              "timeSpan": "5.0 - 12.0 hours Max",
+              "timeSpan": "5.0 - 12.0 hrs max",
               "price": 12.0
             }
           ]
@@ -90313,7 +90313,7 @@
       "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
-      "phoneNumber": "1800 PARKING",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": "175.75611645843412",
@@ -90321,7 +90321,7 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Rates apply Monday - Sunday.</p>\n<p>*Online rate only available when purchasing through the Wilson Parking App. Online rates includes Transaction fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a> to download the Wilson Parking App</p>",
+          "notes": "<p>Rates apply Monday - Sunday.</p>\n<p>*Online rate only available when purchasing through the Wilson Parking App. Online rates includes platform fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a> to download the Wilson Parking App.</p>",
           "rates": [
             {
               "timeSpan": "0.0 - 1.0 hr",
@@ -90332,7 +90332,7 @@
               "price": 2.0
             },
             {
-              "timeSpan": "2.0 - 12 hrs (Max)",
+              "timeSpan": "2.0 - 12.0 hrs max",
               "price": 3.0
             }
           ]
@@ -90487,7 +90487,7 @@
       "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
-      "phoneNumber": null,
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": null,
@@ -90773,14 +90773,14 @@
       "costCenter": 1006272,
       "direction": "Enter via Eighth Avenue.",
       "heightRestriction": 0.0,
-      "information": "<p>Wilson Parking offer affordable parking at 43 Eighth Avenue Car Park, located at 43 Eighth Ave, Maylands. This open air car park is open 24/7 and is situated on the main street of Maylands, within waking distance of popular cafes and unique shops. Offering casual Hourly Parking, with your first hour free, and the convenience of payment with the Wilson Parking App, the 43 Eighth Ave Car Park will meet all your Maylands parking needs.&nbsp;</p>\n<p>Download the Wilson Parking App to easily pay for your parking directly from your phone.&nbsp;</p>",
+      "information": "<p>Wilson Parking offer affordable parking at 43 Eighth Avenue Car Park, located at 43 Eighth Ave, Maylands. This open air car park is open 24/7 and is situated on the main street of Maylands, within waking distance of popular cafes and unique shops. Offering casual Hourly Parking, with your first hour free, and the convenience of payment with the Wilson Parking App, the 43 Eighth Ave Car Park will meet all your Maylands parking needs.&nbsp;</p>\n<p>Download the Wilson Parking App to easily pay for your parking directly from your phone.</p>",
       "isWilsonOne": false,
       "spottIsAvailable": false,
       "legacyID": 621,
       "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
-      "phoneNumber": "1800 PARKING",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": "201.29900066387222",
@@ -90788,7 +90788,7 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Rates apply Monday - Sunday</p>\n<p>To apply for 1 hr FREE parking enter rego at the pay machine. Pay by Plate parking.</p>\n<p>*Online rate only available when purchasing through the Wilson Parking App. Online rates includes Transaction fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a> to download the Wilson Parking App</p>",
+          "notes": "<p>Rates apply Monday - Sunday</p>\n<p>To apply for 1 hr FREE parking enter rego at the pay machine. Pay by Plate parking.</p>\n<p>*Online rate only available when purchasing through the Wilson Parking App. Online rates includes platform fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a> to download the Wilson Parking App.</p>",
           "rates": [
             {
               "timeSpan": "0.0 - 1.0 hr",
@@ -90959,14 +90959,14 @@
       "costCenter": 1006374,
       "direction": "Entry via Ellard Lane\n",
       "heightRestriction": 0.0,
-      "information": "<p>Wilson Parking offer affordable parking at 66a Seventh Ave Car Park, located at 66a Seventh Ave, Maylands. Open 24 hours, 7 days a week, this car park provides convenient access to nearby Maylands businesses. Offering casual Hourly parking, the 66a Seventh Ave&nbsp;Car Park will meet all your business and leisure parking needs.&nbsp;</p>\n<p>Download the Wilson Parking App to easily pay for your parking directly from your phone.&nbsp;</p>",
+      "information": "<p>Wilson Parking offer affordable parking at 66a Seventh Ave Car Park, located at 66a Seventh Ave, Maylands. Open 24 hours, 7 days a week, this car park provides convenient access to nearby Maylands businesses. Offering casual Hourly parking, the 66a Seventh Ave&nbsp;Car Park will meet all your business and leisure parking needs.&nbsp;</p>\n<p>Download the Wilson Parking App to easily pay for your parking directly from your phone.</p>",
       "isWilsonOne": false,
       "spottIsAvailable": false,
       "legacyID": 812,
       "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
-      "phoneNumber": "1800 727 546",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": "45.43620957820491",
@@ -90974,7 +90974,7 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>*Online rate only available when purchasing through the Wilson Parking App. Online rates includes Transaction fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a> to download the Wilson Parking App</p>",
+          "notes": "<p>*Online rate only available when purchasing through the Wilson Parking App. Online rates includes platform fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a> to download the Wilson Parking App.</p>",
           "rates": [
             {
               "timeSpan": "0.0 - 1.0 hr",
@@ -90997,7 +90997,7 @@
               "price": 12.0
             },
             {
-              "timeSpan": "5 - 12 hrs",
+              "timeSpan": "5.0 - 12.0 hrs",
               "price": 20.0
             },
             {
@@ -91168,14 +91168,14 @@
       "costCenter": 1006497,
       "direction": "Entry via Eighth Ave",
       "heightRestriction": 0.0,
-      "information": "<p>Wilson Parking offer affordable parking at 73 Eighth Ave Car Park, located at 73 Eighth Ave, Maylands. Open 7 days a week, this car park provides convenient access to nearby Maylands businesses. Offering casual Hourly parking, the 73 Eighth Ave Car Park will meet all your business and leisure parking needs.&nbsp;</p>\n<p>Download the Wilson Parking App to easily pay for your parking from your phone.</p>\n<p>&nbsp;</p>",
+      "information": "<p>Wilson Parking offer affordable parking at 73 Eighth Ave Car Park, located at 73 Eighth Ave, Maylands. Open 7 days a week, this car park provides convenient access to nearby Maylands businesses. Offering casual Hourly parking, the 73 Eighth Ave Car Park will meet all your business and leisure parking needs.&nbsp;</p>\n<p>Download the Wilson Parking App to easily pay for your parking from your phone.</p>",
       "isWilsonOne": false,
       "spottIsAvailable": false,
       "legacyID": 6497,
       "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
-      "phoneNumber": "1800 PARKING (1800 727 5464)",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [
         "Epark"
       ],
@@ -91185,10 +91185,10 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>*Online rate only available when purchasing through the Wilson Parking App. Online rates includes Transaction fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a> to download the Wilson Parking App</p>",
+          "notes": "<p>*Online rate only available when purchasing through the Wilson Parking App. Online rates includes platform fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a> to download the Wilson Parking App.</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 1.0hrs",
+              "timeSpan": "0.0 - 1.0 hr",
               "price": 4.0
             },
             {
@@ -91482,14 +91482,14 @@
       "costCenter": 1006377,
       "direction": "Entry via Eighth Ave",
       "heightRestriction": 0.0,
-      "information": "<p>Wilson Parking offer affordable parking at 89 Eighth Ave Car Park, located at 89 Eighth Ave, Maylands. Open 7 days a week, this car park provides convenient access to nearby Maylands businesses. Offering casual Hourly parking, the 89 Eighth Ave Car Park will meet all your business and leisure parking needs.&nbsp;</p>\n<p>Download the Wilson Parking App to eaisly pay for your parking from your phone.</p>\n<p>&nbsp;</p>",
+      "information": "<p>Wilson Parking offer affordable parking at 89 Eighth Ave Car Park, located at 89 Eighth Ave, Maylands. Open 7 days a week, this car park provides convenient access to nearby Maylands businesses. Offering casual Hourly parking, the 89 Eighth Ave Car Park will meet all your business and leisure parking needs.&nbsp;</p>\n<p>Download the Wilson Parking App to eaisly pay for your parking from your phone.</p>",
       "isWilsonOne": false,
       "spottIsAvailable": false,
       "legacyID": 815,
       "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
-      "phoneNumber": "1800 PARKING (1800 727 5464)",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [
         "Epark"
       ],
@@ -91499,7 +91499,7 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Monday - Sunday, 2 hours max.</p>\n<p>*Online rate only available when purchasing through the Wilson Parking App. Online rates includes Transaction fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a> to download the Wilson Parking App</p>",
+          "notes": "<p>Monday - Sunday, 2 hours max</p>\n<p>*Online rate only available when purchasing through the Wilson Parking App. Online rates includes platform fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a> to download the Wilson Parking App.</p>",
           "rates": [
             {
               "timeSpan": "0.0 - 0.5 hr",
@@ -91663,7 +91663,7 @@
       "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
-      "phoneNumber": "1800 PARKING",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": "147.07255271682527",
@@ -91671,7 +91671,7 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Rates apply Monday - Sunday.</p>\n<p>For the free period you must register your vehicle number plate at the machine or through the Wilson Parking App to be eligible.</p>\n<p>Only one free period per day.</p>\n<p>*Online rate only available when purchasing through the Wilson Parking App. Online rates includes Transaction fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a> to download the Wilson Parking App</p>",
+          "notes": "<p>Rates apply Monday - Sunday.</p>\n<p>For the free period you must register your vehicle number plate at the machine or through the Wilson Parking App to be eligible.</p>\n<p>Only one free period per day.</p>\n<p>*Online rate only available when purchasing through the Wilson Parking App. Online rates includes platform fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a> to download the Wilson Parking App.</p>",
           "rates": [
             {
               "timeSpan": "0.0 - 0.5 hr",
@@ -91858,7 +91858,7 @@
       "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": true,
-      "phoneNumber": "1800 PARKING",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": "177.6689443064035",
@@ -91866,14 +91866,14 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Rates apply Monday - Sunday.</p>\n<p>*Online rate only available when purchasing through the Wilson Parking App. Online rates includes Transaction fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a> to download the Wilson Parking App</p>",
+          "notes": "<p>Rates apply Monday - Sunday.</p>\n<p>*Online rate only available when purchasing through the Wilson Parking App. Online rates includes platform fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a> to download the Wilson Parking App.</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 0.5 hrs",
+              "timeSpan": "0.0 - 0.5 hr",
               "price": 7.0
             },
             {
-              "timeSpan": "0.5 - 1.0 hrs",
+              "timeSpan": "0.5 - 1.0 hr",
               "price": 11.0
             },
             {
@@ -91897,7 +91897,7 @@
               "price": 21.0
             },
             {
-              "timeSpan": "24.0 hrs MAX",
+              "timeSpan": "24.0 hrs max",
               "price": 27.0
             }
           ]
@@ -92062,14 +92062,14 @@
       "costCenter": 1006199,
       "direction": "Entry to the car park via Bennett Street\n\n",
       "heightRestriction": 2.1,
-      "information": "<p>Wilson Parking offer affordable parking at the Bennett Street Car Park which is located at 6-8 Bennett Street, East Perth. This undercover car park is open 7 days and offers convenient parking for Langley Park and WACA Events. Offering casual Hourly, Early Bird, Online Flexi Saver, Night and Weekend parking, or permanent monthly parking for regular parkers, the Bennett St car park will meet all your East Perth parking needs.&nbsp;</p>\n<p>Enjoy unlimited 24/7 access to the car park when you subscribe to monthly parking, or pay as you go on one monthly invoice when you access the car park with your Wilson Parking Card. We also offer a Motorcycle rate when purchased through the Wilson Parking App.</p>\n<p>&nbsp;</p>",
+      "information": "<p>Wilson Parking offer affordable parking at the Bennett Street Car Park which is located at 6-8 Bennett Street, East Perth. This undercover car park is open 7 days and offers convenient parking for Langley Park and WACA Events. Offering casual Hourly, Early Bird, Online Flexi Saver, Night and Weekend parking, or permanent monthly parking for regular parkers, the Bennett St car park will meet all your East Perth parking needs.&nbsp;</p>\n<p>Enjoy unlimited 24/7 access to the car park when you subscribe to monthly parking, or pay as you go on one monthly invoice when you access the car park with your Wilson Parking Card. We also offer a Motorcycle rate when purchased through the Wilson Parking App.</p>",
       "isWilsonOne": true,
       "spottIsAvailable": false,
       "legacyID": 451,
       "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": true,
-      "phoneNumber": "1800 PARKING",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": "69.08524521524842",
@@ -92080,11 +92080,11 @@
           "notes": "<p>Rates apply, 6am - 6pm. Monday - Friday</p>\n<p>Night rates apply from 6pm onwards.</p>\n<p>Price shown includes platform fee.</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 0.50 hrs",
+              "timeSpan": "0.0 - 0.50 hr",
               "price": 4.0
             },
             {
-              "timeSpan": "0.50 - 1.0 hrs",
+              "timeSpan": "0.50 - 1.0 hr",
               "price": 8.0
             },
             {
@@ -92115,7 +92115,7 @@
         },
         {
           "rateType": "Night",
-          "notes": "<p>Entry after 6pm and exit before 6am, Monday - Sunday</p>\n<p>Casual rates apply from 6am</p>",
+          "notes": "<p>Entry after 6pm and exit before 6am, Monday - Sunday</p>\n<p>Casual rates apply from 6am.</p>",
           "rates": [
             {
               "timeSpan": "Mon - Sun",
@@ -92125,7 +92125,7 @@
         },
         {
           "rateType": "Weekend",
-          "notes": "<p>Weekend &amp; Public Holidays 6am to 6pm</p>\n<p>Night rates apply from 6pm</p>",
+          "notes": "<p>Weekend &amp; Public Holidays 6am to 6pm</p>\n<p>Night rates apply from 6pm.</p>",
           "rates": [
             {
               "timeSpan": "Sat - Sun",
@@ -92297,7 +92297,7 @@
       "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": true,
-      "phoneNumber": "1800 PARKING",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": "283.62006851998194",
@@ -92305,10 +92305,10 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Rates apply Monday to Friday, 7am - 6pm.</p>\n<p>*Online rate only available when purchasing through the Wilson Parking App. Online rates includes Transaction fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a> to download the Wilson Parking App</p>",
+          "notes": "<p>Rates apply Monday to Friday, 7am - 6pm.</p>\n<p>*Online rate only available when purchasing through the Wilson Parking App. Online rates includes platform fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a> to download the Wilson Parking App.</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 45mins",
+              "timeSpan": "0.0 -  45 mins",
               "price": 0.0
             },
             {
@@ -92707,7 +92707,7 @@
       "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": true,
-      "phoneNumber": "1800 PARKING",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": "84.77806718981364",
@@ -92715,10 +92715,10 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Rates apply Monday - Sunday.</p>\n<p>Max stay 10hrs.</p>\n<p>*Online rate only available when purchasing through the Wilson Parking App. Online rates includes Transaction fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a> to download the Wilson Parking App</p>",
+          "notes": "<p>Rates apply Monday - Sunday.</p>\n<p>Max stay 10hrs.</p>\n<p>*Online rate only available when purchasing through the Wilson Parking App. Online rates includes platform fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a> to download the Wilson Parking App.</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 1.0 hrs",
+              "timeSpan": "0.0 - 1.0 hr",
               "price": 3.0
             },
             {
@@ -92738,7 +92738,7 @@
               "price": 12.0
             },
             {
-              "timeSpan": "5.0 - 10.0 hrs MAX",
+              "timeSpan": "5.0 - 10.0 hrs max",
               "price": 14.0
             }
           ]
@@ -93102,14 +93102,14 @@
       "costCenter": 1006119,
       "direction": "Entry via Pier Street\n\nParking for Motorcycles only. Check the other 130-144 Stirling St (Hatch) car park for other parking options",
       "heightRestriction": 2.2,
-      "information": "<p>Wilson Parking offer affordable motorcycle parking at our 130-144 Stirling Street (Hatch) Car Park, located at 130-144 Stirling St, Perth. Open 7 days, with a convenient entry off Pier St.</p>\n<p>Download the Wilson Parking App to pay for and manage your Motorcycle parking all from your phone.&nbsp;</p>\n<p>Looking for car parking at 130-144 Stirling St (Hatch) - check out our other parking options&nbsp;<a href=\"/link/f44f9f58d86e473baae5c14a7030fc8a.aspx\">here</a></p>\n<p>&nbsp;</p>",
+      "information": "<p>Wilson Parking offer affordable motorcycle parking at our 130-144 Stirling Street (Hatch) Car Park, located at 130-144 Stirling St, Perth. Open 7 days, with a convenient entry off Pier St.</p>\n<p>Download the Wilson Parking App to pay for and manage your Motorcycle parking all from your phone.&nbsp;</p>\n<p>Looking for car parking at 130-144 Stirling St (Hatch) - check out our other parking options&nbsp;<a href=\"/link/f44f9f58d86e473baae5c14a7030fc8a.aspx\">here.</a></p>\n<p>&nbsp;</p>",
       "isWilsonOne": false,
       "spottIsAvailable": false,
       "legacyID": 1006119,
       "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
-      "phoneNumber": "1800 PARKING",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": "279.11786116386156",
@@ -93487,7 +93487,7 @@
       "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
-      "phoneNumber": "1800 PARKING",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": "311.6766112170791",
@@ -93495,7 +93495,7 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Rates available Monday - Sunday</p>\n<p>*Hourly rates only available at the pay machine*</p>",
+          "notes": "<p>Rates available Monday - Sunday</p>\n<p>*Hourly rates only available at the pay machine</p>",
           "rates": [
             {
               "timeSpan": "0.0 - 1.0 hr",
@@ -93659,14 +93659,14 @@
       "costCenter": 1006157,
       "direction": "Entry to carpark from Wellington Street (Eastbound only).",
       "heightRestriction": 0.0,
-      "information": "<p>Wilson Parking offer affordable parking at 306 Wellington St Car Park, located at 306 Wellington St, Perth. Open 24/7, this open air car park provides parking for the nearby Royal Perth Hospital and other nearby Perth businesses. Offering casual Hourly Parking, and the convenience of payments through the Wilson Parking App, the 306 Wellington St Car Park will meet all of your parking needs.</p>\n<p>Download the Wilson Parking app to easily pay for your parking directly from your phone.&nbsp;</p>",
+      "information": "<p>Wilson Parking offer affordable parking at 306 Wellington St Car Park, located at 306 Wellington St, Perth. Open 24/7, this open air car park provides parking for the nearby Royal Perth Hospital and other nearby Perth businesses. Offering casual Hourly Parking, and the convenience of payments through the Wilson Parking App, the 306 Wellington St Car Park will meet all of your parking needs.</p>\n<p>Download the Wilson Parking app to easily pay for your parking directly from your phone.</p>",
       "isWilsonOne": false,
       "spottIsAvailable": false,
       "legacyID": 225,
       "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": true,
-      "phoneNumber": "1800 PARKING",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": "9.161086165049335",
@@ -93674,10 +93674,10 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Rates apply Monday - Sunday</p>\n<p>*Online rate only available when purchasing through the Wilson Parking App. Online rates includes Transaction fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a> to download the Wilson Parking App</p>",
+          "notes": "<p>Rates apply Monday - Sunday</p>\n<p>*Online rate only available when purchasing through the Wilson Parking App. Online rates includes platform fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a> to download the Wilson Parking App.</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 1.0 hrs",
+              "timeSpan": "0.0 - 1.0 hr",
               "price": 6.0
             },
             {
@@ -93708,17 +93708,17 @@
         },
         {
           "rateType": "Night",
-          "notes": "<p>Entry after 6pm &amp; Exit before midnight, Monday - Friday.</p>\n<p>Select the&nbsp;<strong>Prepay now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>",
+          "notes": "<p>Entry after 6pm &amp; Exit before midnight, Monday - Friday.</p>\n<p>Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include platform fee.</p>",
           "rates": [
             {
-              "timeSpan": "Mon-Fri",
+              "timeSpan": "Mon - Fri",
               "price": 15.0
             }
           ]
         },
         {
           "rateType": "Weekend",
-          "notes": "<p>Rate applies Saturday, Sunday &amp; Public Holidays. Flat rate, per exit, per day.</p>\n<p>Select the&nbsp;<strong>Prepay now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>",
+          "notes": "<p>Rate applies Saturday, Sunday &amp; Public Holidays. Flat rate, per exit, per day.</p>\n<p>Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include platform fee.</p>",
           "rates": [
             {
               "timeSpan": "Sat - Sun",
@@ -93897,7 +93897,7 @@
       "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": true,
-      "phoneNumber": "1800 PARKING",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": "156.42632330546792",
@@ -93908,7 +93908,7 @@
           "notes": "<p>Rates apply Monday - Friday. Night rates apply from 6pm.</p>\n<p>Please note car park closes at 10pm and re-opens at 4.30am the following day. No car park access during these times.</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 1.0 hrs",
+              "timeSpan": "0.0 - 1.0 hr",
               "price": 4.0
             },
             {
@@ -93931,7 +93931,7 @@
         },
         {
           "rateType": "Night",
-          "notes": "<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"1akcde78-0-0\"><span data-offset-key=\"1akcde78-0-0\">Entry after 6pm, exit before 6am the following day.</span></div>\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"1akcde78-0-0\"><span data-offset-key=\"1akcde78-0-0\">If conditions not met, Hourly rates apply from time of entry.</span></div>\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"1akcde78-0-0\">Select the&nbsp;<strong>Prepay now</strong>&nbsp;link below to get started.<br />Rates shown include platform fee.</div>\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"1akcde78-0-0\">&nbsp;</div>\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"1akcde78-0-0\">Please note car park closes at 10pm and re-opens at 4.30am the following day. No car park access during these times.</div>",
+          "notes": "<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"1akcde78-0-0\"><span data-offset-key=\"1akcde78-0-0\">Entry after 6pm, exit before 6am the following day.</span></div>\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"1akcde78-0-0\"><span data-offset-key=\"1akcde78-0-0\"><br />If conditions not met, Hourly rates apply from time of entry.</span></div>\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"1akcde78-0-0\"><br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include platform fee.</div>\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"1akcde78-0-0\">&nbsp;</div>\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"1akcde78-0-0\">Please note car park closes at 10pm and re-opens at 4.30am the following day. No car park access during these times.</div>",
           "rates": [
             {
               "timeSpan": "0.0 - 1.0 hr",
@@ -93946,17 +93946,17 @@
               "price": 9.0
             },
             {
-              "timeSpan": "3.0 hrs +",
+              "timeSpan": "3.0 + hrs",
               "price": 10.0
             }
           ]
         },
         {
           "rateType": "Weekend",
-          "notes": "<p>Rates apply per exit, per day.</p>\n<p>Select the&nbsp;<strong>Prepay now</strong>&nbsp;link below to get started.<br />Rates shown include platform fee.</p>\n<p>Please note car park closes at 10pm and re-opens at 4.30am the following day. No car park access during these times.</p>",
+          "notes": "<p>Rates apply per exit, per day.</p>\n<p>Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include platform fee.</p>\n<p>Please note car park closes at 10pm and re-opens at 4.30am the following day. No car park access during these times.</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 1.0 hrs",
+              "timeSpan": "0.0 - 1.0 hr",
               "price": 3.0
             },
             {
@@ -93968,7 +93968,7 @@
               "price": 9.0
             },
             {
-              "timeSpan": "3.0 hrs +",
+              "timeSpan": "3.0 + hrs",
               "price": 10.0
             }
           ]
@@ -94146,7 +94146,7 @@
       "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": true,
-      "phoneNumber": "1800 PARKING",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": "147.00507537191612",
@@ -94157,11 +94157,11 @@
           "notes": "<p>Rates apply Monday - Friday, 6am-5pm. Night rates applies after 5pm.</p>\n<p>Motorcycle Parking: Must be pre-purchased through the Pay by Plate Machine located near the Motorcycle bays. Must be parked in a designated Motorbike bay.&nbsp;</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 0.5 hrs",
+              "timeSpan": "0.0 - 0.5 hr",
               "price": 10.0
             },
             {
-              "timeSpan": "0.5 - 1.0 hrs",
+              "timeSpan": "0.5 - 1.0 hr",
               "price": 16.0
             },
             {
@@ -94192,7 +94192,7 @@
         },
         {
           "rateType": "Night",
-          "notes": "<p>Rate applies from 5pm and exit before 6am, Monday to Sunday. Casual rates apply from 6am.</p>\n<p>Select the&nbsp;<strong>Prepay now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>",
+          "notes": "<p>Rate applies from 5pm and exit before 6am, Monday to Sunday. Casual rates apply from 6am.</p>\n<p>Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include platform fee.</p>",
           "rates": [
             {
               "timeSpan": "Mon - Sun",
@@ -94202,7 +94202,7 @@
         },
         {
           "rateType": "Weekend",
-          "notes": "<p>Between 6am and 5pm. Night Rates apply from 5pm onwards.</p>\n<p>Select the&nbsp;<strong>Prepay now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>",
+          "notes": "<p>Between 6am and 5pm. Night Rates apply from 5pm onwards.</p>\n<p>Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include platform fee.</p>",
           "rates": [
             {
               "timeSpan": "0.0 - 2.0 hrs",
@@ -94358,14 +94358,14 @@
       "costCenter": 1006113,
       "direction": "Entry via Hay Street or Pier Street\n",
       "heightRestriction": 2.0,
-      "information": "<p>Wilson Parking offer affordable motorcycle parking at Kings Complex Car Park, located at 517 Hay Street, Perth.&nbsp;The car park offers two convenient entries. Enter via Hay St or Pier Street, heading southbound, after the Hay Street intersection.</p>\n<p>Download the Wilson Parking App to pay for and manage your motorbike parking directly from your phone.</p>\n<p>Looking for car parking at 517 Hay St - check out our other parking options <a href=\"/link/3ef8101d1faa416f9c4c38f70f5c8d40.aspx\" target=\"_top\">here</a></p>",
+      "information": "<p>Wilson Parking offer affordable motorcycle parking at Kings Complex Car Park, located at 517 Hay Street, Perth.&nbsp;The car park offers two convenient entries. Enter via Hay St or Pier Street, heading southbound, after the Hay Street intersection.</p>\n<p>Download the Wilson Parking App to pay for and manage your motorbike parking directly from your phone.</p>\n<p>Looking for car parking at 517 Hay St - check out our other parking options <a href=\"/link/3ef8101d1faa416f9c4c38f70f5c8d40.aspx\" target=\"_top\">here.</a></p>",
       "isWilsonOne": false,
       "spottIsAvailable": false,
       "legacyID": 1006113,
       "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
-      "phoneNumber": "1800 PARKING",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": "147.00507537191612",
@@ -94519,7 +94519,7 @@
       "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
-      "phoneNumber": "1800 PARKING",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": "84.65472552140129",
@@ -94527,10 +94527,10 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Pay by Plate parking, available Monday - Friday.</p>\n<p>*Online rate only available when purchasing through the Wilson Parking App. Online rates includes Transaction fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a> to download the Wilson Parking App</p>",
+          "notes": "<p>Pay by Plate parking, available Monday - Friday.</p>\n<p>*Online rate only available when purchasing through the Wilson Parking App. Online rates includes platform fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a> to download the Wilson Parking App.</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 1.0 hrs",
+              "timeSpan": "0.0 - 1.0 hr",
               "price": 4.0
             },
             {
@@ -94550,14 +94550,14 @@
               "price": 17.0
             },
             {
-              "timeSpan": "5.0 - 12.0 hrs MAX",
+              "timeSpan": "5.0 - 12.0 hrs max",
               "price": 21.0
             }
           ]
         },
         {
           "rateType": "Weekend",
-          "notes": "<p>Rates applies per exit, per day, Saturday and Sunday.</p>\n<p>*Online rate only available when purchasing through the Wilson Parking App. Online rates includes Transaction fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a> to download the Wilson Parking App</p>",
+          "notes": "<p>Rates applies per exit, per day, Saturday and Sunday.</p>\n<p>*Online rate only available when purchasing through the Wilson Parking App. Online rates includes platform fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a> to download the Wilson Parking App.</p>",
           "rates": [
             {
               "timeSpan": "Flat Rate",
@@ -94718,14 +94718,14 @@
       "costCenter": 1006147,
       "direction": "Cnr Beaufort & Newcastle St, behind IGA Supermarket ",
       "heightRestriction": 2.1,
-      "information": "<p>Wilson Parking offer affordable parking at Tyne Square Car Park, located at 154 Newcastle Street, Northbridge. With entrances from both Newcastle St and Lindsay St, the open air area of the car park is open 24/7, with the undercover area accessible 7 days, with limited hours, this car park provides parking options for workers and visitors to local businesses and retail, and the nearby Weld Square. Offering casual Hourly parking, all week, including weekends and nights, the Tyne Square Car Park will meet all of your parking needs.</p>\n<p>Download the Wilson Parking app to easily pay for your parking directly from your phone.&nbsp;</p>",
+      "information": "<p>Wilson Parking offer affordable parking at Tyne Square Car Park, located at 154 Newcastle Street, Northbridge. With entrances from both Newcastle St and Lindsay St, the open air area of the car park is open 24/7, with the undercover area accessible 7 days, with limited hours, this car park provides parking options for workers and visitors to local businesses and retail, and the nearby Weld Square. Offering casual Hourly parking, all week, including weekends and nights, the Tyne Square Car Park will meet all of your parking needs.</p>\n<p>Download the Wilson Parking app to easily pay for your parking directly from your phone.</p>",
       "isWilsonOne": false,
       "spottIsAvailable": false,
       "legacyID": 171,
       "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": true,
-      "phoneNumber": "1800 PARKING",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": "294.5557944255142",
@@ -94733,14 +94733,14 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>First 45 minutes free with displayed ticket.</p>\n<p>Open air parking available 24/7. Undercover parking please refer to opening hours.</p>\n<p>*Online rate only available when purchasing through the Wilson Parking App. Online rates includes Transaction fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a> to download the Wilson Parking App</p>",
+          "notes": "<p>First 45 minutes free with displayed ticket.</p>\n<p>Open air parking available 24/7. Undercover parking please refer to opening hours.</p>\n<p>*Online rate only available when purchasing through the Wilson Parking App. Online rates includes platform fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a> to download the Wilson Parking App.</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 0.75 hrs",
+              "timeSpan": "0.0 - 0.75 hr",
               "price": 0.0
             },
             {
-              "timeSpan": "0.75 - 2.0 hrs",
+              "timeSpan": "0.75 - 2.0 hr",
               "price": 7.0
             },
             {
@@ -94902,14 +94902,14 @@
       "costCenter": 1006263,
       "direction": "Entry via Francis Street\n</br></br>This car park is for visitors to The Old Swan Barracks only.</br>\n\n",
       "heightRestriction": 3.0,
-      "information": "<p>Offering affordable parking at The Old Swan Barracks&nbsp;Car Park, located at 2 Francis Street in the heart of Northbridge region. This car park provides convenient parking for visitors to The Old Swan Barracks. Offering Hourly Parking options with the convenience of payment from your phone with the Wilson Parking App, the The Old Swan Barracks&nbsp;Car Park will meet all your parking needs.&nbsp;</p>",
+      "information": "<p>Offering affordable parking at The Old Swan Barracks&nbsp;Car Park, located at 2 Francis Street in the heart of Northbridge region. This car park provides convenient parking for visitors to The Old Swan Barracks. Offering Hourly Parking options with the convenience of payment from your phone with the Wilson Parking App, the The Old Swan Barracks&nbsp;Car Park will meet all your parking needs.</p>",
       "isWilsonOne": false,
       "spottIsAvailable": false,
       "legacyID": 6263,
       "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
-      "phoneNumber": "1800 PARKING (1800 727 5464)",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": "115.8618834",
@@ -94917,7 +94917,7 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Vistors only parking.</p>\n<p>Rates apply Monday - Friday, 7am-5pm.&nbsp;</p>\n<p>This site accepts payments through the Wilson Parking app.</p>\n<p>*Online rate only available when purchasing through the Wilson Parking App. Online rates includes Transaction fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a>&nbsp;to download the Wilson Parking App</p>",
+          "notes": "<p>Vistors only parking.</p>\n<p>Rates apply Monday - Friday, 7am-5pm.&nbsp;</p>\n<p>This site accepts payments through the Wilson Parking app.</p>\n<p>*Online rate only available when purchasing through the Wilson Parking App. Online rates includes platform fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a>&nbsp;to download the Wilson Parking App.</p>",
           "rates": [
             {
               "timeSpan": "0.0 - 1.0 hr",
@@ -95090,7 +95090,7 @@
       "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": true,
-      "phoneNumber": "1800 PARKING",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": "63.12627033123411",
@@ -95098,18 +95098,18 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Rates apply Monday - Sunday.</p>\n<p>Hotel patrons, please keep your receipt and present to hotel staff to receive discount on parking.</p>\n<p>*Online rate only available when purchasing through the Wilson Parking App. Online rates includes Transaction fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a> to download the Wilson Parking App</p>",
+          "notes": "<p>Rates apply Monday - Sunday</p>\n<p>Hotel patrons, please keep your receipt and present to hotel staff to receive discount on parking.</p>\n<p>*Online rate only available when purchasing through the Wilson Parking App. Online rates includes platform fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a> to download the Wilson Parking App.</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 10mins",
+              "timeSpan": "0.0 - 10.0 mins",
               "price": 0.0
             },
             {
-              "timeSpan": "10 - 30 mins",
+              "timeSpan": "10.0 - 30.0 mins",
               "price": 2.0
             },
             {
-              "timeSpan": "0.5 - 1.0 hrs",
+              "timeSpan": "0.50 - 1.0 hr",
               "price": 4.0
             },
             {
@@ -95125,14 +95125,14 @@
               "price": 10.0
             },
             {
-              "timeSpan": "10 hrs MAX",
+              "timeSpan": "10 hrs max",
               "price": 40.0
             }
           ]
         },
         {
           "rateType": "Early Bird",
-          "notes": "<p>Entry between 6am - 9am, valid for 10hrs from time of purchase.<br />Pay by Plate.</p>\n<p>*Online rate only available when purchasing through the Wilson Parking App. Online rates includes Transaction fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a> to download the Wilson Parking App</p>",
+          "notes": "<p>Entry between 6am - 9am, valid for 10hrs from time of purchase.<br />Pay by Plate.</p>\n<p>*Online rate only available when purchasing through the Wilson Parking App. Online rates includes platform fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a> to download the Wilson Parking App.</p>",
           "rates": [
             {
               "timeSpan": "Monday - Friday",
@@ -95562,16 +95562,16 @@
       "carParkPhoto": "/contentassets/b8f7d76312d9410185d8bc157cd43a83/per344.jpg",
       "category": "",
       "costCenter": 1006127,
-      "direction": "Undercover car park entry off Errichetti Place.\n",
+      "direction": "Undercover car park entry off Errichetti Place\n",
       "heightRestriction": 2.2,
-      "information": "<p>Wilson Parking offer affordable parking at Northbridge Central Car Park which is located at 6-8 Errichetti Place, Northbridge. Open 24/7 this car park offers undercover parking off Errichetti Place, or open air roof top parking from Zempilas St. Offering casual Hourly, Early Bird and Night Parking, with exclusive discounts when you pay with the Wilson Parking App, and permanant Monthly Parking for regular parkers, the Northbridge Central Car Park will meet all your Northbridge parking needs.&nbsp;</p>\n<p>Download the Wilson Parking App to easily pay for your parking from your phone, with access to exclusive parking discounts, or enjoy unlimited 24/7 access to the car park when you subscribe to Monthly Parking.&nbsp;</p>",
+      "information": "<p>Wilson Parking offer affordable parking at Northbridge Central Car Park which is located at 6-8 Errichetti Place, Northbridge. Open 24/7 this car park offers undercover parking off Errichetti Place, or open air roof top parking from Zempilas St. Offering casual Hourly, Early Bird and Night Parking, with exclusive discounts when you pay with the Wilson Parking App, and permanant Monthly Parking for regular parkers, the Northbridge Central Car Park will meet all your Northbridge parking needs.&nbsp;</p>\n<p>Download the Wilson Parking App to easily pay for your parking from your phone, with access to exclusive parking discounts, or enjoy unlimited 24/7 access to the car park when you subscribe to Monthly Parking.</p>",
       "isWilsonOne": false,
       "spottIsAvailable": false,
       "legacyID": 205,
       "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": true,
-      "phoneNumber": "1800 PARKING",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": "241.76857960421916",
@@ -95579,14 +95579,14 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Rates apply Monday - Sunday</p>\n<p>*Online rate only available when purchasing through the Wilson Parking App. Online rates includes Transaction fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a> to download the Wilson Parking App</p>",
+          "notes": "<p>Rates apply Monday - Sunday</p>\n<p>*Online rate only available when purchasing through the Wilson Parking App. Online rates includes platform fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a> to download the Wilson Parking App.</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 0.5 hrs",
+              "timeSpan": "0.0 - 0.5 hr",
               "price": 6.0
             },
             {
-              "timeSpan": "0.5 - 1.0 hrs",
+              "timeSpan": "0.5 - 1.0 hr",
               "price": 10.0
             },
             {
@@ -95602,7 +95602,7 @@
               "price": 19.0
             },
             {
-              "timeSpan": "12.0 hrs max",
+              "timeSpan": "10.0 - 12.0 hrs max",
               "price": 20.0
             }
           ]
@@ -95760,14 +95760,14 @@
       "costCenter": 1006226,
       "direction": "Entry off The Esplanade",
       "heightRestriction": 1.95,
-      "information": "<p>Wilson Parking offer affordable parking at 40 The Esplanade Car Park, located at 40 The Esplanade Perth. Open Monday - Friday, this undercover car park provides convenient parking for Elizabeth Quay, Barrack Square &amp; The Bell Tower. Offering casual Hourly Parking options, and the convenience of pay as you go when you use the Wilson Parking card to access the car park, the 40 The Esplanade Car Park will meet all your parking needs.&nbsp;</p>\n<p>&nbsp;</p>",
+      "information": "<p>Wilson Parking offer affordable parking at 40 The Esplanade Car Park, located at 40 The Esplanade Perth. Open Monday - Friday, this undercover car park provides convenient parking for Elizabeth Quay, Barrack Square &amp; The Bell Tower. Offering casual Hourly Parking options, and the convenience of pay as you go when you use the Wilson Parking card to access the car park, the 40 The Esplanade Car Park will meet all your parking needs.</p>\n<p>&nbsp;</p>",
       "isWilsonOne": true,
       "spottIsAvailable": false,
       "legacyID": 519,
       "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": true,
-      "phoneNumber": "1800 PARKING",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": "21.890124766467597",
@@ -95775,14 +95775,14 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Rates apply Monday - Friday.</p>",
+          "notes": "<p>Rates apply Monday - Friday</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 0.5 hrs",
+              "timeSpan": "0.0 - 0.5 hr",
               "price": 8.0
             },
             {
-              "timeSpan": "0.5 - 1.0 hrs",
+              "timeSpan": "0.5 - 1.0 hr",
               "price": 12.0
             },
             {
@@ -96564,7 +96564,7 @@
       "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": true,
-      "phoneNumber": "1800 PARKING",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": "197.30931701713752",
@@ -96575,11 +96575,11 @@
           "notes": "<p>Rates apply Monday to Friday</p>\n<p>Night rate charged from 6pm daily</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 0.5 hrs",
+              "timeSpan": "0.0 - 0.5 hr",
               "price": 9.0
             },
             {
-              "timeSpan": "0.5 - 1.0 hrs",
+              "timeSpan": "0.5 - 1.0 hr",
               "price": 15.0
             },
             {
@@ -96615,14 +96615,14 @@
               "price": 45.0
             },
             {
-              "timeSpan": "7.0 hrs Plus",
+              "timeSpan": "7.0 + hrs",
               "price": 50.0
             }
           ]
         },
         {
           "rateType": "Night",
-          "notes": "<p>Rates apply from 6pm - Close, Monday to Sunday</p>\n<p>Select the&nbsp;<strong>Prepay now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>",
+          "notes": "<p>Rates apply from 6pm - Close, Monday to Sunday</p>\n<p>Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include platform fee.</p>",
           "rates": [
             {
               "timeSpan": "0.0 - 1.0 hr",
@@ -96644,10 +96644,10 @@
         },
         {
           "rateType": "Weekend",
-          "notes": "<p>Rates apply per exit per day, Saturday and Sunday</p>\n<p>Night rates apply from 6pm - Close.</p>\n<p>Select the&nbsp;<strong>Prepay now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>",
+          "notes": "<p>Rates apply per exit per day, Saturday and Sunday</p>\n<p>Night rates apply from 6pm - Close.</p>\n<p>Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include platform fee.</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 1.0 hrs",
+              "timeSpan": "0.0 - 1.0 hr",
               "price": 6.0
             },
             {
@@ -96817,14 +96817,14 @@
       "costCenter": 1006082,
       "direction": "Entry via Mounts Bay Rd.\n\n",
       "heightRestriction": 2.1,
-      "information": "<p>Wilson Parking offer affordable parking at The Quadrant Car Park, located at 1 William Street, Perth, with entry from Mounts Bay Rd. Open Monday - Friday, this undercover car park provides all day or hourly parking options for visitors to The Quadrant, Perth and is ideally located for those visiting the nearby Elizabeth Quay. Offering casual Hourly and Early Bird parking, with the added convenience of payment through the Wilson Parking App, The Quadrant Car Park will meet all of your Perth parking needs.</p>\n<p>Download the Wilson Parking App to easily pay for your parking from your phone.&nbsp;</p>",
+      "information": "<p>Wilson Parking offer affordable parking at The Quadrant Car Park, located at 1 William Street, Perth, with entry from Mounts Bay Rd. Open Monday - Friday, this undercover car park provides all day or hourly parking options for visitors to The Quadrant, Perth and is ideally located for those visiting the nearby Elizabeth Quay. Offering casual Hourly and Early Bird parking, with the added convenience of payment through the Wilson Parking App, The Quadrant Car Park will meet all of your Perth parking needs.</p>\n<p>Download the Wilson Parking App to easily pay for your parking from your phone.</p>",
       "isWilsonOne": false,
       "spottIsAvailable": false,
       "legacyID": 146,
       "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": true,
-      "phoneNumber": "1800 PARKING",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": "36.32289587909489",
@@ -96832,14 +96832,14 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Pay by plate parking. Max stay 12 hrs or until close. Rates apply Monday - Friday.</p>\n<p>*Online rate only available when purchasing through the Wilson Parking App. Online rates includes Transaction fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a> to download the Wilson Parking App</p>",
+          "notes": "<p>Pay by plate parking. Max stay 12 hrs or until close. Rates apply Monday - Friday.</p>\n<p>*Online rate only available when purchasing through the Wilson Parking App. Online rates includes platform fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a> to download the Wilson Parking App.</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 0.5 hrs",
+              "timeSpan": "0.0 - 0.5 hr",
               "price": 10.0
             },
             {
-              "timeSpan": "0.5 - 1.0 hrs",
+              "timeSpan": "0.5 - 1.0 hr",
               "price": 14.0
             },
             {
@@ -96897,7 +96897,7 @@
           "is24_7": false,
           "closed": false,
           "opening": "07:00",
-          "closing": "21:00",
+          "closing": "21:30",
           "note": null
         },
         {
@@ -96905,7 +96905,7 @@
           "is24_7": false,
           "closed": false,
           "opening": "07:00",
-          "closing": "21:00",
+          "closing": "21:30",
           "note": null
         },
         {
@@ -96913,7 +96913,7 @@
           "is24_7": false,
           "closed": false,
           "opening": "07:00",
-          "closing": "21:00",
+          "closing": "21:30",
           "note": null
         },
         {
@@ -96921,7 +96921,7 @@
           "is24_7": false,
           "closed": false,
           "opening": "07:00",
-          "closing": "21:00",
+          "closing": "21:30",
           "note": null
         },
         {
@@ -96929,7 +96929,7 @@
           "is24_7": false,
           "closed": false,
           "opening": "07:00",
-          "closing": "21:00",
+          "closing": "21:30",
           "note": null
         },
         {
@@ -97188,7 +97188,7 @@
       "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": true,
-      "phoneNumber": "1800 PARKING",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": "239.8317261225185",
@@ -97196,14 +97196,14 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Rates apply Monday - Friday. Night rates apply from 6pm onwards.</p>\n<p>&nbsp;</p>",
+          "notes": "<p>Rates apply Monday - Friday.<br /><br />Night rates apply from 6pm onwards.</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 0.5 hrs",
+              "timeSpan": "0.0 - 0.5 hr",
               "price": 7.0
             },
             {
-              "timeSpan": "0.5 - 1.0 hrs",
+              "timeSpan": "0.5 - 1.0 hr",
               "price": 13.0
             },
             {
@@ -97226,10 +97226,10 @@
         },
         {
           "rateType": "Night",
-          "notes": "<p>Rates apply From 6pm - 5am following morning.</p>\n<p>Select the&nbsp;<strong>Prepay now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>",
+          "notes": "<p>Rates apply from 6pm - 5am following morning.</p>\n<p>Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include platform fee.</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 1.0 hrs",
+              "timeSpan": "0.0 - 1.0 hr",
               "price": 6.0
             },
             {
@@ -97237,21 +97237,21 @@
               "price": 12.0
             },
             {
-              "timeSpan": "2.0 hrs +",
+              "timeSpan": "2.0 + hrs",
               "price": 16.0
             }
           ]
         },
         {
           "rateType": "Weekend",
-          "notes": "<p>5am to 6pm, Night rates apply from 6pm.</p>\n<p>Select the&nbsp;<strong>Prepay now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>",
+          "notes": "<p>5am to 6pm, Night rates apply from 6pm.</p>\n<p>Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include platform fee.</p>",
           "rates": [
             {
               "timeSpan": "0.0 - 2.0 hrs",
               "price": 12.0
             },
             {
-              "timeSpan": "2.0 hrs +",
+              "timeSpan": "2.0 + hrs",
               "price": 16.0
             }
           ]
@@ -97426,7 +97426,7 @@
       "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": true,
-      "phoneNumber": "1800 PARKING",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": "20.138015096581526",
@@ -97437,11 +97437,11 @@
           "notes": "<p>Night rates apply from 5pm onwards, Monday - Friday.</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 0.5 hrs",
+              "timeSpan": "0.0 - 0.5 hr",
               "price": 15.0
             },
             {
-              "timeSpan": "0.5 - 1.0 hrs",
+              "timeSpan": "0.5 - 1.0 hr",
               "price": 22.0
             },
             {
@@ -97460,21 +97460,21 @@
         },
         {
           "rateType": "Night",
-          "notes": "<p>Rates apply Monday - Sunday.</p>\n<p>Drive up rate applies from 5pm until 6am.</p>\n<p>Select the&nbsp;<strong>Prepay now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>",
+          "notes": "<p>Rates apply Monday - Sunday.</p>\n<p>Drive up rate applies from 5pm until 6am.</p>\n<p>Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include platform fee.</p>",
           "rates": [
             {
-              "timeSpan": "0 - 1 hrs",
+              "timeSpan": "0.0 - 1.0 hr",
               "price": 10.0
             },
             {
-              "timeSpan": "1 + hrs",
+              "timeSpan": "1.0 + hrs",
               "price": 15.0
             }
           ]
         },
         {
           "rateType": "Weekend",
-          "notes": "<p>Saturday, Sunday &amp; Public Holidays 6am to 5pm. Night rates apply from 5pm.</p>\n<p>Select the&nbsp;<strong>Prepay now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>",
+          "notes": "<p>Saturday, Sunday &amp; Public Holidays 6am to 5pm. Night rates apply from 5pm.</p>\n<p>Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include platform fee.</p>",
           "rates": [
             {
               "timeSpan": "Sat - Sun",
@@ -97649,7 +97649,7 @@
       "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": true,
-      "phoneNumber": "1800 PARKING",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": "18.003066034997595",
@@ -97657,7 +97657,7 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Rates available Monday - Friday, from 4.30am and exit before 5pm. Night rate applies after 5pm</p>",
+          "notes": "<p>Rates available Monday - Friday, from 4.30am and exit before 5pm. Night rate applies after 5pm.</p>",
           "rates": [
             {
               "timeSpan": "0.0 - 0.5 hr",
@@ -97692,14 +97692,14 @@
               "price": 42.0
             },
             {
-              "timeSpan": "6.0 hrs plus",
+              "timeSpan": "6.0 + hrs",
               "price": 48.0
             }
           ]
         },
         {
           "rateType": "Night",
-          "notes": "<p>Entry after 5pm, exit before 10pm, Monday - Friday.</p>\n<p>Select the&nbsp;<strong>Prepay now</strong>&nbsp;link below to get started.<br />Rates shown include platform fee.</p>",
+          "notes": "<p>Entry after 5pm, exit before 10pm, Monday - Friday.</p>\n<p>Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include platform fee.</p>",
           "rates": [
             {
               "timeSpan": "Mon - Fri",
@@ -97709,7 +97709,7 @@
         },
         {
           "rateType": "Weekend",
-          "notes": "<p>From 4.30am - close, per exit, per day, Saturday and Sunday.</p>\n<p>Select the&nbsp;<strong>Prepay now</strong>&nbsp;link below to get started.<br />Rates shown include platform fee.</p>",
+          "notes": "<p>From 4.30am - close, per exit, per day, Saturday and Sunday.</p>\n<p>Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include platform fee.</p>",
           "rates": [
             {
               "timeSpan": "Sat - Sun",
@@ -98095,14 +98095,14 @@
       "costCenter": 1006204,
       "direction": "Entry via Roe Street</br></br>\n<b>IMPORTANT INFORMATION</b></br>Due to an on-going event there will be limited bays available to the general public.</br></br>\nPlease see alternative car parks in the vicinity;\n</br></br>\n18 Roe Street</br>\n217 James Street</br>\n216 Roe Street</br>\n",
       "heightRestriction": 0.0,
-      "information": "<p>Wilson Parking offers affordable parking at the 100 Roe St Car Park, located at 100 Roe St, Northbridge. Open 24/7, this open air car park, located near Russell Square in the heart of Northbridge, provides all day parking for visitors to nearby businesses and venues. Offering casual Hourly parking with exclusive discounts available through the Wilson Parking App, the 100 Roe St Car Park will meet all you parking needs.&nbsp;</p>\n<p>Download the Wilson Parking App to easily pay for your parking from your phone.&nbsp;</p>",
+      "information": "<p>Wilson Parking offers affordable parking at the 100 Roe St Car Park, located at 100 Roe St, Northbridge. Open 24/7, this open air car park, located near Russell Square in the heart of Northbridge, provides all day parking for visitors to nearby businesses and venues. Offering casual Hourly parking with exclusive discounts available through the Wilson Parking App, the 100 Roe St Car Park will meet all you parking needs.&nbsp;</p>\n<p>Download the Wilson Parking App to easily pay for your parking from your phone.</p>",
       "isWilsonOne": false,
       "spottIsAvailable": false,
       "legacyID": 458,
       "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": true,
-      "phoneNumber": "1800 PARKING",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": "61.71553250808519",
@@ -98110,14 +98110,14 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Rates apply Monday - Sunday. Pay by Plate parking.&nbsp;</p>\n<p>*Online rate only available when purchasing through the Wilson Parking App. Online rates includes Transaction fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a> to download the Wilson Parking App</p>",
+          "notes": "<p>Rates apply Monday - Sunday<br /><br />Pay by Plate parking.<br /><br />*Online rate only available when purchasing through the Wilson Parking App. Online rates includes platform fee.<br /><br /><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a> to download the Wilson Parking App.</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 0.5 hrs",
+              "timeSpan": "0.0 - 0.5 hr",
               "price": 4.0
             },
             {
-              "timeSpan": "0.5 - 1.0 hrs",
+              "timeSpan": "0.5 - 1.0 hr",
               "price": 7.0
             },
             {
@@ -98754,14 +98754,14 @@
       "costCenter": 1006069,
       "direction": "Opposite Russell Square",
       "heightRestriction": 0.0,
-      "information": "<p>Wilson Parking offer affordable parking at 217 James St Car Park, located at 217 James St, Northbridge. Open 24/7, this open air car park is conveniently located to provide all day parking for workers and visitors to Northbridge, including Russell Square and RAC Arena. Offering casual Hourly and Early Bird Parking, with exclusive discounts when you pay with the Wilson Parking App, and Monthly Parking for regular parkers, 217 James St Car Park will meet all of your parking needs.</p>\n<p>Download the Wilson Parking App to easily pay for your parking from your phone and access exclusive discounts, or enjoy unlimited 24/7 access to the 217 James St car park when you subscribe to Monthly Parking</p>",
+      "information": "<p>Wilson Parking offer affordable parking at 217 James St Car Park, located at 217 James St, Northbridge. Open 24/7, this open air car park is conveniently located to provide all day parking for workers and visitors to Northbridge, including Russell Square and RAC Arena. Offering casual Hourly and Early Bird Parking, with exclusive discounts when you pay with the Wilson Parking App, and Monthly Parking for regular parkers, 217 James St Car Park will meet all of your parking needs.</p>\n<p>Download the Wilson Parking App to easily pay for your parking from your phone and access exclusive discounts, or enjoy unlimited 24/7 access to the 217 James St car park when you subscribe to Monthly Parking.</p>",
       "isWilsonOne": false,
       "spottIsAvailable": false,
       "legacyID": 97,
       "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": true,
-      "phoneNumber": "1800 PARKING",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": "200.82961650249916",
@@ -98769,14 +98769,14 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Rates apply Monday - Sunday</p>\n<p>*Online rate only available when purchasing through the Wilson Parking App. Online rates includes Transaction fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a> to download the Wilson Parking App</p>",
+          "notes": "<p>Rates apply Monday - Sunday</p>\n<p>*Online rate only available when purchasing through the Wilson Parking App. Online rates includes platform fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a> to download the Wilson Parking App.</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 0.5 hrs",
+              "timeSpan": "0.0 - 0.5 hr",
               "price": 7.0
             },
             {
-              "timeSpan": "0.5 - 1.0 hrs",
+              "timeSpan": "0.5 - 1.0 hr",
               "price": 10.0
             },
             {
@@ -98788,18 +98788,18 @@
               "price": 14.0
             },
             {
-              "timeSpan": "12 hr max",
+              "timeSpan": "12 hrs max",
               "price": 23.0
             },
             {
-              "timeSpan": "24 hr max",
+              "timeSpan": "24 hrs max",
               "price": 32.0
             }
           ]
         },
         {
           "rateType": "Night",
-          "notes": "<p>Rates apply Monday - Sunday</p>\n<p>&nbsp;</p>",
+          "notes": "<p>Rates apply Monday - Sunday</p>",
           "rates": [
             {
               "timeSpan": "Mon - Sun",
@@ -98971,7 +98971,7 @@
       "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
-      "phoneNumber": "1800 PARKING",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": "20.82819904813289",
@@ -98982,11 +98982,11 @@
           "notes": "<p>Rates apply Monday - Friday from 6am - 10pm.</p>\n<p>Car park closes at 10pm.</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 0.5 hrs",
+              "timeSpan": "0.0 - 0.5 hr",
               "price": 6.0
             },
             {
-              "timeSpan": "0.5 - 1.0 hrs",
+              "timeSpan": "0.5 - 1.0 hr",
               "price": 11.0
             },
             {
@@ -99014,7 +99014,7 @@
               "price": 41.0
             },
             {
-              "timeSpan": "6.0 hrs +",
+              "timeSpan": "6.0 + hrs",
               "price": 46.0
             }
           ]
@@ -99203,7 +99203,7 @@
       "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
-      "phoneNumber": "1800 PARKING",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": "70.93248028374822",
@@ -99211,18 +99211,18 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Rates apply Monday - Friday, 5am to 5pm. <br />Night rates apply from 5pm.</p>",
+          "notes": "<p>Rates apply Monday - Friday, 5am to 5pm. <br /><br />Night rates apply from 5pm.</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 0.25 hrs",
+              "timeSpan": "0.0 - 0.25 hr",
               "price": 0.0
             },
             {
-              "timeSpan": "0.25 - 0.5 hrs",
+              "timeSpan": "0.25 - 0.5 hr",
               "price": 8.0
             },
             {
-              "timeSpan": "0.5 - 1.0 hrs",
+              "timeSpan": "0.5 - 1.0 hr",
               "price": 14.0
             },
             {
@@ -99246,7 +99246,7 @@
               "price": 39.0
             },
             {
-              "timeSpan": "5.0 - 6.0 + hrs",
+              "timeSpan": "5.0 - 6.0 hrs",
               "price": 44.0
             },
             {
@@ -99257,28 +99257,28 @@
         },
         {
           "rateType": "Night",
-          "notes": "<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"1akcde78-0-0\">Credit card payment only at exit.</div>\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"1akcde78-0-0\">&nbsp;</div>\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"1akcde78-0-0\">Rates apply Monday - Friday</div>\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"1akcde78-0-0\"><span data-offset-key=\"1akcde78-0-0\">Entry after 6pm, exit before 5am the following day.</span></div>\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"1akcde78-0-0\"><span data-offset-key=\"1akcde78-0-0\">If conditions not met, Hourly rates apply from time of entry.&nbsp;</span>Rates shown include platform fee.</div>\n<p>&nbsp;</p>",
+          "notes": "<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"1akcde78-0-0\">Credit card payment only at exit.</div>\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"1akcde78-0-0\">&nbsp;</div>\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"1akcde78-0-0\">Rates apply Monday - Friday</div>\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"1akcde78-0-0\">&nbsp;</div>\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"1akcde78-0-0\"><span data-offset-key=\"1akcde78-0-0\">Entry after 6pm, exit before 5am the following day.</span></div>\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"1akcde78-0-0\">&nbsp;</div>\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"1akcde78-0-0\"><span data-offset-key=\"1akcde78-0-0\">If conditions not met, Hourly rates apply from time of entry.&nbsp;</span>Rates shown include platform fee.</div>",
           "rates": [
             {
-              "timeSpan": "0.0 - 2.0 hrs",
+              "timeSpan": "0.0 - 2.0 hr",
               "price": 10.0
             },
             {
-              "timeSpan": "2.0 hrs plus",
+              "timeSpan": "2.0 + hrs",
               "price": 15.0
             }
           ]
         },
         {
           "rateType": "Weekend",
-          "notes": "<p>Credit card payment only at exit.</p>\n<p>Rates apply Saturday &amp; Sunday</p>\n<p>Rates shown include platform fee.</p>",
+          "notes": "<p>Credit card payment only at exit.</p>\n<p>Rates apply Saturday &amp; Sunday.</p>\n<p>Rates shown include platform fee.</p>",
           "rates": [
             {
               "timeSpan": "0.0 - 2.0 hrs",
               "price": 10.0
             },
             {
-              "timeSpan": "2.0 hrs plus",
+              "timeSpan": "2.0 + hrs",
               "price": 15.0
             }
           ]
@@ -99446,7 +99446,7 @@
       "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
-      "phoneNumber": "1800 PARKING (1800 727 5464)",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": null,
@@ -99457,7 +99457,7 @@
           "notes": "<p>Night rates apply from 4pm onwards, Monday - Friday.</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 1.0 hrs",
+              "timeSpan": "0.0 - 1.0 hr",
               "price": 10.0
             },
             {
@@ -99469,14 +99469,14 @@
               "price": 30.0
             },
             {
-              "timeSpan": "3 hrs Plus",
+              "timeSpan": "3.0 + hrs",
               "price": 37.0
             }
           ]
         },
         {
           "rateType": "Night",
-          "notes": "<p>Rates apply Monday - Sunday.</p>\n<p>Drive up rate applies from 4pm until 12am.</p>\n<p>Select the&nbsp;<strong>Prepay now</strong>&nbsp;link below to get started.<br />Rates shown include platform fee.</p>\n<p>&nbsp;</p>",
+          "notes": "<p>Rates apply Monday - Sunday.</p>\n<p>Drive up rate applies from 4pm until 12am.</p>\n<p>Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include platform fee.</p>",
           "rates": [
             {
               "timeSpan": "Mon - Fri",
@@ -99486,7 +99486,7 @@
         },
         {
           "rateType": "Weekend",
-          "notes": "<p>Saturday, Sunday &amp; Public Holidays 4:30am to 12:00am.&nbsp;</p>\n<p>Select the&nbsp;<strong>Prepay now</strong>&nbsp;link below to get started.<br />Rates shown include platform fee.</p>",
+          "notes": "<p>Saturday, Sunday &amp; Public Holidays 4:30am to 12am.</p>\n<p>Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include platform fee.</p>",
           "rates": [
             {
               "timeSpan": "Sat - Sun",
@@ -99496,7 +99496,7 @@
         },
         {
           "rateType": "Early Bird",
-          "notes": "<p>&nbsp;</p>\n<p>Drive Up Early Bird - Enter between 4:30am - 10am, Exit between 2pm - 7pm.</p>\n<p>Online Earlybird: Entry between 4:30am &amp; 10am Monday - Friday. Exit anytime.</p>\n<p>*Online Earlybird only available when purchasing through the Wilson Parking App. Online rates includes platform fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a>&nbsp;to download the Wilson Parking App</p>\n<p>&nbsp;</p>",
+          "notes": "<p>Drive Up Early Bird - Enter between 4:30am - 10am, Exit between 2pm - 7pm.</p>\n<p>Online Earlybird: Entry between 4:30am &amp; 10am Monday - Friday. Exit anytime.</p>\n<p>*Online Earlybird only available when purchasing through the Wilson Parking App. Online rates includes platform fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a>&nbsp;to download the Wilson Parking App.</p>\n<p>&nbsp;</p>",
           "rates": [
             {
               "timeSpan": "Early Bird",
@@ -100018,14 +100018,14 @@
       "costCenter": 1006063,
       "direction": "Entry via St Georges Terrace or Hay Street\n<br>Motorbike parking must be paid for using the 256 St Georges Tce (Barrack Arch) - Motorcycle parking location</br>\n",
       "heightRestriction": 2.1,
-      "information": "<p>Wilson Parking offer affordable parking at 256 St Georges Tce (Barrack Arch) Car Park, located at 256 St Georges Terrace, Perth. With entrances from both St Georges Terrace and Hay St, this undercover car park is open 7 days until midnight, providing parking for visitors to QV1 plaza, Barracks Arch and nearby businesses in the Perth CBD. Offering casual Hourly, Night and Weekend Parking with exclusive discounts when you prepay online, and permanent monthly parking for regular parkers, the 256 St Georges Tce (Barrack Arch) Car Park will meet all of your parking needs.</p>\n<p>Download the Wilson Parking App to plan your journey and access exclusive discounts when you prepay ahead; enjoy 24/7 access when you subscribe to monthly parking; or pay as you go when you access the car park using your Wilson Parking card.&nbsp;</p>",
+      "information": "<p>Wilson Parking offer affordable parking at 256 St Georges Tce (Barrack Arch) Car Park, located at 256 St Georges Terrace, Perth. With entrances from both St Georges Terrace and Hay St, this undercover car park is open 7 days until midnight, providing parking for visitors to QV1 plaza, Barracks Arch and nearby businesses in the Perth CBD. Offering casual Hourly, Night and Weekend Parking with exclusive discounts when you prepay online, and permanent monthly parking for regular parkers, the 256 St Georges Tce (Barrack Arch) Car Park will meet all of your parking needs.</p>\n<p>Download the Wilson Parking App to plan your journey and access exclusive discounts when you prepay ahead; enjoy 24/7 access when you subscribe to monthly parking; or pay as you go when you access the car park using your Wilson Parking card.</p>",
       "isWilsonOne": true,
       "spottIsAvailable": true,
       "legacyID": 167,
       "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": true,
-      "phoneNumber": "1800 PARKING",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": "271.8236787344803",
@@ -100036,11 +100036,11 @@
           "notes": "<p>Rate applies Monday - Friday. Night rates apply from 6pm.</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 0.5 hrs",
+              "timeSpan": "0.0 - 0.5 hr",
               "price": 10.0
             },
             {
-              "timeSpan": "0.5 - 1.0 hrs",
+              "timeSpan": "0.5 - 1.0 hr",
               "price": 15.0
             },
             {
@@ -100079,7 +100079,7 @@
         },
         {
           "rateType": "Night",
-          "notes": "<p>Entry after 6pm &amp; Exit before midnight, Monday - Friday.</p>\n<p>Select the&nbsp;<strong>Prepay now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>",
+          "notes": "<p>Entry after 6pm &amp; Exit before midnight, Monday - Friday.</p>\n<p>Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include platform fee.</p>",
           "rates": [
             {
               "timeSpan": "Mon - Fri",
@@ -100089,7 +100089,7 @@
         },
         {
           "rateType": "Weekend",
-          "notes": "<p>Rate applies Saturday, Sunday &amp; Public Holidays. Flat rate, per exit, per day.</p>\n<p>Select the&nbsp;<strong>Prepay now</strong>&nbsp;link below to get started.<br />Rates shown include transaction fee.</p>",
+          "notes": "<p>Rate applies Saturday, Sunday &amp; Public Holidays. Flat rate, per exit, per day.</p>\n<p>Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include platform fee.</p>",
           "rates": [
             {
               "timeSpan": "Sat - Sun",
@@ -100704,14 +100704,14 @@
       "costCenter": 1006058,
       "direction": "Entry on Mayfair Street rear of Westcentre",
       "heightRestriction": 2.2,
-      "information": "<p>Wilson Parking offer affordable parking at Westcentre Car Park, located at 1260 Hay Street, West Perth. Open 5am to 7pm, this undercover car park provides parking options for visitors to WestCentre, local restaurants and West Perth businesses. Offering casual Hourly, Early Bird, Night and Weekend Parking options, as well as the convenience of prepaying, the Westcentre Car Park will meet all of your parking needs.</p>\n<p>Prepay online or drive up to pay with your Credit Card, pay as you go with a Wilson Parking card.</p>\n<p>&nbsp;</p>",
+      "information": "<p>Wilson Parking offer affordable parking at Westcentre Car Park, located at 1260 Hay Street, West Perth. Open 5am to 7pm, this undercover car park provides parking options for visitors to WestCentre, local restaurants and West Perth businesses. Offering casual Hourly, Early Bird, Night and Weekend Parking options, as well as the convenience of prepaying, the Westcentre Car Park will meet all of your parking needs.</p>\n<p>Prepay online or drive up to pay with your Credit Card, pay as you go with a Wilson Parking card.</p>",
       "isWilsonOne": true,
       "spottIsAvailable": false,
       "legacyID": 154,
       "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": true,
-      "phoneNumber": "1800 PARKING",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": "249.45973106430026",
@@ -100722,7 +100722,7 @@
           "notes": "<p>Rates apply Monday - Friday. Night rates apply from 6pm.</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 1.0 hrs",
+              "timeSpan": "0.0 - 1.0 hr",
               "price": 3.0
             },
             {
@@ -100742,14 +100742,14 @@
               "price": 15.0
             },
             {
-              "timeSpan": "5.0 hrs Plus",
+              "timeSpan": "5.0 + hrs",
               "price": 18.0
             }
           ]
         },
         {
           "rateType": "Night",
-          "notes": "<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"1akcde78-0-0\"><span data-offset-key=\"1akcde78-0-0\">Entry after 6pm, exit before 6am the following day.</span></div>\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"1akcde78-0-0\"><span data-offset-key=\"1akcde78-0-0\">If conditions not met, Hourly rates apply from time of entry.</span></div>\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"1akcde78-0-0\">Select the&nbsp;<strong>Prepay now</strong>&nbsp;link below to get started.<br />Rates shown include platform fee.</div>",
+          "notes": "<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"1akcde78-0-0\"><span data-offset-key=\"1akcde78-0-0\">Entry after 6pm, exit before 6am the following day.</span></div>\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"1akcde78-0-0\"><span data-offset-key=\"1akcde78-0-0\"><br />If conditions not met, Hourly rates apply from time of entry.</span></div>\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"1akcde78-0-0\"><br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include platform fee.</div>",
           "rates": [
             {
               "timeSpan": "Mon - Fri",
@@ -100759,10 +100759,10 @@
         },
         {
           "rateType": "Weekend",
-          "notes": "<p>Entry from 6am. Night rates apply for entry after 6pm.</p>\n<p>Rates apply per exit, per day.</p>\n<p>Select the&nbsp;<strong>Prepay now</strong>&nbsp;link below to get started.<br />Rates shown include platform fee.</p>",
+          "notes": "<p>Entry from 6am. Night rates apply for entry after 6pm.</p>\n<p>Rates apply per exit, per day.</p>\n<p>Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include platform fee.</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 1.0 hrs",
+              "timeSpan": "0.0 - 1.0 hr",
               "price": 2.0
             },
             {
@@ -101475,7 +101475,7 @@
       "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": true,
-      "phoneNumber": "1800 PARKING",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": "332.047541060439",
@@ -101483,7 +101483,7 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Rates apply Monday - Friday.</p>\n<p>*Online rate only available when purchasing through the Wilson Parking App. Online rates includes Transaction fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a> to download the Wilson Parking App</p>",
+          "notes": "<p>Rates apply Monday - Friday.</p>\n<p>*Online rate only available when purchasing through the Wilson Parking App. Online rates includes platform fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a> to download the Wilson Parking App.</p>",
           "rates": [
             {
               "timeSpan": "0.0 - 1.0 hr",
@@ -101510,14 +101510,14 @@
               "price": 20.0
             },
             {
-              "timeSpan": "6.0 - 12 hrs",
+              "timeSpan": "6.0 - 12.0 hrs",
               "price": 24.0
             }
           ]
         },
         {
           "rateType": "Night",
-          "notes": "<p>Entry after 6pm, valid for 12hrs. Rates apply Monday - Friday.</p>\n<p>*Online rate only available when purchasing through the Wilson Parking App. Online rates includes Transaction fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a> to download the Wilson Parking App</p>",
+          "notes": "<p>Entry after 6pm, valid for 12hrs. Rates apply Monday - Friday.</p>\n<p>*Online rate only available when purchasing through the Wilson Parking App. Online rates includes platform fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a> to download the Wilson Parking App.</p>",
           "rates": [
             {
               "timeSpan": "Flat Rate",
@@ -101527,10 +101527,10 @@
         },
         {
           "rateType": "Weekend",
-          "notes": "<p>Flat rate per day, valid for 12hrs. Rates apply Saturday and Sunday.&nbsp;</p>\n<p>*Online rate only available when purchasing through the Wilson Parking App. Online rates includes Transaction fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a> to download the Wilson Parking App</p>",
+          "notes": "<p>Flat rate per day, valid for 12hrs. Rates apply Saturday and Sunday.&nbsp;</p>\n<p>*Online rate only available when purchasing through the Wilson Parking App. Online rates includes platform fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a> to download the Wilson Parking App.</p>",
           "rates": [
             {
-              "timeSpan": "Sat-Sun",
+              "timeSpan": "Sat - Sun",
               "price": 5.0
             }
           ]
@@ -101679,14 +101679,14 @@
       "costCenter": 1006222,
       "direction": "Entry off Hay Street, Subiaco",
       "heightRestriction": 0.0,
-      "information": "<p>Wilson Parking offer affordable parking at Subiaco Mews Car Park, located at 375 Hay Street, Subiaco. Open 24/7 this open air car park, has parking options for visitors to nearby restaurants and businesses. Offering casual Hourly Parking and the convenience of payment with the Wilson Parking App, the Subiaco Mews Car Park meets all of your Subiaco parking needs.</p>\n<p>Download the Wilson Parking App to easily pay for your parking with your phone.&nbsp;</p>",
+      "information": "<p>Wilson Parking offer affordable parking at Subiaco Mews Car Park, located at 375 Hay Street, Subiaco. Open 24/7 this open air car park, has parking options for visitors to nearby restaurants and businesses. Offering casual Hourly Parking and the convenience of payment with the Wilson Parking App, the Subiaco Mews Car Park meets all of your Subiaco parking needs.</p>\n<p>Download the Wilson Parking App to easily pay for your parking with your phone.</p>",
       "isWilsonOne": false,
       "spottIsAvailable": false,
       "legacyID": 518,
       "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": true,
-      "phoneNumber": "1800 PARKING",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": "221.72683725862245",
@@ -101694,10 +101694,10 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Please note this car park is paid parking between 5am - 7pm.</p>\n<p>Free parking from 7pm - 5am the next day.</p>\n<p>*Online rate only available when purchasing through the Wilson Parking App. Online rates include Transaction fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a> to download the Wilson Parking App</p>",
+          "notes": "<p>Please note this car park is paid parking between 5am - 7pm.</p>\n<p>Free parking from 7pm - 5am the next day.</p>\n<p>*Online rate only available when purchasing through the Wilson Parking App. Online rates include platform fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a> to download the Wilson Parking App.</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 1.0 hrs",
+              "timeSpan": "0.0 - 1.0 hr",
               "price": 2.0
             },
             {
@@ -101868,14 +101868,14 @@
       "costCenter": 1006077,
       "direction": "Entry via Hay Street.\n\n",
       "heightRestriction": 0.0,
-      "information": "<p>Wilson Parking offer affordable parking at 388 Hay Street, Subiaco, located at 388 Hay St, Subiaco. Open 7 days until late, this open air car park provides parking options for nearby Hay St restaurants and Subiaco businesses. Offering casual Hourly, Early Bird Parking, and the convenience of payments through the Wilson Parking App, The 388 Hay Street Car Park will meet all of your Subiaco parking needs.</p>\n<p>Download the Wilson Parking App to easily pay for your parking from your phone.&nbsp;</p>",
+      "information": "<p>Wilson Parking offer affordable parking at 388 Hay Street, Subiaco, located at 388 Hay St, Subiaco. Open 7 days until late, this open air car park provides parking options for nearby Hay St restaurants and Subiaco businesses. Offering casual Hourly, Early Bird Parking, and the convenience of payments through the Wilson Parking App, The 388 Hay Street Car Park will meet all of your Subiaco parking needs.</p>\n<p>Download the Wilson Parking App to easily pay for your parking from your phone.</p>",
       "isWilsonOne": false,
       "spottIsAvailable": false,
       "legacyID": 463,
       "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": true,
-      "phoneNumber": "1800 PARKING",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": "331.08580117683414",
@@ -101883,10 +101883,10 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Pay By Plate Parking. Rates apply Monday - Sunday.</p>\n<p>*Online rate only available when purchasing through the Wilson Parking App. Online rates includes Transaction fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a> to download the Wilson Parking App</p>",
+          "notes": "<p>Rates apply Monday - Sunday<br /><br />Pay By Plate Parking.<br /><br />*Online rate only available when purchasing through the Wilson Parking App. Online rates includes platform fee.<br /><br /><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a> to download the Wilson Parking App.</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 1.0 hrs",
+              "timeSpan": "0.0 - 1.0 hr",
               "price": 2.0
             },
             {
@@ -101929,10 +101929,10 @@
         },
         {
           "rateType": "Early Bird",
-          "notes": "<p>Entry between 6am - 10am, Monday - Friday.&nbsp;Valid for 12 hours from time of purchase.</p>\n<p>*Online rate only available when purchasing through the Wilson Parking App. Online rates includes Transaction fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a> to download the Wilson Parking App</p>",
+          "notes": "<p>Entry between 6am - 10am, Monday - Friday.&nbsp;Valid for 12 hours from time of purchase.</p>\n<p>*Online rate only available when purchasing through the Wilson Parking App. Online rates includes platform fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a> to download the Wilson Parking App.</p>",
           "rates": [
             {
-              "timeSpan": "Monday - Friday",
+              "timeSpan": "Mon - Fri",
               "price": 17.0
             }
           ]
@@ -102081,14 +102081,14 @@
       "costCenter": 1006151,
       "direction": "Parking for Ear Science Institute & Clinic, Subiaco Private Hospital. Entry via Salvado Road Opposite St John of God Hospital",
       "heightRestriction": 2.0,
-      "information": "<p>Wilson Parking offer affordable parking at Ear Eye Institute Australia Car Park, located at 1 Salvado Road, Subiaco. The open air car park is open 24/7, with the underground car park open 6am-11pm, and is located near the Perth ENT Centre, Subiaco Square, Market Square and St John of God Hospital. Offering, casual Hourly and Weekend Parking, the Ear Eye Institute Australia Car Park will meet all of your Subiaco parking needs.&nbsp;</p>\n<p>Download the Wilson Parking App to enjoy the convenience and ease of paying for your parking from your phone.&nbsp;</p>",
+      "information": "<p>Wilson Parking offer affordable parking at Ear Eye Institute Australia Car Park, located at 1 Salvado Road, Subiaco. The open air car park is open 24/7, with the underground car park open 6am-11pm, and is located near the Perth ENT Centre, Subiaco Square, Market Square and St John of God Hospital. Offering, casual Hourly and Weekend Parking, the Ear Eye Institute Australia Car Park will meet all of your Subiaco parking needs.&nbsp;</p>\n<p>Download the Wilson Parking App to enjoy the convenience and ease of paying for your parking from your phone.</p>",
       "isWilsonOne": false,
       "spottIsAvailable": false,
       "legacyID": 211,
       "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": true,
-      "phoneNumber": "1800 PARKING",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": "199.4847641853072",
@@ -102096,14 +102096,14 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Rates apply Monday - Friday.</p>\n<p>*Online rate only available when purchasing through the Wilson Parking App. Online rates includes Transaction fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a> to download the Wilson Parking App</p>",
+          "notes": "<p>Rates apply Monday - Friday.</p>\n<p>*Online rate only available when purchasing through the Wilson Parking App. Online rates includes platform fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a> to download the Wilson Parking App.</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 0.5 hrs",
+              "timeSpan": "0.0 - 0.5 hr",
               "price": 3.0
             },
             {
-              "timeSpan": "0.5 - 1.0 hrs",
+              "timeSpan": "0.5 - 1.0 hr",
               "price": 6.0
             },
             {
@@ -102126,10 +102126,10 @@
         },
         {
           "rateType": "Weekend",
-          "notes": "<p>Rates apply per exit, per day, Saturday and Sunday.</p>\n<p>*Online rate only available when purchasing through the Wilson Parking App. Online rates includes Transaction fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a> to download the Wilson Parking App</p>",
+          "notes": "<p>Rates apply per exit, per day, Saturday and Sunday.</p>\n<p>*Online rate only available when purchasing through the Wilson Parking App. Online rates includes platform fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a> to download the Wilson Parking App.</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 1.0 hrs",
+              "timeSpan": "0.0 - 1.0 hr",
               "price": 3.0
             },
             {
@@ -102290,7 +102290,7 @@
       "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
-      "phoneNumber": "1800 PARKING",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": "167.46356876418852",
@@ -102298,14 +102298,14 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Rates apply Monday - Friday</p>\n<p>*Online rate only available when purchasing through the Wilson Parking App. Online rates includes Transaction fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a> to download the Wilson Parking App</p>",
+          "notes": "<p>Rates apply Monday - Friday</p>\n<p>*Online rate only available when purchasing through the Wilson Parking App. Online rates includes platform fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a> to download the Wilson Parking App.</p>",
           "rates": [
             {
-              "timeSpan": " 0.0 - 0.5 hrs",
+              "timeSpan": " 0.0 - 0.5 hr",
               "price": 4.0
             },
             {
-              "timeSpan": " 0.5 - 1.0 hrs",
+              "timeSpan": " 0.5 - 1.0 hr",
               "price": 8.0
             },
             {
@@ -102325,14 +102325,14 @@
               "price": 19.0
             },
             {
-              "timeSpan": "24 hr max",
+              "timeSpan": "24.0 hrs max",
               "price": 28.0
             }
           ]
         },
         {
           "rateType": "Weekend",
-          "notes": "<p>Rates apply per exit per day, Saturday and Sunday.</p>\n<p>*Online rate only available when purchasing through the Wilson Parking App. Online rates includes Transaction fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a> to download the Wilson Parking App</p>",
+          "notes": "<p>Rates apply per exit per day, Saturday and Sunday.</p>\n<p>*Online rate only available when purchasing through the Wilson Parking App. Online rates includes platform fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a> to download the Wilson Parking App.</p>",
           "rates": [
             {
               "timeSpan": "0.0 - 1.0 hr",
@@ -102502,7 +102502,7 @@
       "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": true,
-      "phoneNumber": "1800 PARKING",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": "168.283407904006",
@@ -102510,14 +102510,14 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Applies 24 hours, 7 days a week.&nbsp;</p>\n<p>*Online rate only available when purchasing through the Wilson Parking App. Online rates includes Transaction fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a> to download the Wilson Parking App</p>",
+          "notes": "<p>Applies 24 hours, 7 days a week.&nbsp;</p>\n<p>*Online rate only available when purchasing through the Wilson Parking App. Online rates includes platform fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a> to download the Wilson Parking App.</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 0.5 hrs",
+              "timeSpan": "0.0 - 0.5 hr",
               "price": 3.0
             },
             {
-              "timeSpan": "0.5 - 1.0 hrs",
+              "timeSpan": "0.5 - 1.0 hr",
               "price": 6.0
             },
             {
@@ -102692,16 +102692,16 @@
       "carParkPhoto": "/contentassets/3d1908a3672642a4861780951ff9de31/per090a.jpg",
       "category": "",
       "costCenter": 1006090,
-      "direction": "Via Seddon Street Car Park\n",
+      "direction": "Entry via Seddon Street Car Park\n",
       "heightRestriction": 1.9,
-      "information": "<p>Wilson Parking offer affordable parking at 464 Hay St Car Park, located underground at the Nova Radio building in Subiaco. Open until midnight Monday - Sunday, the car park provides parking for visitors to nearby Subiaco businesses. Offering casual Hourly and Early Bird Parking or subscribe to permanent monthly parking, the 464 Hay St Car Park will meet all of your parking needs.&nbsp;</p>\n<p>Subscribe to Monthly Parking to enjoy unlimited access within the operational hours of the car park, or download the Wilson Parking App to access exclusive discounts and easily pay for your casual parking from your phone.&nbsp;</p>",
+      "information": "<p>Wilson Parking offer affordable parking at 464 Hay St Car Park, located underground at the Nova Radio building in Subiaco. Open until midnight Monday - Sunday, the car park provides parking for visitors to nearby Subiaco businesses. Offering casual Hourly and Early Bird Parking or subscribe to permanent monthly parking, the 464 Hay St Car Park will meet all of your parking needs.&nbsp;</p>\n<p>Subscribe to Monthly Parking to enjoy unlimited access within the operational hours of the car park, or download the Wilson Parking App to access exclusive discounts and easily pay for your casual parking from your phone.</p>",
       "isWilsonOne": false,
       "spottIsAvailable": false,
       "legacyID": 28,
       "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": true,
-      "phoneNumber": "1800 PARKING",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": "183.32773337044807",
@@ -102709,14 +102709,14 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Pay by Plate parking. After 8hrs, 50c per hour to a maximum of 12 hours.&nbsp;</p>\n<p>Rates apply Monday - Sunday.</p>\n<p>*Online rate only available when purchasing through the Wilson Parking App. Online rates includes Transaction fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a> to download the Wilson Parking App</p>",
+          "notes": "<p>Pay by Plate parking. After 8hrs, 50c per hour to a maximum of 12 hours.&nbsp;</p>\n<p>Rates apply Monday - Sunday.</p>\n<p>*Online rate only available when purchasing through the Wilson Parking App. Online rates includes platform fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a> to download the Wilson Parking App.</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 0.5 hrs",
+              "timeSpan": "0.0 - 0.5 hr",
               "price": 3.0
             },
             {
-              "timeSpan": "0.5 - 1.0 hrs",
+              "timeSpan": "0.5 - 1.0 hr",
               "price": 6.0
             },
             {
@@ -102739,7 +102739,7 @@
         },
         {
           "rateType": "Weekend",
-          "notes": "<p>Rates apply per exit per day, Saturday &amp; Sunday.</p>\n<p>*Online rate only available when purchasing through the Wilson Parking App. Online rates includes Transaction fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a> to download the Wilson Parking App</p>",
+          "notes": "<p>Rates apply per exit per day, Saturday &amp; Sunday.</p>\n<p>*Online rate only available when purchasing through the Wilson Parking App. Online rates includes platform fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a> to download the Wilson Parking App.</p>",
           "rates": [
             {
               "timeSpan": "0.0 - 12.0 hrs",
@@ -102749,7 +102749,7 @@
         },
         {
           "rateType": "Night",
-          "notes": "<p>Rate applies for purchase after 5pm. Monday - Friday</p>\n<p>*Online rate only available when purchasing through the Wilson Parking App. Online rates includes Transaction fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a> to download the Wilson Parking App</p>",
+          "notes": "<p>Rate applies for purchase after 5pm, Monday - Friday.</p>\n<p>*Online rate only available when purchasing through the Wilson Parking App. Online rates includes platform fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a> to download the Wilson Parking App.</p>",
           "rates": [
             {
               "timeSpan": "0.0 - 12.0 hrs",
@@ -102910,14 +102910,14 @@
       "costCenter": 1006152,
       "direction": null,
       "heightRestriction": 0.0,
-      "information": "<p>Wilson Parking offer affordable parking at St Joseph's Church Car Park, located at 3 Salvado Road, Subiaco. Open 24/7, this open air car park provides parking for the St Joseph's Church, as well as the nearby St John of God hospital and other local Subiaco businesses, and Subiaco Square Shopping Centre. Offering casual Hourly, Night and Weekend Parking, and the ease of payments through the Wilson Parking app, the St Joseph's Church Car Park will meet all of your Subiaco parking needs.</p>\n<p>Download the Wilson Parking App to easily pay for your parking from your phone.&nbsp;</p>",
+      "information": "<p>Wilson Parking offer affordable parking at St Joseph's Church Car Park, located at 3 Salvado Road, Subiaco. Open 24/7, this open air car park provides parking for the St Joseph's Church, as well as the nearby St John of God hospital and other local Subiaco businesses, and Subiaco Square Shopping Centre. Offering casual Hourly, Night and Weekend Parking, and the ease of payments through the Wilson Parking app, the St Joseph's Church Car Park will meet all of your Subiaco parking needs.</p>\n<p>Download the Wilson Parking App to easily pay for your parking from your phone.</p>",
       "isWilsonOne": false,
       "spottIsAvailable": false,
       "legacyID": 227,
       "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": true,
-      "phoneNumber": "1800 PARKING",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": "252.23219109161036",
@@ -102925,10 +102925,10 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Night rates apply from 6pm, Monday - Friday.</p>\n<p>*Online rate only available when purchasing through the Wilson Parking App. Online rates includes Transaction fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a> to download the Wilson Parking App</p>",
+          "notes": "<p>Night rates apply from 6pm, Monday - Friday.</p>\n<p>*Online rate only available when purchasing through the Wilson Parking App. Online rates includes platform fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a> to download the Wilson Parking App</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 1.0 hrs",
+              "timeSpan": "0.0 - 1.0 hr",
               "price": 3.0
             },
             {
@@ -102959,10 +102959,10 @@
         },
         {
           "rateType": "Night",
-          "notes": "<p>Entry after 6pm and exit before 8am. Rates apply Monday - Friday.</p>\n<p>*Online rate only available when purchasing through the Wilson Parking App. Online rates includes Transaction fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a> to download the Wilson Parking App</p>",
+          "notes": "<p>Entry after 6pm and exit before 8am. Rates apply Monday - Friday.</p>\n<p>*Online rate only available when purchasing through the Wilson Parking App. Online rates includes platform fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a> to download the Wilson Parking App.</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 1.0 hrs",
+              "timeSpan": "0.0 - 1.0 hr",
               "price": 2.0
             },
             {
@@ -102977,10 +102977,10 @@
         },
         {
           "rateType": "Weekend",
-          "notes": "<p>Rates apply per exit, per day, Saturday - Sunday.</p>\n<p>*Online rate only available when purchasing through the Wilson Parking App. Online rates includes Transaction fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a> to download the Wilson Parking App</p>",
+          "notes": "<p>Rates apply per exit, per day, Saturday - Sunday.</p>\n<p>*Online rate only available when purchasing through the Wilson Parking App. Online rates includes platform fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a> to download the Wilson Parking App.</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 1.0 hrs",
+              "timeSpan": "0.0 - 1.0 hr",
               "price": 2.0
             },
             {
@@ -103145,7 +103145,7 @@
       "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": true,
-      "phoneNumber": "1800 PARKING (1800 727 5464)",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": "115.8229718",
@@ -103153,7 +103153,7 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Monday to Saturday, 8am - 8pm</p>\n<p><em><span style=\"color: #ff1e25;\">Please note for the 1 hour free you must register at the machine</span></em></p>\n<p><span style=\"color: #000000;\">Monday to Saturday 8pm - 8am and&nbsp;</span><span style=\"color: #000000;\">Sunday 8am to Monday 8am (free parking - no registration required)</span></p>\n<p>&nbsp;</p>",
+          "notes": "<p>Monday to Saturday, 8am - 8pm</p>\n<p><em><span style=\"color: #ff1e25;\">Please note for the 1 hour free parking you must register at the pay machine.</span></em></p>\n<p><span style=\"color: #000000;\">Monday to Saturday 8pm - 8am and&nbsp;</span><span style=\"color: #000000;\">Sunday 8am to Monday 8am (free parking - no registration required).<br /></span></p>",
           "rates": [
             {
               "timeSpan": "0.0 - 1.0 hr",
@@ -103323,14 +103323,14 @@
       "costCenter": 1006111,
       "direction": "Subiaco Square Car Park entry via Station Street",
       "heightRestriction": 2.1,
-      "information": "<p>Wilson Parking offer affordable parking at Subiaco Square Car Park, located at 29 Station Street, Subiaco. Open 7 days until 10pm, this undercover car park&nbsp; is located within the Subiaco retail district, providing options for shopping and restaurant parking. Offering casual Hourly and Early Bird Parking, and the convenience of payment with the Wilson Parking App, the Subiaco Square Car Park will meet all of your Subiaco parking needs.</p>\n<p>Download the Wilson Parking App to easily pay for your parking from your phone.&nbsp;</p>",
+      "information": "<p>Wilson Parking offer affordable parking at Subiaco Square Car Park, located at 29 Station Street, Subiaco. Open 7 days until 10pm, this undercover car park&nbsp; is located within the Subiaco retail district, providing options for shopping and restaurant parking. Offering casual Hourly and Early Bird Parking, and the convenience of payment with the Wilson Parking App, the Subiaco Square Car Park will meet all of your Subiaco parking needs.</p>\n<p>Download the Wilson Parking App to easily pay for your parking from your phone.</p>",
       "isWilsonOne": false,
       "spottIsAvailable": false,
       "legacyID": 141,
       "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": true,
-      "phoneNumber": "1800 PARKING",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": "50.940901799746825",
@@ -103523,7 +103523,7 @@
       "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": true,
-      "phoneNumber": "1800 PARKING",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": "323.02708057192416",
@@ -103531,14 +103531,14 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Rates apply Monday - Friday</p>\n<p>*Online rate only available when purchasing through the Wilson Parking App. Online rates includes Transaction fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a> to download the Wilson Parking App</p>",
+          "notes": "<p>Rates apply Monday - Friday</p>\n<p>*Online rate only available when purchasing through the Wilson Parking App. Online rates includes platform fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a> to download the Wilson Parking App.</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 0.5 hrs",
+              "timeSpan": "0.0 - 0.5 hr",
               "price": 6.0
             },
             {
-              "timeSpan": "0.5 - 1.0 hrs",
+              "timeSpan": "0.5 - 1.0 hr",
               "price": 11.0
             },
             {
@@ -103565,10 +103565,10 @@
         },
         {
           "rateType": "Weekend",
-          "notes": "<p>Rates apply per exit, per day Saturday - Sunday</p>\n<p>*Online rate only available when purchasing through the Wilson Parking App. Online rates includes Transaction fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a> to download the Wilson Parking App</p>",
+          "notes": "<p>Rates apply per exit, per day Saturday - Sunday</p>\n<p>*Online rate only available when purchasing through the Wilson Parking App. Online rates includes platform fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a> to download the Wilson Parking App.</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 1.0 hrs",
+              "timeSpan": "0.0 - 1.0 hr",
               "price": 3.0
             },
             {
@@ -103747,7 +103747,7 @@
       "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": true,
-      "phoneNumber": "1800 PARKING",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": "224.1815376670299",
@@ -103755,14 +103755,14 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Maximum stay 12 hrs. Entry after 6am and Exit before 6pm. Rates apply Monday - Friday.</p>\n<p>*Online rate only available when purchasing through the Wilson Parking App. Online rates includes Transaction fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a> to download the Wilson Parking App</p>",
+          "notes": "<p>Maximum stay 12 hrs. Entry after 6am and Exit before 6pm. Rates apply Monday - Friday.</p>\n<p>*Online rate only available when purchasing through the Wilson Parking App. Online rates includes platform fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a> to download the Wilson Parking App.</p>",
           "rates": [
             {
               "timeSpan": "Per hour or part thereof",
               "price": 3.0
             },
             {
-              "timeSpan": "4.0  - 5.0 Hrs",
+              "timeSpan": "4.0  - 5.0 hrs",
               "price": 15.0
             },
             {
@@ -103790,14 +103790,14 @@
               "price": 33.0
             },
             {
-              "timeSpan": "Max",
+              "timeSpan": "11.0 hrs max",
               "price": 33.0
             }
           ]
         },
         {
           "rateType": "Night",
-          "notes": "<p>Entry after 6pm &amp; exit before 6am. Rate applies Monday - Sunday.</p>\n<p>&nbsp;</p>",
+          "notes": "<p>Entry after 6pm &amp; exit before 6am. Rate applies Monday - Sunday.</p>",
           "rates": [
             {
               "timeSpan": "From 6pm - 6am",
@@ -104314,7 +104314,7 @@
       "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
-      "phoneNumber": "1800 PARKING (1800 727 5464)",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": null,
@@ -104453,7 +104453,7 @@
       "carParkPhoto": null,
       "category": "",
       "costCenter": 1006241,
-      "direction": "Entry to Sunray Drive off Ellen Stirling Boulevard.",
+      "direction": "Entry to Sunray Drive off Ellen Stirling Boulevard",
       "heightRestriction": 2.1,
       "information": "<p>Wilson Parking offer affordable parking at Stirling Cross Car Park, located at 1 Sunray Drive, Innaloo. With public parking Levels Ground to Level 3, this undercover car park is open 7 days. Offering casual Hourly and Nightparking, and the convenience of payments with the Wilson Parking App, the Stirling Cross Car Park will meet all of your parking needs.</p>\n<p>Download the Wilson Parking App to easily pay for your parking directly from your phone.&nbsp;</p>",
       "isWilsonOne": false,
@@ -104462,7 +104462,7 @@
       "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": true,
-      "phoneNumber": "1800 PARKING",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": "259.542809920142",
@@ -104470,33 +104470,33 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Rates apply Monday - Sunday</p>\n<p>Paid parking from 6am - 5pm, after 5pm Free parking.</p>\n<p>*Online rate only available when purchasing through the Wilson Parking App. Online rates includes Transaction fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a> to download the Wilson Parking App</p>",
+          "notes": "<p>Rates apply Monday - Sunday</p>\n<p>Paid parking from 6am - 5pm, after 5pm Free parking.</p>\n<p>*Online rate only available when purchasing through the Wilson Parking App. Online rates includes platform fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a> to download the Wilson Parking App.</p>",
           "rates": [
             {
-              "timeSpan": "0 - 1 hr",
+              "timeSpan": "0.0 - 1.0 hr",
               "price": 3.0
             },
             {
-              "timeSpan": "1 - 2 hrs",
+              "timeSpan": "1.0 - 2.0 hrs",
               "price": 5.0
             },
             {
-              "timeSpan": "2 - 3 hrs",
+              "timeSpan": "2.0 - 3.0 hrs",
               "price": 7.0
             },
             {
-              "timeSpan": "3 - 4 hrs",
+              "timeSpan": "3.0 - 4.0 hrs",
               "price": 9.0
             },
             {
-              "timeSpan": "4 - 12 hrs",
+              "timeSpan": "4.0 - 12.0 hrs",
               "price": 12.0
             }
           ]
         },
         {
           "rateType": "Night",
-          "notes": "<p>Free parking between 5pm - 12.30am. Applies Monday - Sunday</p>",
+          "notes": "<p>Free parking between 5pm - 12.30am, Monday - Sunday</p>",
           "rates": [
             {
               "timeSpan": "5pm - 12.30am",
@@ -104650,14 +104650,14 @@
       "costCenter": 1006284,
       "direction": "Entry to the car park via Holdsworth Street.",
       "heightRestriction": 0.0,
-      "information": "<p>Wilson Parking offer affordable all day parking at High Street, located in Fremantle. Open 7 days, and situated in the heart of Fremantle, this car park is in a prime High St location, near popular businesses and retail centres. Offering casual Hourly Parking, with the convenience of payments through the Wilson Parking App, and permanent Monthly Parking for regular parkers, the High St Car Park will meet all your Fremantle Parking needs.&nbsp;</p>\n<p>Download the Wilson Parking App to easily pay for your parking from your phone, or enjoy unlimited access during the operational hours of the car park when you subscribe to monthly parking.&nbsp;</p>",
+      "information": "<p>Wilson Parking offer affordable all day parking at High Street, located in Fremantle. Open 7 days, and situated in the heart of Fremantle, this car park is in a prime High St location, near popular businesses and retail centres. Offering casual Hourly Parking, with the convenience of payments through the Wilson Parking App, and permanent Monthly Parking for regular parkers, the High St Car Park will meet all your Fremantle Parking needs.&nbsp;</p>\n<p>Download the Wilson Parking App to easily pay for your parking from your phone, or enjoy unlimited access during the operational hours of the car park when you subscribe to monthly parking.</p>",
       "isWilsonOne": false,
       "spottIsAvailable": false,
       "legacyID": 632,
       "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": true,
-      "phoneNumber": "1800 PARKING",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": "353.73313151539685",
@@ -104665,7 +104665,7 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>6am - 8pm Per visit, per day, Monday - Sunday.</p>\n<p>*Online rate only available when purchasing through the Wilson Parking App. Online rates includes Transaction fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a> to download the Wilson Parking App</p>",
+          "notes": "<p>6am - 8pm Per visit, per day, Monday - Sunday.</p>\n<p>*Online rate only available when purchasing through the Wilson Parking App. Online rates includes platform fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a> to download the Wilson Parking App.</p>",
           "rates": [
             {
               "timeSpan": "Flat Rate",
@@ -104826,14 +104826,14 @@
       "costCenter": 1006295,
       "direction": "Enter via William Street",
       "heightRestriction": 0.0,
-      "information": "<p>Wilson Parking offer affordable parking at the 10 Henderson St car park, located at 10 Henderson St, Fremantle. Open 24/7, this open air car park is nearby to Fremantle Markets, cafe strip &amp; CBD,&nbsp; behind Metropolis Night Club. Offering casual Hourly Parking 7 days a week, and the convenience of payments with the Wilson Parking App, the 10 Henderson St Car Park will meet all your Fremantle parking needs.&nbsp;</p>\n<p>Download the Wilson Parking App to easily pay for your parking from your phone.&nbsp;</p>",
+      "information": "<p>Wilson Parking offer affordable parking at the 10 Henderson St car park, located at 10 Henderson St, Fremantle. Open 24/7, this open air car park is nearby to Fremantle Markets, cafe strip &amp; CBD,&nbsp; behind Metropolis Night Club. Offering casual Hourly Parking 7 days a week, and the convenience of payments with the Wilson Parking App, the 10 Henderson St Car Park will meet all your Fremantle parking needs.&nbsp;</p>\n<p>Download the Wilson Parking App to easily pay for your parking from your phone.</p>",
       "isWilsonOne": false,
       "spottIsAvailable": false,
       "legacyID": 641,
       "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": true,
-      "phoneNumber": "1800 PARKING",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": "234.5618287610939",
@@ -105208,14 +105208,14 @@
       "costCenter": 1006112,
       "direction": "Entry via Elder Place",
       "heightRestriction": 0.0,
-      "information": "<p>Wilson Parking offer affordable parking at Cantonment St Car Park, located at 20 Cantonment St, Fremantle. Open 24/7 this open air car park, close to Fremantle station, retail stores and the Spare Parts Puppet Theatre, provides parking options for workers, shoppers and visitors to the Fremantle area, or those looking to park and ride to other locations. Offering casual Hourly and Early Bird parking every day of the week, with exclusive discounts when you pay with the Wilson Parking App, and permanent monthly parking for regular parkers, the Cantonment St Car Park will meet all of your Fremantle parking needs.&nbsp;</p>\n<p>Download the Wilson Parking App to access exclusive parking discounts when you pay for your casual parking with your phone, or enjoy unlimited 24/7 access to the car park when you subscribe to monthly parking</p>",
+      "information": "<p>Wilson Parking offer affordable parking at Cantonment St Car Park, located at 20 Cantonment St, Fremantle. Open 24/7 this open air car park, close to Fremantle station, retail stores and the Spare Parts Puppet Theatre, provides parking options for workers, shoppers and visitors to the Fremantle area, or those looking to park and ride to other locations. Offering casual Hourly and Early Bird parking every day of the week, with exclusive discounts when you pay with the Wilson Parking App, and permanent monthly parking for regular parkers, the Cantonment St Car Park will meet all of your Fremantle parking needs.&nbsp;</p>\n<p>Download the Wilson Parking App to access exclusive parking discounts when you pay for your casual parking with your phone, or enjoy unlimited 24/7 access to the car park when you subscribe to monthly parking.</p>",
       "isWilsonOne": false,
       "spottIsAvailable": false,
       "legacyID": 199,
       "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": true,
-      "phoneNumber": "1800 PARKING",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": "119.67020189785869",
@@ -105223,14 +105223,14 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Rates apply Monday - Sunday</p>\n<p>*Online rate only available when purchasing through the Wilson Parking App. Online rates includes Transaction fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a> to download the Wilson Parking App</p>",
+          "notes": "<p>Rates apply Monday - Sunday</p>\n<p>*Online rate only available when purchasing through the Wilson Parking App. Online rates includes platform fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a> to download the Wilson Parking App.</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 0.5 hrs",
+              "timeSpan": "0.0 - 0.5 hr",
               "price": 7.0
             },
             {
-              "timeSpan": "0.5 - 1.0 hrs ",
+              "timeSpan": "0.5 - 1.0 hr",
               "price": 9.0
             },
             {
@@ -105253,7 +105253,7 @@
         },
         {
           "rateType": "Early Bird",
-          "notes": "<p>Entry between 5am &amp; 10am, Monday - Sunday. Valid for 12 hrs from purchase.&nbsp;</p>\n<p>*Online rate only available when purchasing through the Wilson Parking App. Online rates includes Transaction fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a> to download the Wilson Parking App</p>",
+          "notes": "<p>Entry between 5am &amp; 10am, Monday - Sunday. Valid for 12 hrs from purchase.&nbsp;</p>\n<p>*Online rate only available when purchasing through the Wilson Parking App. Online rates includes platform fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a> to download the Wilson Parking App.</p>",
           "rates": [
             {
               "timeSpan": "Early Bird",
@@ -105416,14 +105416,14 @@
       "costCenter": 1006187,
       "direction": "Zone 3</br>Between C & D Shed and Railway line",
       "heightRestriction": 0.0,
-      "information": "<p>Wilson Parking offer affordable parking at Victoria Quay Zone 3 Car Park, located at Peter Hughes Drive, Victoria Quay, Fremantle.</p>\n<p>This car park is open 24/7 and offers paid parking from 8am to 8pm and free Parking from 8pm - 8am. Long Term Parking valid up to a Maximum of 7 days. For additional days contact 1800 PARKING.</p>\n<p>Download the Wilson Parking App to easily pay for parking from your phone.&nbsp;</p>",
+      "information": "<p>Wilson Parking offer affordable parking at Victoria Quay Zone 3 Car Park, located at Peter Hughes Drive, Victoria Quay, Fremantle.</p>\n<p>This car park is open 24/7 and offers paid parking from 8am to 8pm and free Parking from 8pm - 8am. Long Term Parking valid up to a Maximum of 7 days. For additional days contact 1800 PARKING.</p>\n<p>Download the Wilson Parking App to easily pay for parking from your phone.</p>",
       "isWilsonOne": false,
       "spottIsAvailable": false,
       "legacyID": 371,
       "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": true,
-      "phoneNumber": "1800 PARKING",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": "209.06124359734898",
@@ -105431,10 +105431,10 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Rates apply Monday - Sunday. Paid Parking from 8am to 8pm - Free Parking from 8pm - 8am.</p>\n<p>Long Term Parking up to a Maximum of 7 days can be paid via pay machine. For more than 7 days parking use Wilson Parking App.&nbsp;&nbsp;</p>\n<p>For additional days contact 1800 PARKING.</p>\n<p>*Online rate only available when purchasing through the Wilson Parking App. Online rates includes Transaction fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a> to download the Wilson Parking App</p>",
+          "notes": "<p>Rates apply Monday - Sunday. Paid Parking from 8am to 8pm - Free Parking from 8pm to 8am.</p>\n<p>Long Term Parking up to a Maximum of 7 days can be paid via pay machine. For more than 7 days parking use Wilson Parking App.&nbsp;&nbsp;</p>\n<p>For additional days contact 1800 PARKING (1800 727 546)</p>\n<p>*Online rate only available when purchasing through the Wilson Parking App. Online rates includes paltform fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a> to download the Wilson Parking App.</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 1.0 hrs",
+              "timeSpan": "0.0 - 1.0 hr",
               "price": 3.0
             },
             {
@@ -105789,14 +105789,14 @@
       "costCenter": 1006187,
       "direction": "\n\n",
       "heightRestriction": 0.0,
-      "information": "<p>Wilson Parking offer affordable parking at Victoria Quay which is located at Peter Hughes Drive, Victoria Quay, Fremantle. Zones 1 &amp; 2 offer short term parking only, available 8am - 8pm.&nbsp;</p>\n<p>Download the Wilson Parking app to easily pay for your parking from your phone.&nbsp;</p>",
+      "information": "<p>Wilson Parking offer affordable parking at Victoria Quay which is located at Peter Hughes Drive, Victoria Quay, Fremantle. Zones 1 &amp; 2 offer short term parking only, available 8am - 8pm.&nbsp;</p>\n<p>Download the Wilson Parking app to easily pay for your parking from your phone.</p>",
       "isWilsonOne": false,
       "spottIsAvailable": false,
       "legacyID": 370,
       "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": true,
-      "phoneNumber": "1800 PARKING",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": "273.42170164219976",
@@ -105804,10 +105804,10 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Zones 1 &amp; 2 - Short term parking only, 3 hours max. 8am - 8pm, Monday - Sunday.</p>\n<p>Zone 3 - All day parking only, 8am - 8pm,&nbsp; Monday - Sunday. Maximum 7 days.</p>\n<p>Zone 4 -&nbsp;All day parking 8am - 8pm,&nbsp; Monday - Sunday. Maximum 7 days.</p>\n<p><span style=\"color: #ff1e25;\"><strong>For more than 7 days parking use Wilson Parking App.</strong></span></p>\n<p>*Online rate only available when purchasing through the Wilson Parking App. Online rates includes Transaction fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a> to download the Wilson Parking App</p>",
+          "notes": "<p>Zones 1 &amp; 2 - Short term parking only, 3 hours max. 8am - 8pm, Monday - Sunday.</p>\n<p>Zone 3 - All day parking only, 8am - 8pm,&nbsp; Monday - Sunday. Maximum 7 days.</p>\n<p>Zone 4 -&nbsp;All day parking 8am - 8pm,&nbsp; Monday - Sunday. Maximum 7 days.</p>\n<p><span style=\"color: #ff1e25;\"><strong>For more than 7 days parking use Wilson Parking App.</strong></span></p>\n<p>*Online rate only available when purchasing through the Wilson Parking App. Online rates includes platform fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a> to download the Wilson Parking App.</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 1.0 hrs",
+              "timeSpan": "0.0 - 1.0 hr",
               "price": 3.0
             },
             {
@@ -105978,7 +105978,7 @@
       "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": true,
-      "phoneNumber": "1800 PARKING",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": null,
@@ -105986,14 +105986,14 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Rates apply Monday - Sunday. Paid Parking from 8am to 8pm - Free Parking from 8pm - 8am.</p>\n<p>*Online rate only available when purchasing through the Wilson Parking App. Online rates includes Transaction fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a> to download the Wilson Parking App</p>",
+          "notes": "<p>Rates apply Monday - Sunday. Paid Parking from 8am to 8pm - Free Parking from 8pm to 8am.</p>\n<p>*Online rate only available when purchasing through the Wilson Parking App. Online rates includes platform fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a> to download the Wilson Parking App.</p>",
           "rates": [
             {
               "timeSpan": "0.0 - 1.0 hr",
               "price": 3.0
             },
             {
-              "timeSpan": "0.1 - 2.0 hrs",
+              "timeSpan": "1.0 - 2.0 hrs",
               "price": 6.0
             },
             {
@@ -106001,7 +106001,7 @@
               "price": 9.0
             },
             {
-              "timeSpan": "0.3 - 12.0 hrs MAX",
+              "timeSpan": "3.0 - 12.0 hrs max",
               "price": 12.0
             },
             {
@@ -106153,14 +106153,14 @@
       "costCenter": 1006187,
       "direction": null,
       "heightRestriction": 0.0,
-      "information": "<p>Wilson Parking offer affordable parking at Victoria Quay South Mole which is located at Peter Hughes Drive, Victoria Quay, Fremantle. With casual Hourly and All Day parking and open 24/7, the Victoria Quay South Mole will meet all of your parking needs.</p>\n<p>All Day Parking valid Monday to Thursday only.&nbsp;Paid Parking from 8am to 8pm.&nbsp; Free Parking from 8pm - 8am. Friday to Sunday 3 hr Maximum only permitted in this Zone.</p>\n<p>Download the Wilson Parking App to easily pay for your parking directly from your phone.&nbsp;</p>",
+      "information": "<p>Wilson Parking offer affordable parking at Victoria Quay South Mole which is located at Peter Hughes Drive, Victoria Quay, Fremantle. With casual Hourly and All Day parking and open 24/7, the Victoria Quay South Mole will meet all of your parking needs.</p>\n<p>All Day Parking valid Monday to Thursday only.&nbsp;Paid Parking from 8am to 8pm.&nbsp; Free Parking from 8pm - 8am. Friday to Sunday 3 hr Maximum only permitted in this Zone.</p>\n<p>Download the Wilson Parking App to easily pay for your parking directly from your phone.</p>",
       "isWilsonOne": false,
       "spottIsAvailable": false,
       "legacyID": 1006187,
       "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": true,
-      "phoneNumber": "1800 PARKING",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": null,
@@ -106168,7 +106168,7 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>All Day Parking valid Monday to Thursday only<br />Friday to Sunday 3 hr Maximum only permitted in this Zone.</p>\n<p>Paid Parking from 8am to 8pm - Free Parking from 8pm - 8am</p>\n<p>*Online rate only available when purchasing through the Wilson Parking App. Online rates includes Transaction fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a> to download the Wilson Parking App</p>",
+          "notes": "<p>All Day Parking valid Monday to Thursday only.<br /><br />Friday to Sunday 3 hr Maximum only permitted in this Zone.<br /><br />Paid Parking from 8am to 8pm - Free Parking from 8pm - 8am.<br /><br />*Online rate only available when purchasing through the Wilson Parking App. Online rates includes platform fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a> to download the Wilson Parking App.</p>",
           "rates": [
             {
               "timeSpan": "0.0 - 3.0 hrs ",
@@ -106341,14 +106341,14 @@
       "costCenter": 1006155,
       "direction": "Please note that the car park will close 30mins after the last ferry docks.",
       "heightRestriction": 0.0,
-      "information": "<p>Wilson Parking offer affordable parking at Rottnest Express Car Park, located at 1 Emma Pl North, Fremantle. Providing convenient parking for those travelling to Rottnest Island, and offering casual Hourly parking, and convenient payments from the Wilson Parking App, the Rottnest Express Car Park will meet all of your parking needs.</p>\n<p>Download the Wilson Parking App to easily pay for your parking directly from your phone.&nbsp;</p>",
+      "information": "<p>Wilson Parking offer affordable parking at Rottnest Express Car Park, located at 1 Emma Pl North, Fremantle. Providing convenient parking for those travelling to Rottnest Island, and offering casual Hourly parking, and convenient payments from the Wilson Parking App, the Rottnest Express Car Park will meet all of your parking needs.</p>\n<p>Download the Wilson Parking App to easily pay for your parking directly from your phone.</p>",
       "isWilsonOne": false,
       "spottIsAvailable": false,
       "legacyID": 16,
       "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": true,
-      "phoneNumber": "1800 PARKING ",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": "230.35375855532436",
@@ -106356,7 +106356,7 @@
       "rates": [
         {
           "rateType": "Daily",
-          "notes": "<p>Rates shown are per day, tickets expire at 12:00am each day. Maximum stay 45 days.</p>\n<p>*Online rate only available when purchasing through the Wilson Parking App. Online rates includes Transaction fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a> to download the Wilson Parking App</p>",
+          "notes": "<p>Rates shown are per day, tickets expire at 12am each day. Maximum stay 45 days.</p>\n<p>*Online rate only available when purchasing through the Wilson Parking App. Online rates includes platform fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a> to download the Wilson Parking App.</p>",
           "rates": [
             {
               "timeSpan": "Car - per day",
@@ -106524,7 +106524,7 @@
       "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
-      "phoneNumber": "1800 PARKING",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": "141.42526588374176",
@@ -106532,7 +106532,7 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>*Online rate only available when purchasing through the Wilson Parking App. Online rates includes Transaction fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a> to download the Wilson Parking App</p>",
+          "notes": "<p>*Online rate only available when purchasing through the Wilson Parking App. Online rates includes platform fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a> to download the Wilson Parking App.</p>",
           "rates": [
             {
               "timeSpan": "0.0 - 1.0 hr",
@@ -106547,7 +106547,7 @@
               "price": 8.0
             },
             {
-              "timeSpan": "3.0 - 12 hrs",
+              "timeSpan": "3.0 - 12.0 hrs",
               "price": 9.0
             }
           ]
