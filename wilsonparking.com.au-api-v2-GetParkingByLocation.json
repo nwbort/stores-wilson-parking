@@ -50911,15 +50911,11 @@
             },
             {
               "timeSpan": "1.0 - 2.0 hrs",
-              "price": 6.0
+              "price": 4.0
             },
             {
-              "timeSpan": "2.0 - 3.0 hrs",
-              "price": 9.0
-            },
-            {
-              "timeSpan": "3.0 + hrs",
-              "price": 10.0
+              "timeSpan": "2.0 + hrs",
+              "price": 5.0
             }
           ]
         }
@@ -53366,11 +53362,11 @@
             },
             {
               "timeSpan": "3.0 + hrs",
-              "price": 5.0
+              "price": 20.0
             },
             {
               "timeSpan": "Lost Ticket",
-              "price": 5.0
+              "price": 20.0
             }
           ]
         }
@@ -53524,36 +53520,9 @@
       "staticMapPhoto": null,
       "streetViewHeading": "353.41345795808206",
       "streetViewLocation": "https://www.google.com/maps/@?api=1&map_action=pano&pano=st9Igp3wLq4ix0YBbDJhjA&viewpoint=-28.122010228433876,153.4723079006214&heading=346.59509801458057&pitch=-6.348533393928022&zoom=0.9999999999999997",
-      "rates": [
-        {
-          "rateType": "Hourly",
-          "notes": "<p>*Online rate only available when you pay with your phone via the Wilson Parking App and includes Platform Fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a>&nbsp;to download the Wilson Parking App</p>",
-          "rates": [
-            {
-              "timeSpan": "0.0 - 1.0 hr",
-              "price": 5.0
-            },
-            {
-              "timeSpan": "1.0 - 2.0 hrs",
-              "price": 10.0
-            },
-            {
-              "timeSpan": "2.0 - 3.0 hrs",
-              "price": 15.0
-            },
-            {
-              "timeSpan": "3.0 - 4.0 hrs",
-              "price": 20.0
-            },
-            {
-              "timeSpan": "4.0- 12.0 hrs",
-              "price": 20.0
-            }
-          ]
-        }
-      ],
+      "rates": [],
       "fromText": "From",
-      "fromPrice": "4",
+      "fromPrice": "7",
       "location": {
         "longitude": 153.472493832983,
         "latitude": -28.1219971711435,
@@ -63211,7 +63180,7 @@
             },
             {
               "timeSpan": "3.0 + hrs",
-              "price": 49.0
+              "price": 50.0
             }
           ]
         }
@@ -64784,7 +64753,7 @@
             },
             {
               "timeSpan": "3.0 + hrs",
-              "price": 81.0
+              "price": 82.0
             }
           ]
         },
@@ -71992,7 +71961,7 @@
       "category": "",
       "costCenter": 1004212,
       "direction": "Entry and exit on Gillingham Street",
-      "heightRestriction": 2.2,
+      "heightRestriction": 2.24,
       "information": "<p>Wilson Parking offers affordable, undercover &amp; secure parking at Unilodge Park Central Car Park. Only a short walk from Princess Alexandra hospital, and right next to Buranda Train Station and Busway, your commute to the CBD, University of Queensland, Griffith University and QUT has just become even easier.</p>\n<p>Download the Wilson Parking App to easily pay for your parking from your phone, or enjoy the convenience of 24/7 unlimited access to the car park when you subscribe to Monthly Parking.</p>\n<p>Bays from the green level and below are for residents only.</p>",
       "isWilsonOne": false,
       "spottIsAvailable": false,
@@ -74396,7 +74365,7 @@
       "category": "",
       "costCenter": 1004243,
       "direction": "Entry off Elizabeth Street just past the intersection of Albert and Elizabeth Street",
-      "heightRestriction": 2.3,
+      "heightRestriction": 2.25,
       "information": "<p>Wilson Parking offers affordable and secure parking at the 140 Elizabeth Street Car Park, located at 140 Elizabeth Street in the heart of Brisbane CBD. Close to Brisbane shopping, including Uptown and Queen Street Mall and just a short walk to City Botanic Gardens, it is the perfect Brisbane parking location for commuter and leisure travellers. Offering Hourly, Night and Weekend Parking, along with discount online parking options, the 140 Elizabeth Street car park will meet all your parking needs.</p>\n<p>Save when you prepay online or with the Wilson Parking App, enjoy unlimited 24/7 access when you subscribe to Monthly Parking or pay as you go with a Wilson Parking Card.</p>",
       "isWilsonOne": true,
       "spottIsAvailable": true,
@@ -76852,7 +76821,7 @@
       "category": "",
       "costCenter": 1004165,
       "direction": "Entry via Rich Lane and Adelaide Street",
-      "heightRestriction": 1.9,
+      "heightRestriction": 2.1,
       "information": "<p>Wilson Parking offers affordable &amp; secure parking at 363 Adelaide Street, Brisbane. Nearby to Cathedral Square, Queensland Academy of Technology and a number of popular Brisbane restaurants, this car park caters for both commuter and leisure parking with 24 hour accessibility. Offering Hourly, Night and Weekend parking options, as well as discount online parking, the 363 Adelaide Street car park will meet all of your parking needs.</p>\n<p>Save when you prepay your parking online or with the Wilson Parking App; enjoy 24/7 access when you subscribe to Monthly Parking; or pay as you go with the queue-less, contact free Wilson Parking Card.</p>",
       "isWilsonOne": true,
       "spottIsAvailable": true,
@@ -77675,7 +77644,7 @@
       "category": "",
       "costCenter": 1004353,
       "direction": null,
-      "heightRestriction": 2.2,
+      "heightRestriction": 2.6,
       "information": "<p>Wilson Parking offers affordable &amp; secure parking at the 162 Alfred Street&nbsp;car park, located at 162 Alfred Street&nbsp;in the heart of Fortitude Valley. Open 7 days, this undercover car park provides convenient access to the surrounding retail and&nbsp;entertainment precinct. Offering casual, weekend and night parking options and the convenience of payment from your phone with the Wilson Parking App, the 162 Alfred Street&nbsp;car park will meet all your business and leisure parking needs.</p>",
       "isWilsonOne": false,
       "spottIsAvailable": false,
@@ -78366,7 +78335,7 @@
       "category": "",
       "costCenter": 1004348,
       "direction": null,
-      "heightRestriction": 2.1,
+      "heightRestriction": 2.3,
       "information": "<p>Wilson Parking offers affordable &amp; secure parking at the Surgical Treatment and Rehabilitation Service (STARs) car park, located at 296 Herston Road, Herston in the heart of Royal Brisbane &amp; Women&rsquo;s Hospital precinct. Open 7 days, this undercover car park provides convenient access to the hospital, associated facilities, RNA Showgrounds and local businesses. Offering hourly, Weekend and Night parking options, and permanent monthly parking for regular parkers, the Surgical Treatment and Rehabilitation Service (STARs) car park&nbsp;will meet all your parking needs.</p>",
       "isWilsonOne": false,
       "spottIsAvailable": false,
@@ -78568,19 +78537,11 @@
               "price": 10.0
             },
             {
-              "timeSpan": "1.0 - 1.5 hrs",
-              "price": 15.0
-            },
-            {
-              "timeSpan": "1.5 - 2.0 hrs",
+              "timeSpan": "1.0 - 2.0 hrs",
               "price": 20.0
             },
             {
-              "timeSpan": "2.0 - 3.0 hrs",
-              "price": 30.0
-            },
-            {
-              "timeSpan": "3.0 + hrs",
+              "timeSpan": "2.0 + hrs",
               "price": 30.0
             }
           ]
@@ -90943,23 +90904,23 @@
             },
             {
               "timeSpan": "1.0 - 2.0 hrs",
-              "price": 2.0
+              "price": 3.0
             },
             {
               "timeSpan": "2.0 - 3.0 hrs",
-              "price": 4.0
+              "price": 5.0
             },
             {
               "timeSpan": "3.0 - 4.0 hrs",
-              "price": 6.0
+              "price": 7.0
             },
             {
               "timeSpan": "4.0 - 7.0 hrs",
-              "price": 8.0
+              "price": 9.0
             },
             {
               "timeSpan": "7.0 - 12.0 hrs",
-              "price": 15.0
+              "price": 16.0
             }
           ]
         }
@@ -91344,15 +91305,15 @@
             },
             {
               "timeSpan": "2.0 - 3.0 hrs ",
-              "price": 10.0
+              "price": 11.0
             },
             {
               "timeSpan": "3.0 - 4.0 hrs",
-              "price": 12.0
+              "price": 13.0
             },
             {
               "timeSpan": "4.0 - 12.0 hrs ",
-              "price": 14.0
+              "price": 15.0
             }
           ]
         }
@@ -97760,27 +97721,27 @@
           "rates": [
             {
               "timeSpan": "0.0 - 0.5 hr",
-              "price": 7.0
+              "price": 8.0
             },
             {
               "timeSpan": "0.5 - 1.0 hr",
-              "price": 11.0
+              "price": 12.0
             },
             {
               "timeSpan": "1.0 - 1.5 hrs",
-              "price": 16.0
+              "price": 17.0
             },
             {
               "timeSpan": "1.5 - 2.0 hrs",
-              "price": 21.0
+              "price": 23.0
             },
             {
               "timeSpan": "2.0 - 3.0 hrs",
-              "price": 25.0
+              "price": 28.0
             },
             {
               "timeSpan": "3.0 - 4.0 hrs",
-              "price": 30.0
+              "price": 33.0
             },
             {
               "timeSpan": "4.0 - 5.0 hrs",
@@ -97788,7 +97749,7 @@
             },
             {
               "timeSpan": "5.0 - 6.0 hrs",
-              "price": 42.0
+              "price": 43.0
             },
             {
               "timeSpan": "6.0 + hrs",
@@ -97801,8 +97762,12 @@
           "notes": "<p>Entry after 5pm, exit before 10pm, Monday - Friday.</p>\n<p>Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include platform fee.</p>",
           "rates": [
             {
-              "timeSpan": "Mon - Fri",
-              "price": 10.0
+              "timeSpan": "0.0 - 2.0 hrs",
+              "price": 6.0
+            },
+            {
+              "timeSpan": "2.0 hrs Plus",
+              "price": 15.0
             }
           ]
         },
@@ -97811,14 +97776,18 @@
           "notes": "<p>From 4.30am - close, per exit, per day, Saturday and Sunday.</p>\n<p>Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include platform fee.</p>",
           "rates": [
             {
-              "timeSpan": "Sat - Sun",
-              "price": 10.0
+              "timeSpan": "0.0 - 2.0 hrs",
+              "price": 6.0
+            },
+            {
+              "timeSpan": "2.0 hrs Plus",
+              "price": 15.0
             }
           ]
         }
       ],
       "fromText": "From",
-      "fromPrice": "7",
+      "fromPrice": "6",
       "location": {
         "longitude": 115.85444033145905,
         "latitude": -31.955600950043326,
@@ -98791,39 +98760,39 @@
           "rates": [
             {
               "timeSpan": "0.0 - 0.5 hr",
-              "price": 5.0
+              "price": 6.0
             },
             {
               "timeSpan": "0.5 - 1.0 hr",
-              "price": 7.0
+              "price": 8.0
             },
             {
               "timeSpan": "1.0 - 1.5 hrs",
-              "price": 9.0
+              "price": 10.0
             },
             {
               "timeSpan": "1.5 - 2.0 hrs",
-              "price": 11.0
+              "price": 12.0
             },
             {
               "timeSpan": "2.0 - 3.0 hrs",
-              "price": 15.0
+              "price": 16.0
             },
             {
               "timeSpan": "3.0 - 4.0 hrs",
-              "price": 19.0
+              "price": 20.0
             },
             {
               "timeSpan": "4.0 - 5.0 hrs",
-              "price": 23.0
+              "price": 24.0
             },
             {
               "timeSpan": "5.0 - 6.0 hrs",
-              "price": 27.0
+              "price": 28.0
             },
             {
               "timeSpan": "6.0 + hrs",
-              "price": 31.0
+              "price": 32.0
             }
           ]
         },
@@ -98833,7 +98802,7 @@
           "rates": [
             {
               "timeSpan": "Mon - Fri",
-              "price": 10.0
+              "price": 12.0
             }
           ]
         },
@@ -98843,13 +98812,13 @@
           "rates": [
             {
               "timeSpan": "Sat - Sun",
-              "price": 10.0
+              "price": 12.0
             }
           ]
         }
       ],
       "fromText": "From",
-      "fromPrice": "5",
+      "fromPrice": "6",
       "location": {
         "longitude": 115.85299730300903,
         "latitude": -31.951616037637525,
@@ -102133,44 +102102,48 @@
           "notes": "<p>Rates apply Monday - Sunday<br /><br />Pay By Plate Parking.<br /><br />*Online rate only available when purchasing through the Wilson Parking App. Online rates includes platform fee.<br /><br /><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a> to download the Wilson Parking App.</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 1.0 hr",
-              "price": 2.0
-            },
-            {
-              "timeSpan": "1.0 - 1.5 hrs",
+              "timeSpan": "0.0 - 0.5 hrs",
               "price": 3.0
             },
             {
-              "timeSpan": "1.5 - 2.0 hrs",
+              "timeSpan": "0.5 - 1.0 hrs",
               "price": 4.0
             },
             {
-              "timeSpan": "2.0 - 3.0 hrs",
+              "timeSpan": "1.0 - 1.5 hrs",
+              "price": 5.0
+            },
+            {
+              "timeSpan": "1.5 - 2.0 hrs",
               "price": 6.0
             },
             {
+              "timeSpan": "2.0 - 3.0 hrs",
+              "price": 9.0
+            },
+            {
               "timeSpan": "3.0 - 4.0 hrs",
-              "price": 8.0
+              "price": 11.0
             },
             {
               "timeSpan": "4.0 - 5.0 hrs",
-              "price": 10.0
+              "price": 13.0
             },
             {
               "timeSpan": "5.0 - 6.0 hrs",
-              "price": 12.0
+              "price": 15.0
             },
             {
               "timeSpan": "6.0 - 7.0 hrs",
-              "price": 14.0
-            },
-            {
-              "timeSpan": "7.0 - 8.0 hrs",
               "price": 16.0
             },
             {
+              "timeSpan": "7.0 - 8.0 hrs",
+              "price": 19.0
+            },
+            {
               "timeSpan": "8.0 - 12.0 hrs",
-              "price": 18.0
+              "price": 19.0
             }
           ]
         },
@@ -102186,7 +102159,7 @@
         }
       ],
       "fromText": "From",
-      "fromPrice": "2",
+      "fromPrice": "3",
       "location": {
         "longitude": 115.826112,
         "latitude": -31.946753,
@@ -104261,7 +104234,7 @@
             },
             {
               "timeSpan": "6.0 + hrs",
-              "price": 10.0
+              "price": 11.0
             }
           ]
         }
