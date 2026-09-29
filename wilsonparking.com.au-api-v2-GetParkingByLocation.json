@@ -6973,7 +6973,7 @@
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": "81.79496775665298",
-      "streetViewLocation": "https://www.google.com/maps/@?api=1&map_action=pano&pano=hKe2TgodvG4E3nGIZd59GQ&viewpoint=-33.86429200931755,151.2033865327582&heading=88.59691000490731&pitch=-13.811999669416181&zoom=1",
+      "streetViewLocation": "https://www.google.com/maps/@?api=1&map_action=pano&pano=5uBT9TCfPWxrOXCHlLVD7w&viewpoint=-33.864351773535105,151.20344380334066&heading=84.97754521010938&pitch=-6.9799119070617195&zoom=0.9999999999999997",
       "rates": [
         {
           "rateType": "Hourly",
@@ -7363,7 +7363,7 @@
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": "83.25698156129816",
-      "streetViewLocation": "https://www.google.com/maps/@?api=1&map_action=pano&pano=YiCT_O1hvz0sk-YzMBwpxQ&viewpoint=-33.86192575533206,151.2093180709271&heading=83.25698156129816&pitch=2.7507303354900046",
+      "streetViewLocation": "https://www.google.com/maps/@?api=1&map_action=pano&pano=OW3zVpzVOma8DYLGqngLhQ&viewpoint=-33.86207219664826,151.20949992865192&heading=354.58334391211883&pitch=-5.700841299729461&zoom=0.9999999999999997",
       "rates": [
         {
           "rateType": "Hourly",
@@ -7567,7 +7567,7 @@
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": "290.2155687330307",
-      "streetViewLocation": "https://www.google.com/maps/@?api=1&map_action=pano&pano=8FLe9oaoNqo4L6GbsEqAmA&viewpoint=-33.86171101596483,151.2071775855145&heading=290.2155687330307&pitch=1.2718019616497287",
+      "streetViewLocation": "https://www.google.com/maps/@?api=1&map_action=pano&pano=F6pQ48IhXoXTCtVbEB6Vuw&viewpoint=-33.86184391275565,151.20710605111478&heading=0&pitch=0&zoom=0.9999999999999997",
       "rates": [
         {
           "rateType": "Hourly",
@@ -7785,7 +7785,7 @@
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": "280.5750785014733",
-      "streetViewLocation": "https://www.google.com/maps/@?api=1&map_action=pano&pano=v0iJ0ueViL4GT-m1efzEag&viewpoint=-33.86103514630482,151.20839992846913&heading=280.5750785014733&pitch=-2.601725645026704",
+      "streetViewLocation": "https://www.google.com/maps/@?api=1&map_action=pano&pano=MoonSOD1fFiy3xYE1dzmNw&viewpoint=-33.86100720358011,151.20846955549874&heading=274.73884474189845&pitch=-8.19693259186046&zoom=0.9999999999999997",
       "rates": [
         {
           "rateType": "Hourly",
@@ -65141,7 +65141,7 @@
           "rates": [
             {
               "timeSpan": "Mon - Fri",
-              "price": 23.0
+              "price": 22.0
             }
           ]
         },
@@ -104034,6 +104034,7 @@
       "canBookABay": false,
       "selectedFeatures": "",
       "carParkFeature": [
+        "Weekend Parking",
         "Wilson One",
         "Disabled Parking"
       ],
@@ -104088,6 +104089,16 @@
             {
               "timeSpan": "6.0 + hrs",
               "price": 11.0
+            }
+          ]
+        },
+        {
+          "rateType": "Weekend",
+          "notes": "<p>Sat - Sun &amp; Public Holidays</p>",
+          "rates": [
+            {
+              "timeSpan": "Sat & Sun",
+              "price": 5.0
             }
           ]
         }
