@@ -35,14 +35,14 @@
       "costCenter": 1002078,
       "direction": null,
       "heightRestriction": 1.85,
-      "information": "<p>Wilson Parking offer affordable &amp; secure parking at 25 Martin Place Car Park, located at 108 King St in the heart of Sydney CBD. Conveniently nearby to City Recital Hall, Martin Place, Pitt St Mall shopping, Hotels and Restaurant Precincts, this car park is open to midnight 7 days a week, including public holidays. Offering Casual, Night and Weekend parking as well as online discount parking options, the 25 Martin Place Car Park&nbsp;suits all your leisure and business parking needs.</p>\n<p>Save when you prepay your parking online or with the Wilson Parking App; enjoy unlimited 24/7 access when you subscribe to Monthly Parking; or pay as you go with the convenient queue-less, contact free Wilson Parking Card.&nbsp;</p>",
+      "information": "<p>Wilson Parking offer affordable &amp; secure parking at 25 Martin Place Car Park, located at 108 King St in the heart of Sydney CBD. Conveniently nearby to City Recital Hall, Martin Place, Pitt St Mall shopping, Hotels and Restaurant Precincts, this car park is open to midnight 7 days a week, including public holidays. Offering Casual, Night and Weekend parking as well as online discount parking options, the 25 Martin Place Car Park&nbsp;suits all your leisure and business parking needs.</p>\n<p>Save when you prepay your parking online or with the Wilson Parking App; enjoy unlimited 24/7 access when you subscribe to Monthly Parking; or pay as you go with the convenient queue-less, contact free Wilson Parking Card.</p>",
       "isWilsonOne": true,
       "spottIsAvailable": true,
       "legacyID": 102,
       "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
-      "phoneNumber": "1800 PARKING",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": "44.924918790507014",
@@ -50,14 +50,14 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<ul>\n<li>Parking from $20 per 30 Mins - Maximum daily rate of $95</li>\n<li>Hourly rates apply Monday to Friday</li>\n<li>Rates are charged from 6am daily</li>\n<li>Motorbike Parking $20 (Validate ticket with onsite staff or press intercom)</li>\n</ul>",
+          "notes": "<p>Parking from $20 per 30 Mins - Maximum daily rate of $95<br /><br />Hourly rates apply Monday to Friday, Rates charged from 6am daily<br /><br />Motorbike Parking $20 (Validate ticket with onsite staff or press intercom)</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 0.5 hrs",
+              "timeSpan": "0.0 - 0.5 hr",
               "price": 20.0
             },
             {
-              "timeSpan": "0.5 - 1.0 hrs",
+              "timeSpan": "0.5 - 1.0 hr",
               "price": 40.0
             },
             {
@@ -76,7 +76,7 @@
         },
         {
           "rateType": "Night",
-          "notes": "<p>Entry after 5pm, exit before 5am the next day<br />Casual rates apply if conditions are not met</p>\n<p>Online rate shown includes platform fee. Click the Prepay now link below to get started.</p>\n<p>&nbsp;</p>",
+          "notes": "<p>Entry after 5pm, Exit before 5am the next day<br />Casual rates apply if conditions are not met</p>\n<p>Online rate shown includes platform fee. Click the <strong>Prepay Now</strong> link below to get started.</p>",
           "rates": [
             {
               "timeSpan": "Mon - Fri",
@@ -86,10 +86,10 @@
         },
         {
           "rateType": "Weekend",
-          "notes": "<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include platform fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
+          "notes": "<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include platform fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.<br /></em></p>",
           "rates": [
             {
-              "timeSpan": "Weekend varies from $38.75- $42.75, depending on demand",
+              "timeSpan": "Weekend varies from $38.75 - $42.75, depending on demand",
               "price": 45.0
             }
           ]
@@ -4216,7 +4216,7 @@
       "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
-      "phoneNumber": "1800 727 546",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": "270.01866742552846",
@@ -4227,11 +4227,11 @@
           "notes": "<p>Rates apply Monday - Friday</p>\n<p>&nbsp;</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 0.5 hrs",
+              "timeSpan": "0.0 - 0.5 hr",
               "price": 15.0
             },
             {
-              "timeSpan": "0.5 - 1.0 hrs",
+              "timeSpan": "0.5 - 1.0 hr",
               "price": 29.0
             },
             {
@@ -4620,7 +4620,7 @@
       "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
-      "phoneNumber": "1800 PARKING (1800 727 5464)",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": "297.1761386254994",
@@ -4641,11 +4641,11 @@
           "notes": "<p>Rates apply Monday to Friday<br />Public Holidays: Weekend Rates Apply<br />Overnight: Charged in addtion to vehicles left in car park past close</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 0.5 hrs",
+              "timeSpan": "0.0 - 0.5 hr",
               "price": 25.0
             },
             {
-              "timeSpan": "0.5 - 1.0 hrs",
+              "timeSpan": "0.5 - 1.0 hr",
               "price": 45.0
             },
             {
@@ -4664,10 +4664,10 @@
         },
         {
           "rateType": "Night",
-          "notes": "<p>Monday to Friday:&nbsp;Entry after 5pm, exit before 7am the following day</p>",
+          "notes": "<p>Monday to Friday:&nbsp;Entry after 5pm, Exit before 7am the next day</p>",
           "rates": [
             {
-              "timeSpan": "Night (Mon - Friday) from",
+              "timeSpan": "Night (Mon - Fri) from",
               "price": 39.0
             }
           ]
@@ -10546,27 +10546,29 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Flat Rate: per exit, per day. Charged from 6am daily.</p>\n<p>Rates apply Monday to Friday<br /><br /></p>",
+          "notes": "<p>Rates apply Monday to Sunday<br /><br /></p>",
           "rates": [
             {
-              "timeSpan": "Mon - Fri",
-              "price": 35.0
-            }
-          ]
-        },
-        {
-          "rateType": "Weekend",
-          "notes": "<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include platform fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>\n<p>&nbsp;</p>",
-          "rates": [
+              "timeSpan": "0.0 - 1.0 hrs",
+              "price": 10.0
+            },
             {
-              "timeSpan": "Weekend varies from $28.75 - $32.75, depending on demand",
-              "price": 35.0
+              "timeSpan": "1.0 - 2.0 hrs",
+              "price": 20.0
+            },
+            {
+              "timeSpan": "2.0 - 3.0 hrs",
+              "price": 30.0
+            },
+            {
+              "timeSpan": " 3.0 + hrs",
+              "price": 40.0
             }
           ]
         }
       ],
       "fromText": "From",
-      "fromPrice": "28.75",
+      "fromPrice": "10",
       "location": {
         "longitude": 151.19355797767639,
         "latitude": -33.864785411742318,
@@ -15186,14 +15188,14 @@
       "costCenter": 1002035,
       "direction": null,
       "heightRestriction": 2.1,
-      "information": "<p>Wilson Parking offer affordable &amp; secure parking at 76 Berry Car Park which is located at 136-142 Walker St in the heart of North Sydney. Open 7 days a week, and nearby to many North Sydney businesses, bars and restaurants, this car park is conveniently&nbsp;located.&nbsp;</p>\n<p>Offering Hourly, Night and Weekend Parking, with exclusive discounts if you prepay online, and the convenience&nbsp;of unlimited 24/7 access for regular parkers&nbsp;who subscribe to Monthly Parking, the 76 Berry St car park will meet all your parking&nbsp;needs.&nbsp;</p>",
+      "information": "<p>Wilson Parking offer affordable &amp; secure parking at 76 Berry St Car Park which is located at 136-142 Walker St in the heart of North Sydney. Open 7 days a week, and nearby to many North Sydney businesses, bars and restaurants, this car park is conveniently&nbsp;located.&nbsp;</p>\n<p>Offering Hourly, Night and Weekend Parking, with exclusive discounts if you prepay online, and the convenience&nbsp;of unlimited 24/7 access for regular parkers&nbsp;who subscribe to Monthly Parking, the 76 Berry St car park will meet all your parking&nbsp;needs.</p>",
       "isWilsonOne": true,
       "spottIsAvailable": true,
       "legacyID": 229,
       "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": true,
-      "phoneNumber": "1800 PARKING",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": "280.36306732052276",
@@ -15201,10 +15203,10 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Rates apply Monday to Friday.</p>\n<p><strong>Overnight Rate:&nbsp;</strong>charged in addtion to all vehicles left in car park past close.</p>",
+          "notes": "<p>Rates apply Monday to Friday</p>\n<p><strong>Overnight Rate: </strong>Charged in addtion to all vehicles left in car park past close.</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 1.0 hrs",
+              "timeSpan": "0.0 - 1.0 hr",
               "price": 20.0
             },
             {
@@ -15227,7 +15229,7 @@
         },
         {
           "rateType": "Night",
-          "notes": "<p>Enter after 5pm, exit before 6am</p>",
+          "notes": "<p>Enter after 5pm, Exit before 6am the next day</p>",
           "rates": [
             {
               "timeSpan": "Mon - Fri",
@@ -15237,7 +15239,7 @@
         },
         {
           "rateType": "Weekend",
-          "notes": "<p>Flat rate per exit, per day.</p>\n<div class=\"\" data-block=\"true\" data-editor=\"99adp\" data-offset-key=\"1akcde78-0-0\">\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"1akcde78-0-0\"><span data-offset-key=\"1akcde78-0-0\">Online rate shown includes platform fee.</span></div>\n</div>\n<div class=\"\" data-block=\"true\" data-editor=\"99adp\" data-offset-key=\"8pskg444-0-0\">\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"8pskg444-0-0\"><span data-offset-key=\"8pskg444-0-0\">Click the <strong>Prepay&nbsp;now</strong> link below to get started.</span></div>\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"8pskg444-0-0\">&nbsp;</div>\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"8pskg444-0-0\"><span data-offset-key=\"8pskg444-0-0\"><strong>Overnight Rate:&nbsp;</strong>charged in addtion to all vehicles left in car park past close.</span></div>\n</div>",
+          "notes": "<p>Flat rate per exit, per day</p>\n<div class=\"\" data-block=\"true\" data-editor=\"99adp\" data-offset-key=\"1akcde78-0-0\">\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"1akcde78-0-0\"><span data-offset-key=\"1akcde78-0-0\">Online rate shown includes platform fee</span></div>\n</div>\n<div class=\"\" data-block=\"true\" data-editor=\"99adp\" data-offset-key=\"8pskg444-0-0\">\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"8pskg444-0-0\"><span data-offset-key=\"8pskg444-0-0\">Click the <strong>Prepay Now</strong> link below to get started</span></div>\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"8pskg444-0-0\">&nbsp;</div>\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"8pskg444-0-0\"><span data-offset-key=\"8pskg444-0-0\"><strong>Overnight Rate: </strong>Charged in addtion to all vehicles left in car park past close.</span></div>\n</div>",
           "rates": [
             {
               "timeSpan": "Sat - Sun",
@@ -16557,7 +16559,7 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Hourly rates apply All Days - Monday to Sunday</p>",
+          "notes": "<p>Hourly rates apply All Days - Monday to Sunday</p>\n<p>New day starts at 6:30am</p>",
           "rates": [
             {
               "timeSpan": "0.0 - 0.5 Hour",
@@ -16569,23 +16571,15 @@
             },
             {
               "timeSpan": "1.0 - 2.0 Hours",
-              "price": 6.0
+              "price": 3.0
             },
             {
               "timeSpan": "2.0 - 3.0 Hours",
+              "price": 6.0
+            },
+            {
+              "timeSpan": "3.0 + Hours",
               "price": 12.0
-            },
-            {
-              "timeSpan": "3.5 - 4.0 Hours",
-              "price": 18.0
-            },
-            {
-              "timeSpan": "4.0 - 5.0 Hours",
-              "price": 30.0
-            },
-            {
-              "timeSpan": "5.0 + Hours",
-              "price": 50.0
             }
           ]
         }
@@ -18049,6 +18043,199 @@
         "pageUrl": "",
         "content": "<p>This is an Interpark carpark with LOGO</p>"
       },
+      "featuredIndex": 0
+    },
+    {
+      "name": "Norton Plaza",
+      "bookText": null,
+      "canBookABay": false,
+      "selectedFeatures": "",
+      "carParkFeature": [
+        "Night Parking",
+        "Entry height at least 2"
+      ],
+      "services": [],
+      "carParkName": "Norton Plaza",
+      "carParkNumber": 2434,
+      "carParkPhoto": null,
+      "category": "",
+      "costCenter": 1002434,
+      "direction": "Entry via 55 Norton St, Leichhardt",
+      "heightRestriction": 2.2,
+      "information": "<p>Wilson Parking offer affordable &amp; reliable parking at Norton Plaza Car Park, located at 55 Norton St Leichhardt in the heart of Inner West. <br />Open 7 days, this undercover car park provides convenient access to nearby&nbsp;<br />shopping at Norton Plaza, dining, Cinema, entertainment, medical/health services and local community activity.<br />Offering Casual, Hourly and Night Parking options, the Norton Plaza&nbsp;Car Park will meet all your parking needs.&nbsp;</p>",
+      "isWilsonOne": false,
+      "spottIsAvailable": false,
+      "legacyID": 2434,
+      "monthlyParkingServiceIsAvailable": false,
+      "evChargerIsAvailable": false,
+      "disabledParkingIsAvailable": false,
+      "phoneNumber": "1800 PARKING (1800 727 5464)",
+      "products": [],
+      "staticMapPhoto": null,
+      "streetViewHeading": null,
+      "streetViewLocation": "https://www.google.com/maps/@?api=1&map_action=pano&pano=WCjHCd5HzwiKnZfgGyemYQ&viewpoint=-33.88606974047969,151.15736957421547&heading=104.47480724522588&pitch=2.2459868337902407&zoom=1",
+      "rates": [
+        {
+          "rateType": "Hourly",
+          "notes": null,
+          "rates": [
+            {
+              "timeSpan": "0.0 - 2.0 hrs",
+              "price": 0.0
+            },
+            {
+              "timeSpan": "2.0 - 2.5 hrs",
+              "price": 12.0
+            },
+            {
+              "timeSpan": "2.5 - 3.0 hrs",
+              "price": 15.0
+            },
+            {
+              "timeSpan": "3.0 - 3.5 hrs",
+              "price": 20.0
+            },
+            {
+              "timeSpan": "3.5 - 4.0 hrs",
+              "price": 25.0
+            },
+            {
+              "timeSpan": "4.0 - 4.5 hrs",
+              "price": 30.0
+            },
+            {
+              "timeSpan": "4.5 + hrs",
+              "price": 45.0
+            }
+          ]
+        },
+        {
+          "rateType": "Night",
+          "notes": "<p>Entry after 6pm, exit before close (11pm)</p>",
+          "rates": [
+            {
+              "timeSpan": "Night - entry after 6pm (Mon - Sun)",
+              "price": 18.0
+            }
+          ]
+        }
+      ],
+      "fromText": "From",
+      "fromPrice": "0",
+      "location": {
+        "longitude": 151.157403423801,
+        "latitude": -33.8860802518783,
+        "zoom": 13,
+        "address": "55 Norton Street, Leichhardt",
+        "region": {
+          "name": "Inner West",
+          "longitude": 151.14801406860352,
+          "latitude": -33.886519974419969,
+          "status": "",
+          "state": {
+            "name": "New South Wales",
+            "abbreviation": "NSW",
+            "country": "Australia",
+            "longitude": 151.207430362701,
+            "latitude": -33.8662642500823,
+            "status": ""
+          }
+        }
+      },
+      "openingTimes": [
+        {
+          "day_TimePeriod": "Monday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "07:00",
+          "closing": "23:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Tuesday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "07:00",
+          "closing": "23:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Wednesday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "07:00",
+          "closing": "23:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Thursday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "07:00",
+          "closing": "23:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Friday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "07:00",
+          "closing": "23:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Saturday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "07:00",
+          "closing": "23:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Sunday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "07:00",
+          "closing": "23:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Public Holiday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "07:00",
+          "closing": "23:00",
+          "note": null
+        }
+      ],
+      "url": "/parking-locations/new-south-wales/inner-west/norton-plaza/",
+      "serviceConfiguration": {
+        "canBookABay": false,
+        "bookABayIconLabel": "Prepay Online",
+        "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
+        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingIconLabel": "Monthly Subscription",
+        "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
+        "isWilsonOne": false,
+        "wilsonOneIconLabel": "Parking Card",
+        "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
+        "disabledParkingIsAvailable": false,
+        "disabledParkingIconLabel": "Disabled Parking",
+        "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
+        "evChargerIsAvailable": false,
+        "evChargerIconLabel": "EV Charging",
+        "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
+        "spottIsAvailable": false,
+        "spottIconLabel": "Spott",
+        "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
+        "additionalServices": []
+      },
+      "state": "NSW",
+      "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
+      "price": "",
+      "status": "",
+      "cpmsCarparkCode": null,
+      "externalCarParkInfo": null,
       "featuredIndex": 0
     },
     {
@@ -40069,7 +40256,7 @@
       "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
-      "phoneNumber": null,
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": null,
@@ -40077,14 +40264,14 @@
       "rates": [
         {
           "rateType": "Daily",
-          "notes": "<p>Falt Rate: per exit, per day</p>\n<p>Payment by credit card on exit only</p>",
+          "notes": "<p>Falt Rate: Per exit, per day</p>\n<p>Payment by credit card on exit only</p>",
           "rates": [
             {
-              "timeSpan": "Monday - Friday",
+              "timeSpan": "Mon - Fri",
               "price": 17.0
             },
             {
-              "timeSpan": "Saturday - Sunday & Holidays",
+              "timeSpan": "Sat - Sun & Public Holidays",
               "price": 5.0
             }
           ]
@@ -47720,7 +47907,9 @@
       "canBookABay": false,
       "selectedFeatures": "",
       "carParkFeature": [
-        "Entry height at least 2"
+        "Entry height at least 2",
+        "LPR",
+        "Spott"
       ],
       "services": [],
       "carParkName": "Little National - At Grade Car Park",
@@ -47732,7 +47921,7 @@
       "heightRestriction": 0.0,
       "information": "<p>Wilson Parking offer affordable parking at Little National - At Grade Car Park, located at 21 National Circuit, Barton. Open Monday - Friday, this open air car park is situated near Little National Hotel Canberra, Department of Foreign Affairs and Trade, National Press Club of Australia and many other popular Barton businesses. Offering casual Hourly Parking for up to 12 hours, the Little National - At Grade Car Park will meet all your Barton parking needs.&nbsp;</p>",
       "isWilsonOne": false,
-      "spottIsAvailable": false,
+      "spottIsAvailable": true,
       "legacyID": 415,
       "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
@@ -47745,7 +47934,7 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Payment via Credit Card Only</p>\n<p>All parking bays are for 12 hours maximum.</p>",
+          "notes": "<p>Payment via Credit Card Only</p>\n<p>&nbsp;</p>",
           "rates": [
             {
               "timeSpan": "0.0  - 1.0 hrs",
@@ -47761,13 +47950,13 @@
             },
             {
               "timeSpan": "3.0 - 12.0 hrs",
-              "price": 17.5
+              "price": 19.5
             }
           ]
         }
       ],
       "fromText": "From",
-      "fromPrice": "5",
+      "fromPrice": "4",
       "location": {
         "longitude": 149.13226425647736,
         "latitude": -35.310458870375868,
@@ -47863,7 +48052,7 @@
         "evChargerIsAvailable": false,
         "evChargerIconLabel": "EV Charging",
         "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "spottIsAvailable": false,
+        "spottIsAvailable": true,
         "spottIconLabel": "Spott",
         "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
         "additionalServices": []
@@ -48084,7 +48273,7 @@
             },
             {
               "timeSpan": "3.0 + hrs",
-              "price": 18.5
+              "price": 19.5
             },
             {
               "timeSpan": "Lost Ticket",
@@ -63723,7 +63912,7 @@
       "carParkPhoto": null,
       "category": "",
       "costCenter": 1003209,
-      "direction": "entry via 200 Queen St",
+      "direction": "Entry via 200 Queen St",
       "heightRestriction": 2.1,
       "information": "<p>Wilson Parking offer affordable &amp; secure parking at 200 Queen St Car Park, located at 200 Queen St, Melbourne&nbsp;in the heart of Melbourne CBD. Open 7 days, this undercover car park provides convenient access to nearby Melbourne Hotels and business district. Offering products type Casual Hourly, Early Bird, Weekend and Night Parking options with exclusive discounts when you prepay online with the Wilson Parking App.</p>\n<p>Download the Wilson Parking App to plan your journey and access parking discounts when you prepay online; enjoy unlimited 24/7 access when you subscribe to monthly parking; pay as you go on one convenient monthly invoice when you use your Wilson Parking Card to access the car park.</p>",
       "isWilsonOne": true,
@@ -63732,7 +63921,7 @@
       "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
-      "phoneNumber": "1800 PARKING (727 546)",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": null,
@@ -63740,33 +63929,33 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Drive Up Conditions: Enter anytime between 6:00 am - 4:00 pm, Exit before Close.</p>\n<p>Monday &ndash; Friday</p>",
+          "notes": "<p>Drive Up Conditions: Enter anytime between 6am - 4pm, Exit before Close</p>\n<p>Monday to Friday</p>",
           "rates": [
             {
-              "timeSpan": "0.0  - 0.5 Hours",
+              "timeSpan": "0.0  - 0.5 hr",
               "price": 13.0
             },
             {
-              "timeSpan": "0.5 - 1.0 Hours",
+              "timeSpan": "0.5 - 1.0 hr",
               "price": 26.0
             },
             {
-              "timeSpan": "1.0 - 2.0 Hours",
+              "timeSpan": "1.0 - 2.0 hrs",
               "price": 52.0
             },
             {
-              "timeSpan": "2.0 - 3.0 Hours",
+              "timeSpan": "2.0 - 3.0 hrs",
               "price": 78.0
             },
             {
-              "timeSpan": "3.0 + Hours  (Max daily rate)",
+              "timeSpan": "3.0 + hrs",
               "price": 80.0
             }
           ]
         },
         {
           "rateType": "Night",
-          "notes": "<p>Drive Up Conditions : Entry after 4:00 pm and exit before 6:00 am next day.</p>",
+          "notes": "<p>Drive Up Conditions: Entry after 4pm, Exit before 6am the next day</p>",
           "rates": [
             {
               "timeSpan": "Mon - Fri",
@@ -92874,19 +93063,35 @@
           "rates": [
             {
               "timeSpan": "0.0 - 0.5 hrs",
-              "price": 9.0
+              "price": 10.0
             },
             {
               "timeSpan": "0.5 - 1.0 hrs",
-              "price": 14.0
+              "price": 15.0
             },
             {
               "timeSpan": "1.0 - 1.5 hrs",
-              "price": 19.0
+              "price": 20.0
             },
             {
               "timeSpan": "1.5 - 2.0 hrs",
-              "price": 24.0
+              "price": 25.0
+            },
+            {
+              "timeSpan": "2.0 - 3.0 hrs",
+              "price": 28.0
+            },
+            {
+              "timeSpan": "3.0 - 4.0 hrs",
+              "price": 31.0
+            },
+            {
+              "timeSpan": "4.0 - 5.0 hrs",
+              "price": 34.0
+            },
+            {
+              "timeSpan": "5.0 - 6.0 hrs",
+              "price": 37.0
             }
           ]
         },
@@ -92896,7 +93101,7 @@
           "rates": [
             {
               "timeSpan": "Mon - Fri",
-              "price": 20.0
+              "price": 22.0
             }
           ]
         },
@@ -92906,7 +93111,7 @@
           "rates": [
             {
               "timeSpan": "0.0 - 2.0 hrs",
-              "price": 10.0
+              "price": 15.0
             },
             {
               "timeSpan": "2.0 + hrs",
@@ -92920,7 +93125,7 @@
           "rates": [
             {
               "timeSpan": "0.0 - 2.0 hrs",
-              "price": 10.0
+              "price": 15.0
             },
             {
               "timeSpan": "2.0 + hrs",
@@ -92930,7 +93135,7 @@
         }
       ],
       "fromText": "From",
-      "fromPrice": "9",
+      "fromPrice": "10",
       "location": {
         "longitude": 115.864530856322,
         "latitude": -31.9553846015287,
@@ -93836,7 +94041,9 @@
         "Wilson One",
         "Flexi Parking",
         "Disabled Parking",
-        "Daily Pass Bundles"
+        "Daily Pass Bundles",
+        "LPR",
+        "Spott"
       ],
       "services": [
         "book a bay",
@@ -93853,7 +94060,7 @@
       "heightRestriction": 2.0,
       "information": "<p>Wilson Parking offer affordable parking at our Citi East Car Park, located at 301 Wellington Street. Open 7 days, this undercover car park offers some of the best hourly rates in the Perth CBD, providing parking for visitors to nearby Perth businesses. Offering casual Hourly, online Flexi Saver and Weekend Parking, as well as exclusive discounts when you prepay online or with the Wilson Parking App, the Citi East car park will meet all your parking needs.</p>\n<p>The car park has entries from Pier and Wellington Sts. Please note Pier Street entry is only accessible southbound.&nbsp;&nbsp;</p>\n<p>Download the Wilson Parking App to prepay online and access exclusive discounts, or simply drive up and pay with your Credit Card, pay as you go with a Wilson Parking card, or enjoy unlimited access during the operational hours of the car park when you subscribe to Monthly Parking.</p>",
       "isWilsonOne": true,
-      "spottIsAvailable": false,
+      "spottIsAvailable": true,
       "legacyID": 57,
       "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
@@ -94048,7 +94255,7 @@
         "evChargerIsAvailable": false,
         "evChargerIconLabel": "EV Charging",
         "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "spottIsAvailable": false,
+        "spottIsAvailable": true,
         "spottIconLabel": "Spott",
         "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
         "additionalServices": [
@@ -94098,7 +94305,7 @@
       "carParkPhoto": "/contentassets/ebe0e5edc3f94faa9ed99860074a70a2/per113c.jpg",
       "category": "",
       "costCenter": 1006113,
-      "direction": "Entry via Hay Street or Pier Street\n\nMotorbike parking must be paid for using the 517 Hay St (Kings Complex) - Motorcycle parking location\n\n",
+      "direction": "Entry via Hay Street or Pier Street\n\nMotorbike parking must be paid for using the 517 Hay St (Kings Complex) - Motorcycle parking location\n\n</br></br>Dear Customers, </br>\n</br></br>Please note the car park will undergo scheduled pressure cleaning on 2nd Oct, Friday from 6pm till 4th Oct, Sunday. Car Park remains operational. </br>\n\n",
       "heightRestriction": 2.0,
       "information": "<p>Wilson Parking offer affordable parking at Kings Complex Car Park, located at 517 Hay Street, Perth. This undercover car park is open 24/7 close to Perth's legal distrtict, providing parking options for nearby restaurants and businesses, as well as the Magistrates Court of Western Australia and District Court of Western Australia. Offering casual Hourly, Online Early Bird Flexi, Night and Weekend Parking as well as exclusive discounts available when you prepay online or with the Wilson Parking App, the Central Park Car Park will meet all of your parking needs.</p>\n<p>The car park offers two convenient entries. Enter via Hay St or Pier Street, heading southbound, after the Hay Street intersection.</p>\n<p>Download the Wilson Parking App to prepay ahead and access exclusive savings, or simply drive up and pay with your Credit Card, pay as you go with a Wilson Parking card.</p>",
       "isWilsonOne": true,
@@ -94882,25 +95089,25 @@
           "rates": [
             {
               "timeSpan": "0.0 - 1.0 hr",
-              "price": 5.0
+              "price": 6.0
             },
             {
               "timeSpan": "1.0 - 2.0 hrs",
-              "price": 10.0
+              "price": 11.0
             },
             {
               "timeSpan": "2.0 - 3.0 hrs",
-              "price": 14.0
+              "price": 15.0
             },
             {
               "timeSpan": "3.0 + hrs",
-              "price": 18.0
+              "price": 19.0
             }
           ]
         }
       ],
       "fromText": "From",
-      "fromPrice": "5",
+      "fromPrice": "6",
       "location": {
         "longitude": 115.862593262583,
         "latitude": -31.9488963015277,
@@ -95496,33 +95703,33 @@
           "rates": [
             {
               "timeSpan": "0.0 - 0.5 hr",
-              "price": 6.0
+              "price": 7.0
             },
             {
               "timeSpan": "0.5 - 1.0 hr",
-              "price": 10.0
+              "price": 11.0
             },
             {
               "timeSpan": "1.0 - 2.0 hrs",
-              "price": 12.0
+              "price": 13.0
             },
             {
               "timeSpan": "2.0 - 3.0 hrs",
-              "price": 14.0
+              "price": 15.0
             },
             {
               "timeSpan": "3.0 - 10.0 hrs",
-              "price": 19.0
+              "price": 20.0
             },
             {
               "timeSpan": "10.0 - 12.0 hrs max",
-              "price": 20.0
+              "price": 21.0
             }
           ]
         }
       ],
       "fromText": "From",
-      "fromPrice": "5",
+      "fromPrice": "6",
       "location": {
         "longitude": 115.859845,
         "latitude": -31.946174,
@@ -96118,23 +96325,23 @@
           "rates": [
             {
               "timeSpan": "0.0 - 1.0 hr",
-              "price": 4.0
+              "price": 5.0
             },
             {
               "timeSpan": "1.0 - 2.0 hrs",
-              "price": 7.0
+              "price": 8.0
             },
             {
               "timeSpan": "2.0 - 3.0 hrs",
-              "price": 9.0
+              "price": 10.0
             },
             {
               "timeSpan": "3.0 - 10.0 hrs",
-              "price": 16.0
+              "price": 17.0
             },
             {
               "timeSpan": "24.0 hrs max",
-              "price": 17.0
+              "price": 18.0
             }
           ]
         },
@@ -96144,7 +96351,7 @@
           "rates": [
             {
               "timeSpan": "Mon - Fri",
-              "price": 15.0
+              "price": 16.0
             }
           ]
         },
@@ -96154,13 +96361,13 @@
           "rates": [
             {
               "timeSpan": "Flat Rate (rooftop only)",
-              "price": 8.0
+              "price": 9.0
             }
           ]
         }
       ],
       "fromText": "From",
-      "fromPrice": "4",
+      "fromPrice": "5",
       "location": {
         "longitude": 115.858865,
         "latitude": -31.945869,
@@ -97330,7 +97537,7 @@
       "carParkPhoto": "/contentassets/811a0e785cd7426680280998c5e8b5db/per097c.jpg",
       "category": "",
       "costCenter": 1006097,
-      "direction": "Entry from St Georges Terrace (Eastbound), just before William Street, below Central Park Offices.\n",
+      "direction": "Entry from St Georges Terrace (Eastbound), just before William Street, below Central Park Offices.\n</br></br>Dear Customers, </br>\n</br></br>Due to scheduled maintenance, there will be no access to the car park from 4th Oct, Sunday 9PM till 5th Oct, Monday 6AM. </br>",
       "heightRestriction": 1.95,
       "information": "<p>Wilson Parking offer affordable parking at Central Park Car Park, located at 152-158 St Georges Terrace, Perth. Open 7 days until late, this car park is ideally located for visitors to the Central Park Offices, Hay St Mall, Murray St Mall and surrounding Perth businesses, including the Apple Store an dOffice Works. Offering casual Hourly, Online Early Bird, Night and Weekend Parking as well as exclusive discounts available when you prepay online or with the Wilson Parking App, the Central Park Car Park will meet all of your parking needs.</p>\n<p>Entry to the car park is on St Georges Terrace, travelling Eastbound, just before William St, below Central Park Offices.</p>\n<p>Download the Wilson Parking App to prepay your parking in advance and access exclusive discounts, or simply drive up and pay with your credit card, pay as you go with a Wilson Parking card, or enjoy unlimited access during the operational hours of the car park when you subscribe to Monthly Parking.</p>",
       "isWilsonOne": true,
