@@ -53,20 +53,12 @@
           "notes": "<p>Parking from $20 per 30 Mins - Maximum daily rate of $95<br /><br />Hourly rates apply Monday to Friday, Rates charged from 6am daily<br /><br />Motorbike Parking $20 (Validate ticket with onsite staff or press intercom)</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 0.5 hr",
-              "price": 20.0
+              "timeSpan": "0.0 - 1.0 hr",
+              "price": 35.0
             },
             {
-              "timeSpan": "0.5 - 1.0 hr",
-              "price": 40.0
-            },
-            {
-              "timeSpan": "1.0 - 1.5 hrs",
-              "price": 60.0
-            },
-            {
-              "timeSpan": "1.5 - 2,0 hrs",
-              "price": 80.0
+              "timeSpan": "1.0 - 2.0 hrs",
+              "price": 70.0
             },
             {
               "timeSpan": "2.0 + hrs",
@@ -96,7 +88,7 @@
         }
       ],
       "fromText": "From",
-      "fromPrice": "20",
+      "fromPrice": "30.75",
       "location": {
         "longitude": 151.20893776416779,
         "latitude": -33.86887888048701,
@@ -3702,16 +3694,12 @@
           "notes": "<p>Rates apply Monday to Friday</p>\n<p>Weekend rates apply on Public Holidays</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 0.5 hrs",
-              "price": 30.0
-            },
-            {
-              "timeSpan": "0.5 - 1.0 hrs",
-              "price": 50.0
+              "timeSpan": "0.0 - 1.0 hrs",
+              "price": 40.0
             },
             {
               "timeSpan": "1.0 - 2.0 hrs",
-              "price": 75.0
+              "price": 80.0
             },
             {
               "timeSpan": "2.0 + hrs",
@@ -4224,33 +4212,25 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Rates apply Monday - Friday</p>\n<p>&nbsp;</p>",
+          "notes": "<p>Rates apply Monday - Friday</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 0.5 hr",
-              "price": 15.0
-            },
-            {
-              "timeSpan": "0.5 - 1.0 hr",
-              "price": 29.0
+              "timeSpan": "0.0 - 1.0 hr",
+              "price": 30.0
             },
             {
               "timeSpan": "1.0 - 2.0 hrs",
-              "price": 59.0
+              "price": 60.0
             },
             {
-              "timeSpan": "2.0 - 3.0hrs",
-              "price": 75.0
-            },
-            {
-              "timeSpan": "3.0 + hrs",
-              "price": 85.0
+              "timeSpan": "2.0 + hrs",
+              "price": 90.0
             }
           ]
         }
       ],
       "fromText": "From",
-      "fromPrice": "15",
+      "fromPrice": "30",
       "location": {
         "longitude": 151.208669543266,
         "latitude": -33.8642508855578,
@@ -4641,16 +4621,12 @@
           "notes": "<p>Rates apply Monday to Friday<br />Public Holidays: Weekend Rates Apply<br />Overnight: Charged in addtion to vehicles left in car park past close</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 0.5 hr",
-              "price": 25.0
-            },
-            {
-              "timeSpan": "0.5 - 1.0 hr",
-              "price": 45.0
+              "timeSpan": "0.0 - 1.0 hr",
+              "price": 40.0
             },
             {
               "timeSpan": "1.0 - 2.0 hrs",
-              "price": 75.0
+              "price": 80.0
             },
             {
               "timeSpan": "2.0 + hrs",
@@ -4674,7 +4650,7 @@
         }
       ],
       "fromText": "From",
-      "fromPrice": "20",
+      "fromPrice": "32",
       "location": {
         "longitude": 151.21149122715,
         "latitude": -33.8645626929055,
@@ -5459,7 +5435,7 @@
           "notes": "<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include platform fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.<br /></em></p>",
           "rates": [
             {
-              "timeSpan": "Weekend varies from $25.00 - $27.00, depending on demand",
+              "timeSpan": "Weekend varies from $24.75 - $27.75, depending on demand",
               "price": 29.0
             }
           ]
@@ -6124,7 +6100,9 @@
         "Night Parking",
         "Weekend Parking",
         "Book a Bay",
-        "Wilson One"
+        "Wilson One",
+        "LPR",
+        "Spott"
       ],
       "services": [
         "book a bay",
@@ -6136,16 +6114,16 @@
       "carParkPhoto": "/siteassets/parking-location-images/nsw/syd159.jpg",
       "category": "",
       "costCenter": 1002159,
-      "direction": "Entry via Lang Street",
+      "direction": "Entry via Lang St",
       "heightRestriction": 2.02,
       "information": "<p>Wilson Parking offer affordable &amp; secure parking at 259 George St Car Park which is located at 9 Lang St Sydney in the heart of Sydney CBD. Nearby to Circular Quay, Hotels and Restaurant and Sydney shopping destinations. Offering&nbsp; Hourly, Night and Weekend parking, as well as online discount parking options including Flexi Saver, the 259 George St&nbsp;Car Park will suit all your leisure and business parking needs.</p>\n<p>Save when you prepay your parking online or with the Wilson Parking App; enjoy unlimited 24/7 access when you subscribe to monthly parking; or pay as you go with the convenient queue-less, contact free Wilson Parking Card.</p>",
       "isWilsonOne": true,
-      "spottIsAvailable": false,
+      "spottIsAvailable": true,
       "legacyID": 2,
       "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
-      "phoneNumber": "1800 PARKING",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": "130.76735162902997",
@@ -6153,29 +6131,25 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Rates apply Monday to Friday<br />Public Holidays: Weekend Rates Apply</p>\n<p>&nbsp;</p>",
+          "notes": "<p>Rates apply Monday to Friday<br />Public Holidays: Weekend Rates Apply</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 0.5 hrs",
-              "price": 19.0
-            },
-            {
-              "timeSpan": "0.5 - 1.0 hrs",
-              "price": 39.0
+              "timeSpan": "0.0 - 1.0 hr",
+              "price": 35.0
             },
             {
               "timeSpan": "1.0 - 2.0 hrs",
-              "price": 69.0
+              "price": 70.0
             },
             {
-              "timeSpan": "2.0+ hrs",
-              "price": 89.0
+              "timeSpan": "2.0 + hrs",
+              "price": 95.0
             }
           ]
         },
         {
           "rateType": "Night",
-          "notes": "<p>Entry after 5:00pm, exit before car park closes</p>\n<p>Online rates inlcude platform fee. Click the&nbsp;<strong>Prepay now&nbsp;</strong>link below to get started</p>",
+          "notes": "<p>Entry after 5pm, Exit before car park closes</p>\n<p>Online rates inlcude platform fee. Click the&nbsp;<strong>Prepay Now&nbsp;</strong>link below to get started.</p>",
           "rates": [
             {
               "timeSpan": "Mon - Fri",
@@ -6185,7 +6159,7 @@
         },
         {
           "rateType": "Weekend",
-          "notes": "<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include platform fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>\n<p>&nbsp;</p>",
+          "notes": "<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include platform fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>",
           "rates": [
             {
               "timeSpan": "Weekend varies from $34.75- $36.75, depending on demand",
@@ -6195,7 +6169,7 @@
         }
       ],
       "fromText": "From",
-      "fromPrice": "19",
+      "fromPrice": "28",
       "location": {
         "longitude": 151.206246,
         "latitude": -33.863895,
@@ -6307,7 +6281,7 @@
         "evChargerIsAvailable": false,
         "evChargerIconLabel": "EV Charging",
         "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "spottIsAvailable": false,
+        "spottIsAvailable": true,
         "spottIconLabel": "Spott",
         "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
         "additionalServices": [
@@ -6783,30 +6757,22 @@
           "notes": "<p>Rates apply Monday to Friday</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 0.5 hrs",
-              "price": 19.0
-            },
-            {
-              "timeSpan": "0.5 - 1.0 hrs",
-              "price": 29.0
+              "timeSpan": "0.0 - 1.0 hrs",
+              "price": 30.0
             },
             {
               "timeSpan": "1.0 - 2.0 hrs",
-              "price": 59.0
+              "price": 60.0
             },
             {
-              "timeSpan": "2.0 - 3.0  hrs",
-              "price": 69.0
-            },
-            {
-              "timeSpan": "3.0 + hrs",
-              "price": 79.0
+              "timeSpan": "2.0 + hrs",
+              "price": 80.0
             }
           ]
         }
       ],
       "fromText": "From",
-      "fromPrice": "19",
+      "fromPrice": "30",
       "location": {
         "longitude": 151.20696634054184,
         "latitude": -33.875201322691353,
@@ -15624,34 +15590,26 @@
           "notes": "<p>Rates apply Monday to Friday</p>\n<p>&nbsp;</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 0.5 hrs",
-              "price": 15.0
-            },
-            {
-              "timeSpan": "0.5 - 1.0 hrs",
-              "price": 28.0
+              "timeSpan": "0.0 - 1.0 hrs",
+              "price": 20.0
             },
             {
               "timeSpan": "1.0 - 2.0 hrs",
-              "price": 48.0
+              "price": 40.0
             },
             {
               "timeSpan": "2.0 - 3.0 hrs",
-              "price": 55.0
+              "price": 60.0
             },
             {
-              "timeSpan": "3.0 - 4.0 hrs",
-              "price": 59.0
-            },
-            {
-              "timeSpan": "4.0 + hrs",
-              "price": 65.0
+              "timeSpan": "3.0 + hrs",
+              "price": 70.0
             }
           ]
         }
       ],
       "fromText": "From",
-      "fromPrice": "12",
+      "fromPrice": "16",
       "location": {
         "longitude": 151.20598196983337,
         "latitude": -33.836370707848182,
@@ -17719,19 +17677,19 @@
             },
             {
               "timeSpan": "2.0 - 3.0 hrs",
-              "price": 16.5
+              "price": 17.5
             },
             {
               "timeSpan": "3.0 - 4.0 hrs",
-              "price": 22.0
+              "price": 23.0
             },
             {
               "timeSpan": "4.0 - 5.0 hrs",
-              "price": 27.5
+              "price": 29.0
             },
             {
               "timeSpan": "5.0 + hrs",
-              "price": 45.0
+              "price": 48.0
             }
           ]
         },
@@ -19833,7 +19791,7 @@
       "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
-      "phoneNumber": "1800 parking",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": "235.59518295155198",
@@ -19841,7 +19799,7 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Rates apply Monday to Sunday.</p>",
+          "notes": "<p>Rates apply Monday to Sunday</p>",
           "rates": [
             {
               "timeSpan": "0.0 - 3.0 hrs",
@@ -19849,19 +19807,19 @@
             },
             {
               "timeSpan": "3.0 - 4.0 hrs",
-              "price": 7.25
+              "price": 7.6
             },
             {
               "timeSpan": "4.0 - 5.0 hrs",
-              "price": 17.5
+              "price": 18.5
             },
             {
               "timeSpan": "5.0 - 6.0 hrs",
-              "price": 24.75
+              "price": 26.0
             },
             {
               "timeSpan": "6.0 + hrs",
-              "price": 46.25
+              "price": 48.5
             }
           ]
         }
@@ -19998,14 +19956,14 @@
       "costCenter": 1002351,
       "direction": "Entry via Sera Street",
       "heightRestriction": 2.15,
-      "information": "<p>Wilson Parking offer affordable &amp; secure parking at Market Square Car Park, located at 5 Austin St in the heart of Lane Cove.&nbsp;</p>\n<p>Offering Hourly Parking, with your first 3 hours free, and convenient extended operating hours available 7 days, Market Square Car Park will suit all your leisure and business parking needs.&nbsp;</p>",
+      "information": "<p>Wilson Parking offer affordable &amp; secure parking at Market Square Car Park, located at 5 Austin St in the heart of Lane Cove.&nbsp;</p>\n<p>Offering Hourly Parking, with your first 3 hours free, and convenient extended operating hours available 7 days, Market Square Car Park will suit all your leisure and business parking needs.</p>",
       "isWilsonOne": false,
       "spottIsAvailable": false,
       "legacyID": 748,
       "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
-      "phoneNumber": "1800 parking",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": "117.92807024531494",
@@ -20021,19 +19979,19 @@
             },
             {
               "timeSpan": "3.0 - 4.0 hrs",
-              "price": 7.25
+              "price": 7.6
             },
             {
               "timeSpan": "4.0 - 5.0 hrs",
-              "price": 17.5
+              "price": 18.5
             },
             {
               "timeSpan": "5.0 - 6.0 hrs",
-              "price": 24.75
+              "price": 26.0
             },
             {
               "timeSpan": "6.0 + hrs",
-              "price": 46.25
+              "price": 48.5
             }
           ]
         }
@@ -20325,14 +20283,14 @@
       "costCenter": 1002353,
       "direction": null,
       "heightRestriction": 2.2,
-      "information": "<p>Wilson Parking offer affordable at The Canopy Car Park which is located off Rosenthal Ave in the heart of Lane Cove.</p>\n<p>Offering Hourly and Early Bird Parking, with up to 3 hours free and extended operating hours, 7 days a week, The Canopy Car Park suits all your leisure and business parking needs.&nbsp;</p>",
+      "information": "<p>Wilson Parking offer affordable at The Canopy Car Park which is located off Rosenthal Ave in the heart of Lane Cove.</p>\n<p>Offering Hourly and Early Bird Parking, with up to 3 hours free and extended operating hours, 7 days a week, The Canopy Car Park suits all your leisure and business parking needs.</p>",
       "isWilsonOne": false,
       "spottIsAvailable": false,
       "legacyID": 750,
       "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
-      "phoneNumber": "1800 parking",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": "132.6137219586468",
@@ -20340,10 +20298,10 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Rates apply Monday to Friday<br />Level P1 (Express) - One Hour Parking Free Only</p>",
+          "notes": "<p>Rates apply Monday to Friday<br />Level P1 (Express) - One hour parking free only</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 1.0 hrs",
+              "timeSpan": "0.0 - 1.0 hr",
               "price": 0.0
             },
             {
@@ -20363,38 +20321,34 @@
               "price": 46.25
             },
             {
-              "timeSpan": "Level P2, P3 & P4",
-              "price": 0.0
-            },
-            {
               "timeSpan": "0.0 - 3.0 hrs",
               "price": 0.0
             },
             {
               "timeSpan": "3.0 - 4.0 hrs",
-              "price": 7.25
+              "price": 7.6
             },
             {
               "timeSpan": "4.0 - 5.0 hrs",
-              "price": 17.5
+              "price": 18.5
             },
             {
               "timeSpan": "5.0 - 6.0 hrs",
-              "price": 24.75
+              "price": 26.0
             },
             {
               "timeSpan": "6.0 + hrs",
-              "price": 46.25
+              "price": 48.5
             }
           ]
         },
         {
           "rateType": "Early Bird",
-          "notes": "Enter before 9.30am, exit after 4.00pm<br />\r\nIf conditions not met then Casual rates apply from time of entry",
+          "notes": "<p>Enter before 9.30am, Exit after 4pm<br />If conditions are not met Casual rates apply from time of entry</p>",
           "rates": [
             {
               "timeSpan": "Level P4 Only",
-              "price": 7.75
+              "price": 8.0
             }
           ]
         }
@@ -40249,7 +40203,7 @@
       "costCenter": 1002385,
       "direction": "Entry via 1 Mereweather St",
       "heightRestriction": 0.0,
-      "information": "<p>Wilson Parking offer affordable &amp; secure parking at The Crossing Car Park, located 1 Mereweather St, Newcastle. Open 7 days, this open-air car park provides convenient access to nearby attractions such as the Newcastle Museum and Newcastle Civic Park. Offering a flat all-day rate, The Crossing Car Park will meet all your business and leisure parking needs.&nbsp;</p>",
+      "information": "<p>Wilson Parking offer affordable &amp; secure parking at The Crossing Car Park, located 1 Mereweather St, Newcastle. Open 7 days, this open air car park provides convenient access to nearby attractions such as the Newcastle Museum and Newcastle Civic Park. Offering a flat all-day rate, The Crossing Car Park will meet all your business and leisure parking needs.&nbsp;</p>",
       "isWilsonOne": false,
       "spottIsAvailable": false,
       "legacyID": 2385,
@@ -40268,7 +40222,7 @@
           "rates": [
             {
               "timeSpan": "Mon - Fri",
-              "price": 17.0
+              "price": 18.0
             },
             {
               "timeSpan": "Sat - Sun & Public Holidays",
@@ -40421,7 +40375,7 @@
       "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
-      "phoneNumber": "1800 PARKING",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": "24.464396901943758",
@@ -40429,17 +40383,17 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p><em>Payment only available&nbsp;through the Wilson Parking App.&nbsp;</em><em><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\" target=\"_blank\" rel=\"noopener\">Click here</a> to download the Wilson Parking App</em></p>\n<p><em>*Online rates includes platform fee.</em></p>",
+          "notes": "<p><em>Payment only available&nbsp;through the Wilson Parking App.&nbsp;</em><em><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\" target=\"_blank\" rel=\"noopener\">Click here</a> to download the Wilson Parking App.</em></p>\n<p><em>*Online rates includes platform fee.</em></p>",
           "rates": [
             {
               "timeSpan": "Mon - Fri",
-              "price": 17.0
+              "price": 18.0
             }
           ]
         },
         {
           "rateType": "Weekend",
-          "notes": "<p><em>Payment only available&nbsp;through the Wilson Parking App.&nbsp;</em><em><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\" target=\"_blank\" rel=\"noopener\">Click here</a> to download the Wilson Parking App</em></p>\n<p><em>*Online rates includes platform fee.</em></p>",
+          "notes": "<p><em>Payment only available&nbsp;through the Wilson Parking App.&nbsp;</em><em><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\" target=\"_blank\" rel=\"noopener\">Click here</a> to download the Wilson Parking App.</em></p>\n<p><em>*Online rates includes platform fee.</em></p>",
           "rates": [
             {
               "timeSpan": "Sat - Sun",
@@ -40615,7 +40569,7 @@
           "rates": [
             {
               "timeSpan": "Mon - Fri",
-              "price": 17.0
+              "price": 18.0
             }
           ]
         },
@@ -63897,7 +63851,7 @@
         "Overnight Parking",
         "Flexi Parking",
         "Epark",
-        "Elevate",
+        "Daily Pass Bundles",
         "LPR",
         "Spott Saver",
         "Spott"
@@ -64523,6 +64477,7 @@
         "Overnight Parking",
         "Flexi Parking",
         "Entry height at least 2",
+        "Daily Pass Bundles",
         "LPR",
         "Spott"
       ],
@@ -64538,7 +64493,7 @@
       "costCenter": 1003394,
       "direction": "Entry via 370 Little Lonsdale St, Melbourne",
       "heightRestriction": 2.1,
-      "information": "<p>Wilson Parking offers affordable &amp; secure parking at the Victoria University Car Park in the heart of Melbourne CBD.</p>\n<p>Car park entry is<strong>&nbsp;via 370 Little Lonsdale St, Melbourne only.</strong></p>\n<p>Offering Hourly, Night, Weekend &amp; permanent monthly parking for regular parkers, with exclusive discounts when you prepay online, Victoria University Car Park will meet all your business and leisure parking needs.</p>\n<p>Pay as you go with a Wilson Parking card, or enjoy 24/7 unlimited access when you subscribe to Monthly Parking.</p>",
+      "information": "<p>Wilson Parking offers affordable &amp; secure parking at the Victoria University Car Park in the heart of Melbourne CBD.</p>\n<p>Car park entry is<strong>&nbsp;via 370 Little Lonsdale St, Melbourne.</strong></p>\n<p>Offering Hourly, Night, Weekend &amp; permanent monthly parking for regular parkers, with exclusive discounts when you prepay online, Victoria University Car Park will meet all your business and leisure parking needs.</p>\n<p>Pay as you go with a Wilson Parking card, or enjoy 24/7 unlimited access when you subscribe to Monthly Parking.</p>",
       "isWilsonOne": true,
       "spottIsAvailable": true,
       "legacyID": 3394,
@@ -64593,7 +64548,7 @@
         },
         {
           "rateType": "Weekend",
-          "notes": "<p>Rates apply Saturday, Sunday and Public Holidays - Rates charged from 7am daily.<br /><br />Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include platform fee.</p>",
+          "notes": "<p>Rates apply Saturday, Sunday and Public Holidays - Rates charged from 7am daily.<br /><br />Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started<br />Rates shown include platform fee</p>",
           "rates": [
             {
               "timeSpan": "Sat  - Sun",
@@ -73384,11 +73339,11 @@
           "rates": [
             {
               "timeSpan": "0.0 - 1.0 hr",
-              "price": 20.0
+              "price": 22.0
             },
             {
               "timeSpan": "1.0 + hrs  (daily maximum)",
-              "price": 39.0
+              "price": 44.0
             }
           ]
         },
@@ -73398,7 +73353,7 @@
           "rates": [
             {
               "timeSpan": "Market (Sunday 12am - 2pm)",
-              "price": 3.0
+              "price": 5.0
             },
             {
               "timeSpan": "Event Parking (A-League) from",
@@ -73416,7 +73371,7 @@
           "rates": [
             {
               "timeSpan": "Sat or Sun from",
-              "price": 14.0
+              "price": 16.0
             }
           ]
         },
@@ -73432,7 +73387,7 @@
         }
       ],
       "fromText": "From",
-      "fromPrice": "3",
+      "fromPrice": "5",
       "location": {
         "longitude": 153.008414215759,
         "latitude": -27.4684526106523,
