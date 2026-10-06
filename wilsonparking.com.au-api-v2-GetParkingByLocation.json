@@ -8395,7 +8395,7 @@
       ],
       "carParkName": "1 Dixon St",
       "carParkNumber": 5002139,
-      "carParkPhoto": null,
+      "carParkPhoto": "/siteassets/parking-location-images/interpark/ipa139.jpg",
       "category": "",
       "costCenter": 5002139,
       "direction": "1 Harbour St, Darling Harbour",
@@ -8409,7 +8409,7 @@
       "disabledParkingIsAvailable": true,
       "phoneNumber": null,
       "products": [],
-      "staticMapPhoto": null,
+      "staticMapPhoto": "/siteassets/parking-location-images/interpark/ipa139.jpg",
       "streetViewHeading": null,
       "streetViewLocation": "-33.87669126565752,151.2035639399183",
       "rates": [
@@ -8613,7 +8613,7 @@
         "additionalServices": []
       },
       "state": "NSW",
-      "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
+      "imgUrl": "/siteassets/parking-location-images/interpark/ipa139.jpg",
       "price": "",
       "status": "",
       "cpmsCarparkCode": null,
@@ -9040,7 +9040,7 @@
           "rates": [
             {
               "timeSpan": "Early Bird - Monday to Friday",
-              "price": 22.0
+              "price": 24.0
             }
           ]
         },
