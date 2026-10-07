@@ -53948,7 +53948,7 @@
       "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
-      "phoneNumber": "(07) 5531 4625 ",
+      "phoneNumber": "(07) 5531 4625",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": "64.37057137015861",
@@ -53959,7 +53959,7 @@
           "notes": null,
           "rates": [
             {
-              "timeSpan": "0.0 - 1.0 hrs",
+              "timeSpan": "0.0 - 1.0 hr",
               "price": 2.5
             },
             {
@@ -54014,40 +54014,40 @@
           "day_TimePeriod": "Monday",
           "is24_7": false,
           "closed": false,
-          "opening": "07:00",
-          "closing": "18:00",
+          "opening": "06:30",
+          "closing": "21:00",
           "note": null
         },
         {
           "day_TimePeriod": "Tuesday",
           "is24_7": false,
           "closed": false,
-          "opening": "07:00",
-          "closing": "18:00",
+          "opening": "06:30",
+          "closing": "21:00",
           "note": null
         },
         {
           "day_TimePeriod": "Wednesday",
           "is24_7": false,
           "closed": false,
-          "opening": "07:00",
-          "closing": "18:00",
+          "opening": "06:30",
+          "closing": "21:00",
           "note": null
         },
         {
           "day_TimePeriod": "Thursday",
           "is24_7": false,
           "closed": false,
-          "opening": "07:00",
-          "closing": "18:00",
+          "opening": "06:30",
+          "closing": "21:00",
           "note": null
         },
         {
           "day_TimePeriod": "Friday",
           "is24_7": false,
           "closed": false,
-          "opening": "07:00",
-          "closing": "18:00",
+          "opening": "06:30",
+          "closing": "21:00",
           "note": null
         },
         {
@@ -58667,7 +58667,7 @@
       "costCenter": 1003047,
       "direction": "Enter/Exit via lane way off Victoria Parade",
       "heightRestriction": 2.0,
-      "information": "<p><span style=\"color: #ff1e25;\"><strong>Lift Upgrade Notice</strong></span><br /><span style=\"color: #ff1e25;\">Lift upgrade works are currently underway. One lift will remain operational, but delays may occur. We appreciate your patience during this time.<br /><br /></span>Wilson Parking offers affordable &amp; secure parking at 90 Victoria Parade Car Park, located in East Melbourne nearby to the Eye and Ear Hospital and Parliament House.<br /><br />Offering discounted Flexi Saver, Hospital Visitor Parking, Weekend and Night Parking when you prepay online, along with&nbsp;Monthly Subscription parking options; the 90 Victoria Parade Car Park will meet all of your parking needs.<br /><br /><strong>This car park accepts credit card payments only.<br /><br /></strong>Pay as you go with the Wilson Parking Card, or enjoy convenient unlimited 24/7 access when you subscribe to Monthly Parking.<br /><br /><strong>Need Hospital Parking?<br /><br /></strong>Prepay for our weekday Hospital Visitor Parking, available for up to 3 hours parking.</p>",
+      "information": "<p>Wilson Parking offers affordable &amp; reliable parking at 90 Victoria Parade Car Park, located in East Melbourne nearby to the Eye and Ear Hospital and Parliament House.<br /><br />Offering discounted Flexi Saver, Hospital Visitor Parking, Weekend and Night Parking when you prepay online, along with&nbsp;Monthly Subscription parking options; the 90 Victoria Parade Car Park will meet all of your parking needs.<br /><br /><strong>This car park accepts credit card payments only.<br /><br /></strong>Pay as you go with the Wilson Parking Card, or enjoy convenient unlimited 24/7 access when you subscribe to Monthly Parking.<br /><br /><strong>Need Hospital Parking?<br /><br /></strong>Prepay for our weekday Hospital Visitor Parking, available for up to 3 hours parking.</p>",
       "isWilsonOne": true,
       "spottIsAvailable": true,
       "legacyID": 36,
@@ -61601,7 +61601,7 @@
       "costCenter": 1003250,
       "direction": "Entry via Russell St (Extension) or off Batman Ave (at Tennis Centre)\nOn event dates and busy periods, please use the Batman Ave Exit from Level 1 and allow additional time to exit. ",
       "heightRestriction": 2.1,
-      "information": "<p><u></u><span style=\"color: #ff1e25;\"><strong><u>Event Dates 2026</u></strong></span><br /><span style=\"color: #ff1e25;\"><strong>October:&nbsp;</strong>3rd from 8am<br /></span><span style=\"color: #ff1e25;\">31st&nbsp;from 10am<br /></span><span style=\"color: #ff1e25;\">5th, 6th, 14th, 15th,16th, 17th, 20th, 22nd, 24th, 25th, 26th, 27th, 28th, 29th&nbsp;from 4pm<br /></span><span style=\"color: #ff1e25;\">Event rates will apply.<br /></span><em style=\"color: #ff1e25;\">On event dates, please allow additional time to exit.<br /><br /></em><strong><span style=\"color: #ff1e25;\">NIKE Melbourne Marathon Festival 2026<br /></span></strong><strong><span style=\"color: #ff1e25;\">Sat 10th Oct 2026:&nbsp;</span></strong><span style=\"color: #ff1e25;\">Road closures are in place in the area from 3am to 12pm.<br /></span><strong><span style=\"color: #ff1e25;\">Sun 11th Oct 2026:&nbsp;</span></strong><span style=\"color: #ff1e25;\">Road closures are in place in the area from 3am to 2pm.<br /></span><em><span style=\"color: #ff1e25;\">Please review the NIKE Melbourne Marathon Festival website for road closure and clearway details.<br /><br /></span></em>Wilson Parking offers affordable &amp; secure parking at Federation Square Car Park, located on Russell St (Extension) in the Melbourne CBD. This car park is nearby to many popular attractions, including Federation Square, Flinders St Station, Birrarung Marr, Rod Laver Arena and Melbourne Park. Offering casual Early Bird, Hourly, Night and Weekend parking, with exclusive discounts when you prepay online, the Federation Square Car Park will meet all of your parking needs.</p>\n<p><span style=\"color: #000000;\"><strong>On event dates and busy periods, please use the Batman Avenue Exit from Level 1 and allow additional time to exit.</strong></span></p>\n<p>Download the Wilson Parking App to plan your journey and access exclusive discounts when you prepay online; pay as you go with one convenient monthly invoice when you use your Wilson Parking Card; enjoy 24/7 unlimited access when you subscribe to Monthly Parking; or just drive up to pay with a credit card at the car park.</p>",
+      "information": "<p><u></u><u></u><span style=\"color: #ff1e25;\"><strong><u>Event Dates October 2026</u></strong></span><br /><span style=\"color: #ff1e25;\">31st from 10am<br />10th from 1pm<br /></span><span style=\"color: #ff1e25;\">14th, 15th,16th, 17th, 20th, 22nd, 24th, 25th, 26th, 27th, 28th, 29th&nbsp;from 4pm<br /></span><span style=\"color: #ff1e25;\">Event rates will apply.<br /></span><em style=\"color: #ff1e25;\">On event dates, please allow additional time to exit.</em><br /><em style=\"color: #ff1e25;\"><br /></em><strong><span style=\"color: #ff1e25;\">NIKE Melbourne Marathon Festival 2026<br /></span></strong><strong><span style=\"color: #ff1e25;\">Sat 10th Oct 2026:&nbsp;</span></strong><span style=\"color: #ff1e25;\">Road closures are in place in the area from 3am to 12pm.<br /></span><strong><span style=\"color: #ff1e25;\">Sun 11th Oct 2026:&nbsp;</span></strong><span style=\"color: #ff1e25;\">Road closures are in place in the area from 3am to 2pm.<br /></span><em><span style=\"color: #ff1e25;\">Please review the NIKE Melbourne Marathon Festival website for road closure and clearway details.<br /><br /></span></em>Wilson Parking offers affordable &amp; secure parking at Federation Square Car Park, located on Russell St (Extension) in the Melbourne CBD. This car park is nearby to many popular attractions, including Federation Square, Flinders St Station, Birrarung Marr, Rod Laver Arena and Melbourne Park. Offering casual Early Bird, Hourly, Night and Weekend parking, with exclusive discounts when you prepay online, the Federation Square Car Park will meet all of your parking needs.</p>\n<p><span style=\"color: #000000;\"><strong>On event dates and busy periods, please use the Batman Avenue Exit from Level 1 and allow additional time to exit.</strong></span></p>\n<p>Download the Wilson Parking App to plan your journey and access exclusive discounts when you prepay online; pay as you go with one convenient monthly invoice when you use your Wilson Parking Card; enjoy 24/7 unlimited access when you subscribe to Monthly Parking; or just drive up to pay with a credit card at the car park.</p>",
       "isWilsonOne": true,
       "spottIsAvailable": true,
       "legacyID": 94,
@@ -62685,7 +62685,7 @@
       "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
-      "phoneNumber": "1800 PARKING",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": "336.4484439722595",
@@ -62693,10 +62693,10 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p><strong>Melbourne Central Shopping Discount</strong>: For every $10 spent within the centre, you will receive 1 hr of parking at 50% off. <br /><strong>Hoyts Cinema Discount:</strong> $6.50 for 1st 3 hours. Must have ticket validated at Hoyts.</p>",
+          "notes": "<p><strong>Melbourne Central Shopping Discount</strong>: For every $10 spent within the centre, you will receive 1 hr of parking at 50% off.<br /><br /><strong>Hoyts Cinema Discount:</strong> $6.50 for 1st 3 hours. Must have ticket validated at Hoyts.</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 1.0 hrs",
+              "timeSpan": "0.0 - 1.0 hr",
               "price": 18.0
             },
             {
@@ -62719,7 +62719,7 @@
         },
         {
           "rateType": "Early Bird",
-          "notes": "Entry before 10am and exit after 3pm.",
+          "notes": "<p>Entry before 10am and exit after 3pm.</p>",
           "rates": [
             {
               "timeSpan": "Mon - Sun",
@@ -65868,7 +65868,7 @@
       "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
-      "phoneNumber": "1800 PARKING",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": "44.939453118307654",
@@ -72827,7 +72827,7 @@
           "is24_7": false,
           "closed": false,
           "opening": "06:00",
-          "closing": "19:00",
+          "closing": "18:00",
           "note": null
         },
         {
@@ -72835,7 +72835,7 @@
           "is24_7": false,
           "closed": false,
           "opening": "06:00",
-          "closing": "19:00",
+          "closing": "18:00",
           "note": null
         },
         {
@@ -72843,7 +72843,7 @@
           "is24_7": false,
           "closed": false,
           "opening": "06:00",
-          "closing": "19:00",
+          "closing": "18:00",
           "note": null
         },
         {
@@ -72851,7 +72851,7 @@
           "is24_7": false,
           "closed": false,
           "opening": "06:00",
-          "closing": "19:00",
+          "closing": "18:00",
           "note": null
         },
         {
@@ -72859,7 +72859,7 @@
           "is24_7": false,
           "closed": false,
           "opening": "06:00",
-          "closing": "19:00",
+          "closing": "18:00",
           "note": null
         },
         {
@@ -73320,7 +73320,7 @@
       "costCenter": 1004356,
       "direction": "Entry off Little Cribb Street",
       "heightRestriction": 2.2,
-      "information": "<p><span style=\"color: #ff1e25;\">Event Parking is available at this car park on the following dates: 29 September, 23, 25 October.<br /></span></p>\n<p>Wilson Parking offers affordable &amp; secure parking at Milton Green&nbsp;car park, located at 19 Little Cribb Street&nbsp;in the heart of Milton. Open 7 days, this undercover car park provides convenient access to nearby Suncorp Stadium and surrounding entertainment and retail precinct. Offering hourly, night and weekend parking options with discounts when you prepay online, permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the Milton Green&nbsp;car park will meet all your business and leisure parking needs.</p>",
+      "information": "<p><span style=\"color: #ff1e25;\">Event Parking is available at this car park on the following dates: 23, 25, 30 October.<br /></span></p>\n<p>Wilson Parking offers affordable &amp; secure parking at Milton Green&nbsp;car park, located at 19 Little Cribb Street&nbsp;in the heart of Milton. Open 7 days, this undercover car park provides convenient access to nearby Suncorp Stadium and surrounding entertainment and retail precinct. Offering hourly, night and weekend parking options with discounts when you prepay online, permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the Milton Green&nbsp;car park will meet all your business and leisure parking needs.</p>",
       "isWilsonOne": true,
       "spottIsAvailable": true,
       "legacyID": 1004356,
@@ -73353,7 +73353,7 @@
           "rates": [
             {
               "timeSpan": "Market (Sunday 12am - 2pm)",
-              "price": 5.0
+              "price": 3.0
             },
             {
               "timeSpan": "Event Parking (A-League) from",
@@ -73387,7 +73387,7 @@
         }
       ],
       "fromText": "From",
-      "fromPrice": "5",
+      "fromPrice": "3",
       "location": {
         "longitude": 153.008414215759,
         "latitude": -27.4684526106523,
@@ -73831,7 +73831,7 @@
           "day_TimePeriod": "Monday",
           "is24_7": false,
           "closed": false,
-          "opening": "05:00",
+          "opening": "06:00",
           "closing": "23:00",
           "note": null
         },
@@ -73839,7 +73839,7 @@
           "day_TimePeriod": "Tuesday",
           "is24_7": false,
           "closed": false,
-          "opening": "05:00",
+          "opening": "06:00",
           "closing": "23:00",
           "note": null
         },
@@ -73847,7 +73847,7 @@
           "day_TimePeriod": "Wednesday",
           "is24_7": false,
           "closed": false,
-          "opening": "05:00",
+          "opening": "06:00",
           "closing": "23:00",
           "note": null
         },
@@ -73855,7 +73855,7 @@
           "day_TimePeriod": "Thursday",
           "is24_7": false,
           "closed": false,
-          "opening": "05:00",
+          "opening": "06:00",
           "closing": "23:00",
           "note": null
         },
@@ -73863,7 +73863,7 @@
           "day_TimePeriod": "Friday",
           "is24_7": false,
           "closed": false,
-          "opening": "05:00",
+          "opening": "06:00",
           "closing": "23:00",
           "note": null
         },
@@ -73871,7 +73871,7 @@
           "day_TimePeriod": "Saturday",
           "is24_7": false,
           "closed": false,
-          "opening": "05:00",
+          "opening": "06:00",
           "closing": "23:00",
           "note": null
         },
@@ -73879,7 +73879,7 @@
           "day_TimePeriod": "Sunday",
           "is24_7": false,
           "closed": false,
-          "opening": "05:00",
+          "opening": "06:00",
           "closing": "23:00",
           "note": null
         },
@@ -73887,7 +73887,7 @@
           "day_TimePeriod": "Public Holiday",
           "is24_7": false,
           "closed": false,
-          "opening": "05:00",
+          "opening": "06:00",
           "closing": "23:00",
           "note": null
         }
@@ -75869,14 +75869,14 @@
       "costCenter": 1004061,
       "direction": "Entry via Charlotte Street, directly opposite Eagle Street Pier.",
       "heightRestriction": 2.0,
-      "information": "<p>Wilson Parking offers affordable and secure parking at 12 Creek Street (Blue Tower), located at 12 Creek Street, Brisbane. Close to Brisbane city centre and premium Brisbane restaurants, and open for extended hours 7 days a week, this car park is perfect for both commuter and leisure parking. Offering Hourly, Night and Weekend parking options, along with online discount parking, the 12 Creek Street (Blue Tower) car park will meet all your parking needs.</p>\n<p>Save when you prepay your parking online or with the Wilson Parking App; enjoy the convenience of 24/7 unlimited access when you subscribe to Monthly Parking; or pay as you go with a queue-less, contact free Wilson Parking Card.</p>\n<p>Car park roller doors are open on weekdays 6am-6pm (excluding public holidays). Please refer to instructions at the entry of the car park for access outside these times.</p>",
+      "information": "<p>Wilson Parking offers affordable and secure parking at 12 Creek Street (Blue Tower), located at 12 Creek Street, Brisbane. Close to Brisbane city centre and premium Brisbane restaurants, and open for extended hours 7 days a week, this car park is perfect for both commuter and leisure parking. Offering Hourly, Night and Weekend parking options, along with online discount parking, the 12 Creek Street (Blue Tower) car park will meet all your parking needs.</p>\n<p>Save when you prepay your parking online or with the Wilson Parking App; enjoy the convenience of 24/7 unlimited access when you subscribe to Monthly Parking; or pay as you go with a queue-less, contact free Wilson Parking Card.</p>\n<p>Car park roller doors are open from 6am-6pm (excluding public holidays). Please refer to instructions at the entry of the car park for access outside these times.</p>",
       "isWilsonOne": true,
       "spottIsAvailable": true,
       "legacyID": 65,
       "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
-      "phoneNumber": "1800 PARKING",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": "291.0959590710526",
@@ -75887,7 +75887,7 @@
           "notes": null,
           "rates": [
             {
-              "timeSpan": "0.0 - 1.0 hrs",
+              "timeSpan": "0.0 - 1.0 hr",
               "price": 25.0
             },
             {
@@ -75910,20 +75910,20 @@
         },
         {
           "rateType": "Night",
-          "notes": "<p>Per exit. Enter after 5:00pm and exit before 10:00pm.</p>",
+          "notes": "<p>Per exit. Enter after 5pm and exit before 10pm.</p>",
           "rates": [
             {
-              "timeSpan": "Weeknights",
+              "timeSpan": "Mon - Fri",
               "price": 16.0
             }
           ]
         },
         {
           "rateType": "Weekend",
-          "notes": "<p>Drive up Weekend rates apply on Public Holidays</p>\n<p>Flat rate per day, per exit. Enter after 6:00am and exit before 10:00pm</p>\n<p>&nbsp;</p>",
+          "notes": "<p>Drive up Weekend Rates apply on Public Holidays.</p>\n<p>Flat rate per day, per exit. Enter after 6am and exit before 10pm.</p>\n<p>&nbsp;</p>",
           "rates": [
             {
-              "timeSpan": "Weekends",
+              "timeSpan": "Sat - Sun",
               "price": 16.0
             }
           ]
@@ -75965,7 +75965,7 @@
           "is24_7": false,
           "closed": false,
           "opening": "06:00",
-          "closing": "23:00",
+          "closing": "18:00",
           "note": null
         },
         {
@@ -75973,7 +75973,7 @@
           "is24_7": false,
           "closed": false,
           "opening": "06:00",
-          "closing": "23:00",
+          "closing": "18:00",
           "note": null
         },
         {
@@ -75981,7 +75981,7 @@
           "is24_7": false,
           "closed": false,
           "opening": "06:00",
-          "closing": "23:00",
+          "closing": "18:00",
           "note": null
         },
         {
@@ -75989,7 +75989,7 @@
           "is24_7": false,
           "closed": false,
           "opening": "06:00",
-          "closing": "23:00",
+          "closing": "18:00",
           "note": null
         },
         {
@@ -75997,7 +75997,7 @@
           "is24_7": false,
           "closed": false,
           "opening": "06:00",
-          "closing": "23:00",
+          "closing": "18:00",
           "note": null
         },
         {
@@ -76005,7 +76005,7 @@
           "is24_7": false,
           "closed": false,
           "opening": "06:00",
-          "closing": "23:00",
+          "closing": "18:00",
           "note": null
         },
         {
@@ -76013,15 +76013,15 @@
           "is24_7": false,
           "closed": false,
           "opening": "06:00",
-          "closing": "23:00",
+          "closing": "18:00",
           "note": null
         },
         {
           "day_TimePeriod": "Public Holiday",
-          "is24_7": true,
+          "is24_7": false,
           "closed": false,
-          "opening": "",
-          "closing": "",
+          "opening": "06:00",
+          "closing": "18:00",
           "note": null
         }
       ],
@@ -76185,7 +76185,7 @@
       "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
-      "phoneNumber": "1800 PARKING",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": "344.2314756182372",
@@ -77683,7 +77683,7 @@
           "is24_7": false,
           "closed": false,
           "opening": "05:00",
-          "closing": "23:30",
+          "closing": "00:00",
           "note": null
         },
         {
@@ -77691,7 +77691,7 @@
           "is24_7": false,
           "closed": false,
           "opening": "05:00",
-          "closing": "23:30",
+          "closing": "00:00",
           "note": null
         },
         {
@@ -77699,7 +77699,7 @@
           "is24_7": false,
           "closed": false,
           "opening": "05:00",
-          "closing": "23:30",
+          "closing": "00:00",
           "note": null
         },
         {
@@ -77707,7 +77707,7 @@
           "is24_7": false,
           "closed": false,
           "opening": "05:00",
-          "closing": "23:30",
+          "closing": "00:00",
           "note": null
         },
         {
@@ -77715,7 +77715,7 @@
           "is24_7": false,
           "closed": false,
           "opening": "05:00",
-          "closing": "23:30",
+          "closing": "00:00",
           "note": null
         },
         {
@@ -77723,7 +77723,7 @@
           "is24_7": false,
           "closed": false,
           "opening": "05:00",
-          "closing": "23:30",
+          "closing": "00:00",
           "note": null
         },
         {
@@ -77731,7 +77731,7 @@
           "is24_7": false,
           "closed": false,
           "opening": "05:00",
-          "closing": "23:30",
+          "closing": "00:00",
           "note": null
         }
       ],
@@ -78530,14 +78530,14 @@
       "costCenter": 1004347,
       "direction": null,
       "heightRestriction": 2.1,
-      "information": "<p>Wilson Parking offers affordable &amp; secure parking at the&nbsp;Royal Brisbane and Women's Hospital&nbsp;car park, located at 20 Butterfield Street,&nbsp;in the heart of Royal Brisbane &amp; Women&rsquo;s Hospital precinct. Open 7 days, this undercover car park provides convenient access to the hospital, associated facilities, RNA Showgrounds and local businesses. Offering hourly, Weekend and Night parking options, permanent monthly parking for regular parkers, the Royal Brisbane and Women's Hospital&nbsp;car park&nbsp;will meet all your business and leisure parking needs.</p>\n<p>An undercover walkway links this car park to level 1 of the Ned Hanlon Building</p>",
+      "information": "<p>Wilson Parking offers affordable &amp; secure parking at the&nbsp;Royal Brisbane and Women's Hospital&nbsp;car park, located at 20 Butterfield Street,&nbsp;in the heart of Royal Brisbane &amp; Women&rsquo;s Hospital precinct. Open 7 days, this undercover car park provides convenient access to the hospital, associated facilities, RNA Showgrounds and local businesses. Offering hourly, Weekend and Night parking options, permanent monthly parking for regular parkers, the Royal Brisbane and Women's Hospital&nbsp;car park&nbsp;will meet all your business and leisure parking needs.</p>\n<p>An undercover walkway links this car park to level 1 of the Ned Hanlon Building.</p>",
       "isWilsonOne": false,
       "spottIsAvailable": false,
       "legacyID": 4347,
       "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": true,
-      "phoneNumber": "1800 PARKING (727 546)",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": null,
@@ -86245,7 +86245,7 @@
       "costCenter": 1005008,
       "direction": "Entry via 30 Hindley Street",
       "heightRestriction": 2.0,
-      "information": "<p><span style=\"color: #ff1e25;\"><strong>Important Update:</strong> The lifts at 30 Hindley St Car Park are currently out of order. We apologise for the inconvenience this may cause and are working to resolve this as soon as we can.</span></p>\n<p>Wilson Parking offer affordable &amp; reliable parking at 30 Hindley St Car Park, located at 30 Hindley Street, Adelaide. With 24 hour access, this car park is perfect for nearby hotels, restaurants and Rundle Mall parking. Offering Online Flexi Saver and Weekend parking, along with discount&nbsp;online parking options, the 30 Hindley St Car Park will meet all of your parking needs.</p>\n<p>Experience the convenience of&nbsp;pay as you go with a Wilson Parking card, or enjoy 24/7 unlimited access when you subscribe to Monthly Parking.</p>",
+      "information": "<p>Wilson Parking offer affordable &amp; reliable parking at 30 Hindley St Car Park, located at 30 Hindley Street, Adelaide. With 24 hour access, this car park is perfect for nearby hotels, restaurants and Rundle Mall parking. Offering Online Flexi Saver and Weekend parking, along with discount&nbsp;online parking options, the 30 Hindley St Car Park will meet all of your parking needs.</p>\n<p>Experience the convenience of&nbsp;pay as you go with a Wilson Parking card, or enjoy 24/7 unlimited access when you subscribe to Monthly Parking.</p>",
       "isWilsonOne": true,
       "spottIsAvailable": true,
       "legacyID": 173,
@@ -92828,7 +92828,9 @@
         "Wilson One",
         "Flexi Parking",
         "Disabled Parking",
-        "Daily Pass Bundles"
+        "Daily Pass Bundles",
+        "LPR",
+        "Spott"
       ],
       "services": [
         "book a bay",
@@ -92842,14 +92844,14 @@
       "costCenter": 1006247,
       "direction": "Entry from Hay Street (Westbound) or Murray Street (Eastbound).",
       "heightRestriction": 2.2,
-      "information": "<p>Wilson Parking offer affordable parking at Hibernian Place Car Park, located at 17 Murray St, Perth. With convenient entries at 17 Murray St and 480 Hay St, and open 7 days, this car park is located under The Westin Hotel, Perth's newest five-star hotel in the CBD and is central to Perth's Entertainment Centres and shopping outlets.</p>\n<p>Offering casual Hourly, Early Bird, Night and Weekend Parking and exclusive discounts when you prepay online or with the Wilson Parking App, the Hibernian Place Car Park will meet all your Perth Parking needs.&nbsp;</p>\n<p>Download the Wilson Parking App to plan your journey, and access exclusive discounts when you prepay ahead, or simply drive up and pay with your credit card, or avoid the queues and pay as you go with the Wilson Parking Card.&nbsp;</p>",
+      "information": "<p>Wilson Parking offer affordable parking at Hibernian Place Car Park, located at 17 Murray St, Perth. With convenient entries at 17 Murray St and 480 Hay St, and open 7 days, this car park is located under The Westin Hotel, Perth's newest five-star hotel in the CBD and is central to Perth's Entertainment Centres and shopping outlets.</p>\n<p>Offering casual Hourly, Early Bird, Night and Weekend Parking and exclusive discounts when you prepay online or with the Wilson Parking App, the Hibernian Place Car Park will meet all your Perth Parking needs.&nbsp;</p>\n<p>Download the Wilson Parking App to plan your journey, and access exclusive discounts when you prepay ahead, or simply drive up and pay with your credit card, or avoid the queues and pay as you go with the Wilson Parking Card.</p>",
       "isWilsonOne": true,
-      "spottIsAvailable": false,
+      "spottIsAvailable": true,
       "legacyID": 586,
       "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": true,
-      "phoneNumber": "1800 PARKING",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": "12.737209526121926",
@@ -93037,7 +93039,7 @@
         "evChargerIsAvailable": false,
         "evChargerIconLabel": "EV Charging",
         "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "spottIsAvailable": false,
+        "spottIsAvailable": true,
         "spottIconLabel": "Spott",
         "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
         "additionalServices": []
