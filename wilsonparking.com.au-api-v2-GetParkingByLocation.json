@@ -62723,7 +62723,7 @@
           "rates": [
             {
               "timeSpan": "Mon - Sun",
-              "price": 18.0
+              "price": 19.0
             }
           ]
         },
@@ -92924,11 +92924,7 @@
           "notes": "<p>Rates apply per exit, per day</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 2.0 hrs",
-              "price": 15.0
-            },
-            {
-              "timeSpan": "2.0 + hrs",
+              "timeSpan": "0.0 - 2.0 + hrs",
               "price": 15.0
             }
           ]
@@ -97577,7 +97573,7 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Rates available Monday - Friday, from 4.30am and exit before 5pm. Night rate applies after 5pm.</p>",
+          "notes": "<p>Rates available from 4:30am, Exit before 5pm, Monday to Friday.<br /><br />Night rate applies after 5pm.</p>",
           "rates": [
             {
               "timeSpan": "0.0 - 0.5 hr",
@@ -97619,14 +97615,14 @@
         },
         {
           "rateType": "Night",
-          "notes": "<p>Entry after 5pm, exit before 10pm, Monday - Friday.</p>\n<p>Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include platform fee.</p>",
+          "notes": "<p>Entry after 5pm, Exit before 10pm, Monday - Friday.</p>\n<p>Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include platform fee.</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 2.0 hrs",
+              "timeSpan": "0.0 - 2.0 hr",
               "price": 6.0
             },
             {
-              "timeSpan": "2.0 hrs Plus",
+              "timeSpan": "2.0 + hrs",
               "price": 15.0
             }
           ]
@@ -97640,7 +97636,7 @@
               "price": 6.0
             },
             {
-              "timeSpan": "2.0 hrs Plus",
+              "timeSpan": "2.0 + hrs",
               "price": 15.0
             }
           ]
@@ -99887,16 +99883,16 @@
       "carParkPhoto": "/contentassets/b48319796ac84008a4049d618228de23/per400-car-park-photo.jpg",
       "category": "",
       "costCenter": 1006400,
-      "direction": "Entry off Mounts Bay Road Eastbound and Spring Street.\n\n</br></br>Dear Customers</br>\n</br></br>Due to scheduled works the car park will not be accessible from 6am to 11am on3rd October.</br>",
+      "direction": "Entry off Mounts Bay Rd Eastbound and Spring St",
       "heightRestriction": 2.1,
-      "information": "<p>Wilson Parking offer affordable parking at Capital Square&nbsp;Car Park, providing parking for visitors to the Capital Square Towers and nearby businesses in the Perth CBD. Offering Hourly, <span style=\"color: #000000;\">Weekend and Night</span> Parking options, and exclusive discounts when you prepay online or through the Wilson Parking App, the Capital Square&nbsp;Car Park will meet all your business parking needs.&nbsp;</p>\n<p>The car park offers two convenient entries. Enter via Mounts Bay Road heading Eastbound or Spring Street.</p>\n<p>Download the Wilson Parking App to prepay ahead and access exclusive savings, or simply drive up and pay with your Credit Card, pay as you go with a Wilson Parking card.</p>\n<p>&nbsp;</p>",
+      "information": "<p>Wilson Parking offer affordable parking at Capital Square&nbsp;Car Park, providing parking for visitors to the Capital Square Towers and nearby businesses in the Perth CBD. Offering Hourly, <span style=\"color: #000000;\">Weekend and Night</span> Parking options, and exclusive discounts when you prepay online or through the Wilson Parking App, the Capital Square&nbsp;Car Park will meet all your business parking needs.&nbsp;</p>\n<p>The car park offers two convenient entries. Enter via Mounts Bay Road heading Eastbound or Spring Street.</p>\n<p>Download the Wilson Parking App to prepay ahead and access exclusive savings, or simply drive up and pay with your Credit Card, pay as you go with a Wilson Parking card.</p>",
       "isWilsonOne": true,
       "spottIsAvailable": false,
       "legacyID": 6400,
       "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": true,
-      "phoneNumber": "1800 PARKING (1800 727 5464)",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": "115.8495634",
@@ -99907,11 +99903,11 @@
           "notes": "<p>Rates apply Monday - Friday, 6am-6pm.&nbsp;</p>\n<p>Night rates apply from 6pm onwards.</p>\n<p>Price shown includes platform fee.</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 0.5 hrs",
+              "timeSpan": "0.0 - 0.5 hr",
               "price": 0.0
             },
             {
-              "timeSpan": "0.5 - 1.0 hrs",
+              "timeSpan": "0.5 - 1.0 hr",
               "price": 5.0
             },
             {
@@ -99923,7 +99919,7 @@
               "price": 15.0
             },
             {
-              "timeSpan": "6.0 hrs + until 6pm",
+              "timeSpan": "6.0 + hrs until 6pm",
               "price": 45.0
             }
           ]
@@ -99940,7 +99936,7 @@
         },
         {
           "rateType": "Weekend",
-          "notes": "<p>Rates apply Saturday - Sunday, per exit, per day</p>\n<p>Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include platform fee.</p>\n<p>&nbsp;</p>",
+          "notes": "<p>Rates apply Saturday - Sunday, per exit, per day</p>\n<p>Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include platform fee.</p>",
           "rates": [
             {
               "timeSpan": "Sat - Sun",
