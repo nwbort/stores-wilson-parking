@@ -10327,7 +10327,7 @@
           "notes": "<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include platform fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>",
           "rates": [
             {
-              "timeSpan": "Weekend varies from $27.75 - $29.75, depending on demand",
+              "timeSpan": "Weekend varies from $28.75 - $31.75, depending on demand",
               "price": 32.0
             }
           ]
@@ -22364,7 +22364,9 @@
       "carParkFeature": [
         "Night Parking",
         "Weekend Parking",
-        "Entry height at least 2"
+        "Entry height at least 2",
+        "LPR",
+        "Spott"
       ],
       "services": [],
       "carParkName": "Grande Esplanade Car Park",
@@ -22374,9 +22376,9 @@
       "costCenter": 1002401,
       "direction": "Entry via Gilbert St",
       "heightRestriction": 2.1,
-      "information": "<p>Wilson Parking offer affordable &amp; secure parking at Grande Esplanade Car Park, located at 54 &ndash; 68 West Esplanade in the heart Manly. Open 7 days, this undercover car park provides convenient access to nearby Manly Beach and Manly Wharf. Offering Hourly parking options for regular parkers, the Grande Esplanade Car Park will meet all your business and leisure parking needs.&nbsp;</p>",
+      "information": "<p>Wilson Parking offer affordable &amp; reliable parking at Grande Esplanade Car Park, located at 54 &ndash; 68 West Esplanade in the heart Manly. Open 7 days, this undercover car park provides convenient access to nearby Manly Beach and Manly Wharf. Offering Hourly parking options for regular parkers, the Grande Esplanade Car Park will meet all your parking needs.&nbsp;</p>\n<p>This car park has been Spotted! The easy way to access and pay for parking. No more tapping cards, simply access this car park with vehicle recognition. Join for free in the <a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\" target=\"_blank\" rel=\"noopener\">Wilson Parking App</a>.&nbsp;</p>",
       "isWilsonOne": false,
-      "spottIsAvailable": false,
+      "spottIsAvailable": true,
       "legacyID": 2401,
       "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
@@ -22527,7 +22529,7 @@
         "evChargerIsAvailable": false,
         "evChargerIconLabel": "EV Charging",
         "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "spottIsAvailable": false,
+        "spottIsAvailable": true,
         "spottIconLabel": "Spott",
         "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
         "additionalServices": []
@@ -44045,7 +44047,10 @@
       "bookText": null,
       "canBookABay": false,
       "selectedFeatures": "",
-      "carParkFeature": [],
+      "carParkFeature": [
+        "Early Bird Parking",
+        "Epark"
+      ],
       "services": [],
       "carParkName": "Barry Drive",
       "carParkNumber": 1159,
@@ -44054,14 +44059,14 @@
       "costCenter": 1012159,
       "direction": null,
       "heightRestriction": 0.0,
-      "information": "<h4>Car park is currently Temporarily Closed</h4>\n<p>Wilson Parking offer affordable parking at Barry Drive Car Park, located at 7-11 Barry Drive, Turner. Nearby to Turner Parkland, ANU North Oval, Canberra Community Law and other popular Canberra businesses and venues, this car park is open 6am - 7pm. Offering casual Hourly parking, and the ease of payments with the Wilson Parking App, the Barry Drive Car Park will meet all of your parking needs.</p>\n<p>Download the Wilson Parking App to quickly and easily pay for your parking from your phone.</p>\n<p>&nbsp;</p>",
+      "information": "<p>Wilson Parking offer affordable parking at Barry Drive Car Park, located at 7-11 Barry Drive, Turner. Nearby to Turner Parkland, ANU North Oval, Canberra Community Law and other popular Canberra businesses and venues, this car park is open 6am - 7pm. Offering casual Hourly parking, and the ease of payments with the Wilson Parking App, the Barry Drive Car Park will meet all of your parking needs.</p>\n<p>This is a Wilson Parking App only car park.</p>\n<p>Download the Wilson Parking App to quickly and easily pay for your parking from your phone.</p>",
       "isWilsonOne": false,
       "spottIsAvailable": false,
       "legacyID": 1159,
       "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
-      "phoneNumber": "1800 PARKING",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": null,
@@ -92828,9 +92833,7 @@
         "Wilson One",
         "Flexi Parking",
         "Disabled Parking",
-        "Daily Pass Bundles",
-        "LPR",
-        "Spott"
+        "Daily Pass Bundles"
       ],
       "services": [
         "book a bay",
@@ -92846,7 +92849,7 @@
       "heightRestriction": 2.2,
       "information": "<p>Wilson Parking offer affordable parking at Hibernian Place Car Park, located at 17 Murray St, Perth. With convenient entries at 17 Murray St and 480 Hay St, and open 7 days, this car park is located under The Westin Hotel, Perth's newest five-star hotel in the CBD and is central to Perth's Entertainment Centres and shopping outlets.</p>\n<p>Offering casual Hourly, Early Bird, Night and Weekend Parking and exclusive discounts when you prepay online or with the Wilson Parking App, the Hibernian Place Car Park will meet all your Perth Parking needs.&nbsp;</p>\n<p>Download the Wilson Parking App to plan your journey, and access exclusive discounts when you prepay ahead, or simply drive up and pay with your credit card, or avoid the queues and pay as you go with the Wilson Parking Card.</p>",
       "isWilsonOne": true,
-      "spottIsAvailable": true,
+      "spottIsAvailable": false,
       "legacyID": 586,
       "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
@@ -93035,7 +93038,7 @@
         "evChargerIsAvailable": false,
         "evChargerIconLabel": "EV Charging",
         "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "spottIsAvailable": true,
+        "spottIsAvailable": false,
         "spottIconLabel": "Spott",
         "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
         "additionalServices": []
