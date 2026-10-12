@@ -17729,66 +17729,66 @@
       "openingTimes": [
         {
           "day_TimePeriod": "Public Holiday",
-          "is24_7": true,
+          "is24_7": false,
           "closed": false,
-          "opening": "",
-          "closing": "",
+          "opening": "6:00",
+          "closing": "1:00",
           "note": null
         },
         {
           "day_TimePeriod": "Monday",
-          "is24_7": true,
+          "is24_7": false,
           "closed": false,
-          "opening": "",
-          "closing": "",
+          "opening": "6:00",
+          "closing": "1:00",
           "note": null
         },
         {
           "day_TimePeriod": "Tuesday",
-          "is24_7": true,
+          "is24_7": false,
           "closed": false,
-          "opening": "",
-          "closing": "",
+          "opening": "6:00",
+          "closing": "1:00",
           "note": null
         },
         {
           "day_TimePeriod": "Wednesday",
-          "is24_7": true,
+          "is24_7": false,
           "closed": false,
-          "opening": "",
-          "closing": "",
+          "opening": "6:00",
+          "closing": "1:00",
           "note": null
         },
         {
           "day_TimePeriod": "Thursday",
-          "is24_7": true,
+          "is24_7": false,
           "closed": false,
-          "opening": "",
-          "closing": "",
+          "opening": "6:00",
+          "closing": "1:00",
           "note": null
         },
         {
           "day_TimePeriod": "Friday",
-          "is24_7": true,
+          "is24_7": false,
           "closed": false,
-          "opening": "",
-          "closing": "",
+          "opening": "6:00",
+          "closing": "1:00",
           "note": null
         },
         {
           "day_TimePeriod": "Saturday",
-          "is24_7": true,
+          "is24_7": false,
           "closed": false,
-          "opening": "",
-          "closing": "",
+          "opening": "6:00",
+          "closing": "1:00",
           "note": null
         },
         {
           "day_TimePeriod": "Sunday",
-          "is24_7": true,
+          "is24_7": false,
           "closed": false,
-          "opening": "",
-          "closing": "",
+          "opening": "6:00",
+          "closing": "1:00",
           "note": null
         }
       ],
@@ -61606,7 +61606,7 @@
       "costCenter": 1003250,
       "direction": "Entry via Russell St (Extension) or off Batman Ave (at Tennis Centre)\nOn event dates and busy periods, please use the Batman Ave Exit from Level 1 and allow additional time to exit. ",
       "heightRestriction": 2.1,
-      "information": "<p><u></u><u></u><span style=\"color: #ff1e25;\"><strong><u>Event Dates October 2026</u></strong></span><br /><span style=\"color: #ff1e25;\">31st from 10am<br />10th from 1pm<br /></span><span style=\"color: #ff1e25;\">14th, 15th,16th, 17th, 20th, 22nd, 24th, 25th, 26th, 27th, 28th, 29th&nbsp;from 4pm<br /></span><span style=\"color: #ff1e25;\">Event rates will apply.<br /></span><em style=\"color: #ff1e25;\">On event dates, please allow additional time to exit.</em><br /><em style=\"color: #ff1e25;\"><br /></em><strong><span style=\"color: #ff1e25;\">NIKE Melbourne Marathon Festival 2026<br /></span></strong><strong><span style=\"color: #ff1e25;\">Sat 10th Oct 2026:&nbsp;</span></strong><span style=\"color: #ff1e25;\">Road closures are in place in the area from 3am to 12pm.<br /></span><strong><span style=\"color: #ff1e25;\">Sun 11th Oct 2026:&nbsp;</span></strong><span style=\"color: #ff1e25;\">Road closures are in place in the area from 3am to 2pm.<br /></span><em><span style=\"color: #ff1e25;\">Please review the NIKE Melbourne Marathon Festival website for road closure and clearway details.<br /><br /></span></em>Wilson Parking offers affordable &amp; secure parking at Federation Square Car Park, located on Russell St (Extension) in the Melbourne CBD. This car park is nearby to many popular attractions, including Federation Square, Flinders St Station, Birrarung Marr, Rod Laver Arena and Melbourne Park. Offering casual Early Bird, Hourly, Night and Weekend parking, with exclusive discounts when you prepay online, the Federation Square Car Park will meet all of your parking needs.</p>\n<p><span style=\"color: #000000;\"><strong>On event dates and busy periods, please use the Batman Avenue Exit from Level 1 and allow additional time to exit.</strong></span></p>\n<p>Download the Wilson Parking App to plan your journey and access exclusive discounts when you prepay online; pay as you go with one convenient monthly invoice when you use your Wilson Parking Card; enjoy 24/7 unlimited access when you subscribe to Monthly Parking; or just drive up to pay with a credit card at the car park.</p>",
+      "information": "<p><u></u><u></u><span style=\"color: #ff1e25;\"><strong><u>Event Dates October 2026</u></strong></span><br /><span style=\"color: #ff1e25;\">31st from 10am<br /></span><span style=\"color: #ff1e25;\">14th, 15th,16th, 17th, 20th, 22nd, 24th, 25th, 26th, 27th, 28th, 29th&nbsp;from 4pm<br /></span><span style=\"color: #ff1e25;\">Event rates will apply.<br /></span><em style=\"color: #ff1e25;\">On event dates, please allow additional time to exit.</em><br /><em><span style=\"color: #ff1e25;\"><br /></span></em>Wilson Parking offers affordable &amp; secure parking at Federation Square Car Park, located on Russell St (Extension) in the Melbourne CBD. This car park is nearby to many popular attractions, including Federation Square, Flinders St Station, Birrarung Marr, Rod Laver Arena and Melbourne Park. Offering casual Early Bird, Hourly, Night and Weekend parking, with exclusive discounts when you prepay online, the Federation Square Car Park will meet all of your parking needs.</p>\n<p><span style=\"color: #000000;\"><strong>On event dates and busy periods, please use the Batman Avenue Exit from Level 1 and allow additional time to exit.</strong></span></p>\n<p>Download the Wilson Parking App to plan your journey and access exclusive discounts when you prepay online; pay as you go with one convenient monthly invoice when you use your Wilson Parking Card; enjoy 24/7 unlimited access when you subscribe to Monthly Parking; or just drive up to pay with a credit card at the car park.</p>",
       "isWilsonOne": true,
       "spottIsAvailable": true,
       "legacyID": 94,
@@ -62244,7 +62244,7 @@
       "costCenter": 1003169,
       "direction": "Entry via Flinders St or 195 Flinders Lane",
       "heightRestriction": 2.0,
-      "information": "<p><span style=\"color: #ff1e25;\"><strong>NIKE Melbourne Marathon Festival 2026<br /></strong><strong>Sat 10th Oct 2026:&nbsp;</strong>Car park accessible from Flinders Lane only from 3am to 12pm.</span><br /><span style=\"color: #ff1e25;\"><strong>Sun 11th Oct 2026:&nbsp;</strong>Car park accessible from Flinders Lane only from 3am to 2pm.</span><br /><span style=\"color: #ff1e25;\"><em>Please review the NIKE Melbourne Marathon Festival website for road closure and clearway details.</em></span></p>\n<p>Wilson Parking offers affordable &amp; convenient parking at Flinders Gate Car Park, located at 172-192 Flinders Street, Melbourne. This car park is nearby to many Melbourne attractions including St Paul's Cathedral, The Ian Potter Centre and Flinders St Station.</p>\n<p>Offering online discounts for Flexi Saver, Night, Overnight and Weekend parking as well as competitive drive up rates, the Flinders Gate car park will meet all of your parking needs when visiting the Melbourne CBD.</p>\n<p><strong>This car park accepts Credit Card payments only.</strong></p>\n<p>Pay as you go with a Wilson Parking Card, or enjoy unlimited 24/7 access when you subscribe to a Monthly parking account.</p>\n<p><em>Site can be affected by road closures. Please refer to the <a title=\"https://www.melbourne.vic.gov.au/parking-and-transport/roads/Pages/road-closures.aspx\" href=\"https://www.melbourne.vic.gov.au/parking-and-transport/roads/Pages/road-closures.aspx\" target=\"_blank\" rel=\"noopener\">City of Melbourne website</a> for more information.</em></p>",
+      "information": "<p>Wilson Parking offers affordable &amp; convenient parking at Flinders Gate Car Park, located at 172-192 Flinders Street, Melbourne. This car park is nearby to many Melbourne attractions including St Paul's Cathedral, The Ian Potter Centre and Flinders St Station.</p>\n<p>Offering online discounts for Flexi Saver, Night, Overnight and Weekend parking as well as competitive drive up rates, the Flinders Gate car park will meet all of your parking needs when visiting the Melbourne CBD.</p>\n<p><strong>This car park accepts Credit Card payments only.</strong></p>\n<p>Pay as you go with a Wilson Parking Card, or enjoy unlimited 24/7 access when you subscribe to a Monthly parking account.</p>\n<p><em>Site can be affected by road closures. Please refer to the <a title=\"https://www.melbourne.vic.gov.au/parking-and-transport/roads/Pages/road-closures.aspx\" href=\"https://www.melbourne.vic.gov.au/parking-and-transport/roads/Pages/road-closures.aspx\" target=\"_blank\" rel=\"noopener\">City of Melbourne website</a> for more information.</em></p>",
       "isWilsonOne": true,
       "spottIsAvailable": true,
       "legacyID": 253,
@@ -73325,7 +73325,7 @@
       "costCenter": 1004356,
       "direction": "Entry off Little Cribb Street",
       "heightRestriction": 2.2,
-      "information": "<p><span style=\"color: #ff1e25;\">Event Parking is available at this car park on the following dates: 23, 25, 30 October.<br /></span></p>\n<p>Wilson Parking offers affordable &amp; secure parking at Milton Green&nbsp;car park, located at 19 Little Cribb Street&nbsp;in the heart of Milton. Open 7 days, this undercover car park provides convenient access to nearby Suncorp Stadium and surrounding entertainment and retail precinct. Offering hourly, night and weekend parking options with discounts when you prepay online, permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the Milton Green&nbsp;car park will meet all your business and leisure parking needs.</p>",
+      "information": "<p><span style=\"color: #ff1e25;\">Event Parking is available at this car park on the following dates: 23, 25, 30 October, 5 November.<br /></span></p>\n<p>Wilson Parking offers affordable &amp; secure parking at Milton Green&nbsp;car park, located at 19 Little Cribb Street&nbsp;in the heart of Milton. Open 7 days, this undercover car park provides convenient access to nearby Suncorp Stadium and surrounding entertainment and retail precinct. Offering hourly, night and weekend parking options with discounts when you prepay online, permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the Milton Green&nbsp;car park will meet all your business and leisure parking needs.</p>",
       "isWilsonOne": true,
       "spottIsAvailable": true,
       "legacyID": 1004356,
@@ -94477,7 +94477,7 @@
       "carParkPhoto": "/contentassets/b1215f9e49944daf9548bb4da8dd838f/per073.jpg",
       "category": "",
       "costCenter": 1006073,
-      "direction": "Entry from Stirling St (southbound) or Pier St opposite the railway crossing.</br>\nOver height parking available up to 3m from Pier St Entry.</br>\nCar Park closes at 8pm each day A/HRS access with Access Card Only. </br>\n\n\n",
+      "direction": "Entry from Stirling St (southbound) or Pier St opposite the railway crossing.</br>\n\nDear Customers, </br>\nPlease note this car park will not be operated by Wilson Parking effective 8th Nov.</br>\n\nOver height parking available up to 3m from Pier St Entry.</br>\nCar Park closes at 8pm each day A/HRS access with Access Card Only. </br>\n",
       "heightRestriction": 2.1,
       "information": "<p>Wilson Parking offer affordable parking at 22 Stirling St Car Park, located at 22 Stirling St, Perth. This car park is open 7 days, closing at 8pm, and has two convenient entries, on Stirling St (southbound) or Pier St opposite the railway crossing. Over height parking available up to 3m from Pier St Entry. Nearby to Children's Court of Western Australia, Royal Perth Hospital, and many other local restaurants and hotels, this&nbsp;undercover car park provides parking options for workers and visitors to the area. Offering casual Hourly, Early Bird and Weekend Parking with exclusive discounts when you pay with the Wilson Parking App, and permanent Monthly Parking for regular parkers, the 22 Stirling St Car Park will meet all of your parking needs.</p>\n<p>Download the Wilson Parking App to easily pay for your parking from your phone, and access exclusive discounts.</p>",
       "isWilsonOne": false,
@@ -95263,7 +95263,7 @@
       "costCenter": 1006215,
       "direction": "Entry is via the east-bound lanes of The Esplanade only. \n\n</br></br>If travelling from the east, please proceed onto St Georges Terrace west-bound, and then turn left down Howard St to reach The Esplanade.</br>",
       "heightRestriction": 2.0,
-      "information": "<p><span style=\"color: #ff1e25;\"><strong>Perth Running Festival<br /></strong><strong>Sun 11th Oct 2026:&nbsp;</strong>Road closures are in place in the area from 3:30am to 1:30pm</span><br /><span style=\"color: #ff1e25;\"><em>Please review the Perth Running Festival website for road closure and clearway details.</em></span></p>\n<p>Wilson Parking offer affordable parking at The Quay Car Park, located at 18 The Esplanade, in the middle of the Perth CBD. Open 24/7, this undercover car park provides convenient parking access for Elizabeth Quay, Barrack Square &amp; the Bell Tower, with direct access to Allendale Square and St Georges Terrace from level 4 of the car park.&nbsp;Entry to the car park is via the east-bound lanes of The Esplanade only. If travelling from the east, please proceed onto St Georges Terrace west-bound, and then turn left down Howard St to reach The Esplanade.</p>\n<p>Offering casual Hourly, Night and Weekend Parking, as well as permanent monthly parking options, the Quay Car Park will meet all your Perth CBD Parking needs.&nbsp;</p>\n<p>Subscribe to monthly parking and enjoy the convenience of unlimited 24/7 car park access, or pay as you go with the Wilson Parking Card.</p>",
+      "information": "<p>Wilson Parking offer affordable parking at The Quay Car Park, located at 18 The Esplanade, in the middle of the Perth CBD. Open 24/7, this undercover car park provides convenient parking access for Elizabeth Quay, Barrack Square &amp; the Bell Tower, with direct access to Allendale Square and St Georges Terrace from level 4 of the car park.&nbsp;Entry to the car park is via the east-bound lanes of The Esplanade only. If travelling from the east, please proceed onto St Georges Terrace west-bound, and then turn left down Howard St to reach The Esplanade.</p>\n<p>Offering casual Hourly, Night and Weekend Parking, as well as permanent monthly parking options, the Quay Car Park will meet all your Perth CBD Parking needs.&nbsp;</p>\n<p>Subscribe to monthly parking and enjoy the convenience of unlimited 24/7 car park access, or pay as you go with the Wilson Parking Card.</p>",
       "isWilsonOne": true,
       "spottIsAvailable": false,
       "legacyID": 503,
@@ -97545,7 +97545,6 @@
         "Early Bird Parking",
         "Book a Bay",
         "Wilson One",
-        "Epark",
         "Disabled Parking"
       ],
       "services": [
@@ -97761,12 +97760,7 @@
         "spottIsAvailable": false,
         "spottIconLabel": "Spott",
         "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
-        "additionalServices": [
-          {
-            "label": null,
-            "icon": null
-          }
-        ]
+        "additionalServices": []
       },
       "state": "WA",
       "imgUrl": "/contentassets/4faae83752104baa985fa2f50b062667/20230419_151728.jpg",
@@ -97997,6 +97991,158 @@
       },
       "state": "WA",
       "imgUrl": "/contentassets/417ff33164ff44ecb8fe4160973f9f5d/20230421_090610_resized.jpg",
+      "price": "",
+      "status": "",
+      "cpmsCarparkCode": null,
+      "externalCarParkInfo": null,
+      "featuredIndex": 0
+    },
+    {
+      "name": "Westralia Square Motorbikes Only",
+      "bookText": null,
+      "canBookABay": false,
+      "selectedFeatures": "",
+      "carParkFeature": [
+        "Epark"
+      ],
+      "services": [],
+      "carParkName": "Westralia Square Motorbikes Only",
+      "carParkNumber": 60591,
+      "carParkPhoto": "/contentassets/4faae83752104baa985fa2f50b062667/20230419_151728.jpg",
+      "category": "",
+      "costCenter": 1006059,
+      "direction": "Entry via Mounts Bay Road",
+      "heightRestriction": 2.1,
+      "information": "<p>Wilson Parking offer affordable motorcycle parking at Westralia Square Car Park, located at 24 Mounts Bay Rd, Perth.</p>\n<p>Download the Wilson Parking App to pay for and manage your motorbike parking directly from your phone.</p>\n<p>Looking for car parking at Westralia Car Park - check out our other parking options <a href=\"/link/045e386cc0744d27ac4abb5a1b1df012.aspx\">here</a></p>\n<p>&nbsp;</p>",
+      "isWilsonOne": false,
+      "spottIsAvailable": false,
+      "legacyID": 6059,
+      "monthlyParkingServiceIsAvailable": false,
+      "evChargerIsAvailable": false,
+      "disabledParkingIsAvailable": false,
+      "phoneNumber": "1800 PARKING",
+      "products": [],
+      "staticMapPhoto": null,
+      "streetViewHeading": null,
+      "streetViewLocation": "https://www.google.com/maps/@?api=1&map_action=pano&pano=c7M-qYaQubtbCyCWqbbCpQ&viewpoint=-31.955684036882563,115.85449512212409&heading=49.528952625857656&pitch=8.016737368372489&zoom=0.1727327672889183",
+      "rates": [],
+      "fromText": "From",
+      "fromPrice": "7",
+      "location": {
+        "longitude": 115.854070600135,
+        "latitude": -31.955605447798,
+        "zoom": 13,
+        "address": "Westralia Square, 141 St Georges Tce",
+        "region": {
+          "name": "Perth CBD",
+          "longitude": 115.86034952911382,
+          "latitude": -31.954708170013102,
+          "status": "",
+          "state": {
+            "name": "Western Australia",
+            "abbreviation": "WA",
+            "country": "Australia",
+            "longitude": 123.41536223888397,
+            "latitude": -25.833723163507287,
+            "status": ""
+          }
+        }
+      },
+      "openingTimes": [
+        {
+          "day_TimePeriod": "Monday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "04:30",
+          "closing": "22:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Tuesday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "04:30",
+          "closing": "22:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Wednesday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "04:30",
+          "closing": "22:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Thursday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "04:30",
+          "closing": "22:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Friday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "04:30",
+          "closing": "01:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Saturday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "04:30",
+          "closing": "01:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Sunday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "04:30",
+          "closing": "01:00",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Public Holiday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "04:30",
+          "closing": "22:00",
+          "note": null
+        }
+      ],
+      "url": "/parking-locations/western-australia/perth-cbd/westralia-square-motorbikes-only/",
+      "serviceConfiguration": {
+        "canBookABay": false,
+        "bookABayIconLabel": "Prepay Online",
+        "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
+        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingIconLabel": "Monthly Subscription",
+        "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
+        "isWilsonOne": false,
+        "wilsonOneIconLabel": "Parking Card",
+        "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
+        "disabledParkingIsAvailable": false,
+        "disabledParkingIconLabel": "Disabled Parking",
+        "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
+        "evChargerIsAvailable": false,
+        "evChargerIconLabel": "EV Charging",
+        "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
+        "spottIsAvailable": false,
+        "spottIconLabel": "Spott",
+        "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
+        "additionalServices": [
+          {
+            "label": null,
+            "icon": null
+          }
+        ]
+      },
+      "state": "WA",
+      "imgUrl": "/contentassets/4faae83752104baa985fa2f50b062667/20230419_151728.jpg",
       "price": "",
       "status": "",
       "cpmsCarparkCode": null,
