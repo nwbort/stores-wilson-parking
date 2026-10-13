@@ -29003,66 +29003,66 @@
       "openingTimes": [
         {
           "day_TimePeriod": "Monday",
-          "is24_7": false,
+          "is24_7": true,
           "closed": false,
-          "opening": "07:00",
-          "closing": "19:00",
+          "opening": "",
+          "closing": "",
           "note": null
         },
         {
           "day_TimePeriod": "Tuesday",
-          "is24_7": false,
+          "is24_7": true,
           "closed": false,
-          "opening": "07:00",
-          "closing": "19:00",
+          "opening": "",
+          "closing": "",
           "note": null
         },
         {
           "day_TimePeriod": "Wednesday",
-          "is24_7": false,
+          "is24_7": true,
           "closed": false,
-          "opening": "07:00",
-          "closing": "19:00",
+          "opening": "",
+          "closing": "",
           "note": null
         },
         {
           "day_TimePeriod": "Thursday",
-          "is24_7": false,
+          "is24_7": true,
           "closed": false,
-          "opening": "07:00",
-          "closing": "19:00",
+          "opening": "",
+          "closing": "",
           "note": null
         },
         {
           "day_TimePeriod": "Friday",
-          "is24_7": false,
+          "is24_7": true,
           "closed": false,
-          "opening": "07:00",
-          "closing": "19:00",
+          "opening": "",
+          "closing": "",
           "note": null
         },
         {
           "day_TimePeriod": "Saturday",
-          "is24_7": false,
+          "is24_7": true,
           "closed": false,
-          "opening": "07:00",
-          "closing": "19:00",
+          "opening": "",
+          "closing": "",
           "note": null
         },
         {
           "day_TimePeriod": "Sunday",
-          "is24_7": false,
+          "is24_7": true,
           "closed": false,
-          "opening": "07:00",
-          "closing": "19:00",
+          "opening": "",
+          "closing": "",
           "note": null
         },
         {
           "day_TimePeriod": "Public Holiday",
-          "is24_7": false,
+          "is24_7": true,
           "closed": false,
-          "opening": "07:00",
-          "closing": "19:00",
+          "opening": "",
+          "closing": "",
           "note": null
         }
       ],
@@ -61606,7 +61606,7 @@
       "costCenter": 1003250,
       "direction": "Entry via Russell St (Extension) or off Batman Ave (at Tennis Centre)\nOn event dates and busy periods, please use the Batman Ave Exit from Level 1 and allow additional time to exit. ",
       "heightRestriction": 2.1,
-      "information": "<p><u></u><u></u><span style=\"color: #ff1e25;\"><strong><u>Event Dates October 2026</u></strong></span><br /><span style=\"color: #ff1e25;\">31st from 10am<br /></span><span style=\"color: #ff1e25;\">14th, 15th,16th, 17th, 20th, 22nd, 24th, 25th, 26th, 27th, 28th, 29th&nbsp;from 4pm<br /></span><span style=\"color: #ff1e25;\">Event rates will apply.<br /></span><em style=\"color: #ff1e25;\">On event dates, please allow additional time to exit.</em><br /><em><span style=\"color: #ff1e25;\"><br /></span></em>Wilson Parking offers affordable &amp; secure parking at Federation Square Car Park, located on Russell St (Extension) in the Melbourne CBD. This car park is nearby to many popular attractions, including Federation Square, Flinders St Station, Birrarung Marr, Rod Laver Arena and Melbourne Park. Offering casual Early Bird, Hourly, Night and Weekend parking, with exclusive discounts when you prepay online, the Federation Square Car Park will meet all of your parking needs.</p>\n<p><span style=\"color: #000000;\"><strong>On event dates and busy periods, please use the Batman Avenue Exit from Level 1 and allow additional time to exit.</strong></span></p>\n<p>Download the Wilson Parking App to plan your journey and access exclusive discounts when you prepay online; pay as you go with one convenient monthly invoice when you use your Wilson Parking Card; enjoy 24/7 unlimited access when you subscribe to Monthly Parking; or just drive up to pay with a credit card at the car park.</p>",
+      "information": "<p><u></u><u></u><span style=\"color: #ff1e25;\"><strong><u>Event Dates October 2026</u></strong></span><br /><span style=\"color: #ff1e25;\">31st from 10am<br /></span><span style=\"color: #ff1e25;\">14th, 15th,16th, 17th, 20th, 22nd, 24th, 25th, 26th, 27th, 28th, 29th&nbsp;from 4pm<br /></span><strong style=\"color: #ff1e25;\"><u>Event Dates November 2026<br /></u></strong><span style=\"color: #ff1e25;\">28th</span><span style=\"color: #ff1e25;\">&nbsp;from 8am<br /></span><span style=\"color: #ff1e25;\">1st, 15th, 21st</span><span style=\"color: #ff1e25;\">&nbsp;, 22nd</span><span style=\"color: #ff1e25;\">&nbsp;from 10am<br /></span><span style=\"color: #ff1e25;\">2nd, 7th, 12th, 13th,14th, 17th, 20th</span><span style=\"color: #ff1e25;\">&nbsp;24th</span><span style=\"color: #ff1e25;\">&nbsp;from 4pm<br /></span><span style=\"color: #ff1e25;\">Event rates will apply.<br /></span><em style=\"color: #ff1e25;\">On event dates, please allow additional time to exit.</em></p>\n<p>Wilson Parking offers affordable &amp; secure parking at Federation Square Car Park, located on Russell St (Extension) in the Melbourne CBD. This car park is nearby to many popular attractions, including Federation Square, Flinders St Station, Birrarung Marr, Rod Laver Arena and Melbourne Park. Offering casual Early Bird, Hourly, Night and Weekend parking, with exclusive discounts when you prepay online, the Federation Square Car Park will meet all of your parking needs.</p>\n<p><span style=\"color: #000000;\"><strong>On event dates and busy periods, please use the Batman Avenue Exit from Level 1 and allow additional time to exit.</strong></span></p>\n<p>Download the Wilson Parking App to plan your journey and access exclusive discounts when you prepay online; pay as you go with one convenient monthly invoice when you use your Wilson Parking Card; enjoy 24/7 unlimited access when you subscribe to Monthly Parking; or just drive up to pay with a credit card at the car park.</p>",
       "isWilsonOne": true,
       "spottIsAvailable": true,
       "legacyID": 94,
@@ -77019,8 +77019,8 @@
         "Overnight Parking",
         "Flexi Parking",
         "Entry height at least 2",
+        "Daily Pass Bundles",
         "Summer Sale",
-        "Elevate",
         "LPR",
         "Riverfire",
         "Spott Saver",
@@ -77035,16 +77035,16 @@
       "carParkPhoto": "/siteassets/parking-location-images/qld/bne095_1.gif",
       "category": "",
       "costCenter": 1004095,
-      "direction": "Entry via Adelaide Street.\r\n",
+      "direction": "Entry via Adelaide St\n",
       "heightRestriction": 2.1,
-      "information": "<p>Wilson Parking offers affordable &amp; secure parking at 340 Adelaide Street car park, located at 340 Adelaide Street, Brisbane. Nearby to Cathedral Square, Queensland Academy of Technology and a number of popular Brisbane and restaurants, this car park caters for both commuter and leisure parking. Offering Hourly, Night and Weekend parking options, as well as discount online parking, the 340 Adelaide Street car park will meet all of your parking needs.</p>\n<p>Save when you prepay your parking online or with the Wilson Parking App; enjoy 24/7 access when you subscribe to Monthly Parking; or pay as you go with the queue-less, contact free Wilson Parking Card.&nbsp;</p>",
+      "information": "<p>Wilson Parking offers affordable &amp; secure parking at 340 Adelaide Street car park, located at 340 Adelaide Street, Brisbane. Nearby to Cathedral Square, Queensland Academy of Technology and a number of popular Brisbane and restaurants, this car park caters for both commuter and leisure parking. Offering Hourly, Night and Weekend parking options, as well as discount online parking, the 340 Adelaide Street car park will meet all of your parking needs.</p>\n<p>Save when you prepay your parking online or with the Wilson Parking App; enjoy 24/7 access when you subscribe to Monthly Parking; or pay as you go with the queue-less, contact free Wilson Parking Card.</p>",
       "isWilsonOne": false,
       "spottIsAvailable": true,
       "legacyID": 345,
       "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
-      "phoneNumber": "1800 PARKING",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": "357.58459049857424",
@@ -77052,10 +77052,10 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Discount parking available online. Select the <strong>Prepay Now</strong> link below to get started. Rates shown include Platform Fee.</p>",
+          "notes": "<p>Discount parking available online. Select the <strong>Prepay Now</strong> link below to get started. Rates shown include platform fee.</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 1.0 hrs",
+              "timeSpan": "0.0 - 1.0 hr",
               "price": 25.0
             },
             {
@@ -77067,7 +77067,7 @@
               "price": 75.0
             },
             {
-              "timeSpan": "3 + hrs (daily maximum)",
+              "timeSpan": "3.0 + hrs (daily maximum)",
               "price": 80.0
             }
           ]
@@ -77089,20 +77089,6 @@
             {
               "timeSpan": "Weekend varies from $8.75 - $10.75, depending on demand",
               "price": 14.0
-            },
-            {
-              "timeSpan": "Riverfire - 5th September",
-              "price": 40.0
-            }
-          ]
-        },
-        {
-          "rateType": "Prepay Online",
-          "notes": "<div>\n<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Flexi Saver Rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The flexi saver price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n</div>\n<div>Discount parking available online</div>\n<div>Select the <strong>Prepay Now</strong> link below to get started.</div>\n<div>Rates shown include platform fee.</div>\n<div>&nbsp;</div>\n<div><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></div>",
-          "rates": [
-            {
-              "timeSpan": "Riverfire - 5th September",
-              "price": 40.0
             }
           ]
         }
@@ -97545,7 +97531,9 @@
         "Early Bird Parking",
         "Book a Bay",
         "Wilson One",
-        "Disabled Parking"
+        "Disabled Parking",
+        "LPR",
+        "Spott"
       ],
       "services": [
         "book a bay",
@@ -97562,7 +97550,7 @@
       "heightRestriction": 2.1,
       "information": "<p>Wilson Parking offer affordable and convenient parking at Westralia Square, located at 24 Mounts Bay Rd, Perth. Open 7 days, and late on Friday and Saturday, this car park is ideal for visitors to Elizabeth Quay and other surrounding Perth businesses. Offering casual Hourly, Early Bird, Night and Weekend, as well as exclusive savings when you prepay online or with the Wilson Parking App,&nbsp;the Westralia Square Car Park will meet all of your parking needs.</p>\n<p>Download the Wilson Parking App to plan your journey, prepay ahead and access exclusive savings, or just drive up, pay with your credit card, pay as you go with the Wilson Parking Card.</p>",
       "isWilsonOne": true,
-      "spottIsAvailable": false,
+      "spottIsAvailable": true,
       "legacyID": 155,
       "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
@@ -97757,7 +97745,7 @@
         "evChargerIsAvailable": false,
         "evChargerIconLabel": "EV Charging",
         "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "spottIsAvailable": false,
+        "spottIsAvailable": true,
         "spottIconLabel": "Spott",
         "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
         "additionalServices": []
@@ -99492,7 +99480,7 @@
         },
         {
           "rateType": "Weekend",
-          "notes": "<p>Credit card payment only at exit.</p>\n<p>Rates apply Saturday &amp; Sunday.</p>\n<p>Rates shown include platform fee.</p>",
+          "notes": "<p>Credit card payment only at exit.</p>\n<p>Rates apply Saturday, Sunday and Public Holiday</p>\n<p>Rates shown include platform fee.</p>",
           "rates": [
             {
               "timeSpan": "0.0 - 2.0 hrs",
@@ -100940,7 +100928,7 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Rates apply Monday - Friday. Night rates apply from 6pm.</p>",
+          "notes": "<p>Rates apply Monday - Friday, Night rates apply from 6pm</p>",
           "rates": [
             {
               "timeSpan": "0.0 - 1.0 hr",
@@ -100970,7 +100958,7 @@
         },
         {
           "rateType": "Night",
-          "notes": "<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"1akcde78-0-0\"><span data-offset-key=\"1akcde78-0-0\">Entry after 6pm, exit before 6am the following day.</span></div>\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"1akcde78-0-0\"><span data-offset-key=\"1akcde78-0-0\"><br />If conditions not met, Hourly rates apply from time of entry.</span></div>\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"1akcde78-0-0\"><br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include platform fee.</div>",
+          "notes": "<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"1akcde78-0-0\"><span data-offset-key=\"1akcde78-0-0\">Entry after 6pm, Exit before 6am the following day<br /><br /></span>Hourly rates applies if conditions are not met</div>\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"1akcde78-0-0\"><br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include platform fee.</div>",
           "rates": [
             {
               "timeSpan": "Mon - Fri",
@@ -100980,7 +100968,7 @@
         },
         {
           "rateType": "Weekend",
-          "notes": "<p>Entry from 6am. Night rates apply for entry after 6pm.</p>\n<p>Rates apply per exit, per day.</p>\n<p>Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include platform fee.</p>",
+          "notes": "<p>Entry from 5am, Night rates apply for entry after 6pm<br />Rates apply per exit, per day</p>\n<p>Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include platform fee.</p>",
           "rates": [
             {
               "timeSpan": "0.0 - 1.0 hr",
