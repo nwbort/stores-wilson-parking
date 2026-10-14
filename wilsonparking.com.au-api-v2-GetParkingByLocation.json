@@ -6100,9 +6100,7 @@
         "Night Parking",
         "Weekend Parking",
         "Book a Bay",
-        "Wilson One",
-        "LPR",
-        "Spott"
+        "Wilson One"
       ],
       "services": [
         "book a bay",
@@ -6118,7 +6116,7 @@
       "heightRestriction": 2.02,
       "information": "<p>Wilson Parking offer affordable &amp; secure parking at 259 George St Car Park which is located at 9 Lang St Sydney in the heart of Sydney CBD. Nearby to Circular Quay, Hotels and Restaurant and Sydney shopping destinations. Offering&nbsp; Hourly, Night and Weekend parking, as well as online discount parking options including Flexi Saver, the 259 George St&nbsp;Car Park will suit all your leisure and business parking needs.</p>\n<p>Save when you prepay your parking online or with the Wilson Parking App; enjoy unlimited 24/7 access when you subscribe to monthly parking; or pay as you go with the convenient queue-less, contact free Wilson Parking Card.</p>",
       "isWilsonOne": true,
-      "spottIsAvailable": true,
+      "spottIsAvailable": false,
       "legacyID": 2,
       "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
@@ -6169,7 +6167,7 @@
         }
       ],
       "fromText": "From",
-      "fromPrice": "28",
+      "fromPrice": "30.75",
       "location": {
         "longitude": 151.206246,
         "latitude": -33.863895,
@@ -6281,7 +6279,7 @@
         "evChargerIsAvailable": false,
         "evChargerIconLabel": "EV Charging",
         "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "spottIsAvailable": true,
+        "spottIsAvailable": false,
         "spottIconLabel": "Spott",
         "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
         "additionalServices": [
@@ -14119,66 +14117,66 @@
         },
         {
           "day_TimePeriod": "Monday",
-          "is24_7": false,
+          "is24_7": true,
           "closed": false,
-          "opening": "06:00",
-          "closing": "02:00",
+          "opening": "",
+          "closing": "",
           "note": null
         },
         {
           "day_TimePeriod": "Tuesday",
-          "is24_7": false,
+          "is24_7": true,
           "closed": false,
-          "opening": "06:00",
-          "closing": "02:00",
+          "opening": "",
+          "closing": "",
           "note": null
         },
         {
           "day_TimePeriod": "Wednesday",
-          "is24_7": false,
+          "is24_7": true,
           "closed": false,
-          "opening": "06:00",
-          "closing": "02:00",
+          "opening": "",
+          "closing": "",
           "note": null
         },
         {
           "day_TimePeriod": "Thursday",
-          "is24_7": false,
+          "is24_7": true,
           "closed": false,
-          "opening": "06:00",
-          "closing": "02:00",
+          "opening": "",
+          "closing": "",
           "note": null
         },
         {
           "day_TimePeriod": "Friday",
-          "is24_7": false,
+          "is24_7": true,
           "closed": false,
-          "opening": "06:00",
-          "closing": "02:00",
+          "opening": "",
+          "closing": "",
           "note": null
         },
         {
           "day_TimePeriod": "Saturday",
-          "is24_7": false,
+          "is24_7": true,
           "closed": false,
-          "opening": "06:00",
-          "closing": "02:00",
+          "opening": "",
+          "closing": "",
           "note": null
         },
         {
           "day_TimePeriod": "Sunday",
-          "is24_7": false,
+          "is24_7": true,
           "closed": false,
-          "opening": "06:00",
-          "closing": "02:00",
+          "opening": "",
+          "closing": "",
           "note": null
         },
         {
           "day_TimePeriod": "Public Holiday",
-          "is24_7": false,
+          "is24_7": true,
           "closed": false,
-          "opening": "06:00",
-          "closing": "02:00",
+          "opening": "",
+          "closing": "",
           "note": null
         }
       ],
@@ -14816,7 +14814,7 @@
           "day_TimePeriod": "Monday",
           "is24_7": false,
           "closed": false,
-          "opening": "06:00",
+          "opening": "05:00",
           "closing": "22:00",
           "note": null
         },
@@ -14824,7 +14822,7 @@
           "day_TimePeriod": "Tuesday",
           "is24_7": false,
           "closed": false,
-          "opening": "06:00",
+          "opening": "05:00",
           "closing": "22:00",
           "note": null
         },
@@ -14832,7 +14830,7 @@
           "day_TimePeriod": "Wednesday",
           "is24_7": false,
           "closed": false,
-          "opening": "06:00",
+          "opening": "05:00",
           "closing": "22:00",
           "note": null
         },
@@ -14840,7 +14838,7 @@
           "day_TimePeriod": "Thursday",
           "is24_7": false,
           "closed": false,
-          "opening": "06:00",
+          "opening": "05:00",
           "closing": "22:00",
           "note": null
         },
@@ -14848,7 +14846,7 @@
           "day_TimePeriod": "Friday",
           "is24_7": false,
           "closed": false,
-          "opening": "06:00",
+          "opening": "05:00",
           "closing": "22:00",
           "note": null
         },
@@ -14856,7 +14854,7 @@
           "day_TimePeriod": "Saturday",
           "is24_7": false,
           "closed": false,
-          "opening": "06:00",
+          "opening": "05:00",
           "closing": "22:00",
           "note": null
         },
@@ -14864,7 +14862,7 @@
           "day_TimePeriod": "Sunday",
           "is24_7": false,
           "closed": false,
-          "opening": "06:00",
+          "opening": "05:00",
           "closing": "22:00",
           "note": null
         }
@@ -79432,7 +79430,7 @@
       "carParkPhoto": "/siteassets/parking-location-images/qld/bne220.jpg",
       "category": "",
       "costCenter": 1004220,
-      "direction": "Entry off Sandgate and Hudson Roads",
+      "direction": "Entry off Sandgate and Hudson Road",
       "heightRestriction": 0.0,
       "information": "<p>Wilson Parking offers affordable and secure parking at the Albion Hotel car park, located off Sandgate and Hudson Roads, Albion. Centrally located in Albion, the this car park offers hourly parking available 24/7. Hotel patrons, registered with the hotel, receiving free parking. Albion train station is across the road, you can leave your car and jump on a train to the city.</p>\n<p>Download the Wilson Parking App to easily pay for parking from your phone.</p>",
       "isWilsonOne": false,
@@ -79441,7 +79439,7 @@
       "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
-      "phoneNumber": "1800 PARKING (727 546)",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [
         "Epark"
       ],
@@ -79451,7 +79449,7 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>*Online rate only available when you pay with your phone via the Wilson Parking App and includes Platform Fee.<br /><br /><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a>&nbsp;to download the Wilson Parking App</p>\n<p>Rates per 12 hours<br /><br /><strong>*Hotel patrons must register with hotel to obtain free parking</strong></p>",
+          "notes": "<p>*Online rate only available when you pay with your phone via the Wilson Parking App and includes platform fee.<br /><br /><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a>&nbsp;to download the Wilson Parking App</p>\n<p>Rates per 12 hours<br /><br /><strong>*Hotel patrons must register with hotel to obtain free parking.</strong></p>",
           "rates": [
             {
               "timeSpan": "0.0 - 1.0 hr",
@@ -87466,14 +87464,14 @@
       "costCenter": 1005014,
       "direction": "Entry via Clarendon Street",
       "heightRestriction": 2.0,
-      "information": "<p>Wilson Parking offer affordable &amp; secure parking at City West Car Park, located at 189-207 Hindley Street, Adelaide. This car park is accessible 24/7 and is conveniently located near Royal Adelaide Hospital and University of South Australia. Offering Student (Uni SA students), Hourly, Weekend and Night parking, as well as discount online parking the City West Car Park will meet all your parking needs.</p>\n<p>Experience the convenience of&nbsp;pay as you go with a Wilson Parking card, or enjoy 24/7 unlimited access when you subscribe to Monthly Parking.&nbsp;</p>",
+      "information": "<p>Wilson Parking offer affordable &amp; secure parking at City West Car Park, located at 189-207 Hindley Street, Adelaide. This car park is accessible 24/7 and is conveniently located near Royal Adelaide Hospital and University of South Australia. Offering Student (Uni SA students), Hourly, Weekend and Night parking, as well as discount online parking the City West Car Park will meet all your parking needs.</p>\n<p>Experience the convenience of&nbsp;pay as you go with a Wilson Parking card, or enjoy 24/7 unlimited access when you subscribe to Monthly Parking.</p>",
       "isWilsonOne": true,
       "spottIsAvailable": true,
       "legacyID": 62,
       "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": true,
       "disabledParkingIsAvailable": true,
-      "phoneNumber": "1800 PARKING",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": "104.06099140751911",
@@ -87481,14 +87479,14 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>*Event rates may apply</p>\n<p>Rates charged per exit, per day - New day starts at 5am</p>",
+          "notes": "<p>*Event rates may apply<br /><br />Hourly rate charged from 5am daily, Monday to Friday</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 0.5 hrs",
+              "timeSpan": "0.0 - 0.5 hr",
               "price": 4.0
             },
             {
-              "timeSpan": "0.5 - 1.0 hrs",
+              "timeSpan": "0.5 - 1.0 hr",
               "price": 8.0
             },
             {
@@ -87507,7 +87505,7 @@
         },
         {
           "rateType": "Night",
-          "notes": "<p>Entry after 4pm and exit before 5am</p>\n<p>*Event rates may apply.</p>\n<div class=\"\" data-block=\"true\" data-editor=\"3bhv2\" data-offset-key=\"8pskg444-0-0\">\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"8pskg444-0-0\">&nbsp;</div>\n</div>",
+          "notes": "<p>*Event rates may apply.<br /><br />Entry after 4pm, Exit before 5am</p>\n<p>&nbsp;</p>",
           "rates": [
             {
               "timeSpan": "Mon - Fri",
@@ -87517,7 +87515,7 @@
         },
         {
           "rateType": "Weekend",
-          "notes": "<p>*Event rates may apply.</p>\n<p>Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include platform fee.</p>\n<div class=\"\" data-block=\"true\" data-editor=\"3bhv2\" data-offset-key=\"8pskg444-0-0\">\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"8pskg444-0-0\">&nbsp;</div>\n</div>",
+          "notes": "<p>*Event rates may apply.<br /><br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include platform fee.</p>",
           "rates": [
             {
               "timeSpan": "Sat - Sun",
@@ -93233,7 +93231,7 @@
       "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": true,
-      "phoneNumber": "1800 PARKING",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": "279.11786116386156",
@@ -93244,7 +93242,7 @@
           "notes": "<p>Rates apply Monday - Friday</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 1.0 hrs",
+              "timeSpan": "0.0 - 1.0 hr",
               "price": 5.0
             },
             {
@@ -93275,7 +93273,7 @@
         },
         {
           "rateType": "Weekend",
-          "notes": "<p>Flat Rate, per exit per day. Valid between 6am and 7.30pm, Saturday and Sunday</p>",
+          "notes": "<p>Flat Rate, per exit per day. Valid between 6am and 7.30pm, Saturday and Sunday.</p>",
           "rates": [
             {
               "timeSpan": "Sat - Sun",
@@ -103146,31 +103144,31 @@
           "rates": [
             {
               "timeSpan": "0.0 - 1.0 hr",
-              "price": 3.0
+              "price": 4.0
             },
             {
               "timeSpan": "1.0 - 2.0 hrs",
-              "price": 6.0
+              "price": 7.0
             },
             {
               "timeSpan": "2.0 - 3.0 hrs",
-              "price": 9.0
+              "price": 10.0
             },
             {
               "timeSpan": "3.0 - 4.0 hrs",
-              "price": 12.0
+              "price": 13.0
             },
             {
               "timeSpan": "4.0 - 5.0 hrs",
-              "price": 15.0
+              "price": 16.0
             },
             {
               "timeSpan": "5.0 - 6.0 hrs",
-              "price": 18.0
+              "price": 19.0
             },
             {
               "timeSpan": "6.0 + hrs",
-              "price": 20.0
+              "price": 21.0
             }
           ]
         },
