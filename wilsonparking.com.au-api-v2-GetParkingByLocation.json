@@ -8197,7 +8197,7 @@
       "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
-      "phoneNumber": "1800 PARKING",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": "310.9102921367343",
@@ -8208,7 +8208,7 @@
           "notes": "<p>Rates apply Monday to Friday<br />Motorbike Rate $10.00<br />Public Holidays: Weekend Rates Apply</p>\n<p>&nbsp;</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 1.0 hrs",
+              "timeSpan": "0.0 - 1.0 hr",
               "price": 20.0
             },
             {
@@ -8230,14 +8230,14 @@
           "notes": "<p>Flat Rate: per exit, per day</p>\n<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Prepay Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the <strong>Prepay Now</strong> link below to get started.<br />Rates shown include platform fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>",
           "rates": [
             {
-              "timeSpan": "Sat - Sun & Public Holiday varies from $38.75 - $42.75, depending on demand",
+              "timeSpan": "Sat - Sun & Public Holiday varies from $39.00 - $43.00, depending on demand",
               "price": 47.0
             }
           ]
         },
         {
           "rateType": "Night",
-          "notes": "<p>Entry after 5pm, exit before car park closes</p>\n<p>Online rate shown includes platform fee. Click the Prepay now link below to get started.</p>",
+          "notes": "<p>Entry after 5pm, exit before car park closes</p>\n<p>Online rate shown includes platform fee. Click the <strong>Prepay Now</strong> link below to get started.</p>",
           "rates": [
             {
               "timeSpan": "Mon - Fri",
@@ -17069,7 +17069,7 @@
       "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": true,
-      "phoneNumber": "1800 PARKING",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": "27.58502885862646",
@@ -17097,7 +17097,7 @@
         }
       ],
       "fromText": "From",
-      "fromPrice": "4.75",
+      "fromPrice": "5",
       "location": {
         "longitude": 151.19750618934631,
         "latitude": -33.825386324898204,
