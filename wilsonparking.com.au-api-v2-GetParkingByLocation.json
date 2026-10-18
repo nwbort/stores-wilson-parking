@@ -16345,14 +16345,14 @@
           "notes": "<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include platform fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>",
           "rates": [
             {
-              "timeSpan": "Weekend varies from $9.75 - $10.75, depending on demand",
+              "timeSpan": "Weekend varies from $9.00 - $10.00, depending on demand",
               "price": 15.0
             }
           ]
         }
       ],
       "fromText": "From",
-      "fromPrice": "9.75",
+      "fromPrice": "9",
       "location": {
         "longitude": 151.24951958656311,
         "latitude": -33.890870675695517,
