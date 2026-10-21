@@ -2760,7 +2760,7 @@
       "carParkPhoto": "/siteassets/parking-location-images/nsw/syd371.jpg",
       "category": "",
       "costCenter": 1002371,
-      "direction": "6 - 10 O'Connell St Sydney",
+      "direction": "6-10 O'Connell St, Sydney",
       "heightRestriction": 1.9,
       "information": "<p>Wilson Parking offer affordable &amp; secure parking at the 6-10 O'Connell St&nbsp;Car Park, located at 6-10 O'Connell St, Sydney. This undercover car park in the heart of the CBD, provides convenient access to nearby hotels, restaurants and CBD businesses. Offering casual Hourly, Nights and Weekend Parking with exclusive discounts when you prepay online and permanent monthly parking for regular parkers,&nbsp;the 6-10 O'Connell St Car Park&nbsp;will meet all your business and leisure parking needs.</p>\n<p>Download the Wilson Parking App to plan your journey and access parking discounts when you prepay online, or&nbsp;enjoy unlimited 24/7 access when you subscribe to Monthly Parking.</p>",
       "isWilsonOne": true,
@@ -2769,7 +2769,7 @@
       "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
-      "phoneNumber": "1800 727 546",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": "132.95590677593583",
@@ -2780,7 +2780,7 @@
           "notes": "<p>Rates apply Monday - Friday</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 1.0 hrs",
+              "timeSpan": "0.0 - 1.0 hr",
               "price": 30.0
             },
             {
@@ -2788,14 +2788,14 @@
               "price": 60.0
             },
             {
-              "timeSpan": "2.0+ hrs",
+              "timeSpan": "2.0 + hrs",
               "price": 90.0
             }
           ]
         },
         {
           "rateType": "Night",
-          "notes": "<p>Entry after 5pm, exit before 12am (mightnight).</p>\n<p>Casual rates apply if conditions not met.</p>",
+          "notes": "<p>Entry after 5pm, Exit before 12am (mightnight).</p>\n<p>Casual rates apply if conditions not met.</p>",
           "rates": [
             {
               "timeSpan": "Mon - Fri",
@@ -2808,7 +2808,7 @@
           "notes": "<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include platform fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>",
           "rates": [
             {
-              "timeSpan": "Weekend varies from $31.75 - $33.75, depending on demand",
+              "timeSpan": "Weekend varies from $32.00 - $34.00, depending on demand",
               "price": 37.0
             }
           ]
@@ -11921,7 +11921,7 @@
         },
         {
           "rateType": "Night",
-          "notes": "<p>Rates apply all days - Monday to Sunday<br />Entry after 5pm, exit before 12am (Midnight)</p>\n<p>Online rate includes platform fee<br />Click the <strong>Prepay Now</strong> link below to get started</p>",
+          "notes": "<p>Rates apply all days - Monday to Sunday<br />Entry after 5pm, exit before 12am (Midnight)</p>\n<p>Online rate includes platform fee.<br />Click the <strong>Prepay Now</strong> link below to get started.</p>",
           "rates": [
             {
               "timeSpan": "Mon - Fri",
@@ -11934,14 +11934,14 @@
           "notes": "<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include platform fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>",
           "rates": [
             {
-              "timeSpan": "Weekend varies from $31.75 - $34.75, depending on demand",
+              "timeSpan": "Weekend varies from $32.00 - $35.00, depending on demand",
               "price": 39.0
             }
           ]
         }
       ],
       "fromText": "From",
-      "fromPrice": "17.75",
+      "fromPrice": "18",
       "location": {
         "longitude": 151.209126014121,
         "latitude": -33.8862333566564,
@@ -26646,21 +26646,23 @@
       "carParkFeature": [
         "Night Parking",
         "Weekend Parking",
-        "Disabled Parking"
+        "Disabled Parking",
+        "LPR",
+        "Spott"
       ],
       "services": [
         "disabled parking"
       ],
       "carParkName": "22 Hassall St Parramatta",
-      "carParkNumber": 5002201,
+      "carParkNumber": 9201,
       "carParkPhoto": "/contentassets/b7dbd446eed74e0ea0f4b411e40b94b9/22-hassall-parramatta.png",
       "category": "",
-      "costCenter": 5002201,
+      "costCenter": 1009201,
       "direction": null,
       "heightRestriction": 2.2,
       "information": "<p>The 22 Hassall St car park is located at 22 Hassall St Parramatta. Open 24/7, this undercover car park is close to Parramatta Station, shopping and restaurants.&nbsp;</p>\n<p>Offering casual rates for every day parking , the 22 Hassall St car park will meet all your parking needs.</p>",
       "isWilsonOne": false,
-      "spottIsAvailable": false,
+      "spottIsAvailable": true,
       "legacyID": 5002201,
       "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
@@ -26823,7 +26825,7 @@
         "evChargerIsAvailable": false,
         "evChargerIconLabel": "EV Charging",
         "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "spottIsAvailable": false,
+        "spottIsAvailable": true,
         "spottIconLabel": "Spott",
         "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
         "additionalServices": []
@@ -56722,19 +56724,19 @@
             },
             {
               "timeSpan": "1.5 - 2.0 hrs",
-              "price": 5.5
+              "price": 6.0
             },
             {
               "timeSpan": "2.0 - 3.0 hrs",
-              "price": 9.0
+              "price": 10.0
             },
             {
               "timeSpan": "3.0 - 4.0 hrs",
-              "price": 15.0
+              "price": 16.0
             },
             {
               "timeSpan": "4.0 + hrs",
-              "price": 20.0
+              "price": 22.0
             }
           ]
         },
@@ -56744,7 +56746,7 @@
           "rates": [
             {
               "timeSpan": "Mon - Fri",
-              "price": 16.0
+              "price": 18.0
             }
           ]
         },
@@ -57188,7 +57190,7 @@
           "notes": "<p>Flat rate per exit, per day.</p>\n<p>Entry after 6am, exit before 6am the next day</p>\n<p>Online rate shown includes platform fee. Click the <strong>Prepay Now</strong> link below to get started.</p>",
           "rates": [
             {
-              "timeSpan": "Sat, Sun & Public Holiday varies from $14.75 - $17.75, depending on demand",
+              "timeSpan": "Sat, Sun & Public Holiday varies from $15.00 - $18.00, depending on demand",
               "price": 19.0
             },
             {
@@ -57199,7 +57201,7 @@
         }
       ],
       "fromText": "From",
-      "fromPrice": "11.75",
+      "fromPrice": "11",
       "location": {
         "longitude": 144.97694849967957,
         "latitude": -37.809249942883994,
@@ -58035,11 +58037,7 @@
           "notes": "<p>Entry after 6am, exit before 6am the next day<br /><br />Pay in advance to access the best possible rates.&nbsp;<br /><br /><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.<br /><br />Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include platform fee.<br /><br /><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>",
           "rates": [
             {
-              "timeSpan": "Sat (Online varies from $14.75 - $17.75, depending on demand)",
-              "price": 20.0
-            },
-            {
-              "timeSpan": "Sun & Public Holidays (Online varies from $14.75 - $17.75, depending on demand)",
+              "timeSpan": "Sat - Sun & Public Holidays (Online varies from $15.00 - $18.00, depending on demand)",
               "price": 20.0
             },
             {
@@ -58050,7 +58048,7 @@
         }
       ],
       "fromText": "From",
-      "fromPrice": "9.75",
+      "fromPrice": "9",
       "location": {
         "longitude": 144.97431725263596,
         "latitude": -37.80849448148512,
@@ -58400,7 +58398,7 @@
       "costCenter": 1003195,
       "direction": "Entry & exit via St Andrews Place",
       "heightRestriction": 2.1,
-      "information": "<p><u></u><u></u><span style=\"color: #ff1e25;\"><u></u><u></u><strong style=\"color: #ff1e25;\"><u>Event Dates 2026</u></strong><br /><strong>September:</strong>&nbsp;19th<br />Event<em style=\"color: #ff1e25;\"> rates will apply.<br /></em><em style=\"color: #ff1e25;\">On event dates, please allow additional time to exit.</em></span></p>\n<p>Wilson Parking offer affordable &amp; secure parking at Park Hyatt Car Park, located at St Andrews Place&nbsp;in the heart of East Melbourne. Open 7 days, this undercover car park provides convenient access to Princess Theatre, Comedy Theatre, Parliament House and with 24 hour access is perfect for restaurant and hotel parking. Offering Hourly, Early Bird, Weekend and Night Parking options with exclusive discounts when you prepay online, permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the Park Hyatt Car Park will meet all your business and leisure parking needs.&nbsp;</p>\n<p>This car park accepts credit card payment only. Download the Wilson Parking App to plan your journey and access parking discounts when you prepay online;&nbsp;enjoy unlimited 24/7 access when you subscribe to monthly parking; pay as you go on one convenient monthly invoice when you use your Wilson Parking Card to access the car park.&nbsp;</p>",
+      "information": "<p>Wilson Parking offer affordable &amp; secure parking at Park Hyatt Car Park, located at St Andrews Place&nbsp;in the heart of East Melbourne. Open 7 days, this undercover car park provides convenient access to Princess Theatre, Comedy Theatre, Parliament House and with 24 hour access is perfect for restaurant and hotel parking. Offering Hourly, Early Bird, Weekend and Night Parking options with exclusive discounts when you prepay online, permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the Park Hyatt Car Park will meet all your business and leisure parking needs.&nbsp;</p>\n<p>This car park accepts credit card payment only. Download the Wilson Parking App to plan your journey and access parking discounts when you prepay online;&nbsp;enjoy unlimited 24/7 access when you subscribe to monthly parking; pay as you go on one convenient monthly invoice when you use your Wilson Parking Card to access the car park.&nbsp;</p>",
       "isWilsonOne": true,
       "spottIsAvailable": true,
       "legacyID": 120,
@@ -58462,7 +58460,7 @@
           "notes": "<p>Entry after 6am, exit before 6am the next day.</p>\n<p>Pay in advance to access the best possible rates.</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the <strong>Prepay Now</strong> link below to get started.<br />Rates shown include platform fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>",
           "rates": [
             {
-              "timeSpan": "Sat, Sun & Public Holiday varies from $18.75 - $23.75, depending on demand",
+              "timeSpan": "Sat, Sun & Public Holiday varies from $18.00 - $23.00, depending on demand",
               "price": 25.0
             }
           ]
@@ -59385,18 +59383,18 @@
           "notes": "<p>Enter after 6:00 am, Exit before close.&nbsp;</p>\n<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include platform fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>",
           "rates": [
             {
-              "timeSpan": "Sat varies from $25.75 - $28.75, depending on demand",
+              "timeSpan": "Sat varies from $26.00 - $29.00, depending on demand",
               "price": 30.0
             },
             {
-              "timeSpan": "Sun & Public Holiday varies from $25.75 - $28.75, depending on demand",
+              "timeSpan": "Sun & Public Holiday varies from $26.00 - $29.00, depending on demand",
               "price": 30.0
             }
           ]
         }
       ],
       "fromText": "From",
-      "fromPrice": "11.75",
+      "fromPrice": "12",
       "location": {
         "longitude": 144.97185073068852,
         "latitude": -37.815462254081872,
@@ -60363,7 +60361,7 @@
           "notes": "<p>Rates charged per exit per day. Enter after 6am, exit before car park close.</p>\n<p>Pay in advance to access the best possible rates.</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include platform fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>",
           "rates": [
             {
-              "timeSpan": "Sat - Sun & Public Holiday varies from $17.75 - $19.75, depending on demand",
+              "timeSpan": "Sat - Sun & Public Holiday varies from $18.00 - $20.00, depending on demand",
               "price": 21.0
             }
           ]
@@ -62459,7 +62457,7 @@
           "notes": "<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the <strong>Prepay Now</strong> link below to get started.<br />Rates shown include platform fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>",
           "rates": [
             {
-              "timeSpan": "Weekend varies from $10.75 - $16.75, depending on demand",
+              "timeSpan": "Weekend varies from $11.00 - $16.00, depending on demand",
               "price": 19.0
             }
           ]
@@ -64999,7 +64997,7 @@
           "notes": "<div><span class=\"ql-bg-#ffffff ql-color-#212529\">Entry after 6am, exit before 6am the next day</span></div>\n<div><br />Pay in advance to access the best possible rates.&nbsp;</div>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the <strong>Prepay Now</strong> link below to get started.<br />Rates shown include platform fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>",
           "rates": [
             {
-              "timeSpan": "Sat - Sun & Public Holiday varies from $19.75 - $23.75, depending on demand",
+              "timeSpan": "Sat - Sun & Public Holiday varies from $19.00 - $23.00, depending on demand",
               "price": 25.0
             }
           ]
@@ -65016,7 +65014,7 @@
         }
       ],
       "fromText": "From",
-      "fromPrice": "12.75",
+      "fromPrice": "13",
       "location": {
         "longitude": 144.96339797973633,
         "latitude": -37.82137864904243,
@@ -68610,7 +68608,7 @@
         }
       ],
       "fromText": "From",
-      "fromPrice": "22.75",
+      "fromPrice": "23",
       "location": {
         "longitude": 144.94911924004555,
         "latitude": -37.819607355005637,
@@ -68828,7 +68826,7 @@
           "notes": "<p>Flat rate per exit, per day. Enter after 6am &amp; Exit before close</p>\n<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include platform fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>",
           "rates": [
             {
-              "timeSpan": "Sat, Sun & Public Holidays varies from $19.75 - $21.75, depending on demand",
+              "timeSpan": "Sat, Sun & Public Holidays varies from $20.00 - $22.00, depending on demand",
               "price": 25.0
             },
             {
@@ -68839,7 +68837,7 @@
         }
       ],
       "fromText": "From",
-      "fromPrice": "9.75",
+      "fromPrice": "10",
       "location": {
         "longitude": 144.94457960128784,
         "latitude": -37.819255633667431,
@@ -88089,7 +88087,7 @@
           "is24_7": false,
           "closed": false,
           "opening": "05:00",
-          "closing": "23:00",
+          "closing": "19:30",
           "note": null
         },
         {
@@ -88097,7 +88095,7 @@
           "is24_7": false,
           "closed": false,
           "opening": "05:00",
-          "closing": "23:00",
+          "closing": "19:30",
           "note": null
         },
         {
@@ -88105,7 +88103,7 @@
           "is24_7": false,
           "closed": false,
           "opening": "05:00",
-          "closing": "23:00",
+          "closing": "19:30",
           "note": null
         },
         {
@@ -88113,7 +88111,7 @@
           "is24_7": false,
           "closed": false,
           "opening": "05:00",
-          "closing": "23:00",
+          "closing": "19:30",
           "note": null
         },
         {
@@ -88121,15 +88119,15 @@
           "is24_7": false,
           "closed": false,
           "opening": "05:00",
-          "closing": "23:00",
+          "closing": "19:30",
           "note": null
         },
         {
-          "day_TimePeriod": "Sauturday",
+          "day_TimePeriod": "Saturday",
           "is24_7": false,
           "closed": false,
           "opening": "05:00",
-          "closing": "23:00",
+          "closing": "19:30",
           "note": null
         },
         {
@@ -88137,7 +88135,7 @@
           "is24_7": false,
           "closed": false,
           "opening": "05:00",
-          "closing": "23:00",
+          "closing": "19:30",
           "note": null
         },
         {
@@ -88145,7 +88143,7 @@
           "is24_7": false,
           "closed": false,
           "opening": "05:00",
-          "closing": "23:00",
+          "closing": "19:30",
           "note": null
         }
       ],
@@ -99465,7 +99463,9 @@
         "Book a Bay",
         "Wilson One",
         "Entry height at least 2",
-        "Disabled Parking"
+        "Disabled Parking",
+        "LPR",
+        "Spott"
       ],
       "services": [
         "book a bay",
@@ -99481,7 +99481,7 @@
       "heightRestriction": 2.1,
       "information": "<p>Wilson Parking offer affordable parking at Capital Square&nbsp;Car Park, providing parking for visitors to the Capital Square Towers and nearby businesses in the Perth CBD. Offering Hourly, <span style=\"color: #000000;\">Weekend and Night</span> Parking options, and exclusive discounts when you prepay online or through the Wilson Parking App, the Capital Square&nbsp;Car Park will meet all your business parking needs.&nbsp;</p>\n<p>The car park offers two convenient entries. Enter via Mounts Bay Road heading Eastbound or Spring Street.</p>\n<p>Download the Wilson Parking App to prepay ahead and access exclusive savings, or simply drive up and pay with your Credit Card, pay as you go with a Wilson Parking card.</p>",
       "isWilsonOne": true,
-      "spottIsAvailable": false,
+      "spottIsAvailable": true,
       "legacyID": 6400,
       "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
@@ -99644,7 +99644,7 @@
         "evChargerIsAvailable": false,
         "evChargerIconLabel": "EV Charging",
         "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "spottIsAvailable": false,
+        "spottIsAvailable": true,
         "spottIconLabel": "Spott",
         "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
         "additionalServices": []
