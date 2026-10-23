@@ -416,14 +416,14 @@
       "costCenter": 1002389,
       "direction": "<p>Entry via 60 Elizabeth Street</p>\n<p>Important Notice: Lift upgrade works from 20/08/2026 until 30/11/2026, lift not available.</p>",
       "heightRestriction": 1.85,
-      "information": "<p>Wilson Parking offer affordable parking at 60 Elizabeth Street Car Park, located in the heart of Sydney CBD. Open 7 days, this car park provides convenient access to nearby Martin Place, Circular Quay and the Domain. Offering casual Hourly, Weekend and Night Parking options with exclusive discounts when you prepay online, permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the 60 Elizabeth St Car Park will meet all your business and leisure parking needs.&nbsp;</p>\n<p>Download the Wilson Parking App to plan your journey and access parking discounts when you prepay online.</p>\n<p>Enjoy unlimited 24/7 access when you subscribe to monthly parking, submit a request to get a quote.</p>",
+      "information": "<p><span style=\"color: #ff1e25;\"><strong>Please note:</strong> Due to scheduled power shutdown,&nbsp;Car Park will NOT be accessible&nbsp;on <strong>Saturday 24th October 2026</strong> between <strong>6am and 6pm</strong></span><br /><span style=\"color: #ff1e25;\">Thank you for your understanding.</span></p>\n<p>Wilson Parking offer affordable parking at 60 Elizabeth Street Car Park, located in the heart of Sydney CBD. Open 7 days, this car park provides convenient access to nearby Martin Place, Circular Quay and the Domain. Offering casual Hourly, Weekend and Night Parking options with exclusive discounts when you prepay online, permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the 60 Elizabeth St Car Park will meet all your business and leisure parking needs.&nbsp;</p>\n<p>Download the Wilson Parking App to plan your journey and access parking discounts when you prepay online.</p>\n<p>Enjoy unlimited 24/7 access when you subscribe to monthly parking, submit a request to get a quote.</p>",
       "isWilsonOne": true,
       "spottIsAvailable": true,
       "legacyID": 2389,
       "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
-      "phoneNumber": "1800 PARKING (727 546)",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": "-33.86815993030441, 151.21071737267056",
@@ -434,7 +434,7 @@
           "notes": "<p>Rates charged from 6am daily.</p>\n<p>Overnight rate is charged in addition to Hourly &amp; Weekend rates, for all vehicles left in the car park past 6am the following day.&nbsp;</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 1.0 hrs",
+              "timeSpan": "0.0 - 1.0 hr",
               "price": 35.0
             },
             {
@@ -457,7 +457,7 @@
         },
         {
           "rateType": "Night",
-          "notes": "<p><strong>Entry after 5pm, exit before 6am following day.</strong></p>\n<p>If entry and exit conditions not met, Hourly rates apply from time of entry.</p>\n<p>Overnight rate is charged in addition to Hourly &amp; Weekend rates, for all vehicles left in the car park past 6am the following day.&nbsp;</p>",
+          "notes": "<p><strong>Entry after 5pm, exit before 6am following day.</strong></p>\n<p>If entry and exit conditions not met, Hourly rates apply from time of entry.</p>\n<p>Overnight rate is charged in addition to Hourly &amp; Weekend rates, for all vehicles left in the car park past 6am the following day.</p>",
           "rates": [
             {
               "timeSpan": "Mon - Fri",
@@ -17448,7 +17448,7 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Rates apply All Days - Monday to Friday</p>\n<p>After Hours Charge:&nbsp;Charged in additional to Casual rates for all vehicles left in car park past close (12.30am Monday to Saturay, 10.30pm Sunday &amp; Public Holidays</p>\n<p><span style=\"text-decoration: underline;\">2 Hours Free Parking - available with Retail Validation Only</span>: Parkers need to have their vehicle rego validated in store to obtain free 2 hour parking period</p>",
+          "notes": "<p>Rates apply All Days - Monday to Friday</p>\n<p>After Hours Charge:&nbsp;Charged in additional to Casual rates for all vehicles left in car park past close (12.30am Monday to Saturay, 10.30pm Sunday &amp; Public Holidays</p>\n<p><span style=\"text-decoration: underline;\">2 Hours Free Parking - available with Retail Validation Only</span>: Parkers need to have their vehicle rego validated in store to obtain free 2 hour parking period</p>\n<p>Get an extra hour with App validation - hair stylist : SALON LANE.</p>",
           "rates": [
             {
               "timeSpan": "0.0 - 2.5 hrs (With Retail Validation)",
@@ -26721,7 +26721,7 @@
         }
       ],
       "fromText": "From",
-      "fromPrice": "4",
+      "fromPrice": "3",
       "location": {
         "longitude": 151.009625984733,
         "latitude": -33.8178211568197,
@@ -61311,7 +61311,7 @@
       "costCenter": 1003106,
       "direction": "Entry & Exit via Russell Street",
       "heightRestriction": 2.0,
-      "information": "<p>Wilson Parking offers affordable and convenient parking at the T&amp;G Building located at 161 Collins Street, Melbourne. Enter&nbsp;at 37-39 Russell St (between Flinders Lane &amp; Collins St).</p>\n<p>The T&amp;G Building, 161 Collins St Car Park offers discounted parking when you prepay online for Flexi, Weekend and Night products, as well as competitive drive-in rates. You can pay as you go with the Wilson Parking Card, or enjoy convenient unlimited 24/7 access when you subscribe to Monthly Parking.</p>\n<p>The T&amp;G Building, 161 Collins St Car Park is sure to meet all of your Melbourne CBD parking needs.</p>\n<p><strong>This car park accepts Credit Card payments only</strong>.</p>",
+      "information": "<p><span style=\"color: #ff1e25;\"><strong>Please note:</strong> Due to scheduled power shutdown,&nbsp;Car Park will NOT be accessible&nbsp;on <strong>Saturday 24th October 2026</strong> between <strong>6am and 12pm</strong></span><br /><span style=\"color: #ff1e25;\">Thank you for your understanding.</span><br /><br />Wilson Parking offers affordable and convenient parking at the T&amp;G Building located at 161 Collins Street, Melbourne. Enter&nbsp;at 37-39 Russell St (between Flinders Lane &amp; Collins St).</p>\n<p>The T&amp;G Building, 161 Collins St Car Park offers discounted parking when you prepay online for Flexi, Weekend and Night products, as well as competitive drive-in rates. You can pay as you go with the Wilson Parking Card, or enjoy convenient unlimited 24/7 access when you subscribe to Monthly Parking.</p>\n<p>The T&amp;G Building, 161 Collins St Car Park is sure to meet all of your Melbourne CBD parking needs.</p>\n<p><strong>This car park accepts Credit Card payments only</strong>.</p>",
       "isWilsonOne": true,
       "spottIsAvailable": false,
       "legacyID": 98,
@@ -82610,7 +82610,7 @@
       "streetViewLocation": "https://www.google.com/maps/@?api=1&map_action=pano&pano=gk2BPk8_TmH4SAgnHZZTHw&viewpoint=-34.92669863523928,138.6091598960273&heading=335.70090023453264&pitch=-15.611300239377982",
       "rates": [],
       "fromText": "From",
-      "fromPrice": "16.75",
+      "fromPrice": "17",
       "location": {
         "longitude": 138.60962109325408,
         "latitude": -34.927107084580534,
@@ -89298,7 +89298,7 @@
       "carParkPhoto": "/contentassets/7ecefd738532478db27fceb09fd2420c/capture.jpg",
       "category": "",
       "costCenter": 1006216,
-      "direction": "Entry to the car park is from Rowe Avenue, accessed from Brighton Rd when travelling on the Great Eastern Hwy.",
+      "direction": "Entry to the car park is from Rowe Avenue, accessed from Brighton Rd when travelling on the Great Eastern Hwy.\n\n</br></br>Dear Customers,</br>\n</br></br>Due to scheduled works, the car park will be closed on Tuesday, 27th October from 7pm onwards. </br>",
       "heightRestriction": 2.2,
       "information": "<p>Wilson Parking offer affordable parking at 25 Rowe Avenue car park, located at 25 Rowe Ave, Rivervale. This car park is open 7 days until 9pm, with convenient parking for the Aloft Hotel and 25 Rowe Avenue Office Tower, Springs Rivervale residents and visitors, New Perth Stadium and Crown Casino Events. Offering casual Hourly, Early Bird, Night and Weekend Parking, the 25 Rowe Avenue Car Park will meet all of your Rivervale parking needs.&nbsp;</p>\n<p>Entry to the car park is from Rowe Avenue which can be accessed from Brighton Rd when travelling on the Great Eastern Hwy.</p>\n<p>Pay as you go with your Wilson Parking Card and enjoy contact and queue free parking.&nbsp;</p>",
       "isWilsonOne": true,
@@ -103398,7 +103398,7 @@
       "carParkPhoto": "/contentassets/3b62d7f162184271bba8d864bd0e9b87/per339.jpg",
       "category": "",
       "costCenter": 1006339,
-      "direction": null,
+      "direction": "</br></br>Dear Customers, </br>\n</br></br>Please note the car park lift is out of service. We apologise for this inconvenience. </br>",
       "heightRestriction": 0.0,
       "information": "<p>Wilson Parking offer affordable parking at Subiaco Village Car Park, located at 531 Hay Street, Subiaco. Open 24/7 this open air car park offers parking for visitors to the Subiaco Village, surrounding retail outlets and restaurants and Subiaco Business Centre. Offering casual Hourly, Night and Weekend Parking, and the convenience of payments with the Wilson Parking App, the Subiaco Village Car Park will meet all of your Subiaco parking needs.</p>\n<p>Download the Wilson Parking App to easily pay for your parking with you phone.&nbsp;</p>",
       "isWilsonOne": false,
