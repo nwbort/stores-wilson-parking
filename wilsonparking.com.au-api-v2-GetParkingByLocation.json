@@ -416,7 +416,7 @@
       "costCenter": 1002389,
       "direction": "<p>Entry via 60 Elizabeth Street</p>\n<p>Important Notice: Lift upgrade works from 20/08/2026 until 30/11/2026, lift not available.</p>",
       "heightRestriction": 1.85,
-      "information": "<p><span style=\"color: #ff1e25;\"><strong>Please note:</strong> Due to scheduled power shutdown,&nbsp;Car Park will NOT be accessible&nbsp;on <strong>Saturday 24th October 2026</strong> between <strong>6am and 6pm</strong></span><br /><span style=\"color: #ff1e25;\">Thank you for your understanding.</span></p>\n<p>Wilson Parking offer affordable parking at 60 Elizabeth Street Car Park, located in the heart of Sydney CBD. Open 7 days, this car park provides convenient access to nearby Martin Place, Circular Quay and the Domain. Offering casual Hourly, Weekend and Night Parking options with exclusive discounts when you prepay online, permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the 60 Elizabeth St Car Park will meet all your business and leisure parking needs.&nbsp;</p>\n<p>Download the Wilson Parking App to plan your journey and access parking discounts when you prepay online.</p>\n<p>Enjoy unlimited 24/7 access when you subscribe to monthly parking, submit a request to get a quote.</p>",
+      "information": "<p>Wilson Parking offer affordable parking at 60 Elizabeth Street Car Park, located in the heart of Sydney CBD. Open 7 days, this car park provides convenient access to nearby Martin Place, Circular Quay and the Domain. Offering casual Hourly, Weekend and Night Parking options with exclusive discounts when you prepay online, permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the 60 Elizabeth St Car Park will meet all your business and leisure parking needs.&nbsp;</p>\n<p>Download the Wilson Parking App to plan your journey and access parking discounts when you prepay online.</p>\n<p>Enjoy unlimited 24/7 access when you subscribe to monthly parking, submit a request to get a quote.</p>",
       "isWilsonOne": true,
       "spottIsAvailable": true,
       "legacyID": 2389,
@@ -57957,12 +57957,10 @@
         "Overnight Parking",
         "Flexi Parking",
         "Entry height at least 2",
-        "Daily Pass Bundles",
         "Special Event Parking",
         "Super Saver",
         "Summer Sale",
         "Event",
-        "Elevate",
         "LPR",
         "Spott Saver",
         "Spott"
@@ -59929,16 +59927,16 @@
           "notes": "<p>Entry after 5am, exit before 5am the following day.</p>\n<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include platform fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.<br /></em></p>",
           "rates": [
             {
-              "timeSpan": "Sat - Sun & Public Holiday varies from $15.00 - $19.00, depending on demand",
-              "price": 22.0
-            },
-            {
               "timeSpan": "Weekend Day - exit before 4pm",
               "price": 20.0
             },
             {
               "timeSpan": "Weekend Night - exit after 4pm",
               "price": 24.0
+            },
+            {
+              "timeSpan": "Public Holiday ",
+              "price": 20.0
             }
           ]
         }
@@ -61311,7 +61309,7 @@
       "costCenter": 1003106,
       "direction": "Entry & Exit via Russell Street",
       "heightRestriction": 2.0,
-      "information": "<p><span style=\"color: #ff1e25;\"><strong>Please note:</strong> Due to scheduled power shutdown,&nbsp;Car Park will NOT be accessible&nbsp;on <strong>Saturday 24th October 2026</strong> between <strong>6am and 12pm</strong></span><br /><span style=\"color: #ff1e25;\">Thank you for your understanding.</span><br /><br />Wilson Parking offers affordable and convenient parking at the T&amp;G Building located at 161 Collins Street, Melbourne. Enter&nbsp;at 37-39 Russell St (between Flinders Lane &amp; Collins St).</p>\n<p>The T&amp;G Building, 161 Collins St Car Park offers discounted parking when you prepay online for Flexi, Weekend and Night products, as well as competitive drive-in rates. You can pay as you go with the Wilson Parking Card, or enjoy convenient unlimited 24/7 access when you subscribe to Monthly Parking.</p>\n<p>The T&amp;G Building, 161 Collins St Car Park is sure to meet all of your Melbourne CBD parking needs.</p>\n<p><strong>This car park accepts Credit Card payments only</strong>.</p>",
+      "information": "<p><br />Wilson Parking offers affordable and convenient parking at the T&amp;G Building located at 161 Collins Street, Melbourne. Enter&nbsp;at 37-39 Russell St (between Flinders Lane &amp; Collins St).</p>\n<p>The T&amp;G Building, 161 Collins St Car Park offers discounted parking when you prepay online for Flexi, Weekend and Night products, as well as competitive drive-in rates. You can pay as you go with the Wilson Parking Card, or enjoy convenient unlimited 24/7 access when you subscribe to Monthly Parking.</p>\n<p>The T&amp;G Building, 161 Collins St Car Park is sure to meet all of your Melbourne CBD parking needs.</p>\n<p><strong>This car park accepts Credit Card payments only</strong>.</p>",
       "isWilsonOne": true,
       "spottIsAvailable": false,
       "legacyID": 98,
@@ -72614,7 +72612,7 @@
       "costCenter": 1004356,
       "direction": "Entry off Little Cribb Street",
       "heightRestriction": 2.2,
-      "information": "<p><span style=\"color: #ff1e25;\">Event Parking is available at this car park on the following dates: 23, 25, 30 October, 5 November.<br /></span></p>\n<p>Wilson Parking offers affordable &amp; secure parking at Milton Green&nbsp;car park, located at 19 Little Cribb Street&nbsp;in the heart of Milton. Open 7 days, this undercover car park provides convenient access to nearby Suncorp Stadium and surrounding entertainment and retail precinct. Offering hourly, night and weekend parking options with discounts when you prepay online, permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the Milton Green&nbsp;car park will meet all your business and leisure parking needs.</p>",
+      "information": "<p><span style=\"color: #ff1e25;\">Event Parking is available at this car park on the following dates: 30 October, 5, 15, 20 November.<br /></span></p>\n<p>Wilson Parking offers affordable &amp; secure parking at Milton Green&nbsp;car park, located at 19 Little Cribb Street&nbsp;in the heart of Milton. Open 7 days, this undercover car park provides convenient access to nearby Suncorp Stadium and surrounding entertainment and retail precinct. Offering hourly, night and weekend parking options with discounts when you prepay online, permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the Milton Green&nbsp;car park will meet all your business and leisure parking needs.</p>",
       "isWilsonOne": true,
       "spottIsAvailable": true,
       "legacyID": 1004356,
@@ -75671,7 +75669,6 @@
         "Wilson One",
         "Overnight Parking",
         "Flexi Parking",
-        "Daily Pass Bundles",
         "Special Event Parking",
         "Dine BNE",
         "Riverfire"
@@ -75695,7 +75692,7 @@
       "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
-      "phoneNumber": "1800 PARKING",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": null,
@@ -75706,7 +75703,7 @@
           "notes": "<p>Weekdays 0500-1700h</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 1.0 hrs",
+              "timeSpan": "0.0 - 1.0 hr",
               "price": 25.0
             },
             {
@@ -75729,7 +75726,7 @@
         },
         {
           "rateType": "Night",
-          "notes": "<p>Enter after 1700h and exit before 0500h next day.</p>\n<p>Online rates include Platform Fee. Click the&nbsp;<strong>Prepay Now</strong> link below to get started.</p>",
+          "notes": "<p>Enter after 1700h and exit before 0500h next day.</p>\n<p>Online rates include platform fee. Click the&nbsp;<strong>Prepay Now</strong> link below to get started.</p>",
           "rates": [
             {
               "timeSpan": "Mon - Fri",
@@ -75739,17 +75736,17 @@
         },
         {
           "rateType": "Weekend",
-          "notes": "<p>Weekend rates apply on Public Holidays</p>\n<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include Platform Fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>\n<p>&nbsp;</p>",
+          "notes": "<p>Weekend rates apply on Public Holidays</p>\n<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include platform fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.<br /></em></p>",
           "rates": [
             {
-              "timeSpan": "Weekend varies from $13.75 - $15.75, depending on demand",
+              "timeSpan": "Weekend varies from $9.00 - $12.00, depending on demand",
               "price": 16.0
             }
           ]
         }
       ],
       "fromText": "From",
-      "fromPrice": "13.75",
+      "fromPrice": "9",
       "location": {
         "longitude": 153.03020591534425,
         "latitude": -27.467323930928696,
