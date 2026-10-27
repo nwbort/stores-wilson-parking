@@ -23526,7 +23526,7 @@
         }
       ],
       "fromText": "From",
-      "fromPrice": "6",
+      "fromPrice": "5",
       "location": {
         "longitude": 151.13399147987366,
         "latitude": -33.964533909430926,
@@ -38040,9 +38040,9 @@
       "carParkPhoto": null,
       "category": "",
       "costCenter": 5002822,
-      "direction": "25 Stewart St Wollongong",
+      "direction": "25 Stewart St, Wollongong",
       "heightRestriction": 0.0,
-      "information": "<p>The Aldi Wollongong Car Park is located at 25 Stewart St Wollongong and offers casual convenient parking service customers of Aldi Wollongong. The car park is located to other Wollsongong business and attractions, including WIN Stadium, Wollogong Beach, Sage Hotel and Wollogngong Golf Club.&nbsp;</p>\n<p>Open 24/7 and offering affordable hourly parking rates, including your first hour free, the Aldi Wollongong Car Park will meet all your parking needs.</p>",
+      "information": "<p>The Aldi Wollongong Car Park is located at 25 Stewart St Wollongong and offers casual convenient parking service customers of Aldi Wollongong. The car park is located to other Wollongong business and attractions, including WIN Stadium, Wollongong Beach, Sage Hotel and Wollongong Golf Club.&nbsp;</p>\n<p>Open 24/7 and offering affordable hourly parking rates, including your first hour free, the Aldi Wollongong Car Park will meet all your parking needs.</p>",
       "isWilsonOne": false,
       "spottIsAvailable": false,
       "legacyID": 502822,
@@ -38060,7 +38060,7 @@
           "notes": "<p>Rates available 24/7</p>\n<p>Card payments only at exit</p>\n<p>Event rate applies on Event Days for stays over 4 hours</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 1.0 hrs",
+              "timeSpan": "0.0 - 1.0 hr",
               "price": 0.0
             },
             {
@@ -38068,12 +38068,12 @@
               "price": 6.0
             },
             {
-              "timeSpan": "2.0+ hrs",
+              "timeSpan": "2.0 + hrs",
               "price": 12.0
             },
             {
               "timeSpan": "EVENT DAYS",
-              "price": 30.0
+              "price": 50.0
             }
           ]
         }
@@ -73970,7 +73970,7 @@
       "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
-      "phoneNumber": "1800 PARKING",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": "45.09890887194624",
@@ -73981,27 +73981,27 @@
           "notes": "<p>Motorcycles must see attendants on entry for validation</p>",
           "rates": [
             {
-              "timeSpan": "0 - 0.5 hrs",
+              "timeSpan": "0.0 - 0.5 hr",
               "price": 15.0
             },
             {
-              "timeSpan": "0.5 - 1 hrs",
+              "timeSpan": "0.5 - 1.0 hr",
               "price": 29.0
             },
             {
-              "timeSpan": "1 - 2 hrs",
+              "timeSpan": "1.0 - 2.0 hrs",
               "price": 49.0
             },
             {
-              "timeSpan": "2 - 3 hrs",
+              "timeSpan": "2.0 - 3.0 hrs",
               "price": 69.0
             },
             {
-              "timeSpan": "3 - 4 hrs",
+              "timeSpan": "3.0 - 4.0 hrs",
               "price": 79.0
             },
             {
-              "timeSpan": "4 + hrs (max daily)",
+              "timeSpan": "4.0 + hrs (max daily)",
               "price": 89.0
             },
             {
@@ -74012,7 +74012,7 @@
         },
         {
           "rateType": "Night",
-          "notes": "<p>Enter after 4pm, exit before 6pm</p>",
+          "notes": "<p>Entry after 4pm, Exit before 6pm</p>",
           "rates": [
             {
               "timeSpan": "Flat (per exit)",
@@ -74232,7 +74232,7 @@
         },
         {
           "rateType": "Night",
-          "notes": "<p><span data-offset-key=\"1akcde78-0-0\">Entry after 5pm, exit before 5am the following day.<br /></span>If conditions not met, Hourly rates apply from time of entry.<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include platform fee.</p>",
+          "notes": "<p><span data-offset-key=\"1akcde78-0-0\">Entry after 5pm, exit before 5am the following day.<br /></span>If conditions not met, Hourly rates apply from time of entry.<br /><br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include platform fee.</p>",
           "rates": [
             {
               "timeSpan": "Mon - Fri",
@@ -74245,18 +74245,14 @@
           "notes": "<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Weekend rates apply on Public Holidays.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include platform fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>",
           "rates": [
             {
-              "timeSpan": "Weekend varies from $9.75 - $11.75, depending on demand",
+              "timeSpan": "Weekend varies from $9.00 - $11.00, depending on demand",
               "price": 16.0
-            },
-            {
-              "timeSpan": "Riverfire - 5th September",
-              "price": 40.0
             }
           ]
         }
       ],
       "fromText": "From",
-      "fromPrice": "9.75",
+      "fromPrice": "9",
       "location": {
         "longitude": 153.0296287,
         "latitude": -27.4703134,
