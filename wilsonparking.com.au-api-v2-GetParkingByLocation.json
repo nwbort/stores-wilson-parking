@@ -13622,7 +13622,9 @@
       "selectedFeatures": "",
       "carParkFeature": [
         "Night Parking",
-        "Entry height at least 2"
+        "Entry height at least 2",
+        "LPR",
+        "Spott"
       ],
       "services": [],
       "carParkName": "20A Danks St Car Park",
@@ -13632,14 +13634,14 @@
       "costCenter": 1002295,
       "direction": null,
       "heightRestriction": 2.1,
-      "information": "<p>Wilson Parking offer affordable &amp; secure parking 20A Danks Street Car Park which is located in the heart of Waterloo / Zetland</p>\n<p>20A Danks St Car Park suits all your leisure and business parking needs. With Casual parking 7 days a week.</p>",
+      "information": "<p>Wilson Parking offer affordable &amp; secure parking 20A Danks Street Car Park which is located in the heart of Waterloo / Zetland</p>\n<p>This car park has now been Spotted! Download the Wilson Parking App to enable Spott - the easy way to access and pay for parking. No more tickets or tapping credir cards required.</p>\n<p>20A Danks St Car Park suits all your parking needs. With Casual parking 7 days a week.</p>",
       "isWilsonOne": false,
-      "spottIsAvailable": false,
+      "spottIsAvailable": true,
       "legacyID": 506,
       "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
-      "phoneNumber": "1800 PARKING",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": "7.203936843571796",
@@ -13647,15 +13649,15 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Rates apply Monday to Sunday<br />Overnight Fee: $50.00, charged in addition to casual rates</p>",
+          "notes": "<p>Rates apply Monday to Sunday<br /><br />Overnight Fee: $50.00, charged in addition to casual rates.</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 1.0 hrs",
+              "timeSpan": "0.0 - 1.0 hr",
               "price": 0.0
             },
             {
               "timeSpan": "1.0 - 2.0 hrs",
-              "price": 5.0
+              "price": 6.0
             },
             {
               "timeSpan": "2.0 - 3.0 hrs",
@@ -13663,11 +13665,11 @@
             },
             {
               "timeSpan": "3.0 - 4.0 hrs",
-              "price": 17.0
+              "price": 18.0
             },
             {
               "timeSpan": "4.0 + hrs",
-              "price": 23.0
+              "price": 24.0
             }
           ]
         },
@@ -13795,7 +13797,7 @@
         "evChargerIsAvailable": false,
         "evChargerIconLabel": "EV Charging",
         "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "spottIsAvailable": false,
+        "spottIsAvailable": true,
         "spottIconLabel": "Spott",
         "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
         "additionalServices": []
@@ -76338,19 +76340,23 @@
           "rates": [
             {
               "timeSpan": "0.0 - 1.0 hr",
-              "price": 25.0
+              "price": 12.0
             },
             {
               "timeSpan": "1.0 - 2.0 hrs",
-              "price": 50.0
+              "price": 24.0
             },
             {
               "timeSpan": "2.0 - 3.0 hrs",
-              "price": 75.0
+              "price": 36.0
             },
             {
-              "timeSpan": "3.0 + hrs (daily maximum)",
-              "price": 80.0
+              "timeSpan": "3.0 - 4.0 hrs",
+              "price": 48.0
+            },
+            {
+              "timeSpan": "4.0 + hrs (daily maximum)",
+              "price": 60.0
             }
           ]
         },
@@ -76366,7 +76372,7 @@
         },
         {
           "rateType": "Weekend",
-          "notes": "<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include platform fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>\n<p>&nbsp;</p>",
+          "notes": "<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include platform fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.<br /></em></p>",
           "rates": [
             {
               "timeSpan": "Weekend varies from $9.00 - $11.00, depending on demand",
@@ -99067,13 +99073,15 @@
         "Wilson One",
         "Entry height at least 2",
         "Daily Pass Bundles",
+        "EV Charging",
         "LPR",
         "Spott"
       ],
       "services": [
         "book a bay",
         "wilson one",
-        "monthly"
+        "monthly",
+        "ev charging"
       ],
       "carParkName": "QV1, Perth",
       "carParkNumber": 6053,
@@ -99087,7 +99095,7 @@
       "spottIsAvailable": true,
       "legacyID": 6053,
       "monthlyParkingServiceIsAvailable": true,
-      "evChargerIsAvailable": false,
+      "evChargerIsAvailable": true,
       "disabledParkingIsAvailable": false,
       "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
@@ -99250,7 +99258,7 @@
         "disabledParkingIsAvailable": false,
         "disabledParkingIconLabel": "Disabled Parking",
         "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
-        "evChargerIsAvailable": false,
+        "evChargerIsAvailable": true,
         "evChargerIconLabel": "EV Charging",
         "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
         "spottIsAvailable": true,
@@ -106390,23 +106398,23 @@
             },
             {
               "timeSpan": "1.0 - 2.0 hrs",
-              "price": 3.0
-            },
-            {
-              "timeSpan": "2.0 - 3.0 hrs",
               "price": 4.0
             },
             {
-              "timeSpan": "3.0 - 4.0 hrs",
+              "timeSpan": "2.0 - 3.0 hrs",
               "price": 6.0
             },
             {
-              "timeSpan": "4.0 - 5.0 hrs",
+              "timeSpan": "3.0 - 4.0 hrs",
               "price": 8.0
             },
             {
+              "timeSpan": "4.0 - 5.0 hrs",
+              "price": 12.0
+            },
+            {
               "timeSpan": "5.0 + hrs",
-              "price": 14.0
+              "price": 18.0
             }
           ]
         },
@@ -106420,23 +106428,23 @@
             },
             {
               "timeSpan": "1.0 - 2.0 hrs",
-              "price": 3.0
-            },
-            {
-              "timeSpan": "2.0 - 3.0 hrs",
               "price": 4.0
             },
             {
-              "timeSpan": "3.0 - 4.0 hrs",
+              "timeSpan": "2.0 - 3.0 hrs",
               "price": 6.0
             },
             {
-              "timeSpan": "4.0 - 5.0 hrs",
+              "timeSpan": "3.0 - 4.0 hrs",
               "price": 8.0
             },
             {
+              "timeSpan": "4.0 - 5.0 hrs",
+              "price": 12.0
+            },
+            {
               "timeSpan": "5.0 - 12.0hrs",
-              "price": 14.0
+              "price": 18.0
             }
           ]
         }
