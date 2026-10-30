@@ -703,7 +703,7 @@
           "notes": "<p>Flat Rate: per exit, per day</p>\n<p>Online rates include transaction fee. Click the <strong>Prepay Now</strong> link below to get started</p>\n<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Prepay Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the <strong>Prepay Now</strong> link below to get started.<br />Rates shown include platform fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>",
           "rates": [
             {
-              "timeSpan": "Sat - Sun & Public Holiday varies from $35.00 - $38.00, depending on demand",
+              "timeSpan": "Sat - Sun & Public Holiday varies from $35.00 - $39.00, depending on demand",
               "price": 40.0
             }
           ]
@@ -13675,7 +13675,7 @@
         },
         {
           "rateType": "Night",
-          "notes": "From close of car park to opening the following day, charged in addition to casual rates",
+          "notes": "<p>From close of car park to opening the following day, charged in addition to casual rates.</p>",
           "rates": [
             {
               "timeSpan": "Overnight",
@@ -16289,7 +16289,9 @@
         "Wilson One",
         "Flexi Parking",
         "Entry height at least 2",
-        "Daily Pass Bundles"
+        "Daily Pass Bundles",
+        "LPR",
+        "Spott"
       ],
       "services": [
         "book a bay",
@@ -16303,9 +16305,9 @@
       "costCenter": 1002204,
       "direction": null,
       "heightRestriction": 0.0,
-      "information": "<p>Wilson Parking offer affordable &amp; secure parking at Grosvenor St Car Park, located at 27 Grosvenor St in the heart of Bondi Junction CBD and Westfield Shopping Precint.&nbsp;</p>\n<p>Grosvenor St Car Park suits all your leisure and business parking needs. With Monthly, Weekend Parking options available or use your Wilson Parking Card and pay as you go.</p>",
+      "information": "<p>Wilson Parking offer affordable &amp; secure parking at Grosvenor St Car Park, located at 27 Grosvenor St in the heart of Bondi Junction CBD and Westfield Shopping Precint.&nbsp;</p>\n<p>This car park has now been Spotted! Enabel Spott in the Wilson Parking App, the easy way to access and pay for parking. No more tickets or tapping credit cards required.</p>\n<p>Grosvenor St Car Park suits all your leisure and business parking needs. With Monthly, Weekend Parking options available or use your Wilson Parking Card and pay as you go.</p>",
       "isWilsonOne": true,
-      "spottIsAvailable": false,
+      "spottIsAvailable": true,
       "legacyID": 324,
       "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
@@ -16462,7 +16464,7 @@
         "evChargerIsAvailable": false,
         "evChargerIconLabel": "EV Charging",
         "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "spottIsAvailable": false,
+        "spottIsAvailable": true,
         "spottIconLabel": "Spott",
         "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
         "additionalServices": [
@@ -16839,7 +16841,9 @@
         "Wilson One",
         "Flexi Parking",
         "Entry height at least 2",
-        "Daily Pass Bundles"
+        "Daily Pass Bundles",
+        "LPR",
+        "Spott"
       ],
       "services": [
         "book a bay",
@@ -16853,9 +16857,9 @@
       "costCenter": 1002205,
       "direction": null,
       "heightRestriction": 0.0,
-      "information": "<p>Wilson Parking offer affordable &amp; secure parking at Adelaide St Car Park, located at Adelaide St in the heart of Bondi Junction CBD and Westfield Shopping Precinct.&nbsp;</p>\n<p>Adelaide St Car Park suits all your leisure and business parking needs. With Monthly, Weekend Parking options available or use your Wilson Parking Card and pay as you go.</p>",
+      "information": "<p>Wilson Parking offer affordable &amp; secure parking at Adelaide St Car Park, located at Adelaide St in the heart of Bondi Junction CBD and Westfield Shopping Precinct.&nbsp;</p>\n<p>This car park has now been Spotted! Enable Spott in the Wilson Parking App, the easy way to access and pay for parking. No more tickets or tapping credit cards required.</p>\n<p>Adelaide St Car Park suits all your leisure and business parking needs. With Monthly, Weekend Parking options available or use your Wilson Parking Card and pay as you go.</p>",
       "isWilsonOne": true,
-      "spottIsAvailable": false,
+      "spottIsAvailable": true,
       "legacyID": 323,
       "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
@@ -17012,7 +17016,7 @@
         "evChargerIsAvailable": false,
         "evChargerIconLabel": "EV Charging",
         "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "spottIsAvailable": false,
+        "spottIsAvailable": true,
         "spottIconLabel": "Spott",
         "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
         "additionalServices": [
@@ -29216,7 +29220,7 @@
       ],
       "carParkName": "Kareena Private Hospital Car Park",
       "carParkNumber": 9571,
-      "carParkPhoto": null,
+      "carParkPhoto": "/contentassets/b8ffcb0cbfaa4b2ba9238aed16504fd8/kareena-private.png",
       "category": "",
       "costCenter": 5002571,
       "direction": null,
@@ -29232,7 +29236,7 @@
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": null,
-      "streetViewLocation": "https://www.google.com/maps/@?api=1&map_action=pano&pano=RD8pc_lBMHbdz1pfhUUNwg&viewpoint=-34.0346078897994,151.1136242913026&heading=95.59946594809698&pitch=-7.1494875736159855&zoom=0.8274327195668361",
+      "streetViewLocation": "https://www.google.com/maps/@?api=1&map_action=pano&pano=2Cq8qyYQiCDJWWDzSysM3g&viewpoint=-34.03581333342256,151.1147281689331&heading=11.754536596323469&pitch=12.477171081479725&zoom=1",
       "rates": [
         {
           "rateType": "Hourly",
@@ -29355,7 +29359,7 @@
         "additionalServices": []
       },
       "state": null,
-      "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
+      "imgUrl": "/contentassets/b8ffcb0cbfaa4b2ba9238aed16504fd8/kareena-private.png",
       "price": "",
       "status": "",
       "cpmsCarparkCode": null,
@@ -34654,12 +34658,12 @@
       ],
       "carParkName": "Tallawong Village Car Park",
       "carParkNumber": 5002223,
-      "carParkPhoto": null,
+      "carParkPhoto": "/contentassets/b7b00133df004891998d1e8afe28292e/tallawong.png",
       "category": "",
       "costCenter": 5002223,
       "direction": "2 Conferta Ave, Tallawong",
       "heightRestriction": 2.2,
-      "information": "<p>The Tallawong Village Car Park is located at 2 Conferta Ave Tallawong and offers casual convenient parking service customers of Tallawong Village.&nbsp;</p>\n<p>Open 7 days a week until 10pm, and offering affordable Early Bird anad Hourly parking rates, including your first 3 hours free, the Tallawong Village Car Park will meet all your parking needs.</p>",
+      "information": "<p>The Tallawong Village Car Park is located at 2 Conferta Ave Tallawong and offers casual convenient parking service customers of Tallawong Village.&nbsp;</p>\n<p>Open 7 days a week until 10pm, and offering affordable Early Bird and Hourly parking rates, including your first 3 hours free, the Tallawong Village Car Park will meet all your parking needs.</p>",
       "isWilsonOne": false,
       "spottIsAvailable": false,
       "legacyID": 5002223,
@@ -34824,7 +34828,7 @@
         "additionalServices": []
       },
       "state": "NSW",
-      "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
+      "imgUrl": "/contentassets/b7b00133df004891998d1e8afe28292e/tallawong.png",
       "price": "",
       "status": "",
       "cpmsCarparkCode": null,
@@ -40031,7 +40035,7 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p><em>Payment only available&nbsp;through the Wilson Parking App.&nbsp;</em><em><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\" target=\"_blank\" rel=\"noopener\">Click here</a> to download the Wilson Parking App.</em></p>\n<p><em>*Online rates includes platform fee.</em></p>",
+          "notes": "<p>Payment only available&nbsp;through the Wilson Parking App.&nbsp;<a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\" target=\"_blank\" rel=\"noopener\">Click here</a> to download the Wilson Parking App.</p>\n<p>*Online rates includes platform fee.</p>",
           "rates": [
             {
               "timeSpan": "Mon - Fri",
@@ -40041,7 +40045,7 @@
         },
         {
           "rateType": "Weekend",
-          "notes": "<p><em>Payment only available&nbsp;through the Wilson Parking App.&nbsp;</em><em><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\" target=\"_blank\" rel=\"noopener\">Click here</a> to download the Wilson Parking App.</em></p>\n<p><em>*Online rates includes platform fee.</em></p>",
+          "notes": "<p>Payment only available&nbsp;through the Wilson Parking App.&nbsp;<a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\" target=\"_blank\" rel=\"noopener\">Click here</a> to download the Wilson Parking App.</p>\n<p>*Online rates includes platform fee.</p>",
           "rates": [
             {
               "timeSpan": "Sat - Sun",
@@ -75466,7 +75470,7 @@
       "carParkPhoto": "/siteassets/parking-location-images/qld/bne144.jpeg",
       "category": "",
       "costCenter": 1004144,
-      "direction": "Entry is via Eagle Street\n\nEntrance Height at 1.9M\n\nPhone: 1800 PARKING (1800 727 546)",
+      "direction": "Entry is via Eagle St\n\nEntrance Height at 1.9M\n\nPhone: 1800 PARKING (1800 727 546)",
       "heightRestriction": 1.9,
       "information": "<p>Wilson Parking offers affordable &amp; secure parking at Central Plaza 2 car park, located at 66 Eagle Street, Brisbane. This car park is nearby to Eagle Street Pier and the Brisbane CBD. Offering Hourly, Night and Weekend parking, along with discount online parking options, this car park will meet all of your parking needs.&nbsp;</p>\n<p>Save when you prepay online or use the Wilson Parking App; enjoy 24/7 unlimited access when you subscribe to Monthly Parking; or pay as you go with a Wilson Parking card.</p>",
       "isWilsonOne": true,
@@ -75509,7 +75513,7 @@
         },
         {
           "rateType": "Night",
-          "notes": "<p>Per exit. Enter after 5:00pm and exit before 10:00pm</p>\n<p>Online Rates include platform fee. Click the <strong>Prepay Now</strong> link below to get started.</p>",
+          "notes": "<p>Per exit. Enter after 5pm and exit before 10pm</p>\n<p>Online Rates include platform fee. Click the <strong>Prepay Now</strong> link below to get started.</p>",
           "rates": [
             {
               "timeSpan": "Weeknights",
@@ -98628,7 +98632,7 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Rates apply Monday - Friday from 6am - 10pm.</p>\n<p>Car park closes at 10pm.</p>",
+          "notes": "<p>Rates apply Monday - Friday from 6am - 5pm.</p>\n<p>Car park closes at 10pm.</p>",
           "rates": [
             {
               "timeSpan": "0.0 - 0.5 hr",
