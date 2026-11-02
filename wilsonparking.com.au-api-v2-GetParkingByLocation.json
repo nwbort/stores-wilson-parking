@@ -8416,92 +8416,56 @@
           "notes": null,
           "rates": [
             {
-              "timeSpan": "0 - 0.5hr",
-              "price": 5.0
+              "timeSpan": "0.0 - 1.0 hr",
+              "price": 18.0
             },
             {
-              "timeSpan": "0.5-1.0hrs",
-              "price": 15.0
+              "timeSpan": "1.0 - 2.0 hrs",
+              "price": 30.0
             },
             {
-              "timeSpan": "1.0 - 1.5hrs",
-              "price": 25.0
-            },
-            {
-              "timeSpan": "1.5-2hrs",
-              "price": 35.0
-            },
-            {
-              "timeSpan": "2-2.5hrs",
+              "timeSpan": "2.0 - 3.0 hrs",
               "price": 45.0
             },
             {
-              "timeSpan": "2.5-3hrs",
-              "price": 49.0
-            },
-            {
-              "timeSpan": "3+ hrs",
-              "price": 55.0
-            },
-            {
-              "timeSpan": "Lost Ticket from",
-              "price": 89.0
+              "timeSpan": "3.0 + hrs",
+              "price": 60.0
             }
           ]
         },
         {
           "rateType": "Night",
-          "notes": "<p>Enter after 3pm, exit before 5am the next day.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
+          "notes": "<p>Enter after 3pm, Exit before 5am the next day</p>",
           "rates": [
             {
-              "timeSpan": "Mon - Thurs from",
-              "price": 13.0
-            },
-            {
-              "timeSpan": "0.0 - 0.5 hrs",
-              "price": 5.0
-            },
-            {
-              "timeSpan": "0.5 - 1.0 hrs",
-              "price": 15.0
-            },
-            {
-              "timeSpan": "1.0 + hrs",
+              "timeSpan": "Mon - Fri",
               "price": 25.0
             }
           ]
         },
         {
           "rateType": "Weekend",
-          "notes": "<p>Flat rate (payable per entry per day)</p>\n<p>Entry after 6am, Exit before 6am the next day.&nbsp;</p>",
+          "notes": "<p>Flat rate (payable per entry per day)</p>\n<p>Enter after 6am, Exit before 6am the next day</p>",
           "rates": [
             {
-              "timeSpan": "Saturday from",
+              "timeSpan": "Sat - Sun & Public Holiday",
               "price": 25.0
-            },
-            {
-              "timeSpan": "Sunday from",
-              "price": 13.0
-            },
-            {
-              "timeSpan": "Public Holiday from",
-              "price": 13.0
             }
           ]
         },
         {
           "rateType": "Early Bird",
-          "notes": "<p>Available Monday - Friday</p>\n<p>Enter between 5am - 9.30am, Exit between 3.30pm - 7pm</p>",
+          "notes": "<p>Available Monday - Friday</p>\n<p>Enter between 5am - 9:30am, Exit between 3:30pm - 7pm</p>",
           "rates": [
             {
-              "timeSpan": "Mon-Fri",
-              "price": 15.0
+              "timeSpan": "Mon - Fri",
+              "price": 22.0
             }
           ]
         }
       ],
       "fromText": "From",
-      "fromPrice": "5",
+      "fromPrice": "18",
       "location": {
         "longitude": 151.203590762006,
         "latitude": -33.8766868119078,
@@ -62468,7 +62432,7 @@
         },
         {
           "rateType": "Hourly",
-          "notes": "<p>Hourly rate charged from 6am daily, Monday to Friday<br /><br />Public Holiays, Weekend rate applies</p>",
+          "notes": "<p>Hourly rate charged from 6am daily, Monday to Friday<br /><br />Public Holidays, Weekend rate applies</p>",
           "rates": [
             {
               "timeSpan": "0.0 - 0.5 hr",
@@ -72618,7 +72582,7 @@
       "costCenter": 1004356,
       "direction": "Entry off Little Cribb Street",
       "heightRestriction": 2.2,
-      "information": "<p><span style=\"color: #ff1e25;\">Event Parking is available at this car park on the following dates: 30 October, 5, 15, 20 November.<br /></span></p>\n<p>Wilson Parking offers affordable &amp; secure parking at Milton Green&nbsp;car park, located at 19 Little Cribb Street&nbsp;in the heart of Milton. Open 7 days, this undercover car park provides convenient access to nearby Suncorp Stadium and surrounding entertainment and retail precinct. Offering hourly, night and weekend parking options with discounts when you prepay online, permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the Milton Green&nbsp;car park will meet all your business and leisure parking needs.</p>",
+      "information": "<p><span style=\"color: #ff1e25;\">Event Parking is available at this car park on the following dates: 5, 15, 20 November.<br /></span></p>\n<p>Wilson Parking offers affordable &amp; secure parking at Milton Green&nbsp;car park, located at 19 Little Cribb Street&nbsp;in the heart of Milton. Open 7 days, this undercover car park provides convenient access to nearby Suncorp Stadium and surrounding entertainment and retail precinct. Offering hourly, night and weekend parking options with discounts when you prepay online, permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the Milton Green&nbsp;car park will meet all your business and leisure parking needs.</p>",
       "isWilsonOne": true,
       "spottIsAvailable": true,
       "legacyID": 1004356,
