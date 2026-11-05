@@ -13447,7 +13447,7 @@
           "rates": [
             {
               "timeSpan": "Mon - Fri",
-              "price": 8.0
+              "price": 10.0
             }
           ]
         },
@@ -40025,7 +40025,7 @@
           "rates": [
             {
               "timeSpan": "Mon - Fri",
-              "price": 17.0
+              "price": 18.0
             }
           ]
         },
@@ -40207,7 +40207,7 @@
           "rates": [
             {
               "timeSpan": "Mon - Fri",
-              "price": 17.0
+              "price": 18.0
             }
           ]
         },
@@ -55505,7 +55505,7 @@
       "streetViewLocation": "https://www.google.com/maps/@-27.5597329,151.9558294,3a,90y,96.61h,94.04t/data=!3m6!1e1!3m4!1sP_9tS-WppoQNUHL0TCKdRQ!2e0!7i16384!8i8192?entry=ttu",
       "rates": [],
       "fromText": "From",
-      "fromPrice": "3",
+      "fromPrice": "4",
       "location": {
         "longitude": 151.956045423252,
         "latitude": -27.5596309491087,
@@ -59326,33 +59326,33 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Monday - Friday, 6:00 am to 4:00 pm</p>",
+          "notes": "<p>Monday - Friday, 6am to 4pm</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 0.5 Hours",
+              "timeSpan": "0.0 - 0.5 hr",
               "price": 14.0
             },
             {
-              "timeSpan": "0.5 - 1.0 Hours\t",
+              "timeSpan": "0.5 - 1.0 hr",
               "price": 28.0
             },
             {
-              "timeSpan": "1.0 - 2.0 Hours\t",
+              "timeSpan": "1.0 - 2.0 hrs",
               "price": 56.0
             },
             {
-              "timeSpan": "2.0 - 3.0 Hours\t",
+              "timeSpan": "2.0 - 3.0 hrs",
               "price": 84.0
             },
             {
-              "timeSpan": "3.0 + Hours \t",
+              "timeSpan": "3.0 + hrs",
               "price": 89.0
             }
           ]
         },
         {
           "rateType": "Night",
-          "notes": "<p>Entry after 4:00 pm, exit before car park close. Day restarts at 6:00 am.</p>\n<p>Online rate shown includes platform fee. Click the <strong>Prepay now</strong> link below to get started.</p>\n<p><span style=\"color: #ff1e25;\"><strong>Event parking</strong></span></p>\n<p>Event Rate may be applicable on peak precinct event days.</p>\n<p>Online Night Rate will not be available. Flexi Saver rates will apply at these times.</p>\n<p>Event parking will be prioritised for online customers. Limited drive-up parking at event times may be available.</p>",
+          "notes": "<p>Entry after 4pm, exit before car park close. Day restarts at 6am.</p>\n<p>Online rate shown includes platform fee. Click the <strong>Prepay now</strong> link below to get started.</p>\n<p><span style=\"color: #ff1e25;\"><strong>Event parking</strong></span></p>\n<p>Event Rate may be applicable on peak precinct event days.</p>\n<p>Online Night Rate will not be available. Flexi Saver rates will apply at these times.</p>\n<p>Event parking will be prioritised for online customers. Limited drive-up parking at event times may be available.</p>",
           "rates": [
             {
               "timeSpan": "Mon - Thurs",
@@ -59370,7 +59370,7 @@
         },
         {
           "rateType": "Weekend",
-          "notes": "<p>Enter after 6:00 am, Exit before close.&nbsp;</p>\n<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include platform fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>",
+          "notes": "<p>Enter after 6am, Exit before close.&nbsp;</p>\n<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include platform fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>",
           "rates": [
             {
               "timeSpan": "Sat varies from $26.00 - $29.00, depending on demand",
@@ -68740,14 +68740,14 @@
       "costCenter": 1003225,
       "direction": "Entry via Enterprize Way. Car park is on the right.",
       "heightRestriction": 2.0,
-      "information": "<p><u></u><strong style=\"color: #ff1e25;\"><u>Event Dates 2026</u></strong><span style=\"color: #ff1e25;\"><br /><strong>September:&nbsp;</strong>24th<br /></span><strong><span style=\"color: #ff1e25;\">October: </span></strong><span style=\"color: #ff1e25;\">17th</span><strong><span style=\"color: #ff1e25;\"><br /></span></strong><span style=\"color: #ff1e25;\"><strong>November: </strong>11th, 14th, 27th, 28th<br /></span><em style=\"color: #ff1e25;\">Event rates will apply. Drive up only.<br /></em><em style=\"color: #ff1e25;\">On event dates, please allow additional time to exit.<br /></em></p>\n<p>Wilson Parking offer affordable parking at 800 Bourke St Car Park, located at Enterprize Way, Docklands. This car park, located on the Yarra River,&nbsp; is nearby to Marvel Stadium, Docklands Park and other Docklands attractions. Offering Hourly, Weekend and night parking, as well as discount online parking options, the 800 Bourke St Car Park will meet all of your parking needs.</p>\n<p>Experience the convenience of&nbsp;pay as you go with a Wilson Parking card, or enjoy 24/7 unlimited access when you subscribe to Monthly Parking.</p>",
+      "information": "<p><u></u><strong style=\"color: #ff1e25;\"><u>Event Dates 2026</u></strong><span style=\"color: #ff1e25;\"><br /></span><span style=\"color: #ff1e25;\"><strong>November: </strong>11th, 14th, 27th, 28th<br /><strong>December:</strong> 2nd, 4th, 11th<br /></span><em style=\"color: #ff1e25;\">Event rates will apply. Drive up only.<br /></em><em style=\"color: #ff1e25;\">On event dates, please allow additional time to exit.<br /></em></p>\n<p>Wilson Parking offer affordable parking at 800 Bourke St Car Park, located at Enterprize Way, Docklands. This car park, located on the Yarra River,&nbsp; is nearby to Marvel Stadium, Docklands Park and other Docklands attractions. Offering Hourly, Weekend and night parking, as well as discount online parking options, the 800 Bourke St Car Park will meet all of your parking needs.</p>\n<p>Experience the convenience of&nbsp;pay as you go with a Wilson Parking card, or enjoy 24/7 unlimited access when you subscribe to Monthly Parking.</p>",
       "isWilsonOne": true,
       "spottIsAvailable": true,
       "legacyID": 41,
       "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
-      "phoneNumber": "1800 PARKING",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": "74.64838691207044",
@@ -68755,14 +68755,14 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Mon - Fri. <br /><span style=\"color: #ff1e25;\">**<strong>Event parking from 2pm to close.</strong></span></p>",
+          "notes": "<p>Mon - Fri<br /><br /><span style=\"color: #ff1e25;\"><strong>Event parking from 2pm to close.<br /></strong></span></p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 0.5 hrs",
+              "timeSpan": "0.0 - 0.5 hr",
               "price": 14.0
             },
             {
-              "timeSpan": "0.5 - 1.0 hrs",
+              "timeSpan": "0.5 - 1.0 hr",
               "price": 28.0
             },
             {
@@ -68781,14 +68781,14 @@
         },
         {
           "rateType": "Night",
-          "notes": "<p>Mon-Thu: Entry after 4pm &amp; exit before close.<br />Fri: Enter after 4pm &amp; Exit before close</p>\n<p><span style=\"color: #ff1e25;\"><strong>Event parking</strong></span></p>\n<p>Drive up rates will not be available from 3 hours prior to Marvel Stadium events.&nbsp;</p>",
+          "notes": "<p>Monday - Thursday: Entry after 4pm &amp; exit before close.<br /><br />Friday: Entry after 4pm &amp; exit before close.<br /><br /><strong style=\"color: #ff1e25;\">Event Parking<br /><br /></strong>Drive up rates will not be available from 3 hours prior to Marvel Stadium events.</p>",
           "rates": [
             {
               "timeSpan": "Mon - Thurs from",
               "price": 15.0
             },
             {
-              "timeSpan": "Friday from",
+              "timeSpan": "Fri from",
               "price": 20.0
             },
             {
@@ -68799,7 +68799,7 @@
         },
         {
           "rateType": "Weekend",
-          "notes": "<p>Flat rate per exit, per day. Enter after 6am &amp; Exit before close</p>\n<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include platform fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>",
+          "notes": "<p>Flat rate per exit, per day. Enter after 6am &amp; Exit before close.</p>\n<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include platform fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>",
           "rates": [
             {
               "timeSpan": "Sat, Sun & Public Holidays varies from $20.00 - $22.00, depending on demand",
@@ -93892,7 +93892,7 @@
       "carParkPhoto": "/contentassets/b1215f9e49944daf9548bb4da8dd838f/per073.jpg",
       "category": "",
       "costCenter": 1006073,
-      "direction": "Entry from Stirling St (southbound) or Pier St opposite the railway crossing.</br>\n\nDear Customers, </br>\nPlease note this car park will not be operated by Wilson Parking effective 8th Nov.</br>\n\nOver height parking available up to 3m from Pier St Entry.</br>\nCar Park closes at 8pm each day A/HRS access with Access Card Only. </br>\n",
+      "direction": "Entry from Stirling St (southbound) or Pier St opposite the railway crossing.</br>\n\nDear Customers, </br>\nPlease note this car park will be Pay By App only effective 9th Nov. </br>\n\nCar Park closes at 8pm each day A/HRS access with Access Card Only. </br>\n",
       "heightRestriction": 2.1,
       "information": "<p>Wilson Parking offer affordable parking at 22 Stirling St Car Park, located at 22 Stirling St, Perth. This car park is open 7 days, closing at 8pm, and has two convenient entries, on Stirling St (southbound) or Pier St opposite the railway crossing. Over height parking available up to 3m from Pier St Entry. Nearby to Children's Court of Western Australia, Royal Perth Hospital, and many other local restaurants and hotels, this&nbsp;undercover car park provides parking options for workers and visitors to the area. Offering casual Hourly, Early Bird and Weekend Parking with exclusive discounts when you pay with the Wilson Parking App, and permanent Monthly Parking for regular parkers, the 22 Stirling St Car Park will meet all of your parking needs.</p>\n<p>Download the Wilson Parking App to easily pay for your parking from your phone, and access exclusive discounts.</p>",
       "isWilsonOne": false,
