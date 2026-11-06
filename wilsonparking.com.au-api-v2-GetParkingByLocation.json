@@ -8439,7 +8439,7 @@
           "rates": [
             {
               "timeSpan": "0.0 - 1.0 hr",
-              "price": 18.0
+              "price": 15.0
             },
             {
               "timeSpan": "1.0 - 2.0 hrs",
@@ -8477,17 +8477,17 @@
         },
         {
           "rateType": "Early Bird",
-          "notes": "<p>Available Monday - Friday</p>\n<p>Enter between 5am - 9:30am, Exit between 3:30pm - 7pm</p>",
+          "notes": "<p>Available Monday - Friday</p>\n<p>Enter between 5am - 10am, Exit between 2pm - 8pm</p>",
           "rates": [
             {
               "timeSpan": "Mon - Fri",
-              "price": 22.0
+              "price": 18.0
             }
           ]
         }
       ],
       "fromText": "From",
-      "fromPrice": "18",
+      "fromPrice": "15",
       "location": {
         "longitude": 151.203590762006,
         "latitude": -33.8766868119078,
@@ -11256,7 +11256,9 @@
         "Weekend Parking",
         "Book a Bay",
         "Wilson One",
-        "Entry height at least 2"
+        "Entry height at least 2",
+        "LPR",
+        "Spott"
       ],
       "services": [
         "book a bay",
@@ -11271,7 +11273,7 @@
       "heightRestriction": 2.1,
       "information": "<p>Wilson Parking offer affordable &amp; secure parking at Central Studio Hotel Car Park, located at 1 Bijou lane, Haymarket in the heart of China Town. The car park provides parking for Central Studio Hotel patrons with both shopping and dining nearby, close access to UTS and Ultimo Tafe, Darling Harbour Restaurants, Bar and shopping precincts, as well as the Capitol Theatre.&nbsp;Offering casual Hourly, Weekend and Night Parking options, the Central Studio Hotel Car Park&nbsp;suits all your leisure and business parking needs.&nbsp;</p>",
       "isWilsonOne": true,
-      "spottIsAvailable": false,
+      "spottIsAvailable": true,
       "legacyID": 2402,
       "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
@@ -11326,7 +11328,7 @@
         }
       ],
       "fromText": "From",
-      "fromPrice": "19",
+      "fromPrice": "15",
       "location": {
         "longitude": 151.20353949626,
         "latitude": -33.8824080780262,
@@ -11438,7 +11440,7 @@
         "evChargerIsAvailable": false,
         "evChargerIconLabel": "EV Charging",
         "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "spottIsAvailable": false,
+        "spottIsAvailable": true,
         "spottIconLabel": "Spott",
         "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
         "additionalServices": []
@@ -11874,7 +11876,7 @@
       "costCenter": 1002357,
       "direction": "55 Holt St, Surry Hills",
       "heightRestriction": 2.1,
-      "information": "<p>Wilson Parking offer affordable &amp; secure parking at 55 Holt St Car Park, located at 55 Holt St in Surry Hills in the South of the Sydney CBD.&nbsp;Open until midnight 7 days a week, this undercover car park provides convenient access to nearby stores, restaurants and other Surry Hills businesses.&nbsp;Offering casual Hourly, Weekend and Night Parking with exclusive discounts when you prepay online and permanent monthly parking for regular parkers,&nbsp;the 55 Holt St&nbsp;Car Park will meet all your business and leisure parking needs.&nbsp;</p>\n<p>Download the Wilson Parking App to plan your journey and access parking discounts when you prepay online;&nbsp;enjoy unlimited 24/7 access when you subscribe to monthly parking; or&nbsp;pay as you go on one convenient monthly invoice when you use your Wilson Parking Card to access the car park.</p>",
+      "information": "<p><span style=\"color: #ff1e25;\"><span class=\"ql-color-#ff1e25\"><strong>Notice: Planned Power Shutdown</strong><br /></span><strong>Carpark will remain closed all of Saturday 7th November and Sunday 8th November 2026.<br /></strong></span><span class=\"ql-color-#ff1e25\"><strong><span style=\"color: #ff1e25;\">No access - entry or exit permitted during this time</span></strong><br /><br /></span>Wilson Parking offer affordable &amp; secure parking at 55 Holt St Car Park, located at 55 Holt St in Surry Hills in the South of the Sydney CBD.&nbsp;Open until midnight 7 days a week, this undercover car park provides convenient access to nearby stores, restaurants and other Surry Hills businesses.&nbsp;Offering casual Hourly, Weekend and Night Parking with exclusive discounts when you prepay online and permanent monthly parking for regular parkers,&nbsp;the 55 Holt St&nbsp;Car Park will meet all your business and leisure parking needs.&nbsp;</p>\n<p>Download the Wilson Parking App to plan your journey and access parking discounts when you prepay online;&nbsp;enjoy unlimited 24/7 access when you subscribe to monthly parking; or&nbsp;pay as you go on one convenient monthly invoice when you use your Wilson Parking Card to access the car park.</p>",
       "isWilsonOne": true,
       "spottIsAvailable": true,
       "legacyID": 802,
@@ -57111,8 +57113,8 @@
         "Special Event Parking",
         "Super Saver",
         "Event",
-        "Elevate",
         "LPR",
+        "Spott Saver",
         "Spott"
       ],
       "services": [
@@ -57193,7 +57195,7 @@
         }
       ],
       "fromText": "From",
-      "fromPrice": "11",
+      "fromPrice": "9",
       "location": {
         "longitude": 144.97694849967957,
         "latitude": -37.809249942883994,
@@ -57950,7 +57952,6 @@
         "Flexi Parking",
         "Entry height at least 2",
         "Special Event Parking",
-        "Super Saver",
         "Summer Sale",
         "Event",
         "LPR",
@@ -58027,7 +58028,7 @@
           "notes": "<p>Entry after 6am, exit before 6am the next day<br /><br />Pay in advance to access the best possible rates.&nbsp;<br /><br /><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.<br /><br />Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include platform fee.<br /><br /><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>",
           "rates": [
             {
-              "timeSpan": "Sat - Sun & Public Holidays (Online varies from $15.00 - $18.00, depending on demand)",
+              "timeSpan": "Sat - Sun & Public Holidays (Online varies from $17.00 - $19.00, depending on demand)",
               "price": 20.0
             },
             {
@@ -58038,7 +58039,7 @@
         }
       ],
       "fromText": "From",
-      "fromPrice": "9",
+      "fromPrice": "11",
       "location": {
         "longitude": 144.97431725263596,
         "latitude": -37.80849448148512,
@@ -67300,16 +67301,20 @@
     {
       "name": "500 La Trobe St Car Park",
       "bookText": null,
-      "canBookABay": false,
+      "canBookABay": true,
       "selectedFeatures": "",
       "carParkFeature": [
         "Night Parking",
         "Weekend Parking",
         "Early Bird Parking",
+        "Book a Bay",
         "Flexi Parking",
-        "Entry height at least 2"
+        "Entry height at least 2",
+        "Elevate Only"
       ],
-      "services": [],
+      "services": [
+        "book a bay"
+      ],
       "carParkName": "500 La Trobe St Car Park",
       "carParkNumber": 3348,
       "carParkPhoto": "/siteassets/parking-location-images/vic/mel348.jpg",
@@ -67317,7 +67322,7 @@
       "costCenter": 1003348,
       "direction": "500 La Trobe St",
       "heightRestriction": 0.0,
-      "information": "<p><span style=\"color: #ff1e25;\">Spott and Prepay Online is temporarily out of order at this site. We are working on this issue as a matter of urgency.&nbsp;</span></p>\n<p>Wilson Parking offer affordable &amp; secure parking at 500 La Trobe St&nbsp;Car Park, located at 500 La Trobe St, West Melbourne. Open 7 days, this open air car park provides convenient access to nearby Flagstaff Gardens, popular restaurants, shops and Melbourne businesses.<br /><br />Offering casual Hourly, Night and Weekend Parking, with exclusive discounts when you prepay online, the 500 La Trobe St Car Park will meet all of your parking needs.</p>",
+      "information": "<p>Wilson Parking offer affordable &amp; secure parking at 500 La Trobe St&nbsp;Car Park, located at 500 La Trobe St, West Melbourne. Open 7 days, this open air car park provides convenient access to nearby Flagstaff Gardens, popular restaurants, shops and Melbourne businesses.<br /><br />Offering casual Hourly, Night and Weekend Parking, with exclusive discounts when you prepay online, the 500 La Trobe St Car Park will meet all of your parking needs.</p>",
       "isWilsonOne": false,
       "spottIsAvailable": false,
       "legacyID": 793,
@@ -67473,7 +67478,7 @@
       ],
       "url": "/parking-locations/victoria/melbourne-cbd/500-la-trobe-st-car-park/",
       "serviceConfiguration": {
-        "canBookABay": false,
+        "canBookABay": true,
         "bookABayIconLabel": "Prepay Online",
         "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
         "monthlyParkingServiceIsAvailable": false,
@@ -89287,7 +89292,7 @@
       "carParkPhoto": "/contentassets/7ecefd738532478db27fceb09fd2420c/capture.jpg",
       "category": "",
       "costCenter": 1006216,
-      "direction": "Entry to the car park is from Rowe Avenue, accessed from Brighton Rd when travelling on the Great Eastern Hwy.\n\n</br></br>Dear Customers,</br>\n</br></br>Due to scheduled works, the car park will be closed on Tuesday, 27th October from 7pm onwards. </br>",
+      "direction": "Entry to the car park is from Rowe Avenue, accessed from Brighton Rd when travelling on the Great Eastern Hwy.\n",
       "heightRestriction": 2.2,
       "information": "<p>Wilson Parking offer affordable parking at 25 Rowe Avenue car park, located at 25 Rowe Ave, Rivervale. This car park is open 7 days until 9pm, with convenient parking for the Aloft Hotel and 25 Rowe Avenue Office Tower, Springs Rivervale residents and visitors, New Perth Stadium and Crown Casino Events. Offering casual Hourly, Early Bird, Night and Weekend Parking, the 25 Rowe Avenue Car Park will meet all of your Rivervale parking needs.&nbsp;</p>\n<p>Entry to the car park is from Rowe Avenue which can be accessed from Brighton Rd when travelling on the Great Eastern Hwy.</p>\n<p>Pay as you go with your Wilson Parking Card and enjoy contact and queue free parking.&nbsp;</p>",
       "isWilsonOne": true,
@@ -93883,7 +93888,6 @@
       "selectedFeatures": "",
       "carParkFeature": [
         "Weekend Parking",
-        "Early Bird Parking",
         "Epark"
       ],
       "services": [],
@@ -93894,7 +93898,7 @@
       "costCenter": 1006073,
       "direction": "Entry from Stirling St (southbound) or Pier St opposite the railway crossing.</br>\n\nDear Customers, </br>\nPlease note this car park will be Pay By App only effective 9th Nov. </br>\n\nCar Park closes at 8pm each day A/HRS access with Access Card Only. </br>\n",
       "heightRestriction": 2.1,
-      "information": "<p>Wilson Parking offer affordable parking at 22 Stirling St Car Park, located at 22 Stirling St, Perth. This car park is open 7 days, closing at 8pm, and has two convenient entries, on Stirling St (southbound) or Pier St opposite the railway crossing. Over height parking available up to 3m from Pier St Entry. Nearby to Children's Court of Western Australia, Royal Perth Hospital, and many other local restaurants and hotels, this&nbsp;undercover car park provides parking options for workers and visitors to the area. Offering casual Hourly, Early Bird and Weekend Parking with exclusive discounts when you pay with the Wilson Parking App, and permanent Monthly Parking for regular parkers, the 22 Stirling St Car Park will meet all of your parking needs.</p>\n<p>Download the Wilson Parking App to easily pay for your parking from your phone, and access exclusive discounts.</p>",
+      "information": "<p>Wilson Parking offer affordable parking at 22 Stirling St Car Park, located at 22 Stirling St, Perth. This car park is open 7 days, closing at 8pm, and has two convenient entries, on Stirling St (southbound) or Pier St opposite the railway crossing. Over height parking available up to 3m from Pier St Entry. Nearby to Children's Court of Western Australia, Royal Perth Hospital, and many other local restaurants and hotels, this&nbsp;undercover car park provides parking options for workers and visitors to the area. Offering casual Hourly and Weekend Parking when you pay with the Wilson Parking App, the 22 Stirling St Car Park will meet all of your parking needs.</p>\n<p>Download the Wilson Parking App to easily pay for your parking from your phone.</p>",
       "isWilsonOne": false,
       "spottIsAvailable": false,
       "legacyID": 140,
@@ -93906,50 +93910,9 @@
       "staticMapPhoto": null,
       "streetViewHeading": "84.65472552140129",
       "streetViewLocation": "https://www.google.com/maps/@?api=1&map_action=pano&pano=hHmELNibYpERtNl69rcupQ&viewpoint=-31.95161527755369,115.86291378497685&heading=115.70044225617379&pitch=-2.079256338703715",
-      "rates": [
-        {
-          "rateType": "Hourly",
-          "notes": "<p>Pay by Plate parking, available Monday - Friday.</p>\n<p>*Online rate only available when purchasing through the Wilson Parking App. Online rates includes platform fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a> to download the Wilson Parking App.</p>",
-          "rates": [
-            {
-              "timeSpan": "0.0 - 1.0 hr",
-              "price": 4.0
-            },
-            {
-              "timeSpan": "1.0 - 2.0 hrs",
-              "price": 7.0
-            },
-            {
-              "timeSpan": "2.0 - 3.0 hrs",
-              "price": 10.0
-            },
-            {
-              "timeSpan": "3.0 - 4.0 hrs",
-              "price": 13.0
-            },
-            {
-              "timeSpan": "4.0 - 5.0 hrs",
-              "price": 17.0
-            },
-            {
-              "timeSpan": "5.0 - 12.0 hrs max",
-              "price": 21.0
-            }
-          ]
-        },
-        {
-          "rateType": "Weekend",
-          "notes": "<p>Rates applies per exit, per day, Saturday and Sunday.</p>\n<p>*Online rate only available when purchasing through the Wilson Parking App. Online rates includes platform fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a> to download the Wilson Parking App.</p>",
-          "rates": [
-            {
-              "timeSpan": "Flat Rate",
-              "price": 11.0
-            }
-          ]
-        }
-      ],
+      "rates": [],
       "fromText": "From",
-      "fromPrice": "3",
+      "fromPrice": "10",
       "location": {
         "longitude": 115.86305816434856,
         "latitude": -31.951655415822987,
@@ -99454,7 +99417,7 @@
       "carParkPhoto": "/contentassets/b48319796ac84008a4049d618228de23/per400-car-park-photo.jpg",
       "category": "",
       "costCenter": 1006400,
-      "direction": "Entry off Mounts Bay Rd Eastbound and Spring St\n\n</br></br>Dear Customer\n\n</br></br>Please note below scheduled cleaning</br>\n</br></br>B3 - 23rd Oct (6pm - 2am) - Please park in Level B4 & B5</br>\n</br></br>B4 - 26th Oct (6pm -1am) - Please enter via Mount Bay Road</br>\n</br></br>B5 - 27th Oct (6pm - midnight) - Please enter via Spring Street</br>",
+      "direction": "Entry off Mounts Bay Rd Eastbound and Spring St\n",
       "heightRestriction": 2.1,
       "information": "<p>Wilson Parking offer affordable parking at Capital Square&nbsp;Car Park, providing parking for visitors to the Capital Square Towers and nearby businesses in the Perth CBD. Offering Hourly, <span style=\"color: #000000;\">Weekend and Night</span> Parking options, and exclusive discounts when you prepay online or through the Wilson Parking App, the Capital Square&nbsp;Car Park will meet all your business parking needs.&nbsp;</p>\n<p>The car park offers two convenient entries. Enter via Mounts Bay Road heading Eastbound or Spring Street.</p>\n<p>Download the Wilson Parking App to prepay ahead and access exclusive savings, or simply drive up and pay with your Credit Card, pay as you go with a Wilson Parking card.</p>",
       "isWilsonOne": true,
@@ -106177,7 +106140,7 @@
       "carParkPhoto": "/contentassets/8f04012157dd469da248efd34eb76be7/20230418_093819-002.jpg",
       "category": "",
       "costCenter": 1006158,
-      "direction": "Entry via Manning Street\n</br></br>Due to technical issues, the car park lift is out of service until further notice.",
+      "direction": "Entry via Manning Street\n</br></br>Due to scheduled works some of the lights in the car park will not work from 11th to 13th November </br>",
       "heightRestriction": 2.0,
       "information": "<p>Wilson Parking offer affordable parking at 1 Manning St Car Park which is located in Scarborough. With hourly, weekend and night parking the 1 Manning St Car Park will meet all of your parking needs.</p>",
       "isWilsonOne": false,
