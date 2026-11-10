@@ -22905,187 +22905,6 @@
       "featuredIndex": 0
     },
     {
-      "name": "Lachlan’s Square Village Car Park",
-      "bookText": null,
-      "canBookABay": false,
-      "selectedFeatures": "",
-      "carParkFeature": [
-        "Night Parking",
-        "Weekend Parking",
-        "Entry height at least 2",
-        "Disabled Parking"
-      ],
-      "services": [
-        "disabled parking"
-      ],
-      "carParkName": "Lachlan’s Square Village Car Park",
-      "carParkNumber": 9148,
-      "carParkPhoto": null,
-      "category": "",
-      "costCenter": 5002148,
-      "direction": "17 Halifax Street, Macquarie Park",
-      "heightRestriction": 0.0,
-      "information": "<p>The Lachlan's Square Village Car Park is located at 17 Halifax Street, Macquarie Park. This undercover car park provides convenient and affordable casual hourly parking for retail customers and visitors to the Lachlan's Square Village residencied and other surrounding businesses.&nbsp;</p>",
-      "isWilsonOne": false,
-      "spottIsAvailable": false,
-      "legacyID": 5002148,
-      "monthlyParkingServiceIsAvailable": false,
-      "evChargerIsAvailable": false,
-      "disabledParkingIsAvailable": true,
-      "phoneNumber": null,
-      "products": [],
-      "staticMapPhoto": null,
-      "streetViewHeading": null,
-      "streetViewLocation": "https://www.google.com/maps/@?api=1&map_action=pano&pano=yLNI5ntLEMMTGAKd_bn-lg&viewpoint=-33.7926725755177,151.13325634414298&heading=130.9709407619268&pitch=-0.9409500605077312&zoom=0",
-      "rates": [
-        {
-          "rateType": "Hourly",
-          "notes": "<p>Monday - Sunday (All Days)</p>\n<p><strong>Touch free - License Plate Recognition in use - Credit card payment only on exit</strong></p>",
-          "rates": [
-            {
-              "timeSpan": "0 - 2 hours",
-              "price": 0.0
-            },
-            {
-              "timeSpan": "2 - 12 hours (All-Day Special)",
-              "price": 5.0
-            },
-            {
-              "timeSpan": "12 + hours",
-              "price": 10.0
-            },
-            {
-              "timeSpan": "Overnight Rate (plus previous day's fee)",
-              "price": 10.0
-            }
-          ]
-        }
-      ],
-      "fromText": "From",
-      "fromPrice": "0",
-      "location": {
-        "longitude": 151.133251909733,
-        "latitude": -33.7929284211064,
-        "zoom": 16,
-        "address": "17 Halifax Street, Macquarie Park",
-        "region": {
-          "name": "Macquarie Park",
-          "longitude": 151.11797332763672,
-          "latitude": -33.778005862210634,
-          "status": "",
-          "state": {
-            "name": "New South Wales",
-            "abbreviation": "NSW",
-            "country": "Australia",
-            "longitude": 151.207430362701,
-            "latitude": -33.8662642500823,
-            "status": ""
-          }
-        }
-      },
-      "openingTimes": [
-        {
-          "day_TimePeriod": "Monday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "06:30",
-          "closing": "00:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Tuesday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "06:30",
-          "closing": "00:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Wednesday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "06:30",
-          "closing": "00:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Thursday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "06:30",
-          "closing": "00:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Friday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "06:30",
-          "closing": "00:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Saturday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "06:30",
-          "closing": "00:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Sunday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "06:30",
-          "closing": "00:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Public Holiday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "06:30",
-          "closing": "00:00",
-          "note": null
-        }
-      ],
-      "url": "/parking-locations/new-south-wales/macquarie-park/lachlans-square-village-car-park/",
-      "serviceConfiguration": {
-        "canBookABay": false,
-        "bookABayIconLabel": "Prepay Online",
-        "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": false,
-        "monthlyParkingIconLabel": "Monthly Subscription",
-        "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
-        "isWilsonOne": false,
-        "wilsonOneIconLabel": "Parking Card",
-        "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
-        "disabledParkingIsAvailable": true,
-        "disabledParkingIconLabel": "Disabled Parking",
-        "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
-        "evChargerIsAvailable": false,
-        "evChargerIconLabel": "EV Charging",
-        "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "spottIsAvailable": false,
-        "spottIconLabel": "Spott",
-        "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
-        "additionalServices": []
-      },
-      "state": "NSW",
-      "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
-      "price": "",
-      "status": "",
-      "cpmsCarparkCode": null,
-      "externalCarParkInfo": {
-        "name": "InterPark",
-        "pinUrl": "/globalassets/icons/interpark-icons/pin-blue.png",
-        "logoUrl": "/siteassets/parking-stock-images/interpark-icons/interpark_logo.jpg",
-        "pageUrl": "",
-        "content": "<p>This is an Interpark carpark with LOGO</p>"
-      },
-      "featuredIndex": 0
-    },
-    {
       "name": "Brookvale Park&Ride",
       "bookText": null,
       "canBookABay": false,
@@ -35616,6 +35435,202 @@
       },
       "state": "NSW",
       "imgUrl": "/contentassets/9bc6f3a0ea87479bacedccad1e20c50e/syd375.jpg",
+      "price": "",
+      "status": "",
+      "cpmsCarparkCode": null,
+      "externalCarParkInfo": null,
+      "featuredIndex": 0
+    },
+    {
+      "name": "Rooty Hill Park&Ride",
+      "bookText": null,
+      "canBookABay": false,
+      "selectedFeatures": "",
+      "carParkFeature": [
+        "Night Parking",
+        "Weekend Parking",
+        "Entry height at least 2"
+      ],
+      "services": [],
+      "carParkName": "Rooty Hill Park&Ride",
+      "carParkNumber": 2435,
+      "carParkPhoto": null,
+      "category": "",
+      "costCenter": 1002435,
+      "direction": "Wilson Parking offer affordable parking at Rooty Hill Park&Ride which is located at 1 Station Street, Rooty Hill. With commuter parking for Opal card users the Rooty Hill Park&Ride will meet all of your parking needs.",
+      "heightRestriction": 2.2,
+      "information": "<p>Transport Park&amp;Ride is designed to free-up more spaces at commuter car parks for those who want to travel on public transport.</p>\n<p>Park&amp;Ride provides up to 18 hours free parking each day. All you have to do is complete a public transport trip by tapping on and tapping off using an accepted:</p>\n<ol>\n<li><strong>Opal card</strong>&nbsp;or</li>\n<li><strong>credit/debit/Opal card&nbsp;</strong>linked to a&nbsp;<a href=\"https://connect.transportnsw.info/sign-up\">Transport Connect account</a></li>\n</ol>\n<p>Located close to public transport hubs, Park&amp;Ride car parks help you connect more easily to train, bus and ferry services.</p>",
+      "isWilsonOne": false,
+      "spottIsAvailable": false,
+      "legacyID": 1002435,
+      "monthlyParkingServiceIsAvailable": false,
+      "evChargerIsAvailable": false,
+      "disabledParkingIsAvailable": false,
+      "phoneNumber": "1800 PARKING (1800 727 546)",
+      "products": [],
+      "staticMapPhoto": null,
+      "streetViewHeading": null,
+      "streetViewLocation": "-33.77079801399604, 150.8451416963495",
+      "rates": [
+        {
+          "rateType": "Hourly",
+          "notes": "<p><u>Casual Parking (non-commuter)</u>: Applies if you are not using public transport or you have exceeded the 18 hours free parking, per day.<br /><br /><u>Commuter Parking</u>: Parking is free for up to 18 hours when you complete a valid public transport trip&nbsp;using an accepted Opal card, or credit/debit card linked with a Transport Connect account. More information is available at <a href=\"http://www.transportnsw.info/parkandride\">www.transportnsw.info/parkandride</a></p>\n<p>If you are not using public transport or you have exceeded the 18 hours free parking, you will be charged Casual Parking rate.</p>\n<p><br /><u>Public Holidays</u>: Weekend Rates Apply</p>",
+          "rates": [
+            {
+              "timeSpan": "0.0 - 24.0 hrs",
+              "price": 30.0
+            },
+            {
+              "timeSpan": "0.0 - 18.0 hrs",
+              "price": 0.0
+            }
+          ]
+        },
+        {
+          "rateType": "Night",
+          "notes": "<p><u>Night Parking (non-commuter)</u>: Enter after 5pm, exit before 12am (midnight).<br />Applies if you are not using public transport or you have exceeded the 18 hours free parking, per day.</p>\n<p><br /><u>Commuter Parking</u>: Parking is free for up to 18 hours when you complete a valid public transport trip&nbsp;using an accepted Opal card, or credit/debit card linked with a Transport Connect account. More information is available at <a href=\"http://www.transportnsw.info/parkandride\">www.transportnsw.info/parkandride</a></p>\n<p>If you are not using public transport or you have exceeded the 18 hours free parking, you will be charged Casual Parking rate.</p>\n<p><br /><u>Public Holidays</u>: Weekend Rates Apply</p>",
+          "rates": [
+            {
+              "timeSpan": "Enter after 5pm, exit before 12am (midnight)",
+              "price": 10.0
+            },
+            {
+              "timeSpan": "0.0 - 18.0 hrs",
+              "price": 0.0
+            }
+          ]
+        },
+        {
+          "rateType": "Weekend",
+          "notes": "<p><u>Weekend Parking (non-commuter)</u>: Applies if you are not using public transport or you have exceeded the 18 hours free parking, per day</p>\n<p><br /><u>Commuter Parking</u>: Parking is free for up to 18 hours when you complete a valid public transport trip&nbsp;using an accepted Opal card, or credit/debit card linked with a Transport Connect account. More information is available at <a href=\"http://www.transportnsw.info/parkandride\">www.transportnsw.info/parkandride</a></p>\n<p>If you are not using public transport or you have exceeded the 18 hours free parking, you will be charged Casual Parking rate.</p>",
+          "rates": [
+            {
+              "timeSpan": "0.0 - 3.0 hrs",
+              "price": 5.0
+            },
+            {
+              "timeSpan": "3.0 - 24.0 hrs",
+              "price": 10.0
+            },
+            {
+              "timeSpan": "0.0 -18.0 hrs",
+              "price": 0.0
+            }
+          ]
+        }
+      ],
+      "fromText": "From",
+      "fromPrice": "0",
+      "location": {
+        "longitude": 150.845141696349,
+        "latitude": -33.770798013996,
+        "zoom": 13,
+        "address": "1 Station Street, Rooty Hill",
+        "region": {
+          "name": "Greater West",
+          "longitude": 150.94768524169922,
+          "latitude": -33.806252750539684,
+          "status": "",
+          "state": {
+            "name": "New South Wales",
+            "abbreviation": "NSW",
+            "country": "Australia",
+            "longitude": 151.207430362701,
+            "latitude": -33.8662642500823,
+            "status": ""
+          }
+        }
+      },
+      "openingTimes": [
+        {
+          "day_TimePeriod": "Public Holiday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Monday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Tuesday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Wednesday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Thursday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Friday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Saturday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Sunday",
+          "is24_7": true,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        }
+      ],
+      "url": "/parking-locations/new-south-wales/greater-west/rooty-hill-parkride/",
+      "serviceConfiguration": {
+        "canBookABay": false,
+        "bookABayIconLabel": "Prepay Online",
+        "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
+        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingIconLabel": "Monthly Subscription",
+        "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
+        "isWilsonOne": false,
+        "wilsonOneIconLabel": "Parking Card",
+        "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
+        "disabledParkingIsAvailable": false,
+        "disabledParkingIconLabel": "Disabled Parking",
+        "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
+        "evChargerIsAvailable": false,
+        "evChargerIconLabel": "EV Charging",
+        "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
+        "spottIsAvailable": false,
+        "spottIconLabel": "Spott",
+        "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
+        "additionalServices": []
+      },
+      "state": "NSW",
+      "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
       "price": "",
       "status": "",
       "cpmsCarparkCode": null,
@@ -57130,7 +57145,7 @@
       "costCenter": 1003117,
       "direction": "Entry via Albert St & Victoria Parade",
       "heightRestriction": 2.0,
-      "information": "<p>Wilson Parking offers affordable &amp; convenient parking at 410 Albert St Car Park, East Melbourne. Nearby to the Eye and Ear Hospital and Parliament House, and offering online discounts for Flexi-Saver, Weekend and Night parking, along with competitive drive-in rates, the 410 Albert St Car Park will meet all of your parking needs.</p>\n<p><strong>This car park accepts credit card payments only.</strong></p>\n<p>Pay as you go with the Wilson Parking Card, or enjoy convenient unlimited 24/7 access when you subscribe to Monthly Parking.</p>",
+      "information": "<p>Wilson Parking offers affordable &amp; convenient parking at 410 Albert St Car Park, East Melbourne. Nearby to the Eye and Ear Hospital and Parliament House, and offering online discounts for Flexi Saver, Hospital Visitor Parking, Weekend and Night Parking, along with competitive drive-in rates, the 410 Albert St Car Park will meet all of your parking needs.<br /><br /><strong>This car park accepts credit card payments only.<br /></strong>Pay as you go with the Wilson Parking Card, or enjoy convenient unlimited 24/7 access when you subscribe to Monthly Parking.<br /><br /><strong>Need Hospital Parking?<br /></strong>Prepay for our weekday Hospital Visitor Parking, available for up to 3 hours parking.</p>",
       "isWilsonOne": true,
       "spottIsAvailable": true,
       "legacyID": 76,
@@ -60899,7 +60914,7 @@
       "costCenter": 1003250,
       "direction": "Entry via Russell St (Extension) or off Batman Ave (at Tennis Centre)\nOn event dates and busy periods, please use the Batman Ave Exit from Level 1 and allow additional time to exit. ",
       "heightRestriction": 2.1,
-      "information": "<p><span style=\"color: #ff1e25;\">4th, 5th Nov from 10pm to 6am, Car park will only be accessible via Batman Avenue.</span><span style=\"color: #ff1e25;\"><br /></span><strong style=\"color: #ff1e25;\"><u>Event Dates November 2026<br /></u></strong><span style=\"color: #ff1e25;\">28th</span><span style=\"color: #ff1e25;\">&nbsp;from 8am<br /></span><span style=\"color: #ff1e25;\">15th, 21st</span><span style=\"color: #ff1e25;\">&nbsp;, 22nd</span><span style=\"color: #ff1e25;\">&nbsp;from 10am<br /></span><span style=\"color: #ff1e25;\">7th, 12th, 13th,14th, 17th, 20th</span><span style=\"color: #ff1e25;\">&nbsp;24th</span><span style=\"color: #ff1e25;\">&nbsp;from 4pm<br /></span><span style=\"color: #ff1e25;\">Event rates will apply.<br /></span><em style=\"color: #ff1e25;\">On event dates, please allow additional time to exit.</em></p>\n<p>Wilson Parking offers affordable &amp; secure parking at Federation Square Car Park, located on Russell St (Extension) in the Melbourne CBD. This car park is nearby to many popular attractions, including Federation Square, Flinders St Station, Birrarung Marr, Rod Laver Arena and Melbourne Park. Offering Casual, Early Bird, Hourly, Night and Weekend parking, with exclusive discounts when you prepay online, the Federation Square Car Park will meet all of your parking needs.</p>\n<p><span style=\"color: #000000;\"><strong>On event dates and busy periods, please use the Batman Avenue Exit from Level 1 and allow additional time to exit.</strong></span></p>\n<p>Download the Wilson Parking App to plan your journey and access exclusive discounts when you prepay online; pay as you go with one convenient monthly invoice when you use your Wilson Parking Card; enjoy 24/7 unlimited access when you subscribe to Monthly Parking; or just drive up to pay with a credit card at the car park.</p>",
+      "information": "<p><strong style=\"color: #ff1e25;\"><u>Event Dates November 2026<br /></u></strong><span style=\"color: #ff1e25;\">28th</span><span style=\"color: #ff1e25;\">&nbsp;from 8am<br /></span><span style=\"color: #ff1e25;\">15th, 21st</span><span style=\"color: #ff1e25;\">&nbsp;, 22nd</span><span style=\"color: #ff1e25;\">&nbsp;from 10am<br /></span><span style=\"color: #ff1e25;\">7th, 12th, 13th,14th, 17th, 20th</span><span style=\"color: #ff1e25;\">&nbsp;24th</span><span style=\"color: #ff1e25;\">&nbsp;from 4pm<br /></span><span style=\"color: #ff1e25;\">Event rates will apply.<br /></span><em style=\"color: #ff1e25;\">On event dates, please allow additional time to exit.</em></p>\n<p>Wilson Parking offers affordable &amp; secure parking at Federation Square Car Park, located on Russell St (Extension) in the Melbourne CBD. This car park is nearby to many popular attractions, including Federation Square, Flinders St Station, Birrarung Marr, Rod Laver Arena and Melbourne Park. Offering Casual, Early Bird, Hourly, Night and Weekend parking, with exclusive discounts when you prepay online, the Federation Square Car Park will meet all of your parking needs.</p>\n<p><span style=\"color: #000000;\"><strong>On event dates and busy periods, please use the Batman Avenue Exit from Level 1 and allow additional time to exit.</strong></span></p>\n<p>Download the Wilson Parking App to plan your journey and access exclusive discounts when you prepay online; pay as you go with one convenient monthly invoice when you use your Wilson Parking Card; enjoy 24/7 unlimited access when you subscribe to Monthly Parking; or just drive up to pay with a credit card at the car park.</p>",
       "isWilsonOne": true,
       "spottIsAvailable": true,
       "legacyID": 94,
@@ -89853,7 +89868,7 @@
       "carParkPhoto": "/contentassets/ca151af77ba848a8a7950e6de5610cf5/capture.jpg",
       "category": "",
       "costCenter": 1006212,
-      "direction": "<b>**Car Park only operational on selected event days**</b><br>\n\n</b><br>11th Sep - Fremantle Vs Geelong<b>\n</b><br>(Gate opens at 4:30am and closes at 10:00pm sharp)<b>\n\n</b><br>20th Sep - WAFL Grand Final<b>\n</b><br>(Gate opens at 8:30am and closes at 8:00pm sharp)<b>\n\n</b><br>27th Sep - Wallabies Vs Springboks<b>\n</b><br>(Gate opens at 12:30pm and closes at 10:00pm sharp)<b>",
+      "direction": "<b>**Car Park only operational on selected event days**</b><br>\n\n</b><br>13th Nov - Mens ODI Aus Vs Eng<b>\n</b><br>(Gate opens at 10am and closes at 5pm sharp)<b>\n\n</b><br>23rd Nov - Shaffield Shield Day 1<b>\n</b><br>(Gate opens at 10am and closes at 5pm sharp)<b>\n\n</b><br>24th Nov - Sheffield Shield Day 2<b>\n</b><br>(Gate opens at 10am and closes at 5pm sharp)<b>\n\n</b><br>25th Nov - Sheffield Shield Day 3<b>\n</b><br>(Gate opens at 10am and closes at 5pm sharp)<b>",
       "heightRestriction": 0.0,
       "information": "<p>Wilson Parking offers affordable parking at Belmont Racecourse Car Park for Optus Stadium event parking only. Located a short walk from Optus Stadium, this car park is the perfect location for footy, cricket, concerts and other Optus Stadium events. Operational days are shown under the parking rates to the left.</p>\n<p>Parking must be prepaid in advance through the Wilson Parking App or website. No payments can be taken at the gate. Must present prepaid confirmation to access car park.</p>",
       "isWilsonOne": false,
@@ -92312,7 +92327,7 @@
               "price": 34.0
             },
             {
-              "timeSpan": "5.0 - 6.0 hrs",
+              "timeSpan": "5.0 hrs +",
               "price": 37.0
             }
           ]
@@ -92526,64 +92541,64 @@
           "day_TimePeriod": "Monthly",
           "is24_7": false,
           "closed": false,
-          "opening": "06:00",
-          "closing": "19:30",
+          "opening": "05:00",
+          "closing": "19:00",
           "note": null
         },
         {
           "day_TimePeriod": "Monday",
           "is24_7": false,
           "closed": false,
-          "opening": "06:00",
-          "closing": "19:30",
+          "opening": "05:00",
+          "closing": "19:00",
           "note": null
         },
         {
           "day_TimePeriod": "Tuesday",
           "is24_7": false,
           "closed": false,
-          "opening": "06:00",
-          "closing": "19:30",
+          "opening": "05:00",
+          "closing": "19:00",
           "note": null
         },
         {
           "day_TimePeriod": "Wednesday",
           "is24_7": false,
           "closed": false,
-          "opening": "06:00",
-          "closing": "19:30",
+          "opening": "05:00",
+          "closing": "19:00",
           "note": null
         },
         {
           "day_TimePeriod": "Thursday",
           "is24_7": false,
           "closed": false,
-          "opening": "06:00",
-          "closing": "19:30",
+          "opening": "05:00",
+          "closing": "19:00",
           "note": null
         },
         {
           "day_TimePeriod": "Friday",
           "is24_7": false,
           "closed": false,
-          "opening": "06:00",
-          "closing": "19:30",
+          "opening": "05:00",
+          "closing": "19:00",
           "note": null
         },
         {
           "day_TimePeriod": "Saturday",
           "is24_7": false,
           "closed": false,
-          "opening": "06:00",
-          "closing": "19:30",
+          "opening": "05:00",
+          "closing": "19:00",
           "note": null
         },
         {
           "day_TimePeriod": "Sunday",
           "is24_7": false,
           "closed": false,
-          "opening": "06:00",
-          "closing": "19:30",
+          "opening": "05:00",
+          "closing": "19:00",
           "note": null
         },
         {
@@ -92744,64 +92759,64 @@
           "day_TimePeriod": "Monthly",
           "is24_7": false,
           "closed": false,
-          "opening": "06:00",
-          "closing": "19:30",
+          "opening": "05:00",
+          "closing": "19:00",
           "note": null
         },
         {
           "day_TimePeriod": "Monday",
           "is24_7": false,
           "closed": false,
-          "opening": "06:00",
-          "closing": "19:30",
+          "opening": "05:00",
+          "closing": "19:00",
           "note": null
         },
         {
           "day_TimePeriod": "Tuesday",
           "is24_7": false,
           "closed": false,
-          "opening": "06:00",
-          "closing": "19:30",
+          "opening": "05:00",
+          "closing": "19:00",
           "note": null
         },
         {
           "day_TimePeriod": "Wednesday",
           "is24_7": false,
           "closed": false,
-          "opening": "06:00",
-          "closing": "19:30",
+          "opening": "05:00",
+          "closing": "19:00",
           "note": null
         },
         {
           "day_TimePeriod": "Thursday",
           "is24_7": false,
           "closed": false,
-          "opening": "06:00",
-          "closing": "19:30",
+          "opening": "05:00",
+          "closing": "19:00",
           "note": null
         },
         {
           "day_TimePeriod": "Friday",
           "is24_7": false,
           "closed": false,
-          "opening": "06:00",
-          "closing": "19:30",
+          "opening": "05:00",
+          "closing": "19:00",
           "note": null
         },
         {
           "day_TimePeriod": "Saturday",
           "is24_7": false,
           "closed": false,
-          "opening": "06:00",
-          "closing": "19:30",
+          "opening": "05:00",
+          "closing": "19:00",
           "note": null
         },
         {
           "day_TimePeriod": "Sunday",
           "is24_7": false,
           "closed": false,
-          "opening": "06:00",
-          "closing": "19:30",
+          "opening": "05:00",
+          "closing": "19:00",
           "note": null
         },
         {
@@ -93943,66 +93958,66 @@
         },
         {
           "day_TimePeriod": "Monday",
-          "is24_7": false,
+          "is24_7": true,
           "closed": false,
-          "opening": "05:00",
-          "closing": "20:00",
+          "opening": "",
+          "closing": "",
           "note": null
         },
         {
           "day_TimePeriod": "Tuesday",
-          "is24_7": false,
+          "is24_7": true,
           "closed": false,
-          "opening": "05:00",
-          "closing": "20:00",
+          "opening": "",
+          "closing": "",
           "note": null
         },
         {
           "day_TimePeriod": "Wednesday",
-          "is24_7": false,
+          "is24_7": true,
           "closed": false,
-          "opening": "05:00",
-          "closing": "20:00",
+          "opening": "",
+          "closing": "",
           "note": null
         },
         {
           "day_TimePeriod": "Thursday",
-          "is24_7": false,
+          "is24_7": true,
           "closed": false,
-          "opening": "05:00",
-          "closing": "20:00",
+          "opening": "",
+          "closing": "",
           "note": null
         },
         {
           "day_TimePeriod": "Friday",
-          "is24_7": false,
+          "is24_7": true,
           "closed": false,
-          "opening": "05:00",
-          "closing": "20:00",
+          "opening": "",
+          "closing": "",
           "note": null
         },
         {
           "day_TimePeriod": "Saturday",
-          "is24_7": false,
+          "is24_7": true,
           "closed": false,
-          "opening": "05:00",
-          "closing": "20:00",
+          "opening": "",
+          "closing": "",
           "note": null
         },
         {
           "day_TimePeriod": "Sunday",
-          "is24_7": false,
+          "is24_7": true,
           "closed": false,
-          "opening": "05:00",
-          "closing": "20:00",
+          "opening": "",
+          "closing": "",
           "note": null
         },
         {
           "day_TimePeriod": "Public Holiday",
-          "is24_7": false,
+          "is24_7": true,
           "closed": false,
-          "opening": "05:00",
-          "closing": "20:00",
+          "opening": "",
+          "closing": "",
           "note": null
         }
       ],
@@ -94626,7 +94641,9 @@
         "Night Parking",
         "Weekend Parking",
         "Book a Bay",
-        "Wilson One"
+        "Wilson One",
+        "LPR",
+        "Spott"
       ],
       "services": [
         "book a bay",
@@ -94642,7 +94659,7 @@
       "heightRestriction": 2.0,
       "information": "<p>Wilson Parking offer affordable parking at The Quay Car Park, located at 18 The Esplanade, in the middle of the Perth CBD. Open 24/7, this undercover car park provides convenient parking access for Elizabeth Quay, Barrack Square &amp; the Bell Tower, with direct access to Allendale Square and St Georges Terrace from level 4 of the car park.&nbsp;Entry to the car park is via the east-bound lanes of The Esplanade only. If travelling from the east, please proceed onto St Georges Terrace west-bound, and then turn left down Howard St to reach The Esplanade.</p>\n<p>Offering casual Hourly, Night and Weekend Parking, as well as permanent monthly parking options, the Quay Car Park will meet all your Perth CBD Parking needs.&nbsp;</p>\n<p>Subscribe to monthly parking and enjoy the convenience of unlimited 24/7 car park access, or pay as you go with the Wilson Parking Card.</p>",
       "isWilsonOne": true,
-      "spottIsAvailable": false,
+      "spottIsAvailable": true,
       "legacyID": 503,
       "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
@@ -94825,7 +94842,7 @@
         "evChargerIsAvailable": false,
         "evChargerIconLabel": "EV Charging",
         "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "spottIsAvailable": false,
+        "spottIsAvailable": true,
         "spottIconLabel": "Spott",
         "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
         "additionalServices": []
@@ -99452,7 +99469,7 @@
               "price": 15.0
             },
             {
-              "timeSpan": "6.0 + hrs until 6pm",
+              "timeSpan": "7.0 + hrs until 6pm",
               "price": 45.0
             }
           ]
@@ -100762,10 +100779,10 @@
         },
         {
           "rateType": "Weekend",
-          "notes": "<p>Rates apply per exit, per day, Saturday and Sunday.</p>\n<p>*Online rate only available when purchasing through the Wilson Parking App. Online rates includes platform fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a> to download the Wilson Parking App</p>",
+          "notes": "<p>Drive up: Rates apply per exit, valid for 12 hrs from the time of entry -Saturday and Sunday.</p>\n<p>Online: Rates apply for 12 hrs from the time of purchase - Saturday and Sunday</p>\n<p>*Online rate only available when purchasing through the Wilson Parking App. Online rates includes platform fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a> to download the Wilson Parking App</p>",
           "rates": [
             {
-              "timeSpan": "Drive up Flat Rate",
+              "timeSpan": "12 Hours",
               "price": 8.0
             }
           ]
@@ -102951,7 +102968,7 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Rates apply Monday - Sunday.</p>\n<p>First 90 mins free with ticket.</p>",
+          "notes": "<p>Rates apply Monday - Sunday.</p>\n<p>First 90 mins free, no ticket required.</p>",
           "rates": [
             {
               "timeSpan": "0.0 - 1.5 hrs",
