@@ -11876,7 +11876,7 @@
       "costCenter": 1002357,
       "direction": "55 Holt St, Surry Hills",
       "heightRestriction": 2.1,
-      "information": "<p><span style=\"color: #ff1e25;\"><span class=\"ql-color-#ff1e25\"><strong>Notice: Planned Power Shutdown</strong><br /></span><strong>Carpark will remain closed all of Saturday 7th November and Sunday 8th November 2026.<br /></strong></span><span class=\"ql-color-#ff1e25\"><strong><span style=\"color: #ff1e25;\">No access - entry or exit permitted during this time</span></strong><br /><br /></span>Wilson Parking offer affordable &amp; secure parking at 55 Holt St Car Park, located at 55 Holt St in Surry Hills in the South of the Sydney CBD.&nbsp;Open until midnight 7 days a week, this undercover car park provides convenient access to nearby stores, restaurants and other Surry Hills businesses.&nbsp;Offering casual Hourly, Weekend and Night Parking with exclusive discounts when you prepay online and permanent monthly parking for regular parkers,&nbsp;the 55 Holt St&nbsp;Car Park will meet all your business and leisure parking needs.&nbsp;</p>\n<p>Download the Wilson Parking App to plan your journey and access parking discounts when you prepay online;&nbsp;enjoy unlimited 24/7 access when you subscribe to monthly parking; or&nbsp;pay as you go on one convenient monthly invoice when you use your Wilson Parking Card to access the car park.</p>",
+      "information": "<p>Wilson Parking offer affordable &amp; secure parking at 55 Holt St Car Park, located at 55 Holt St in Surry Hills in the South of the Sydney CBD.&nbsp;Open until midnight 7 days a week, this undercover car park provides convenient access to nearby stores, restaurants and other Surry Hills businesses.&nbsp;Offering casual Hourly, Weekend and Night Parking with exclusive discounts when you prepay online and permanent monthly parking for regular parkers,&nbsp;the 55 Holt St&nbsp;Car Park will meet all your business and leisure parking needs.&nbsp;</p>\n<p>Download the Wilson Parking App to plan your journey and access parking discounts when you prepay online;&nbsp;enjoy unlimited 24/7 access when you subscribe to monthly parking; or&nbsp;pay as you go on one convenient monthly invoice when you use your Wilson Parking Card to access the car park.</p>",
       "isWilsonOne": true,
       "spottIsAvailable": true,
       "legacyID": 802,
@@ -43284,6 +43284,7 @@
       "canBookABay": false,
       "selectedFeatures": "",
       "carParkFeature": [
+        "Monthly Parking",
         "Night Parking",
         "Weekend Parking",
         "Early Bird Parking",
@@ -43292,6 +43293,7 @@
         "EV Charging"
       ],
       "services": [
+        "monthly",
         "disabled parking",
         "ev charging"
       ],
@@ -43302,11 +43304,11 @@
       "costCenter": 1012128,
       "direction": "Entry via Cooyong Street",
       "heightRestriction": 1.95,
-      "information": "<p>Wilson Parking offer affordable parking at Canberra Centre Car Park which is located at 148 Bunda Street, Canberra City. Open 7 days, this undercover car park provides convenient access to nearby Canberra businesses as well as popular restaurants and hotels. Offering casual Hourly, Early Bird, and Monthly parking, the Canberra Centre Car Park will meet all of your parking needs.</p>\n<p>Enjoy unlimited 24/7 access when you subscribe to Monthly Subscription parking.</p>",
+      "information": "<p>Wilson Parking offer affordable parking at Canberra Centre Car Park which is located at 148 Bunda Street, Canberra City. Open 7 days, this undercover car park provides convenient access to nearby Canberra businesses as well as popular restaurants and hotels. Offering casual Hourly, Early Bird, and Monthly parking, the Canberra Centre Car Park will meet all of your parking needs.</p>\n<p class=\"elementtoproof\" style=\"background: white;\">&nbsp;</p>\n<p>&nbsp;</p>",
       "isWilsonOne": false,
       "spottIsAvailable": false,
       "legacyID": 1128,
-      "monthlyParkingServiceIsAvailable": false,
+      "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": true,
       "disabledParkingIsAvailable": true,
       "phoneNumber": "1800 PARKING (1800 727 546)",
@@ -43503,7 +43505,7 @@
         "canBookABay": false,
         "bookABayIconLabel": "Prepay Online",
         "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingServiceIsAvailable": true,
         "monthlyParkingIconLabel": "Monthly Subscription",
         "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
         "isWilsonOne": false,
