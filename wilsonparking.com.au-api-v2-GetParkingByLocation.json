@@ -65356,7 +65356,9 @@
         "Wilson One",
         "Flexi Parking",
         "Daily Pass Bundles",
-        "Special Event Parking"
+        "Special Event Parking",
+        "LPR",
+        "Spott"
       ],
       "services": [
         "book a bay",
@@ -65372,7 +65374,7 @@
       "heightRestriction": 2.05,
       "information": "<p>Wilson Parking offer affordable &amp; secure parking at 542 Little Bourke Street, located at 542 Little Bourke Street in the Melbourne CBD. Nearby to restaurants, shopping and hotels, and offering Monthly, Early Bird, Weekend and Night parking as well as online discounted parking, the 542 Little Bourke Street Car Park will meet all of your parking needs.&nbsp;</p>\n<p>This car park accepts Credit Card payments only. Pay as you go with a Wilson Parking card, or enjoy 24/7 unlimited access when you subscribe to Monthly Parking.&nbsp;</p>",
       "isWilsonOne": true,
-      "spottIsAvailable": false,
+      "spottIsAvailable": true,
       "legacyID": 32,
       "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
@@ -65553,7 +65555,7 @@
         "evChargerIsAvailable": false,
         "evChargerIconLabel": "EV Charging",
         "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "spottIsAvailable": false,
+        "spottIsAvailable": true,
         "spottIconLabel": "Spott",
         "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
         "additionalServices": []
