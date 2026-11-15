@@ -61544,6 +61544,7 @@
         "Melbourne Train Delays",
         "RISING",
         "LPR",
+        "Spott Saver",
         "Spott"
       ],
       "services": [
@@ -61572,26 +61573,38 @@
       "streetViewLocation": "https://www.google.com/maps/@?api=1&map_action=pano&pano=uUTTHq28yE8WwyfvOnNv-Q&viewpoint=-37.81696788639487,144.96897553249482&heading=329.8158573100609&pitch=-2.2242913517236786",
       "rates": [
         {
-          "rateType": "Daily",
-          "notes": "<p>Drive Up Conditions: Drive up rates are per exit, per 24 hours.</p>\n<p>Enjoy greater flexibility, select your Flexi Saver Parking to enter and exit at the time you need with one flat rate.</p>\n<p>Flexi Saver Rate is only available online and includes platform fee.</p>\n<p><strong>Flexi Saver Rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The flexi saver price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p><em>*A one hour grace period applies before your selected entry time and following your selected exit time. Prepaid parking is for one entry and one exit only.</em></p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>",
+          "rateType": "Hourly",
+          "notes": "<p>Monday - Friday, 6am to 4pm</p>",
           "rates": [
             {
-              "timeSpan": "24 hr Stay",
-              "price": 32.0
+              "timeSpan": "0.0 - 1.0 hr",
+              "price": 22.0
+            },
+            {
+              "timeSpan": "1.0 - 2.0 hrs",
+              "price": 44.0
+            },
+            {
+              "timeSpan": "2.0 - 3.0 hrs",
+              "price": 66.0
+            },
+            {
+              "timeSpan": "3.0 + hrs",
+              "price": 78.0
             }
           ]
         },
         {
           "rateType": "Night",
-          "notes": "<p>Drive Up Conditions: Drive up rates are per exit, per 24 hours.&nbsp;</p>\n<p>Online Conditions: Entry after 4pm, exit before 6am next day.</p>\n<p>Online rate shown includes platform fee. Click the <strong>Prepay Now</strong> link below to get started.</p>",
+          "notes": "<p>From 4pm - 6am next day</p>\n<p>Online rate shown includes platform fee. Click the <strong>Prepay Now</strong> link below to get started.</p>\n<p><span style=\"color: #ff1e25;\"><strong>Event parking</strong></span></p>\n<p>Event Rate may be applicable on peak precinct event days.</p>\n<p>Online Night Rate will not be available. Flexi Saver rates will apply at these times.</p>\n<p><span class=\"ui-provider ee bms bpw bpx bpy bpz bqa bqb bqc bqd bqe bqf bqg bqh bqi bqj bqk bql bqm bqn bqo bqp bqq bqr bqs bqt bqu bqv bqw bqx bqy bqz bra brb brc\" dir=\"ltr\">Drive up Event Rate will replace the drive up Night Rate for any vehicle entering before midnight.</span></p>",
           "rates": [
             {
               "timeSpan": "Mon - Thurs",
-              "price": 32.0
+              "price": 18.0
             },
             {
               "timeSpan": "Fri",
-              "price": 32.0
+              "price": 27.0
             },
             {
               "timeSpan": "Event Rate",
@@ -61601,20 +61614,10 @@
         },
         {
           "rateType": "Weekend",
-          "notes": "<p>Drive Up Conditions: Drive up rates are per exit, per 24 hours.&nbsp;</p>\n<p>Pay in advance to access the best possible rates.</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the <strong>Prepay Now</strong> link below to get started.<br />Rates shown include platform fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>",
+          "notes": "<p>Saturday or Sunday &amp; Public Holidays. Day applies from 6am - 6am next day.</p>\n<p>Pay in advance to access the best possible rates.</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the <strong>Prepay Now</strong> link below to get started.<br />Rates shown include platform fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>",
           "rates": [
             {
               "timeSpan": "Sat - Sun & Public Holiday varies from $21.00 - $24.00, depending on demand",
-              "price": 32.0
-            }
-          ]
-        },
-        {
-          "rateType": "Overnight",
-          "notes": "<p>Price shown includes the platform fee.</p>\n<p>Parking must be prepay online to receive the discount. Prepay online is available for parking stays between one&nbsp;and three&nbsp;nights.</p>\n<p><strong>Available for one entry and one exit only.</strong></p>",
-          "rates": [
-            {
-              "timeSpan": "24 hr Stay from",
               "price": 32.0
             }
           ]
