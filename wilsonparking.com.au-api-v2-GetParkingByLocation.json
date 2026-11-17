@@ -22197,7 +22197,7 @@
       "costCenter": 1002401,
       "direction": "Entry via Gilbert St",
       "heightRestriction": 2.1,
-      "information": "<p>Wilson Parking offer affordable &amp; reliable parking at Grande Esplanade Car Park, located at 54 &ndash; 68 West Esplanade in the heart Manly. Open 7 days, this undercover car park provides convenient access to nearby Manly Beach and Manly Wharf. Offering Hourly parking options for regular parkers, the Grande Esplanade Car Park will meet all your parking needs.&nbsp;</p>\n<p>This car park has been Spotted! The easy way to access and pay for parking. No more tapping cards, simply access this car park with vehicle recognition. Join for free in the <a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\" target=\"_blank\" rel=\"noopener\">Wilson Parking App</a>.&nbsp;</p>",
+      "information": "<p>Wilson Parking offer affordable &amp; reliable parking at Grande Esplanade Car Park, located at 54 &ndash; 68 West Esplanade in the heart of Manly. Open 7 days, this undercover car park provides convenient access to nearby Manly Beach and Manly Wharf. Offering Hourly parking options for regular parkers, the Grande Esplanade Car Park will meet all your parking needs.&nbsp;</p>\n<p>This car park has been Spotted! The easy way to access and pay for parking. No more tapping cards, simply access this car park with vehicle recognition. Join for free in the <a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\" target=\"_blank\" rel=\"noopener\">Wilson Parking App</a>.&nbsp;</p>",
       "isWilsonOne": false,
       "spottIsAvailable": true,
       "legacyID": 2401,
@@ -26456,16 +26456,18 @@
     {
       "name": "22 Hassall St Parramatta",
       "bookText": null,
-      "canBookABay": false,
+      "canBookABay": true,
       "selectedFeatures": "",
       "carParkFeature": [
         "Night Parking",
         "Weekend Parking",
+        "Book a Bay",
         "Disabled Parking",
         "LPR",
-        "Spott"
+        "Elevate Only"
       ],
       "services": [
+        "book a bay",
         "disabled parking"
       ],
       "carParkName": "22 Hassall St Parramatta",
@@ -26477,7 +26479,7 @@
       "heightRestriction": 2.2,
       "information": "<p>The 22 Hassall St car park is located at 22 Hassall St Parramatta. Open 24/7, this undercover car park is close to Parramatta Station, shopping and restaurants.&nbsp;</p>\n<p>Offering casual rates for every day parking , the 22 Hassall St car park will meet all your parking needs.</p>",
       "isWilsonOne": false,
-      "spottIsAvailable": true,
+      "spottIsAvailable": false,
       "legacyID": 5002201,
       "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": false,
@@ -26625,7 +26627,7 @@
       ],
       "url": "/parking-locations/new-south-wales/parramatta/22-hassall-st-parramatta/",
       "serviceConfiguration": {
-        "canBookABay": false,
+        "canBookABay": true,
         "bookABayIconLabel": "Prepay Online",
         "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
         "monthlyParkingServiceIsAvailable": false,
@@ -26640,7 +26642,7 @@
         "evChargerIsAvailable": false,
         "evChargerIconLabel": "EV Charging",
         "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "spottIsAvailable": true,
+        "spottIsAvailable": false,
         "spottIconLabel": "Spott",
         "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
         "additionalServices": []
@@ -56944,32 +56946,32 @@
           "notes": "<p>Rates apply Monday - Friday</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 1.0 hrs",
-              "price": 11.0
+              "timeSpan": "0.0 - 1.0 hr",
+              "price": 12.0
             },
             {
               "timeSpan": "1.0 - 2.0 hrs",
-              "price": 18.0
+              "price": 20.0
             },
             {
               "timeSpan": "2.0 - 3.0 hrs",
-              "price": 22.0
+              "price": 24.0
             },
             {
               "timeSpan": "3.0 - 4.0 hrs",
-              "price": 25.0
+              "price": 26.0
             },
             {
               "timeSpan": "4.0 - 5.0 hrs",
-              "price": 27.0
+              "price": 28.0
             },
             {
               "timeSpan": "5.0 - 6.0 hrs",
               "price": 30.0
             },
             {
-              "timeSpan": "6.0+ hrs",
-              "price": 30.0
+              "timeSpan": "6.0 + hrs",
+              "price": 32.0
             }
           ]
         },
@@ -56978,16 +56980,16 @@
           "notes": "<p>Rates apply Saturday - Sunday</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 1.0 hrs",
+              "timeSpan": "0.0 - 1.0 hr",
               "price": 6.0
             },
             {
               "timeSpan": "1.0 - 2.0 hrs",
-              "price": 11.0
+              "price": 12.0
             },
             {
-              "timeSpan": "2.0+ hrs",
-              "price": 14.0
+              "timeSpan": "2.0 + hrs",
+              "price": 15.0
             }
           ]
         }
@@ -57603,32 +57605,32 @@
           "notes": "<p>Rates apply Monday - Friday</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 1.0 hrs",
-              "price": 11.0
+              "timeSpan": "0.0 - 1.0 hr",
+              "price": 12.0
             },
             {
               "timeSpan": "1.0 - 2.0 hrs",
-              "price": 18.0
+              "price": 20.0
             },
             {
               "timeSpan": "2.0 - 3.0 hrs",
-              "price": 22.0
+              "price": 24.0
             },
             {
               "timeSpan": "3.0 - 4.0 hrs",
-              "price": 25.0
+              "price": 26.0
             },
             {
               "timeSpan": "4.0 - 5.0 hrs",
-              "price": 27.0
+              "price": 28.0
             },
             {
               "timeSpan": "5.0 - 6.0 hrs",
               "price": 30.0
             },
             {
-              "timeSpan": "6.0+ hrs",
-              "price": 30.0
+              "timeSpan": "6.0 + hrs",
+              "price": 32.0
             }
           ]
         },
@@ -57637,16 +57639,16 @@
           "notes": "<p>Rates apply Saturday - Sunday</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 1.0 hrs",
+              "timeSpan": "0.0 - 1.0 hr",
               "price": 6.0
             },
             {
               "timeSpan": "1.0 - 2.0 hrs",
-              "price": 11.0
+              "price": 12.0
             },
             {
-              "timeSpan": "2.0+ hrs",
-              "price": 14.0
+              "timeSpan": "2.0 + hrs",
+              "price": 15.0
             }
           ]
         }
@@ -60922,7 +60924,7 @@
       "costCenter": 1003250,
       "direction": "Entry via Russell St (Extension) or off Batman Ave (at Tennis Centre)\nOn event dates and busy periods, please use the Batman Ave Exit from Level 1 and allow additional time to exit. ",
       "heightRestriction": 2.1,
-      "information": "<p><strong style=\"color: #ff1e25;\"><u>Event Dates November 2026<br /></u></strong><span style=\"color: #ff1e25;\">28th</span><span style=\"color: #ff1e25;\">&nbsp;from 8am<br /></span><span style=\"color: #ff1e25;\">15th, 21st</span><span style=\"color: #ff1e25;\">&nbsp;, 22nd</span><span style=\"color: #ff1e25;\">&nbsp;from 10am<br /></span><span style=\"color: #ff1e25;\">7th, 12th, 13th,14th, 17th, 20th</span><span style=\"color: #ff1e25;\">&nbsp;24th</span><span style=\"color: #ff1e25;\">&nbsp;from 4pm<br /></span><span style=\"color: #ff1e25;\">Event rates will apply.<br /></span><em style=\"color: #ff1e25;\">On event dates, please allow additional time to exit.</em></p>\n<p>Wilson Parking offers affordable &amp; secure parking at Federation Square Car Park, located on Russell St (Extension) in the Melbourne CBD. This car park is nearby to many popular attractions, including Federation Square, Flinders St Station, Birrarung Marr, Rod Laver Arena and Melbourne Park. Offering Casual, Early Bird, Hourly, Night and Weekend parking, with exclusive discounts when you prepay online, the Federation Square Car Park will meet all of your parking needs.</p>\n<p><span style=\"color: #000000;\"><strong>On event dates and busy periods, please use the Batman Avenue Exit from Level 1 and allow additional time to exit.</strong></span></p>\n<p>Download the Wilson Parking App to plan your journey and access exclusive discounts when you prepay online; pay as you go with one convenient monthly invoice when you use your Wilson Parking Card; enjoy 24/7 unlimited access when you subscribe to Monthly Parking; or just drive up to pay with a credit card at the car park.</p>",
+      "information": "<p><strong style=\"color: #ff1e25;\"><u>Event Dates November 2026<br /></u></strong><span style=\"color: #ff1e25;\">28th</span><span style=\"color: #ff1e25;\">&nbsp;from 8am<br /></span><span style=\"color: #ff1e25;\">21st</span><span style=\"color: #ff1e25;\">&nbsp;, 22nd</span><span style=\"color: #ff1e25;\">&nbsp;from 10am<br /></span><span style=\"color: #ff1e25;\">17th, 20th</span><span style=\"color: #ff1e25;\">&nbsp;24th</span><span style=\"color: #ff1e25;\">&nbsp;from 4pm<br /></span><strong style=\"color: #ff1e25;\"><u>Event Dates December 2026<br /></u></strong><span style=\"color: #ff1e25;\">6th, 11th, 12th, 13th, 18th, 19th, 27th and 29th from 4pm</span><br /><span style=\"color: #ff1e25;\">25th, 26th, 28th Public Holidays</span><br /><span style=\"color: #ff1e25;\">Event rates will apply.<br /></span><em style=\"color: #ff1e25;\">On event dates, please allow additional time to exit.</em></p>\n<p>Wilson Parking offers affordable &amp; secure parking at Federation Square Car Park, located on Russell St (Extension) in the Melbourne CBD. This car park is nearby to many popular attractions, including Federation Square, Flinders St Station, Birrarung Marr, Rod Laver Arena and Melbourne Park. Offering Casual, Early Bird, Hourly, Night and Weekend parking, with exclusive discounts when you prepay online, the Federation Square Car Park will meet all of your parking needs.</p>\n<p><span style=\"color: #000000;\"><strong>On event dates and busy periods, please use the Batman Avenue Exit from Level 1 and allow additional time to exit.</strong></span></p>\n<p>Download the Wilson Parking App to plan your journey and access exclusive discounts when you prepay online; pay as you go with one convenient monthly invoice when you use your Wilson Parking Card; enjoy 24/7 unlimited access when you subscribe to Monthly Parking; or just drive up to pay with a credit card at the car park.</p>",
       "isWilsonOne": true,
       "spottIsAvailable": true,
       "legacyID": 94,
@@ -80554,7 +80556,7 @@
       "carParkPhoto": "/siteassets/parking-location-images/interpark/ipa218.jpg",
       "category": "",
       "costCenter": 5003218,
-      "direction": "Please note this is the multi-storey car park, accessed via the boom gate.\n\n21 Gheringhap St Geelong",
+      "direction": "Please note this is the multi-storey car park, accessed via the boom gate.\n\n21 Gheringhap St, Geelong",
       "heightRestriction": 2.1,
       "information": "<p>The 21 Gheringhap St Car Park offers affordable and secure parking in the heart of Geelong. Close to the retail centre of Geelong, including Westifeld Geelong and Market Square Shopping Centre, along with local parks, the Geelong Art Centre and Deakin University, Geelong Campus, this car park is open 24/7.&nbsp;</p>\n<p>Please note this is the multi-storey car park, accessed via the boom gate.</p>\n<p>The 21 Gheringhap St Car Park offers Casual Hourly, Night and Weekend rates and will meet all your parking needs.</p>",
       "isWilsonOne": false,
@@ -80574,23 +80576,23 @@
           "notes": null,
           "rates": [
             {
-              "timeSpan": "0.0 - 0.5hrs",
+              "timeSpan": "0.0 - 0.5 hr",
               "price": 3.0
             },
             {
-              "timeSpan": "0.5 - 1.0hrs",
+              "timeSpan": "0.5 - 1.0 hr",
               "price": 5.0
             },
             {
-              "timeSpan": "1.0 - 2.0hrs",
+              "timeSpan": "1.0 - 2.0 hrs",
               "price": 9.0
             },
             {
-              "timeSpan": "2.0 - 3.0hrs",
+              "timeSpan": "2.0 - 3.0 hrs",
               "price": 14.0
             },
             {
-              "timeSpan": "3.0- 4.0 hrs",
+              "timeSpan": "3.0 - 4.0 hrs",
               "price": 18.0
             },
             {
@@ -80602,14 +80604,14 @@
               "price": 26.0
             },
             {
-              "timeSpan": "6.0+ hrs",
+              "timeSpan": "6.0 + hrs",
               "price": 28.0
             }
           ]
         },
         {
           "rateType": "Night",
-          "notes": "<p>Availabe for entry after 4:00 pm - 6:00 am the next day.</p>\n<p>*Night rates not applicable on Saturday and Sunday.</p>\n<p>Online rate shown includes platform fee.</p>\n<p>Click the<strong> Prepay now</strong> link below to get started</p>",
+          "notes": "<p>Availabe for entry after 4pm - 6am the next day.</p>\n<p>*Night rates not applicable on Saturday and Sunday.</p>\n<p>Online rate shown includes platform fee.</p>\n<p>Click the<strong> Prepay Now</strong> link below to get started.</p>",
           "rates": [
             {
               "timeSpan": "Mon - Fri",
@@ -80629,7 +80631,7 @@
         },
         {
           "rateType": "Early Bird",
-          "notes": "<p><strong>Drive Up Early Bird Conditions:</strong></p>\n<p>Enter between 6:00 am and 10:00 am</p>\n<p>Exit between 3:00 pm and 6:00 am next day</p>\n<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Flexi Saver Rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The flexi saver price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Flexi Saver Rate is only available online and includes platform fee.</p>\n<p><em>*A one hour grace period applies before your selected entry time and following your selected exit time. Prepaid parking is for one entry and one exit only.</em></p>",
+          "notes": "<p><strong>Drive Up Early Bird Conditions:</strong></p>\n<p>Enter between 6am and 10am</p>\n<p>Exit between 3pm and 6am next day</p>\n<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Flexi Saver Rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The flexi saver price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Flexi Saver Rate is only available online and includes platform fee.</p>\n<p><em>*A one hour grace period applies before your selected entry time and following your selected exit time. Prepaid parking is for one entry and one exit only.</em></p>",
           "rates": [
             {
               "timeSpan": "Drive Up Early Bird from",
@@ -89701,7 +89703,7 @@
       "carParkPhoto": "/contentassets/ca151af77ba848a8a7950e6de5610cf5/capture.jpg",
       "category": "",
       "costCenter": 1006212,
-      "direction": "<b>**Car Park only operational on selected event days**</b><br>\n\n</b><br>13th Nov - Mens ODI Aus Vs Eng<b>\n</b><br>(Gate opens at 10am and closes at 8:30pm sharp)<b>\n\n</b><br>23rd Nov - Shaffield Shield Day 1<b>\n</b><br>(Gate opens at 10am and closes at 5pm sharp)<b>\n\n</b><br>24th Nov - Sheffield Shield Day 2<b>\n</b><br>(Gate opens at 10am and closes at 5pm sharp)<b>\n\n</b><br>25th Nov - Sheffield Shield Day 3<b>\n</b><br>(Gate opens at 10am and closes at 5pm sharp)<b>",
+      "direction": "<b>**Car Park only operational on selected event days**</b><br>\n\n</b><br>23rd Nov - Shaffield Shield Day 1<b>\n</b><br>(Gate opens at 10am and closes at 5pm sharp)<b>\n\n</b><br>24th Nov - Sheffield Shield Day 2<b>\n</b><br>(Gate opens at 10am and closes at 5pm sharp)<b>\n\n</b><br>25th Nov - Sheffield Shield Day 3<b>\n</b><br>(Gate opens at 10am and closes at 5pm sharp)<b>",
       "heightRestriction": 0.0,
       "information": "<p>Wilson Parking offers affordable parking at Belmont Racecourse Car Park for Optus Stadium event parking only. Located a short walk from Optus Stadium, this car park is the perfect location for footy, cricket, concerts and other Optus Stadium events. Operational days are shown under the parking rates to the left.</p>\n<p>Parking must be prepaid in advance through the Wilson Parking App or website. No payments can be taken at the gate. Must present prepaid confirmation to access car park.</p>",
       "isWilsonOne": false,
@@ -92505,7 +92507,7 @@
       "carParkPhoto": "/contentassets/868fe05643fb4038a161c501afe8fa5d/per119.jpg",
       "category": "",
       "costCenter": 1006119,
-      "direction": "Entry via Pier Street<br>\n\nMotorbike parking must be paid for using the 130-144 Stirling St (Hatch) - Motorcycle parking location\n",
+      "direction": "Entry via Pier Street<br>\n\nMotorbike parking must be paid for using the 130-144 Stirling St (Hatch) - Motorcycle parking location\n</br></br>Dear Customers,</br>\n</br></br>Please note scheduled pressure cleaning in the car park on below dates:</br>\n\n</br></br>Saturday, 21st Nov from 7pm to 5am</br>\n</br></br>Sunday, 22nd Nov from 7pm to 5am</br>\n",
       "heightRestriction": 2.2,
       "information": "<p>Wilson Parking offer affordable parking at our 130-144 Stirling Street (Hatch) Car Park, located at 130-144 Stirling St, Perth. Open 7 days, and with a convenient entry off Pier St, the car park provides all day parking for visitors to nearby Northbridge businesses. Offering casual Hourly and Weekend Parking, with exclusive discounts when you prepay online, and permanent monthly parking for regular parkers, the 130 -144 Stirling St (Hatch) Car Park will meet all of your parking needs.&nbsp;</p>\n<p>Download the Wilson Parking App to plan your journey and access exclusive discounts when you prepay ahead; enjoy unlimited access during the operational hours of the car park when you subscribe to Monthly Parking; or pay as you go when you access the car park with your contact free Wilson Parking Card.</p>",
       "isWilsonOne": true,
@@ -105989,7 +105991,7 @@
       "carParkPhoto": "/contentassets/8f04012157dd469da248efd34eb76be7/20230418_093819-002.jpg",
       "category": "",
       "costCenter": 1006158,
-      "direction": "Entry via Manning Street\n</br></br>Due to scheduled works some of the lights in the car park will not work from 11th to 13th November </br>",
+      "direction": "Entry via Manning Street\n",
       "heightRestriction": 2.0,
       "information": "<p>Wilson Parking offer affordable parking at 1 Manning St Car Park which is located in Scarborough. With hourly, weekend and night parking the 1 Manning St Car Park will meet all of your parking needs.</p>",
       "isWilsonOne": false,
