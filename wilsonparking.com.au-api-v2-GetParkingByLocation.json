@@ -3159,7 +3159,7 @@
       "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": false,
-      "phoneNumber": "1800 PARKING",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": "186.88315174840088",
@@ -3167,10 +3167,10 @@
       "rates": [
         {
           "rateType": "Hourly",
-          "notes": "<p>Hourly rates apply Monday to Friday.&nbsp;&nbsp;</p>\n<p>Rates are charged from 6am daily.</p>\n<p>&nbsp;</p>\n<p><strong>*Motorbike Rate:</strong> $25.00 - see attendant onsite for discount to apply<br /><br /></p>",
+          "notes": "<p>Hourly rates apply Monday to Friday.&nbsp;&nbsp;</p>\n<p>Rates are charged from 6am daily.</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 1.0 hrs",
+              "timeSpan": "0.0 - 1.0 hr",
               "price": 30.0
             },
             {
@@ -3180,16 +3180,12 @@
             {
               "timeSpan": "2.0 + hrs",
               "price": 90.0
-            },
-            {
-              "timeSpan": "*Motorbike",
-              "price": 20.0
             }
           ]
         },
         {
           "rateType": "Night",
-          "notes": "<p>Entry after 6pm and exit before close.</p>\n<p>Prepay Online Night from 7pm only.&nbsp;</p>\n<p>Online rate shown includes platform fee. Click the Prepay now link below to get started.</p>",
+          "notes": "<p>Entry after 6pm and exit before close.</p>\n<p>Prepay Online Night from 7pm only.&nbsp;</p>\n<p>Online rate shown includes platform fee. Click the <strong>Prepay Now</strong> link below to get started.</p>",
           "rates": [
             {
               "timeSpan": "Mon - Fri",
@@ -3199,7 +3195,7 @@
         },
         {
           "rateType": "Weekend",
-          "notes": "<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include platform fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>\n<p>&nbsp;</p>",
+          "notes": "<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Weekend rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The weekend price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include platform fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>",
           "rates": [
             {
               "timeSpan": "Weekend varies from $30.00 - $34.00, depending on demand",
@@ -3209,7 +3205,7 @@
         }
       ],
       "fromText": "From",
-      "fromPrice": "20",
+      "fromPrice": "23",
       "location": {
         "longitude": 151.20784342288971,
         "latitude": -33.864825501071259,
@@ -12904,6 +12900,7 @@
         "Flexi Parking",
         "Disabled Parking",
         "LPR",
+        "Spott Saver",
         "Spott"
       ],
       "services": [
@@ -16544,64 +16541,64 @@
           "day_TimePeriod": "Monday",
           "is24_7": false,
           "closed": false,
-          "opening": "06:30",
-          "closing": "23:00",
+          "opening": "07:30",
+          "closing": "22:00",
           "note": null
         },
         {
           "day_TimePeriod": "Tuesday",
           "is24_7": false,
           "closed": false,
-          "opening": "06:30",
-          "closing": "23:00",
+          "opening": "07:30",
+          "closing": "22:00",
           "note": null
         },
         {
           "day_TimePeriod": "Wednesday",
           "is24_7": false,
           "closed": false,
-          "opening": "06:30",
-          "closing": "23:00",
+          "opening": "07:30",
+          "closing": "22:00",
           "note": null
         },
         {
           "day_TimePeriod": "Thursday",
           "is24_7": false,
           "closed": false,
-          "opening": "06:30",
-          "closing": "23:00",
+          "opening": "07:30",
+          "closing": "22:00",
           "note": null
         },
         {
           "day_TimePeriod": "Friday",
           "is24_7": false,
           "closed": false,
-          "opening": "06:30",
-          "closing": "23:00",
+          "opening": "07:30",
+          "closing": "22:00",
           "note": null
         },
         {
           "day_TimePeriod": "Saturday",
           "is24_7": false,
           "closed": false,
-          "opening": "06:30",
-          "closing": "23:00",
+          "opening": "07:30",
+          "closing": "22:00",
           "note": null
         },
         {
           "day_TimePeriod": "Sunday",
           "is24_7": false,
           "closed": false,
-          "opening": "06:30",
-          "closing": "23:00",
+          "opening": "07:30",
+          "closing": "22:00",
           "note": null
         },
         {
           "day_TimePeriod": "Public Holiday",
           "is24_7": false,
           "closed": false,
-          "opening": "06:30",
-          "closing": "23:00",
+          "opening": "07:30",
+          "closing": "22:00",
           "note": null
         }
       ],
@@ -88676,7 +88673,7 @@
       "streetViewLocation": "https://www.google.com/maps/@?api=1&map_action=pano&pano=og9SRhxdw4APT0uIC-9tEA&viewpoint=-32.01641615254675,115.9351078039473&heading=239.56415161108487&pitch=-7.493541294258662",
       "rates": [],
       "fromText": "From",
-      "fromPrice": "3",
+      "fromPrice": "4",
       "location": {
         "longitude": 115.935228168184,
         "latitude": -32.0167962088833,
@@ -89395,11 +89392,7 @@
           "notes": "<p>Rates apply Monday - Sunday.</p>\n<p>*Online rate only available when purchasing through the Wilson Parking App. Online rates includes platform fee.</p>\n<p><a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Click here</a> to download the Wilson Parking App.</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 1.0 hr",
-              "price": 2.0
-            },
-            {
-              "timeSpan": "1.0 - 2.0 hrs",
+              "timeSpan": "0.0 - 2.0 hr",
               "price": 3.0
             },
             {
@@ -89410,7 +89403,7 @@
         }
       ],
       "fromText": "From",
-      "fromPrice": "2",
+      "fromPrice": "3",
       "location": {
         "longitude": 115.89712662103716,
         "latitude": -31.975686241538433,
@@ -104329,15 +104322,15 @@
             },
             {
               "timeSpan": "1.0 - 1.5 hrs",
-              "price": 9.0
+              "price": 10.0
             },
             {
               "timeSpan": "1.5 - 2.0 hrs",
-              "price": 12.0
+              "price": 13.0
             },
             {
               "timeSpan": "2.0 - 3.0 hrs",
-              "price": 15.0
+              "price": 16.0
             }
           ]
         }
@@ -105876,64 +105869,64 @@
           "day_TimePeriod": "Monday",
           "is24_7": false,
           "closed": false,
-          "opening": "05:45",
-          "closing": "17:00",
+          "opening": "06:30",
+          "closing": "18:00",
           "note": null
         },
         {
           "day_TimePeriod": "Tuesday",
           "is24_7": false,
           "closed": false,
-          "opening": "05:45",
-          "closing": "17:00",
+          "opening": "06:30",
+          "closing": "18:00",
           "note": null
         },
         {
           "day_TimePeriod": "Wednesday",
           "is24_7": false,
           "closed": false,
-          "opening": "05:45",
-          "closing": "17:00",
+          "opening": "06:30",
+          "closing": "18:00",
           "note": null
         },
         {
           "day_TimePeriod": "Thursday",
           "is24_7": false,
           "closed": false,
-          "opening": "05:45",
-          "closing": "17:00",
+          "opening": "06:30",
+          "closing": "18:00",
           "note": null
         },
         {
           "day_TimePeriod": "Friday",
           "is24_7": false,
           "closed": false,
-          "opening": "05:45",
-          "closing": "17:00",
+          "opening": "06:30",
+          "closing": "18:00",
           "note": null
         },
         {
           "day_TimePeriod": "Saturday",
           "is24_7": false,
           "closed": false,
-          "opening": "05:45",
-          "closing": "17:00",
+          "opening": "06:30",
+          "closing": "18:00",
           "note": null
         },
         {
           "day_TimePeriod": "Sunday",
           "is24_7": false,
           "closed": false,
-          "opening": "05:45",
-          "closing": "17:00",
+          "opening": "06:30",
+          "closing": "18:00",
           "note": null
         },
         {
           "day_TimePeriod": "Public Holiday",
           "is24_7": false,
           "closed": false,
-          "opening": "05:45",
-          "closing": "17:00",
+          "opening": "06:30",
+          "closing": "18:00",
           "note": null
         }
       ],
@@ -106320,7 +106313,7 @@
           "day_TimePeriod": "Saturday",
           "is24_7": false,
           "closed": false,
-          "opening": "06:00",
+          "opening": "08:00",
           "closing": "13:00",
           "note": null
         },
