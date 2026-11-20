@@ -4794,9 +4794,9 @@
       "carParkPhoto": "/siteassets/parking-location-images/nsw/syd021.jpg",
       "category": "",
       "costCenter": 1002021,
-      "direction": "Entry via 431 Kent or 204 Sussex Street",
+      "direction": "Entry via 431 Kent or 204 Sussex Street\nNotice: Car Park Power Shutdown\nSaturday 11th November 2026 - 6am to 1pm.\nCar park egress will remain available.",
       "heightRestriction": 2.0,
-      "information": "<p>Wilson Parking offer affordable &amp; secure parking at Citipark Car Park which is located at 431 Kent Street, Sydney. Located near the 1 Market St office building, close to the bustling&nbsp;Sydney CBD, and the busy Pitt St Mall shopping precinct, this undercover car park is open 24 hours, 7 days a week. With a second entrance off 204 Sussex St, providing easy access to King St Wharf, Darling Harbour, Crown Casino and many other popular restaurants and bars, this is a convenient car park for all that Sydney has to offer.</p>\n<p>Offering casual Hourly, Night and Weekend parking, with exclusive discounts when you prepay online, or the convenience of unlimited 24/7 access for regular user who subscribe to monthly parking, the Citipark Car Park will meet all of your parking needs.</p>",
+      "information": "<p><span class=\"ql-color-#ff1e25\" style=\"color: #ff1e25;\"><strong>Notice: Car Park Power Shutdown</strong><br /></span><span style=\"color: #ff1e25;\">Saturday 11th November 2026 - 6am to 1pm.<br />Car park egress will remain available.</span></p>\n<p>Wilson Parking offer affordable &amp; secure parking at Citipark Car Park which is located at 431 Kent Street, Sydney. Located near the 1 Market St office building, close to the bustling&nbsp;Sydney CBD, and the busy Pitt St Mall shopping precinct, this undercover car park is open 24 hours, 7 days a week. With a second entrance off 204 Sussex St, providing easy access to King St Wharf, Darling Harbour, Crown Casino and many other popular restaurants and bars, this is a convenient car park for all that Sydney has to offer.<br /><br />Offering casual Hourly, Night and Weekend parking, with exclusive discounts when you prepay online, or the convenience of unlimited 24/7 access for regular user who subscribe to monthly parking, the Citipark Car Park will meet all of your parking needs.</p>",
       "isWilsonOne": true,
       "spottIsAvailable": true,
       "legacyID": 61,
@@ -80187,23 +80187,23 @@
           "notes": "<p>Monday - Friday 6am - 8pm</p>",
           "rates": [
             {
-              "timeSpan": "0.0 - 1.0 Hours",
+              "timeSpan": "0.0 - 1.0 hr",
               "price": 5.0
             },
             {
-              "timeSpan": "1.0 - 2.0 Hours",
+              "timeSpan": "1.0 - 2.0 hrs",
               "price": 10.0
             },
             {
-              "timeSpan": "2.0 - 3.0 Hours",
+              "timeSpan": "2.0 - 3.0 hrs",
               "price": 15.0
             },
             {
-              "timeSpan": "3.0 - 4.0 Hours",
+              "timeSpan": "3.0 - 4.0 hrs",
               "price": 20.0
             },
             {
-              "timeSpan": "4.0 + Hours",
+              "timeSpan": "4.0 + hrs",
               "price": 25.0
             }
           ]
@@ -88798,7 +88798,7 @@
       "costCenter": 1006407,
       "direction": "Entry via Fletcher Street",
       "heightRestriction": 0.0,
-      "information": "<p>Wilson Parking offer affordable parking at the 1336 Albany Hwy Car Park, located at 1336 Albany Hwy, Cannington. Open 24/7, this open air car park is conveniently located close to Cannington's shopping precinct.&nbsp;Offering casual Hourly rates, only available when purchased through the Wilson Parking app, the 1336 Albany Hwy Car Park will meet all your Cannington parking needs.&nbsp;</p>\n<p>This is an Wilson Parking app payment only car park. Download the Wilson Parking app from the App Store or Google Play to easily pay for your parking direct from your phone, without the need for tickets.</p>",
+      "information": "<p>Wilson Parking offer affordable parking at the 1336 Albany Hwy Car Park, located at 1336 Albany Hwy, Cannington. Open 24/7, this open air car park is conveniently located close to Cannington's shopping precinct.&nbsp;Offering casual Hourly rates that can be purchased on site or through Wilson Parking app, the 1336 Albany Hwy Car Park will meet all your Cannington parking needs.&nbsp;</p>\n<p>Download the Wilson Parking app from the App Store or Google Play to easily pay for your parking direct from your phone, without the need for tickets.</p>",
       "isWilsonOne": false,
       "spottIsAvailable": false,
       "legacyID": 6407,
@@ -88812,7 +88812,30 @@
       "staticMapPhoto": null,
       "streetViewHeading": "115.9339268",
       "streetViewLocation": "https://www.google.com/maps/@-32.017052,115.9339268,3a,75y,120.89h,91.59t/data=!3m7!1e1!3m5!1seYt-7vvnxR1lV50VwxavEQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DeYt-7vvnxR1lV50VwxavEQ%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D299.91794%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192",
-      "rates": [],
+      "rates": [
+        {
+          "rateType": "Hourly",
+          "notes": "<p>Rates apply Monday - Sunday</p>",
+          "rates": [
+            {
+              "timeSpan": "0,0 - 2.0 hrs",
+              "price": 0.0
+            },
+            {
+              "timeSpan": "2.0 - 3.0 hrs",
+              "price": 2.0
+            },
+            {
+              "timeSpan": "3.0 - 4.0 hrs",
+              "price": 4.0
+            },
+            {
+              "timeSpan": "4.0 - 12.0 hrs",
+              "price": 6.0
+            }
+          ]
+        }
+      ],
       "fromText": "From",
       "fromPrice": "0",
       "location": {
@@ -92094,7 +92117,7 @@
       "carParkPhoto": "/contentassets/302fad1d448f4daeae3ef10b4b85bbf8/per247.jpg",
       "category": "",
       "costCenter": 1006247,
-      "direction": "Entry from Hay Street (Westbound) or Murray Street (Eastbound).",
+      "direction": "Entry from Hay Street (Westbound) or Murray Street (Eastbound).\n\n</br></br>There will be no access to the car park due to scheduled cleaning on Saturday, 21st Nov from 6PM onwards</br>",
       "heightRestriction": 2.2,
       "information": "<p>Wilson Parking offer affordable parking at Hibernian Place Car Park, located at 17 Murray St, Perth. With convenient entries at 17 Murray St and 480 Hay St, and open 7 days, this car park is located under The Westin Hotel, Perth's newest five-star hotel in the CBD and is central to Perth's Entertainment Centres and shopping outlets.</p>\n<p>Offering casual Hourly, Early Bird, Night and Weekend Parking and exclusive discounts when you prepay online or with the Wilson Parking App, the Hibernian Place Car Park will meet all your Perth Parking needs.&nbsp;</p>\n<p>Download the Wilson Parking App to plan your journey, and access exclusive discounts when you prepay ahead, or simply drive up and pay with your credit card, or avoid the queues and pay as you go with the Wilson Parking Card.</p>",
       "isWilsonOne": true,
