@@ -80169,7 +80169,7 @@
       "costCenter": 1009243,
       "direction": "Enter via Corio Street",
       "heightRestriction": 2.2,
-      "information": "<p>The 13-19 Malop St Car Park, offers convenient and reliable parking in Geelong. This undercover car park offers the convenience of unlimited 24/7 access when you subscribe to Monthly Parking, as well as exclusive parking rates when you use the Wilson Parking App to prepay online.</p>\n<p>Also offering drive up hourly and Early bird parking rates, the 13-19 Malop St Geelong Car Park will meet all of your parking needs.</p>\n<p>Download the Wilson Parking App to easily find your way to the car park, prepay for parking and take advantage of exclusive perks.&nbsp;</p>",
+      "information": "<p>The 13-19 Malop St Car Park, offers convenient and reliable parking in Geelong. This undercover car park offers the convenience of unlimited 24/7 access when you subscribe to Monthly Parking, as well as exclusive parking rates when you use the Wilson Parking App to prepay online.</p>\n<p>Also offering drive up hourly and Early bird parking rates, the 13-19 Malop St Geelong Car Park will meet all of your parking needs.</p>\n<p>Download the Wilson Parking App to easily find your way to the car park, prepay for parking and take advantage of exclusive perks.</p>",
       "isWilsonOne": false,
       "spottIsAvailable": false,
       "legacyID": 647,
@@ -80188,29 +80188,29 @@
           "rates": [
             {
               "timeSpan": "0.0 - 1.0 hr",
-              "price": 5.0
+              "price": 6.0
             },
             {
               "timeSpan": "1.0 - 2.0 hrs",
-              "price": 10.0
+              "price": 11.0
             },
             {
               "timeSpan": "2.0 - 3.0 hrs",
-              "price": 15.0
+              "price": 16.0
             },
             {
               "timeSpan": "3.0 - 4.0 hrs",
-              "price": 20.0
+              "price": 21.0
             },
             {
               "timeSpan": "4.0 + hrs",
-              "price": 25.0
+              "price": 26.0
             }
           ]
         }
       ],
       "fromText": "From",
-      "fromPrice": "5",
+      "fromPrice": "6",
       "location": {
         "longitude": 144.359514081647,
         "latitude": -38.1458379378892,
