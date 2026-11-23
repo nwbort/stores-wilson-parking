@@ -4794,9 +4794,9 @@
       "carParkPhoto": "/siteassets/parking-location-images/nsw/syd021.jpg",
       "category": "",
       "costCenter": 1002021,
-      "direction": "Entry via 431 Kent or 204 Sussex Street\nNotice: Car Park Power Shutdown\nSaturday 11th November 2026 - 6am to 1pm.\nCar park egress will remain available.",
+      "direction": "Entry via 431 Kent or 204 Sussex Street",
       "heightRestriction": 2.0,
-      "information": "<p><span class=\"ql-color-#ff1e25\" style=\"color: #ff1e25;\"><strong>Notice: Car Park Power Shutdown</strong><br /></span><span style=\"color: #ff1e25;\">Saturday 11th November 2026 - 6am to 1pm.<br />Car park egress will remain available.</span></p>\n<p>Wilson Parking offer affordable &amp; secure parking at Citipark Car Park which is located at 431 Kent Street, Sydney. Located near the 1 Market St office building, close to the bustling&nbsp;Sydney CBD, and the busy Pitt St Mall shopping precinct, this undercover car park is open 24 hours, 7 days a week. With a second entrance off 204 Sussex St, providing easy access to King St Wharf, Darling Harbour, Crown Casino and many other popular restaurants and bars, this is a convenient car park for all that Sydney has to offer.<br /><br />Offering casual Hourly, Night and Weekend parking, with exclusive discounts when you prepay online, or the convenience of unlimited 24/7 access for regular user who subscribe to monthly parking, the Citipark Car Park will meet all of your parking needs.</p>",
+      "information": "<p>Wilson Parking offer affordable &amp; secure parking at Citipark Car Park which is located at 431 Kent Street, Sydney. Located near the 1 Market St office building, close to the bustling&nbsp;Sydney CBD, and the busy Pitt St Mall shopping precinct, this undercover car park is open 24 hours, 7 days a week. With a second entrance off 204 Sussex St, providing easy access to King St Wharf, Darling Harbour, Crown Casino and many other popular restaurants and bars, this is a convenient car park for all that Sydney has to offer.<br /><br />Offering casual Hourly, Night and Weekend parking, with exclusive discounts when you prepay online, or the convenience of unlimited 24/7 access for regular user who subscribe to monthly parking, the Citipark Car Park will meet all of your parking needs.</p>",
       "isWilsonOne": true,
       "spottIsAvailable": true,
       "legacyID": 61,
@@ -43275,7 +43275,6 @@
       "canBookABay": false,
       "selectedFeatures": "",
       "carParkFeature": [
-        "Monthly Parking",
         "Night Parking",
         "Weekend Parking",
         "Early Bird Parking",
@@ -43284,7 +43283,6 @@
         "EV Charging"
       ],
       "services": [
-        "monthly",
         "disabled parking",
         "ev charging"
       ],
@@ -43295,11 +43293,11 @@
       "costCenter": 1012128,
       "direction": "Entry via Cooyong Street",
       "heightRestriction": 1.95,
-      "information": "<p>Wilson Parking offer affordable parking at Canberra Centre Car Park which is located at 148 Bunda Street, Canberra City. Open 7 days, this undercover car park provides convenient access to nearby Canberra businesses as well as popular restaurants and hotels. Offering casual Hourly, Early Bird, and Monthly parking, the Canberra Centre Car Park will meet all of your parking needs.</p>\n<p class=\"elementtoproof\" style=\"background: white;\">&nbsp;</p>\n<p>&nbsp;</p>",
+      "information": "<p>Wilson Parking offer affordable parking at Canberra Centre Car Park which is located at 148 Bunda Street, Canberra City. Open 7 days, this undercover car park provides convenient access to nearby Canberra businesses as well as popular restaurants and hotels. Offering casual Hourly, Early Bird, and Monthly parking, the Canberra Centre Car Park will meet all of your parking needs.</p>\n<p>Enjoy unlimited 24/7 access when you subscribe to Monthly Subscription parking. Click <a title=\"Monthly Parking\" href=\"https://app.parking.canberracentre.com.au/Lease\">HERE</a>&nbsp;to sign up.&nbsp;</p>\n<p class=\"elementtoproof\" style=\"background: white;\">&nbsp;</p>\n<p>&nbsp;</p>",
       "isWilsonOne": false,
       "spottIsAvailable": false,
       "legacyID": 1128,
-      "monthlyParkingServiceIsAvailable": true,
+      "monthlyParkingServiceIsAvailable": false,
       "evChargerIsAvailable": true,
       "disabledParkingIsAvailable": true,
       "phoneNumber": "1800 PARKING (1800 727 546)",
@@ -43496,7 +43494,7 @@
         "canBookABay": false,
         "bookABayIconLabel": "Prepay Online",
         "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": true,
+        "monthlyParkingServiceIsAvailable": false,
         "monthlyParkingIconLabel": "Monthly Subscription",
         "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
         "isWilsonOne": false,
@@ -72622,7 +72620,7 @@
       "costCenter": 1004356,
       "direction": "Entry off Little Cribb Street",
       "heightRestriction": 2.2,
-      "information": "<p><span style=\"color: #ff1e25;\">Event Parking is available at this car park on the following dates: 20 November, 5 December.<br /></span></p>\n<p>Wilson Parking offers affordable &amp; secure parking at Milton Green&nbsp;car park, located at 19 Little Cribb Street&nbsp;in the heart of Milton. Open 7 days, this undercover car park provides convenient access to nearby Suncorp Stadium and surrounding entertainment and retail precinct. Offering hourly, night and weekend parking options with discounts when you prepay online, permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the Milton Green&nbsp;car park will meet all your business and leisure parking needs.</p>",
+      "information": "<p><span style=\"color: #ff1e25;\">Event Parking is available at this car park on the following dates: 5 December.<br /></span></p>\n<p>Wilson Parking offers affordable &amp; secure parking at Milton Green&nbsp;car park, located at 19 Little Cribb Street&nbsp;in the heart of Milton. Open 7 days, this undercover car park provides convenient access to nearby Suncorp Stadium and surrounding entertainment and retail precinct. Offering hourly, night and weekend parking options with discounts when you prepay online, permanent monthly parking for regular parkers and the convenience of payment from your phone with the Wilson Parking App, the Milton Green&nbsp;car park will meet all your business and leisure parking needs.</p>",
       "isWilsonOne": true,
       "spottIsAvailable": true,
       "legacyID": 1004356,
@@ -91685,6 +91683,169 @@
       "featuredIndex": 0
     },
     {
+      "name": "2nd Avenue Plaza",
+      "bookText": null,
+      "canBookABay": false,
+      "selectedFeatures": "",
+      "carParkFeature": [
+        "Weekend Parking",
+        "Epark"
+      ],
+      "services": [],
+      "carParkName": "2nd Avenue Plaza",
+      "carParkNumber": 6551,
+      "carParkPhoto": null,
+      "category": "",
+      "costCenter": 1006551,
+      "direction": "Entry via 15 Wenberi Lane",
+      "heightRestriction": 2.0,
+      "information": "<p>Wilson Parking offers affordable parking at 2nd Avenue Plaza Car Park, located at 775 Beaufort Street, Mt Lawley. Open 24 hours for 7 days a week, this car park&nbsp; is located Mt Lawley IGA, providing options for shopping and restaurant parking. Offering casual hourly parking, and the convenience of payment with the Wilson Parking App, the 2nd Avenue Plaza Car Park will meet all of your parking needs.</p>\n<p>Download the Wilson Parking App to easily pay for your parking from your phone.</p>",
+      "isWilsonOne": false,
+      "spottIsAvailable": false,
+      "legacyID": 6551,
+      "monthlyParkingServiceIsAvailable": false,
+      "evChargerIsAvailable": false,
+      "disabledParkingIsAvailable": false,
+      "phoneNumber": "1800 PARKING (1800 727 546)",
+      "products": [],
+      "staticMapPhoto": null,
+      "streetViewHeading": null,
+      "streetViewLocation": "https://www.google.com/maps/@?api=1&map_action=pano&pano=vARx7BiBte1OMxdwkZnrYQ&viewpoint=-31.927131076903482,115.87804074602218&heading=165.4819111478299&pitch=5.673614545538058&zoom=0.9999999999999997",
+      "rates": [
+        {
+          "rateType": "Hourly",
+          "notes": "<p>Rates apply Monday - Sunday.</p>\n<p>First 60 mins free, no ticket required.</p>",
+          "rates": [
+            {
+              "timeSpan": "0.0 - 1.0 hrs",
+              "price": 0.0
+            },
+            {
+              "timeSpan": "1.0 - 2.0 hrs",
+              "price": 3.0
+            },
+            {
+              "timeSpan": "2.0 - 3.0 hrs",
+              "price": 6.0
+            },
+            {
+              "timeSpan": "3.0 hrs +",
+              "price": 12.0
+            }
+          ]
+        }
+      ],
+      "fromText": "From",
+      "fromPrice": "0",
+      "location": {
+        "longitude": 115.878073683145,
+        "latitude": -31.9271570669824,
+        "zoom": 13,
+        "address": "775 Beaufort Street, Mt Lawley",
+        "region": null
+      },
+      "openingTimes": [
+        {
+          "day_TimePeriod": "Monthly",
+          "is24_7": false,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Monday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Tuesday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Wednesday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Thursday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Friday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Saturday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        },
+        {
+          "day_TimePeriod": "Sunday",
+          "is24_7": false,
+          "closed": false,
+          "opening": "",
+          "closing": "",
+          "note": null
+        }
+      ],
+      "url": "/parking-locations/western-australia/mt-lawley/2nd-avenue-plaza/",
+      "serviceConfiguration": {
+        "canBookABay": false,
+        "bookABayIconLabel": "Prepay Online",
+        "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
+        "monthlyParkingServiceIsAvailable": false,
+        "monthlyParkingIconLabel": "Monthly Subscription",
+        "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
+        "isWilsonOne": false,
+        "wilsonOneIconLabel": "Parking Card",
+        "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
+        "disabledParkingIsAvailable": false,
+        "disabledParkingIconLabel": "Disabled Parking",
+        "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
+        "evChargerIsAvailable": false,
+        "evChargerIconLabel": "EV Charging",
+        "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
+        "spottIsAvailable": false,
+        "spottIconLabel": "Spott",
+        "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
+        "additionalServices": [
+          {
+            "label": null,
+            "icon": null
+          }
+        ]
+      },
+      "state": null,
+      "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
+      "price": "",
+      "status": "",
+      "cpmsCarparkCode": null,
+      "externalCarParkInfo": null,
+      "featuredIndex": 0
+    },
+    {
       "name": "391-393 Hay St Car Park",
       "bookText": null,
       "canBookABay": false,
@@ -92117,7 +92278,7 @@
       "carParkPhoto": "/contentassets/302fad1d448f4daeae3ef10b4b85bbf8/per247.jpg",
       "category": "",
       "costCenter": 1006247,
-      "direction": "Entry from Hay Street (Westbound) or Murray Street (Eastbound).\n\n</br></br>There will be no access to the car park due to scheduled cleaning on Saturday, 21st Nov from 6PM onwards</br>",
+      "direction": "Entry from Hay Street (Westbound) or Murray Street (Eastbound).\n\n</br></br>Due to scheduled cleaning there will be no access to Level P1 on Saturday, 29th Nov from 6PM onwards</br>",
       "heightRestriction": 2.2,
       "information": "<p>Wilson Parking offer affordable parking at Hibernian Place Car Park, located at 17 Murray St, Perth. With convenient entries at 17 Murray St and 480 Hay St, and open 7 days, this car park is located under The Westin Hotel, Perth's newest five-star hotel in the CBD and is central to Perth's Entertainment Centres and shopping outlets.</p>\n<p>Offering casual Hourly, Early Bird, Night and Weekend Parking and exclusive discounts when you prepay online or with the Wilson Parking App, the Hibernian Place Car Park will meet all your Perth Parking needs.&nbsp;</p>\n<p>Download the Wilson Parking App to plan your journey, and access exclusive discounts when you prepay ahead, or simply drive up and pay with your credit card, or avoid the queues and pay as you go with the Wilson Parking Card.</p>",
       "isWilsonOne": true,
