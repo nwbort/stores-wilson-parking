@@ -5079,6 +5079,16 @@
               "price": 32.0
             }
           ]
+        },
+        {
+          "rateType": "Prepay Online",
+          "notes": "<p>Use vehicle recognition or a QR code to access this car park using&nbsp;<a href=\"/link/439628c57b8b4a3aae8b4d4e9c0d0f31.aspx\">Spott</a>&nbsp;in the Wilson Parking App.</p>\n<p>Download the&nbsp;<a href=\"/link/b11572aac6f5449bbe92ce0815b91273.aspx\">Wilson Parking App</a>&nbsp;and get spotted today.</p>\n<p>Pay in advance to access the best possible rates.&nbsp;</p>\n<p><strong>Flexi Saver &amp; Weekend Rates&nbsp;vary based on the demand for the times and dates you have selected.</strong>&nbsp;The flexi saver price quoted to you will reflect the price applicable to the dates and times you have selected at the time of your request.</p>\n<p>Discount parking available online<br />Select the&nbsp;<strong>Prepay Now</strong>&nbsp;link below to get started.<br />Rates shown include platform fee.</p>\n<p><em>Please note that prepaying online does not provide a reserved or guaranteed space at the car park. In the unlikely event a space is not available at the car park, use the intercom to notify our team and we will make every endeavour to find a suitable alternative location and refund your online parking transaction.</em></p>",
+          "rates": [
+            {
+              "timeSpan": "Carols in the Domain",
+              "price": 40.0
+            }
+          ]
         }
       ],
       "fromText": "From",
@@ -27294,7 +27304,7 @@
       "monthlyParkingServiceIsAvailable": true,
       "evChargerIsAvailable": false,
       "disabledParkingIsAvailable": true,
-      "phoneNumber": "1800 PARKING",
+      "phoneNumber": "1800 PARKING (1800 727 546)",
       "products": [],
       "staticMapPhoto": null,
       "streetViewHeading": "258.29959272093447",
@@ -27306,7 +27316,7 @@
           "rates": [
             {
               "timeSpan": "Mon - Fri",
-              "price": 17.0
+              "price": 19.0
             }
           ]
         },
@@ -95126,7 +95136,7 @@
               "price": 48.0
             },
             {
-              "timeSpan": "7.0 - 8.0 hrs",
+              "timeSpan": "7.0 hrs +",
               "price": 50.0
             }
           ]
@@ -101026,14 +101036,6 @@
           "is24_7": false,
           "closed": false,
           "opening": "10:30",
-          "closing": "18:00",
-          "note": null
-        },
-        {
-          "day_TimePeriod": "Public Holiday",
-          "is24_7": false,
-          "closed": false,
-          "opening": "12:00",
           "closing": "18:00",
           "note": null
         }
