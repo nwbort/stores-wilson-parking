@@ -5711,7 +5711,7 @@
         "Overnight Parking",
         "Flexi Parking",
         "Daily Pass Bundles",
-        "Elevate",
+        "Festive",
         "LPR",
         "Spott Saver",
         "Spott"
@@ -12196,7 +12196,7 @@
       "category": "",
       "costCenter": 1002399,
       "direction": "Entry via 12 Baptist St, Redfern",
-      "heightRestriction": 2.2,
+      "heightRestriction": 2.1,
       "information": "<p>Wilson Parking offer affordable &amp; secure parking at Wunderlich Lane Car Park, located at 12 Baptist Street, Redfern in the heart of the Surry Hills Village region. Open 7 days, this undercover car park provides convenient access to nearby retail, restaurants, grocery shopping options and residential towers. Offering Hourly, Weekend and Night parking, and the convenience of payment from your phone, the Wunderlich Lane Car Park will meet all your business and leisure parking needs.&nbsp;</p>",
       "isWilsonOne": false,
       "spottIsAvailable": false,
@@ -13860,7 +13860,7 @@
       "category": "",
       "costCenter": 1002175,
       "direction": "Entry via Little Walker Street",
-      "heightRestriction": 2.0,
+      "heightRestriction": 1.95,
       "information": "<p>Wilson Parking offer affordable &amp; secure parking at 99 Walker St Car Park which is located at Little Walker St in the heart of North Sydney precinct.</p>\n<p>With All Day and Weekend parking options available via Prepay Online,&nbsp;drive up, or use your Wilson Parking Card and pay as you go, the 99 Walker St Car Park suits all your leisure and business parking needs.</p>\n<p>Download the Wilson Parking App to plan your journey and access parking discounts when you prepay online; enjoy unlimited 24/7 access when you subscribe to monthly parking; pay as you go on one convenient monthly invoice when you use your Wilson Parking Card to access the car park.</p>",
       "isWilsonOne": true,
       "spottIsAvailable": true,
@@ -39692,95 +39692,6 @@
       },
       "state": "NSW",
       "imgUrl": "/contentassets/369110ecc1d04ce8a27097ac8281d460/lingard-private-hospital.png",
-      "price": "",
-      "status": "",
-      "cpmsCarparkCode": null,
-      "externalCarParkInfo": null,
-      "featuredIndex": 0
-    },
-    {
-      "name": "The Store Newcastle Car Park",
-      "bookText": null,
-      "canBookABay": false,
-      "selectedFeatures": "",
-      "carParkFeature": [],
-      "services": [],
-      "carParkName": "The Store Newcastle Car Park",
-      "carParkNumber": 2347,
-      "carParkPhoto": null,
-      "category": "",
-      "costCenter": 1002347,
-      "direction": null,
-      "heightRestriction": 2.1,
-      "information": "<p>Wilson Parking offers affordable and secure parking at The Store Newcastle Car Park, located at 854 Hunter St, in the heart of Newcastle CBD, Honeysuckle, and the Newcastle restaurant precincts. This car park is exclusively for building tenants, and only tenants can apply for parking at the site.</p>\n<p>Are you a building tenant needing parking onsite? With monthly parking options available, contact our team for a quote now.</p>",
-      "isWilsonOne": false,
-      "spottIsAvailable": false,
-      "legacyID": 753,
-      "monthlyParkingServiceIsAvailable": false,
-      "evChargerIsAvailable": false,
-      "disabledParkingIsAvailable": false,
-      "phoneNumber": "1800 PARKING (1800 727 546)",
-      "products": [],
-      "staticMapPhoto": null,
-      "streetViewHeading": "349.5287061485385",
-      "streetViewLocation": "https://www.google.com/maps/@?api=1&map_action=pano&pano=RqG6SXe8Gs64K7RJTPO-nA&viewpoint=-32.92486597222725,151.7582140544724&heading=349.5287061485385&pitch=-9.465739354395481",
-      "rates": [],
-      "fromText": "",
-      "fromPrice": "",
-      "location": {
-        "longitude": 151.7582927116394,
-        "latitude": -32.924635066492172,
-        "zoom": 13,
-        "address": "854 Hunter Street, Newcastle",
-        "region": {
-          "name": "Newcastle",
-          "longitude": 151.77183151245117,
-          "latitude": -32.918358672575174,
-          "status": "",
-          "state": {
-            "name": "New South Wales",
-            "abbreviation": "NSW",
-            "country": "Australia",
-            "longitude": 151.207430362701,
-            "latitude": -33.8662642500823,
-            "status": ""
-          }
-        }
-      },
-      "openingTimes": [
-        {
-          "day_TimePeriod": "Monthly",
-          "is24_7": true,
-          "closed": false,
-          "opening": "",
-          "closing": "",
-          "note": null
-        }
-      ],
-      "url": "/parking-locations/new-south-wales/newcastle/the-store-newcastle-car-park/",
-      "serviceConfiguration": {
-        "canBookABay": false,
-        "bookABayIconLabel": "Prepay Online",
-        "bookABayIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_online_booking.svg",
-        "monthlyParkingServiceIsAvailable": false,
-        "monthlyParkingIconLabel": "Monthly Subscription",
-        "monthlyParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_subscriptions.svg",
-        "isWilsonOne": false,
-        "wilsonOneIconLabel": "Parking Card",
-        "wilsonOneIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_wilson_card.svg",
-        "disabledParkingIsAvailable": false,
-        "disabledParkingIconLabel": "Disabled Parking",
-        "disabledParkingIcon": "/siteassets/parking-stock-images/icons/wp_rgb_black_disabled_parking.svg",
-        "evChargerIsAvailable": false,
-        "evChargerIconLabel": "EV Charging",
-        "evChargerIcon": "/siteassets/parking-stock-images/icons/web-elec_vehicle_charge2x.png",
-        "spottIsAvailable": false,
-        "spottIconLabel": "Spott",
-        "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
-        "additionalServices": []
-      },
-      "state": "NSW",
-      "imgUrl": "/siteassets/parking-stock-images/driving-couple-2000x1310px.jpg",
       "price": "",
       "status": "",
       "cpmsCarparkCode": null,
@@ -83551,7 +83462,7 @@
       "costCenter": 1005009,
       "direction": null,
       "heightRestriction": 2.0,
-      "information": "<p><span style=\"color: #ff1e25;\"><strong>Important Update:</strong> 251 North Terrace Car Park will be closed from 5am until 1pm on Saturday 14 November for the National Pharmacies Christmas Pageant.</span></p>\n<p>Wilson Parking offer affordable &amp; reliable parking at 251 North Terrace Car Park, located at 251 North Terrace, Adelaide. The Car Park is located near The University of Adelaide, The Art Gallery of SA and the shopping precinct&nbsp;of Rundle Mall. Offering Hourly, Online Early Bird and Weekend parking options, the 251 North Terrace Car Park will meet all of your parking needs.</p>\n<p>Download the Wilson Parking app to easily pay for your parking from your phone.</p>",
+      "information": "<p>Wilson Parking offer affordable &amp; reliable parking at 251 North Terrace Car Park, located at 251 North Terrace, Adelaide. The Car Park is located near The University of Adelaide, The Art Gallery of SA and the shopping precinct&nbsp;of Rundle Mall. Offering Hourly, Online Early Bird and Weekend parking options, the 251 North Terrace Car Park will meet all of your parking needs.</p>\n<p>Download the Wilson Parking app to easily pay for your parking from your phone.</p>",
       "isWilsonOne": false,
       "spottIsAvailable": false,
       "legacyID": 19,
@@ -84448,7 +84359,7 @@
       "costCenter": 1005039,
       "direction": "Enter via North Terrace opposite the Art Gallery of SA",
       "heightRestriction": 2.05,
-      "information": "<p><span style=\"color: #ff1e25;\"><strong>Important Update:</strong> Adelaide Central Car Park will be closed from 5am until 1pm on Saturday 14 November for the National Pharmacies Christmas Pageant.</span></p>\n<p>Wilson Parking offer affordable &amp; reliable parking at Adelaide Central Car Park, located at 225 North Terrace, Adelaide. The Car Park is located near The University of Adelaide, The Art Gallery of SA, Rundle Mall and just a short walk to Adelaide Oval. Offering Flexi Saver, Weekend and discount online parking options, the Adelaide Central Car Park will meet all of your parking needs.</p>\n<p>Experience the convenience of&nbsp;pay as you go with a Wilson Parking card, or enjoy 24/7 unlimited access when you subscribe to Monthly Parking.</p>",
+      "information": "<p>Wilson Parking offer affordable &amp; reliable parking at Adelaide Central Car Park, located at 225 North Terrace, Adelaide. The Car Park is located near The University of Adelaide, The Art Gallery of SA, Rundle Mall and just a short walk to Adelaide Oval. Offering Flexi Saver, Weekend and discount online parking options, the Adelaide Central Car Park will meet all of your parking needs.</p>\n<p>Experience the convenience of&nbsp;pay as you go with a Wilson Parking card, or enjoy 24/7 unlimited access when you subscribe to Monthly Parking.</p>",
       "isWilsonOne": true,
       "spottIsAvailable": true,
       "legacyID": 165,
@@ -86388,8 +86299,7 @@
         "Weekend Parking",
         "Book a Bay",
         "Wilson One",
-        "Overnight Parking",
-        "Epark"
+        "Overnight Parking"
       ],
       "services": [
         "book a bay",
@@ -86452,20 +86362,10 @@
               "price": 40.0
             }
           ]
-        },
-        {
-          "rateType": "Pay by App",
-          "notes": "<p>Available for Motorbikes only.</p>\n<p>(Flat rate &ndash; 12hrs max)</p>",
-          "rates": [
-            {
-              "timeSpan": "All day",
-              "price": 6.5
-            }
-          ]
         }
       ],
       "fromText": "From",
-      "fromPrice": "6.5",
+      "fromPrice": "10",
       "location": {
         "longitude": 138.59589352328453,
         "latitude": -34.9138774560136,
@@ -86572,12 +86472,7 @@
         "spottIsAvailable": false,
         "spottIconLabel": "Spott",
         "spottIcon": "/siteassets/parking-stock-images/icons/spott_pin_drop_green_150px.png",
-        "additionalServices": [
-          {
-            "label": null,
-            "icon": null
-          }
-        ]
+        "additionalServices": []
       },
       "state": "SA",
       "imgUrl": "/siteassets/parking-location-images/sa/ade065-resized.jpg",
@@ -91745,7 +91640,7 @@
       "costCenter": 1006551,
       "direction": "Entry via 15 Wenberi Lane",
       "heightRestriction": 2.0,
-      "information": "<p>Wilson Parking offers affordable parking at 2nd Avenue Plaza Car Park, located at 775 Beaufort Street, Mt Lawley. Open 24 hours for 7 days a week, this car park&nbsp; is located Mt Lawley IGA, providing options for shopping and restaurant parking. Offering casual hourly parking, and the convenience of payment with the Wilson Parking App, the 2nd Avenue Plaza Car Park will meet all of your parking needs.</p>\n<p>Download the Wilson Parking App to easily pay for your parking from your phone.</p>",
+      "information": "<p>Wilson Parking offers affordable parking at 2nd Avenue Plaza Car Park, located at 775 Beaufort Street, Mt Lawley. Open from 5am till 10pm for 7 days a week, this car park&nbsp; is located Mt Lawley IGA, providing options for shopping and restaurant parking. Offering casual hourly parking, and the convenience of payment with the Wilson Parking App, the 2nd Avenue Plaza Car Park will meet all of your parking needs.</p>\n<p>Download the Wilson Parking App to easily pay for your parking from your phone.</p>",
       "isWilsonOne": false,
       "spottIsAvailable": false,
       "legacyID": 6551,
@@ -91795,64 +91690,64 @@
           "day_TimePeriod": "Monthly",
           "is24_7": false,
           "closed": false,
-          "opening": "",
-          "closing": "",
+          "opening": "05:00",
+          "closing": "22:00",
           "note": null
         },
         {
           "day_TimePeriod": "Monday",
           "is24_7": false,
           "closed": false,
-          "opening": "",
-          "closing": "",
+          "opening": "05:00",
+          "closing": "22:00",
           "note": null
         },
         {
           "day_TimePeriod": "Tuesday",
           "is24_7": false,
           "closed": false,
-          "opening": "",
-          "closing": "",
+          "opening": "05:00",
+          "closing": "22:00",
           "note": null
         },
         {
           "day_TimePeriod": "Wednesday",
           "is24_7": false,
           "closed": false,
-          "opening": "",
-          "closing": "",
+          "opening": "05:00",
+          "closing": "22:00",
           "note": null
         },
         {
           "day_TimePeriod": "Thursday",
           "is24_7": false,
           "closed": false,
-          "opening": "",
-          "closing": "",
+          "opening": "05:00",
+          "closing": "22:00",
           "note": null
         },
         {
           "day_TimePeriod": "Friday",
           "is24_7": false,
           "closed": false,
-          "opening": "",
-          "closing": "",
+          "opening": "05:00",
+          "closing": "22:00",
           "note": null
         },
         {
           "day_TimePeriod": "Saturday",
           "is24_7": false,
           "closed": false,
-          "opening": "",
-          "closing": "",
+          "opening": "05:00",
+          "closing": "22:00",
           "note": null
         },
         {
           "day_TimePeriod": "Sunday",
           "is24_7": false,
           "closed": false,
-          "opening": "",
-          "closing": "",
+          "opening": "05:00",
+          "closing": "22:00",
           "note": null
         }
       ],
